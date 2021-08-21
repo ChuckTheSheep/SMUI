@@ -1,0 +1,17 @@
+module Base
+{
+    item Hat_PatrolCapPoliceReversed
+    {
+        Type = Clothing,
+        DisplayName = Police Patrol Cap (Reversed),
+        ClothingItem = Hat_PatrolCapPoliceReversed,
+        BodyLocation = Hat,
+        Icon = HatBonnieCamo,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_PatrolCapPolice,
+        ClothingItemExtraOption = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.5,
+    }
+}

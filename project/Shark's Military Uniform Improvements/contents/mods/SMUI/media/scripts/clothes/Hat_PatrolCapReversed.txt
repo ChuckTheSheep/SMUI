@@ -1,0 +1,17 @@
+module Base
+{
+    item Hat_PatrolCapReversed
+    {
+        Type = Clothing,
+        DisplayName = Green Camo Patrol Cap (Reversed),
+        ClothingItem = Hat_PatrolCapReversed,
+        BodyLocation = Hat,
+        Icon = HatBonnieCamo,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_PatrolCap,
+        ClothingItemExtraOption = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.5,
+    }
+}

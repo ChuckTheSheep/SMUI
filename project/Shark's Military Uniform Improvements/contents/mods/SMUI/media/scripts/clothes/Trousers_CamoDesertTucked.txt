@@ -1,0 +1,43 @@
+ module Base
+    {
+        item Trousers_CamoDesert
+    
+    {
+
+        Type = Clothing,
+        DisplayName = Military Desert Camo Pants,
+        ClothingItem = Trousers_CamoDesert,
+        BodyLocation = Pants,
+        Icon = TrousersCamoSand,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.45,
+        ClothingItemExtra = Trousers_CamoDesertTucked,
+        ClothingItemExtraOption = TuckIn,
+        WindResistance = 0.3,
+        WaterResistance = 0.45,
+        FabricType = Cotton,
+        
+    }
+
+        item Trousers_CamoDesertTucked
+    {
+        Type = Clothing,
+        DisplayName = Military Desert Camo Pants (Tucked),
+        ClothingItem = Trousers_CamoDesertTucked,
+        BodyLocation = Pants,
+        Icon = TrousersCamoSand,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.45,
+        ClothingItemExtra = Trousers_CamoDesert,
+        ClothingItemExtraOption = TuckOut,
+        WindResistance = 0.3,
+        WaterResistance = 0.45,
+        FabricType = Cotton,
+    }
+}
+    
+   

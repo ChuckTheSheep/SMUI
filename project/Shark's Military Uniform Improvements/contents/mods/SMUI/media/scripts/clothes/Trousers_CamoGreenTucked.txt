@@ -1,0 +1,43 @@
+ module Base
+    {
+        item Trousers_CamoGreen
+    
+    {
+
+        Type = Clothing,
+        DisplayName = Military Green Camo Pants,
+        ClothingItem = Trousers_CamoGreen,
+        BodyLocation = Pants,
+        Icon = TrousersCamoGreen,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.45,
+        ClothingItemExtra = Trousers_CamoGreenTucked,
+        ClothingItemExtraOption = TuckIn,
+        WindResistance = 0.3,
+        WaterResistance = 0.45,
+        FabricType = Cotton,
+        
+    }
+
+        item Trousers_CamoGreenTucked
+    {
+        Type = Clothing,
+        DisplayName = Military Green Camo Pants (Tucked),
+        ClothingItem = Trousers_CamoGreenTucked,
+        BodyLocation = Pants,
+        Icon = TrousersCamoGreen,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.45,
+        ClothingItemExtra = Trousers_CamoGreen,
+        ClothingItemExtraOption = TuckOut,
+        WindResistance = 0.3,
+        WaterResistance = 0.45,
+        FabricType = Cotton,
+    }
+}
+    
+   

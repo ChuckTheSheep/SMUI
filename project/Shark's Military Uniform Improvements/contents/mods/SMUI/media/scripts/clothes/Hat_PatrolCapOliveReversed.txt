@@ -1,0 +1,17 @@
+module Base
+{
+    item Hat_PatrolCapOliveReversed
+    {
+        Type = Clothing,
+        DisplayName = Olive Drab Patrol Cap (Reversed),
+        ClothingItem = Hat_PatrolCapOliveReversed,
+        BodyLocation = Hat,
+        Icon = HatBonnieCamo,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_PatrolCapOlive,
+        ClothingItemExtraOption = ReverseCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.5,
+    }
+}

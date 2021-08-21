@@ -1,0 +1,17 @@
+module Base
+{
+    item Hat_PatrolCapOlive
+    {
+        Type = Clothing,
+        DisplayName = Olive Drab Patrol Cap,
+        ClothingItem = Hat_PatrolCapOlive,
+        BodyLocation = Hat,
+        Icon = HatBonnieCamo,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_PatrolCapOliveReversed,
+        ClothingItemExtraOption = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.5,
+    }
+}

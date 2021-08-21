@@ -1,0 +1,15 @@
+module Base
+{
+    item Hat_CavalryHat
+    {
+        Type = Clothing,
+        DisplayName = Cavalry Hat,
+        ClothingItem = Hat_Cavalryhat,
+        BodyLocation = Hat,
+        Icon = CavalryHat,
+        CanHaveHoles = false,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.5,
+    }
+}

@@ -1,0 +1,51 @@
+  module Base
+  {
+
+        item Jacket_PoliceBlue
+        
+    {
+
+        Type = Clothing,
+        DisplayName = Police Fatigue Jacket,
+        ClothingItem = Jacket_PoliceBlue,
+        BodyLocation = Jacket,
+        Icon = ShirtCamoGreen,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.89,
+        CombatSpeedModifier = 0.96,
+        ClothingItemExtra = Jacket_PoliceBlueRolled,
+        ClothingItemExtraOption = RollUp,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.9,
+        WindResistance = 0.95,
+        WaterResistance = 0.60,
+        Weight = 1,
+        
+    }
+
+        item Jacket_PoliceBlueRolled
+
+    {
+
+        Type = Clothing,
+        DisplayName = Police Fatigues Jacket (Rolled),
+        ClothingItem = Jacket_PoliceBlueRolled
+        BodyLocation = Jacket,
+        Icon = TShirtCamoGreen,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItemExtra = Jacket_PoliceBlue,
+        ClothingItemExtraOption = RollDown,
+        BiteDefense = 30,
+        ScratchDefense = 50,
+        Insulation = 0.45,
+        WindResistance = 0.3,
+        FabricType = Cotton,
+        WaterResistance = 0.45,
+        Weight = 1,
+
+    }
+
+  }
