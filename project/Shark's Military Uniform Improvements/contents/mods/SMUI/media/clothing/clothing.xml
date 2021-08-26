@@ -117,10 +117,6 @@
 		<probability>0.6</probability>
 			<itemGUID>9709be80-dbd9-4f98-90a6-aaab8e87cd28</itemGUID>
 		</m_items>
-			<m_items> <!-- Camo Face Paint-->
-		<probability>0.9</probability>
-			<itemGUID>cc6fe5f4-0752-451a-bd36-204454438b9b</itemGUID>
-		</m_items>
 		<m_items> <!-- Long Socks -->
 			<itemGUID>fb86bd5f-1931-4b24-a5d7-bd6a43769991</itemGUID>
 		</m_items>	
