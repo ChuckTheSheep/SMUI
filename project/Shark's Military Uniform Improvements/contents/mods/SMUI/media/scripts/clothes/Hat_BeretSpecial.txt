@@ -6,7 +6,7 @@ module Base
         DisplayName = Red Military Beret,
         ClothingItem = Hat_BeretSpecial,
         BodyLocation = Hat,
-        Icon = HatBonnieCamo,
+        Icon = BeretSpecial,
         CanHaveHoles = false,
         ChanceToFall = 80,
         Insulation = 0.10,
