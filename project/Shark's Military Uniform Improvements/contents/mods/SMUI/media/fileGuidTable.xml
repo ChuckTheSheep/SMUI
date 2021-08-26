@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <fileGuidTable>
-	
-	<files>
-	<path>media/clothing/clothingItems/MPBrassard.xml</path>
-	<guid>16fb8ec5-03c8-4708-bcc9-8678265545e8</guid>
-	</files>
+
+	<!-- SMUI Clothing -->
 	
 	<files>
 	<path>media/clothing/clothingItems/Hat_PatrolCap.xml</path>
@@ -27,28 +24,13 @@
 	</files>
 
 	<files>
-	<path>media/clothing/clothingItems/Hat_PatrolCapPolice.xml</path>
-	<guid>af75cfba-0e98-4066-9744-170986315485</guid>
-	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/Hat_PatrolCapPoliceReversed.xml</path>
-	<guid>a2d4d47b-aee6-428b-8f84-33ac0a818778</guid>
-	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/Hat_PatrolCapOlive.xml</path>
-	<guid>806ca676-9e2a-45b3-a15f-c07eccbdf040</guid>
-	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/Hat_PatrolCapOliveReversed.xml</path>
-	<guid>f51caa53-4964-4efb-8d6e-f7cb80315c36</guid>
-	</files>
-
-	<files>
 	<path>media/clothing/clothingItems/Hat_CavalryHat.xml</path>
 	<guid>eefea72b-daa3-453e-8cf9-d78d3485af22</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_BeretSpecial.xml</path>
+	<guid>408d4d09-81ae-4bf8-9b77-1f4bfccbb1c9</guid>
 	</files>
 
 	<files>
@@ -82,13 +64,13 @@
 	</files>
 
 	<files>
-	<path>media/clothing/clothingItems/Jacket_ArmyCamoDesertCutOff.xml</path>
-	<guid>61eea928-b2b0-4e9e-b52c-7745621d3851</guid>
+		<path>media/clothing/clothingItems/Jacket_ArmyCamoUrban.xml</path>
+		<guid>a0587048-9161-4e84-9d38-e59a9ffce4e0</guid>
 	</files>
 
 	<files>
-	<path>media/clothing/clothingItems/Jacket_ArmyCamoGreenCutOff.xml</path>
-	<guid>a6d94b83-c328-4075-abe3-23c4924de011</guid>
+		<path>media/clothing/clothingItems/Jacket_ArmyCamoUrbanRolled.xml</path>
+		<guid>7496991e-2e75-46cd-86d9-92d2d90175f8</guid>
 	</files>
 
 	<files>
@@ -100,26 +82,19 @@
 	<path>media/clothing/clothingItems/Trousers_CamoDesertTucked.xml</path>
 	<guid>afd79fed-34e7-4e5a-9dec-b8bc54424aea</guid>
 	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/Trousers_PoliceBlue.xml</path>
-	<guid>7030a33b-e831-477b-bda6-c2b028d42db6</guid>
+	
+    <files>
+	<path>media/clothing/clothingItems/Trousers_CamoUrbanTucked.xml</path>
+	<guid>805791e5-3cae-44db-bdeb-1c937c96fa8a</guid>
 	</files>
 
-	<files>
-	<path>media/clothing/clothingItems/Trousers_PoliceBlueTucked.xml</path>
-	<guid>7ef6a427-f232-4c45-be14-0b16c1a260f4</guid>
-	</files>
+    <files>
+	<path>media/clothing/clothingItems/Trousers_CamoUrban.xml</path>
+	<guid>338b1a0c-1f9c-4c33-85ba-b7058294de81</guid>
+	</files>	
 
-	<files>
-	<path>media/clothing/clothingItems/Jacket_PoliceBlue.xml</path>
-	<guid>f00d07dd-5279-4a53-b203-a88dc8e40172</guid>
-	</files>
 
-	<files>
-	<path>media/clothing/clothingItems/Jacket_PoliceBlueRolled.xml</path>
-	<guid>2a63a429-63dd-4ad7-8fba-c860eacc2976</guid>
-	</files>
+	<!-- Vanilla Clothing -->
 	
 	<files>
 		<path>media/clothing/clothingItems/AmmoStrap_Bullets.xml</path>

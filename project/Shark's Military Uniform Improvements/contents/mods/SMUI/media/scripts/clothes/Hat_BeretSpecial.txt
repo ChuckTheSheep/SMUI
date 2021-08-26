@@ -1,0 +1,15 @@
+module Base
+{
+    item Hat_BeretSpecial
+    {
+        Type = Clothing,
+        DisplayName = Red Military Beret,
+        ClothingItem = Hat_BeretSpecial,
+        BodyLocation = Hat,
+        Icon = HatBonnieCamo,
+        CanHaveHoles = false,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.5,
+    }
+}

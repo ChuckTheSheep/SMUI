@@ -1,19 +1,19 @@
  module Base
     {
-        item Trousers_PoliceBlue
+        item Trousers_CamoUrban
     
     {
 
         Type = Clothing,
-        DisplayName = Police Fatigue Pants,
-        ClothingItem = Trousers_PoliceBlue,
+        DisplayName = Military Urban Camo Pants,
+        ClothingItem = Trousers_CamoUrban,
         BodyLocation = Pants,
-        Icon = TrousersCamoGreen,
+        Icon = TrousersCamoGrey,
         BloodLocation = Trousers,
         BiteDefense = 10,
         ScratchDefense = 20,
         Insulation = 0.45,
-        ClothingItemExtra = Trousers_PoliceBlueTucked,
+        ClothingItemExtra = Trousers_CamoUrbanTucked,
         ClothingItemExtraOption = TuckIn,
         WindResistance = 0.3,
         WaterResistance = 0.45,
@@ -21,18 +21,18 @@
         
     }
 
-        item Trousers_PoliceBlueTucked
+        item Trousers_CamoUrbanTucked
     {
         Type = Clothing,
-        DisplayName = Police Fatigue Pants (Tucked),
-        ClothingItem = Trousers_PoliceBlueTucked,
+        DisplayName = Military Urban Camo Pants (Tucked),
+        ClothingItem = Trousers_CamoUrbanTucked,
         BodyLocation = Pants,
-        Icon = TrousersCamoGreen,
+        Icon = TrousersCamoGrey,
         BloodLocation = Trousers,
         BiteDefense = 10,
         ScratchDefense = 20,
         Insulation = 0.45,
-        ClothingItemExtra = Trousers_PoliceBlue,
+        ClothingItemExtra = Trousers_CamoUrban,
         ClothingItemExtraOption = TuckOut,
         WindResistance = 0.3,
         WaterResistance = 0.45,
