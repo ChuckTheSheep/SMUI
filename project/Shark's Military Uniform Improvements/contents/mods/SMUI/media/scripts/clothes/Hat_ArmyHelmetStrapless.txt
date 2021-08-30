@@ -10,7 +10,7 @@ module SMUIClothing {
 		BodyLocation = Hat,
 		Icon = HelmetArmyGreen,
 		CanHaveHoles = false,
-        ClothingItemExtra = Hat_Army,
+        ClothingItemExtra = Hat_ArmyHelmetStrapless,
         ClothingItemExtraOption = Unstrap,
 		BloodLocation = Head,
 		BiteDefense = 100,
