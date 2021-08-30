@@ -24,6 +24,16 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapUrban.xml</path>
+	<guid>323fc189-8e21-41b8-b0ca-a481904cbb82</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapUrbanReversed.xml</path>
+	<guid>376e3834-d440-49ce-b2f4-dcb6cfa0a82c</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_CavalryHat.xml</path>
 	<guid>eefea72b-daa3-453e-8cf9-d78d3485af22</guid>
 	</files>
@@ -31,6 +41,11 @@
 	<files>
 	<path>media/clothing/clothingItems/Hat_BeretSpecial.xml</path>
 	<guid>408d4d09-81ae-4bf8-9b77-1f4bfccbb1c9</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_ArmyHelmetStrapless.xml</path>
+	<guid>9620aac8-3540-4699-b285-ed3257bc2ee5</guid>
 	</files>
 
 	<files>
@@ -65,7 +80,7 @@
 
 	<files>
 		<path>media/clothing/clothingItems/Jacket_ArmyCamoUrban.xml</path>
-		<guid>a0587048-9161-4e84-9d38-e59a9ffce4e0</guid>
+		<guid>323fc189-8e21-41b8-b0ca-a481904cbb82</guid>
 	</files>
 
 	<files>
