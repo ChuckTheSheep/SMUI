@@ -1,5 +1,7 @@
-module Base
-{
+module SMUIClothing {
+  imports {
+      Base
+  }
     item Hat_PatrolCapDesert
     {
         Type = Clothing,
