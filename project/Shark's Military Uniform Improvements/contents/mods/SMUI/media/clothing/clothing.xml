@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <outfitManager>
+
 		<m_MaleOutfits>
 		<m_Name>SharkArmyCamoDesertMale</m_Name>
 		<m_Guid>50ef789b-54a6-4021-b817-78e1e417bd91</m_Guid>
@@ -105,6 +106,7 @@
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_FemaleOutfits>
+
 	<m_MaleOutfits>
 		<m_Name>SharkArmyCamoGreenMale</m_Name>
 		<m_Guid>af2c54a5-570c-46c4-937c-cb6bc4dfa796</m_Guid>
@@ -247,14 +249,57 @@
 		</m_items>	
 	</m_MaleOutfits>
 
+	
+	<m_MaleOutfits>
+		<m_Name>SharkArmyCavalry</m_Name>
+		<m_Guid>82c517ea-2efd-4742-b465-f9abf4c214f1</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_items> <!-- Cavalry Hat -->
+			<itemGUID>898b33ee-2030-4d81-aeaa-c3749b28a9a8</itemGUID>
+		</m_items>
+		<m_items> <!-- Long Socks -->
+			<itemGUID>fb86bd5f-1931-4b24-a5d7-bd6a43769991</itemGUID>
+		</m_items>	
+		<m_items> <!-- Army Boots -->
+			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
+		</m_items>
+		<m_items> <!-- Army T-Shirt -->
+			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Camo Pants (Tucked) -->
+			<itemGUID>eb8d1f35-8d0b-4c9c-a308-aba2aa085r34</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Camo Jacket -->
+			<itemGUID>b0d642f6-eb11-456c-aeb0-1b190b29a364</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Camo Jacket (Rolled) -->
+		<probability>0.5</probability>
+			<itemGUID>a51eee81-0e8a-45b1-9169-145d87041d99</itemGUID>
+		</m_items>
+			<m_items> <!-- Dog-Tags -->
+			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
+		</m_items>
+		<m_items> <!-- Military Watch (Right) -->
+		<probability>0.5</probability>
+			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
+		</m_items>
+		<m_items> <!-- Holster -->
+			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
+		</m_items>	
+	</m_MaleOutfits>
+
 	<m_MaleOutfits>
 		<m_Name>SharkArmyCamoUrbanMale</m_Name>
 		<m_Guid>a975fd61-fc49-47f0-9519-22a5eb62c8dd</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
-		<m_items> <!-- Army Beret -->
+			<m_items> <!-- Urban Patrol Cap -->
+			<itemGUID>323fc189-8e21-41b8-b0ca-a481904cbb82</itemGUID>
+		</m_items>
+		<m_items> <!-- Red Army Beret -->
 			<probability>0.5</probability>
-			<itemGUID>88fa54ef-801d-45f0-87c7-57e9fdf1ad13</itemGUID>
+			<itemGUID>408d4d09-81ae-4bf8-9b77-1f4bfccbb1c9</itemGUID>
 		</m_items>
 		<m_items> <!-- Long Socks -->
 			<itemGUID>fb86bd5f-1931-4b24-a5d7-bd6a43769991</itemGUID>
@@ -372,4 +417,5 @@
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_MaleOutfits>
+
 </outfitManager>
