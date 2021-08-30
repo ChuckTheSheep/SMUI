@@ -1,7 +1,5 @@
-module SMUIClothing {
-  imports {
-      Base
-  }
+ module Base
+    {
         item Trousers_CamoGreen
     
     {
