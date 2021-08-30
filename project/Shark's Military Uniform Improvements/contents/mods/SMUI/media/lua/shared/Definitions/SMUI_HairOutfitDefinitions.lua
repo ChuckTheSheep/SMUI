@@ -5,18 +5,18 @@ require 'Definitions/HairOutfitDefinitions'
 
 local cat = {};
 cat.outfit = "SharkArmyCamoGreenMale";
-cat.haircut = "Short:50;CrewCut:20;Bald:10";
+cat.haircut = "Short:34;Bald:33;CrewCut:33;";
 cat.beard = "None:100";
 table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
 
 local cat = {};
 cat.outfit = "SharkArmyCamoGreenFemale";
-cat.haircut = "Bun:20;Kate:20;Ponytail:30";
+cat.haircut = "Fresh:30;Bun:20;Kate:20;Ponytail:30";
 table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
 
 local cat = {};
 cat.outfit = "SharkArmyCamoDesertMale";
-cat.haircut = "Short:50;CrewCut:20;Bald:10";
+cat.haircut = "Short:34;Bald:33;CrewCut:33;";
 cat.beard = "None:100";
 table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
 
@@ -27,13 +27,13 @@ table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
 
 local cat = {};
 cat.outfit = "SharkArmyInstructor";
-cat.haircut = "Short:50;CrewCut:20;";
+cat.haircut = "Short:34;Bald:33;CrewCut:33;";
 cat.beard = "None:100";
 table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
 
 local cat = {};
 cat.outfit = "SharkArmyCamoUrbanMale";
-cat.haircut = "Short:50;CrewCut:20;Bald:10";
+cat.haircut = "Short:34;Bald:33;CrewCut:33;";
 cat.beard = "None:100";
 table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
 
@@ -43,7 +43,21 @@ cat.haircut = "Hat:30;Bun:20;Kate:20;Ponytail:30";
 table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
 
 local cat = {};
-cat.outfit = "SharkArmyCamoUrbanGeared";
-cat.haircut = "Short:50;CrewCut:20;Bald:10";
+cat.outfit = "SharkArmyCamoUrbanGearedMale";
+cat.haircut = "Short:34;Bald:33;CrewCut:33;";
 cat.beard = "None:100";
 table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
+
+-- Expanded Helicopter Events --
+
+local cat = {};
+cat.outfit = "1Soldier";
+cat.haircut = "Fresh:20;Bun:20;Kate:20;Ponytail:20";
+table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
+
+local cat = {};
+cat.outfit = "1Soldier";
+cat.haircut = "Short:30;CrewCut:50;Fresh:20";
+cat.beard = "None:100";
+table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
+
