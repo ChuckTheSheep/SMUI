@@ -108,6 +108,11 @@
 	<guid>338b1a0c-1f9c-4c33-85ba-b7058294de81</guid>
 	</files>	
 
+	<files>
+	<path>media/clothing/clothingItems/MilitaryWebbing.xml</path>
+	<guid>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</guid>
+	</files>	
+
 
 	<!-- Vanilla Clothing -->
 	

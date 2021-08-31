@@ -1,0 +1,13 @@
+module Base
+{
+	item MilitaryWebbing
+	{
+		Type = Clothing,
+		DisplayName = Military Webbing,
+		ClothingItem = MilitaryWebbing,
+		BodyLocation = AmmoStrap,
+		Icon = AmmoStrap,
+		Tooltip = Tooltip_AmmoStrap,
+		WorldStaticModel = AmmoStrap_Ground,
+	}
+}
