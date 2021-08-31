@@ -12,9 +12,6 @@
 		<m_items> <!-- Military Helmet-->
 			<itemGUID>9709be80-dbd9-4f98-90a6-aaab8e87cd28</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Webbing -->
-			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
-		</m_items>
 		<m_items> <!-- Desert Patrol Cap -->
 		<probability>0.5</probability>
 			<itemGUID>72e14fde-e6f5-4927-bf1e-58f8ec19f85f7</itemGUID>
@@ -67,9 +64,6 @@
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
 			<m_items> <!-- Military Helmet-->
 			<itemGUID>9709be80-dbd9-4f98-90a6-aaab8e87cd28</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Webbing -->
-			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
 		</m_items>
 		<m_items> <!-- Desert Patrol Cap -->
 		<probability>0.5</probability>
@@ -125,9 +119,6 @@
 		<probability>0.6</probability>
 			<itemGUID>9709be80-dbd9-4f98-90a6-aaab8e87cd28</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Webbing -->
-			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
-		</m_items>
 		<m_items> <!-- Long Socks -->
 			<itemGUID>fb86bd5f-1931-4b24-a5d7-bd6a43769991</itemGUID>
 		</m_items>	
@@ -176,9 +167,6 @@
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
 	    <m_items> <!-- Military Helmet-->
 			<itemGUID>9709be80-dbd9-4f98-90a6-aaab8e87cd28</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Webbing -->
-			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
 		</m_items>
 	    <m_items> <!-- Woodland Patrol Cap-->
 			<probability>0.5</probability>
@@ -233,9 +221,6 @@
 		<m_items> <!-- Military Helmet (Strapless)-->
 			<itemGUID>9620aac8-3540-4699-b285-ed3257bc2ee5</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Webbing -->
-			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
-		</m_items>
 		<m_items> <!-- Gas Mask-->
 			<itemGUID>92efbe27-baa3-4e7f-bc7c-cb4713d23c14</itemGUID>
 		</m_items>
@@ -288,9 +273,6 @@
 		<m_items> <!-- Military Helmet (Strapless)-->
 			<itemGUID>9620aac8-3540-4699-b285-ed3257bc2ee5</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Webbing -->
-			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
-		</m_items>
 		<m_items> <!-- Gas Mask-->
 			<itemGUID>92efbe27-baa3-4e7f-bc7c-cb4713d23c14</itemGUID>
 		</m_items>
@@ -339,9 +321,6 @@
 		<m_Pants>false</m_Pants>
 		<m_items> <!-- Woodland Patrol Cap-->
 			<itemGUID>601bf44b-fe47-44b1-a327-3fd441250ca7</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Webbing -->
-			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
 		</m_items>
 		<m_items> <!-- Long Socks -->
 			<itemGUID>fb86bd5f-1931-4b24-a5d7-bd6a43769991</itemGUID>
@@ -426,9 +405,6 @@
 			<probability>0.5</probability>
 			<itemGUID>408d4d09-81ae-4bf8-9b77-1f4bfccbb1c9</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Webbing -->
-			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
-		</m_items>
 		<m_items> <!-- Long Socks -->
 			<itemGUID>fb86bd5f-1931-4b24-a5d7-bd6a43769991</itemGUID>
 		</m_items>	
@@ -467,9 +443,6 @@
 		<m_Pants>false</m_Pants>
 		    <m_items> <!-- Army Beret -->
 			<itemGUID>f2467000-e675-458c-9f63-5cc2f0ed0f3f</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Webbing -->
-			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
 		</m_items>
 		<m_items> <!-- Long Socks -->
 			<itemGUID>fb86bd5f-1931-4b24-a5d7-bd6a43769991</itemGUID>
@@ -510,9 +483,6 @@
 		<m_Pants>false</m_Pants>
 	    <m_items> <!-- Military Helmet-->
 			<itemGUID>9709be80-dbd9-4f98-90a6-aaab8e87cd28</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Webbing -->
-			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
 		</m_items>
 		<m_items> <!-- Long Socks -->
 			<itemGUID>fb86bd5f-1931-4b24-a5d7-bd6a43769991</itemGUID>
