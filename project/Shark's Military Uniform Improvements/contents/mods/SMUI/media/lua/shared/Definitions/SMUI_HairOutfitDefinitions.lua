@@ -1,5 +1,18 @@
 require 'Definitions/HairOutfitDefinitions'
 
+--Vanilla Fixes--
+
+local cat = {};
+cat.outfit = "ArmyInstructor";
+cat.haircut = "Short:34;Bald:33;CrewCut:33;";
+cat.beard = "None:100";
+table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
+
+local cat = {};
+cat.outfit = "Security";
+cat.haircut = "Short:34;Bald:33;CrewCut:33;";
+cat.beard = "None:100";
+table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
 
 --Shark's Soldier Uniform Improvements Additions--
 
@@ -44,6 +57,23 @@ table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
 
 local cat = {};
 cat.outfit = "SharkArmyCamoUrbanGearedMale";
+cat.haircut = "Short:34;Bald:33;CrewCut:33;";
+cat.beard = "None:100";
+table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
+
+local cat = {};
+cat.outfit = "SharkArmyCamoGreenFemaleGasMask";
+cat.haircut = "Hat:30;Bun:20;Kate:20;Ponytail:30";
+table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
+
+local cat = {};
+cat.outfit = "SharkArmyCamoGreenMaleGasMask";
+cat.haircut = "Short:34;Bald:33;CrewCut:33;";
+cat.beard = "None:100";
+table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
+
+local cat = {};
+cat.outfit = "SharkArmyCavalry";
 cat.haircut = "Short:34;Bald:33;CrewCut:33;";
 cat.beard = "None:100";
 table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
