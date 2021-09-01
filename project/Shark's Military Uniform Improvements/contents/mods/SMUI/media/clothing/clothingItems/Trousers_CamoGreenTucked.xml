@@ -9,7 +9,5 @@
 	<m_AttachBone></m_AttachBone>
 	<m_Masks>14</m_Masks>
 	<m_Masks>15</m_Masks>
-	<m_Masks>9</m_Masks>
-	<m_Masks>8</m_Masks>
 	<textureChoices>clothes\trousers_mesh\trousersmesh_camogreentucked</textureChoices>
 </clothingItem>
