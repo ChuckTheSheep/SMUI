@@ -32,7 +32,7 @@
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Pack (Plain) -->
-		<probability>0.3</probability>
+		<probability>0.1</probability>
 			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
 		</m_items>
 		<m_items> <!-- Desert Camo Pants (Tucked) -->
@@ -53,6 +53,7 @@
 			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
+		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_MaleOutfits>
@@ -88,7 +89,7 @@
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Pack (Plain) -->
-		<probability>0.3</probability>
+		<probability>0.1</probability>
 			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
 		</m_items>
 		<m_items> <!-- Desert Camo Pants (Tucked) -->
@@ -101,7 +102,7 @@
 		<probability>0.6</probability>
 			<itemGUID>eb8d1f35-8d0b-4c9c-a308-aba2aa040z75</itemGUID>
 		</m_items>
-			<m_items> <!-- Dog-Tags -->
+		<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Watch (Right) -->
@@ -109,6 +110,7 @@
 			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
+		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_FemaleOutfits>
@@ -141,7 +143,7 @@
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Pack (Woodland) -->
-		<probability>0.3</probability>
+		<probability>0.1</probability>
 			<itemGUID>e5e131ff-bc65-4b94-9bc1-b70e8f99e68d</itemGUID>
 		</m_items>
 		<m_items> <!-- Woodland Camo Pants (Tucked) -->
@@ -162,6 +164,7 @@
 			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
+		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_MaleOutfits>
@@ -197,7 +200,7 @@
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Pack (Woodland) -->
-		<probability>0.3</probability>
+		<probability>0.1</probability>
 			<itemGUID>e5e131ff-bc65-4b94-9bc1-b70e8f99e68d</itemGUID>
 		</m_items>
 		<m_items> <!-- Woodland Camo Pants (Tucked) -->
@@ -218,6 +221,7 @@
 			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
+		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_FemaleOutfits>
@@ -252,7 +256,7 @@
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Pack (Woodland) -->
-		<probability>0.3</probability>
+		<probability>0.1</probability>
 			<itemGUID>e5e131ff-bc65-4b94-9bc1-b70e8f99e68d</itemGUID>
 		</m_items>
 		<m_items> <!-- Woodland Camo Pants (Tucked) -->
@@ -273,6 +277,7 @@
 			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
+		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_MaleOutfits>
@@ -307,7 +312,7 @@
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Pack (Woodland) -->
-		<probability>0.3</probability>
+		<probability>0.1</probability>
 			<itemGUID>e5e131ff-bc65-4b94-9bc1-b70e8f99e68d</itemGUID>
 		</m_items>
 		<m_items> <!-- Woodland Camo Pants (Tucked) -->
@@ -328,6 +333,7 @@
 			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
+		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_FemaleOutfits>
@@ -367,6 +373,7 @@
 			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
+		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_MaleOutfits>
@@ -401,6 +408,7 @@
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
+			<probability>0.3</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_MaleOutfits>
@@ -441,6 +449,7 @@
 			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
+			<probability>0.3</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_MaleOutfits>
@@ -487,6 +496,7 @@
 			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
+			<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_MaleOutfits>
@@ -529,6 +539,7 @@
 			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
+		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_FemaleOutfits>
@@ -561,7 +572,7 @@
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Pack (Plain) -->
-		<probability>0.3</probability>
+		<probability>0.1</probability>
 			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
 		</m_items>
 		<m_items> <!-- Urban Camo Jacket -->
@@ -579,6 +590,7 @@
 			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
+		<probability>0.3</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_MaleOutfits>
