@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <outfitManager>
 
-		<m_MaleOutfits>
+	<m_MaleOutfits>
 		<m_Name>SharkArmyCamoDesertMale</m_Name>
 		<m_Guid>50ef789b-54a6-4021-b817-78e1e417bd91</m_Guid>
 		<m_Top>false</m_Top>
@@ -278,8 +278,8 @@
 	</m_MaleOutfits>
 
 	<m_FemaleOutfits>
-		<m_Name>SharkArmyCamoGreenMaleGasMask</m_Name>
-		<m_Guid>b20ad277-6914-4f5f-aef7-4512dc96f285</m_Guid>
+		<m_Name>SharkArmyCamoGreenFemaleGasMask</m_Name>
+		<m_Guid>6eb34103-4a5e-4d80-a568-402383dbe47c</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
