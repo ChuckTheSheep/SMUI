@@ -8,7 +8,7 @@ module SMUIClothing {
         DisplayName = Desert Camo Patrol Cap,
         ClothingItem = Hat_PatrolCapDesert,
         BodyLocation = Hat,
-        Icon = HatBonnieCamo,
+        Icon = PatrolCapDesert,
         CanHaveHoles = false,
         ClothingItemExtra = Hat_PatrolCapDesertReversed,
         ClothingItemExtraOption = ReverseCap,
