@@ -2,15 +2,15 @@ module SMUIClothing {
   imports {
       Base
   }
-    item Hat_PatrolCapDesertReversed
+    item Hat_PatrolCapUrbanReversed
     {
         Type = Clothing,
-        DisplayName = Desert Camo Patrol Cap (Reversed),
-        ClothingItem = Hat_PatrolCapDesertReversed,
+        DisplayName = Urban Patrol Cap (Reversed),
+        ClothingItem = Hat_PatrolCapUrbanReversed,
         BodyLocation = Hat,
-        Icon = PatrolCapDesert,
+        Icon = PatrolCapUrban,
         CanHaveHoles = false,
-        ClothingItemExtra = Hat_PatrolCapDesert,
+        ClothingItemExtra = Hat_PatrolCapUrban,
         ClothingItemExtraOption = ForwardCap,
         ChanceToFall = 80,
         Insulation = 0.10,
