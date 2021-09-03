@@ -459,8 +459,8 @@
 		<m_Guid>a975fd61-fc49-47f0-9519-22a5eb62c8dd</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
-			<m_items> <!-- Urban Patrol Cap -->
-			<itemGUID>323fc189-8e21-41b8-b0ca-a481904cbb82</itemGUID>
+		<m_items> <!-- Urban Patrol Cap -->
+			<itemGUID>a3e30089-9aa5-4902-8919-f11ae122cbe6</itemGUID>
 		</m_items>
 		<m_items> <!-- Red Army Beret -->
 			<probability>0.5</probability>
