@@ -416,15 +416,15 @@
 	
 	<m_MaleOutfits>
 		<m_Name>SharkArmyCavalry</m_Name>
-		<m_Guid>82c517ea-2efd-4742-b465-f9abf4c214f1</m_Guid>
+		<m_Guid>a3ec3ed3-481b-494b-82cb-6281b818b230</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
-		<m_items> <!-- Cavalry Hat -->
-			<itemGUID>eefea72b-daa3-453e-8cf9-d78d3485af22</itemGUID>
-		</m_items>
 		<m_items> <!-- Long Socks -->
 			<itemGUID>fb86bd5f-1931-4b24-a5d7-bd6a43769991</itemGUID>
 		</m_items>	
+		<m_items> <!-- Cavalry Hat-->
+			<itemGUID>44ba016a-1ec4-457a-b2a0-40c777173305</itemGUID>
+		</m_items>		
 		<m_items> <!-- Army Boots -->
 			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
 		</m_items>
@@ -435,13 +435,13 @@
 			<itemGUID>eb8d1f35-8d0b-4c9c-a308-aba2aa085r34</itemGUID>
 		</m_items>
 		<m_items> <!-- Woodland Camo Jacket -->
-			<itemGUID>b0d642f6-eb11-456c-aeb0-1b190b29a364</itemGUID>
+			<itemGUID>b0d642f6-eb11-456c-aeb0-1b190b29a364</itemGUID>			
 		</m_items>
 		<m_items> <!-- Woodland Camo Jacket (Rolled) -->
 		<probability>0.5</probability>
 			<itemGUID>a51eee81-0e8a-45b1-9169-145d87041d99</itemGUID>
 		</m_items>
-			<m_items> <!-- Dog-Tags -->
+		<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Watch (Right) -->
@@ -452,6 +452,19 @@
 			<probability>0.3</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
+	</m_MaleOutfits>
+
+	<m_MaleOutfits>
+		<m_Name>SharkTEST</m_Name>
+		<m_Guid>ef5v33c2-648d-4f4d-baed-2e533af4c845</m_Guid>
+		<m_Top>true</m_Top>
+		<m_Pants>true</m_Pants>	
+		<m_items> <!-- Cavalry Hat-->
+			<itemGUID>44ba016a-1ec4-457a-b2a0-40c777173305</itemGUID>
+		</m_items>		
+		<m_items> <!-- Army Boots -->
+			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
+		</m_items>		
 	</m_MaleOutfits>
 
 	<m_MaleOutfits>
@@ -466,7 +479,7 @@
 			<probability>0.5</probability>
 			<itemGUID>408d4d09-81ae-4bf8-9b77-1f4bfccbb1c9</itemGUID>
 			<subItems><!-- Army Beret -->
-				<itemGUID>8fa54ef-801d-45f0-87c7-57e9fdf1ad13</itemGUID>
+				<itemGUID>88fa54ef-801d-45f0-87c7-57e9fdf1ad13</itemGUID>
 			</subItems>			
 		</m_items>	
 		<m_items> <!-- Military Webbing-->
@@ -513,7 +526,7 @@
 			<probability>0.5</probability>
 			<itemGUID>408d4d09-81ae-4bf8-9b77-1f4bfccbb1c9</itemGUID>
 			<subItems><!-- Army Beret -->
-				<itemGUID>8fa54ef-801d-45f0-87c7-57e9fdf1ad13</itemGUID>
+				<itemGUID>88fa54ef-801d-45f0-87c7-57e9fdf1ad13</itemGUID>
 			</subItems>			
 		</m_items>	
 		<m_items> <!-- Military Webbing-->
