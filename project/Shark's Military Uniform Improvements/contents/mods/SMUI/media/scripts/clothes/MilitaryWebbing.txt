@@ -8,6 +8,8 @@ module SMUIClothing {
 		DisplayName = Military Webbing,
 		ClothingItem = MilitaryWebbing,
 		BodyLocation = AmmoStrap,
+		WeightReduction	=	50,
+		RunSpeedModifier = 1,
 		Icon = AmmoStrap,
 		Tooltip = Tooltip_AmmoStrap,
 		WorldStaticModel = AmmoStrap_Ground,
