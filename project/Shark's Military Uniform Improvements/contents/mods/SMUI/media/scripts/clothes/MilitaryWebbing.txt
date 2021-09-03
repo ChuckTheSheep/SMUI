@@ -10,7 +10,7 @@ module SMUIClothing {
 		BodyLocation = AmmoStrap,
 		WeightReduction	=	50,
 		RunSpeedModifier = 1,
-		Icon = AmmoStrap,
+		Icon = MilitaryWebbing,
 		Tooltip = Tooltip_AmmoStrap,
 		WorldStaticModel = AmmoStrap_Ground,
 	}
