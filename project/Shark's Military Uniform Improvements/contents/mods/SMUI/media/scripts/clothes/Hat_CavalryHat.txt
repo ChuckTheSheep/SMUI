@@ -6,7 +6,7 @@ module SMUIClothing {
     {
         Type = Clothing,
         DisplayName = Cavalry Hat,
-        ClothingItem = Hat_Cavalryhat,
+        ClothingItem = Hat_CavalryHat,
         BodyLocation = Hat,
         Icon = CavalryHat,
         CanHaveHoles = false,
