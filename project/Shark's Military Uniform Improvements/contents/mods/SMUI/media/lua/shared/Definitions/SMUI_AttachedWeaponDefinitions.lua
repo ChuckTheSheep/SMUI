@@ -2,7 +2,7 @@
 -- random knives inside their neck, spear in their stomach, meatcleaver in their back...
 -- this is used in IsoZombie.addRandomAttachedWeapon()
 
-SMUI_AttachedWeaponDefinitions = SMUI_AttachedWeaponDefinitions or {};
+SMUI_AttachedWeaponDefinitions = AttachedWeaponDefinitions or {};
 
 SMUI_AttachedWeaponDefinitions.chanceOfAttachedWeapon = 6; -- Global chance of having an attached weapon, if we pass this we gonna add randomly one from the list
 
@@ -11,7 +11,7 @@ SMUI_AttachedWeaponDefinitions.chanceOfAttachedWeapon = 6; -- Global chance of h
 -- assault rifle on back
 SMUI_AttachedWeaponDefinitions.assaultRifleM16OnBack = {
 	id = "assaultRifleM16OnBack",
-	chance = 20,
+	chance = 30,
 	outfit = {"SharkArmyCamoGreenMale", "SharkArmyCamoGreenFemale","SharkArmyCamoDesertFemale", "SharkArmyCamoDesertMale", "SharkArmyCamoUrbanMale",
 "SharkArmyCamoUrbanFemale", "SharkArmyCamoUrbanGearedMale", "SharkArmyCamoGreenMaleGasMask", "SharkArmyCamoGreenFemaleGasMask", "SharkNBCSuit",	
 "SharkArmyInstructor","SharkArmyCavalry"},
@@ -26,7 +26,7 @@ SMUI_AttachedWeaponDefinitions.assaultRifleM16OnBack = {
 
 SMUI_AttachedWeaponDefinitions.handgunM9 = {
 	id = "handgunM9",
-	chance = 40,
+	chance = 50,
 	outfit = {"SharkArmyCamoGreenMale", "SharkArmyCamoGreenFemale","SharkArmyCamoDesertFemale", "SharkArmyCamoDesertMale", "SharkArmyCamoUrbanMale",
 "SharkArmyCamoUrbanFemale", "SharkArmyCamoUrbanGearedMale", "SharkArmyCamoGreenMaleGasMask", "SharkArmyCamoGreenFemaleGasMask", "SharkNBCSuit",	
 "SharkArmyInstructor","SharkArmyCavalry"},
@@ -38,9 +38,11 @@ SMUI_AttachedWeaponDefinitions.handgunM9 = {
 	weapons = {
     "Base.Pistol",
 	},
+}	
+
 SMUI_AttachedWeaponDefinitions.FragGrenade = {
 	id = "FragGrenade",
-	chance = 10,
+	chance = 100,
 	outfit = {"SharkArmyCamoGreenMale", "SharkArmyCamoGreenFemale","SharkArmyCamoDesertFemale", "SharkArmyCamoDesertMale", "SharkArmyCamoUrbanMale",
 "SharkArmyCamoUrbanFemale", "SharkArmyCamoUrbanGearedMale", "SharkArmyCamoGreenMaleGasMask", "SharkArmyCamoGreenFemaleGasMask", "SharkNBCSuit"},
 	weaponLocation = {"Belt Left", "Belt Right"},
@@ -48,17 +50,16 @@ SMUI_AttachedWeaponDefinitions.FragGrenade = {
 	addHoles = false,
 	daySurvived = 0,
 	weapons = {
-    "SMUIClothing.HandGrenade",
+    "SMUIClothing.M67Grenade",
 	},
 }	
-}
 
--
+
 -- Define some custom weapons attached on some specific outfit, so for example police have way more chance to have guns in holster and not simply a spear in stomach or something
-SMUI_AttachedWeaponDefinitions.attachedWeaponCustomOutfit = {};
+SMUI_AttachedWeaponDefinitions.attachedWeaponCustomOutfit = {}; 
 
 SMUI_AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoGreenMale = {
-	chance = 50;
+	chance = 100;
 	maxitem = 3;
 	weapons = {
 		SMUI_AttachedWeaponDefinitions.handgunM9,
@@ -84,7 +85,7 @@ SMUI_AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoDesertFem
 		SMUI_AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 }
-SMUI_SMUI_AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoDesertMale = {
+SMUI_AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoDesertMale = {
 	chance = 50;
 	maxitem = 3;
 	weapons = {
