@@ -19,5 +19,6 @@ module SMUIClothing {
     Insulation = 0.9,
     WindResistance = 0.65,
     WaterResistance = 0.65,
+    WorldStaticModel = Boots_Ground,
 	}
 }

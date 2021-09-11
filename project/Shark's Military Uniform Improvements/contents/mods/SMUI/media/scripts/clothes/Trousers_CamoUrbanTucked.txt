@@ -20,7 +20,7 @@ module SMUIClothing {
         WindResistance = 0.3,
         WaterResistance = 0.45,
         FabricType = Cotton,
-        
+        WorldStaticModel = Trousers_Ground,
     }
 
         item Trousers_CamoUrbanTucked
@@ -39,6 +39,7 @@ module SMUIClothing {
         WindResistance = 0.3,
         WaterResistance = 0.45,
         FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
     }
 }
     

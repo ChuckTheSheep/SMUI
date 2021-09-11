@@ -23,6 +23,7 @@ module SMUIClothing {
         FabricType = Cotton,
         WaterResistance = 0.2,
         Weight = 1,
+        WorldStaticModel = JacketCoat_Ground,
     }
 
     item Jacket_ArmyCamoDesertRolled
@@ -45,5 +46,6 @@ module SMUIClothing {
         FabricType = Cotton,
         WaterResistance = 0.2,
         Weight = 1,
+        WorldStaticModel = JacketCoat_Ground,
     }
 }

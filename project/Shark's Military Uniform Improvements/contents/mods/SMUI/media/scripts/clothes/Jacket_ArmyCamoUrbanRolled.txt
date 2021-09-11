@@ -22,6 +22,7 @@ module SMUIClothing {
         WindResistance = 0.95,
         WaterResistance = 0.60,
         Weight = 1,
+        WorldStaticModel = JacketCoat_Ground,
         
     }
 
@@ -46,6 +47,7 @@ module SMUIClothing {
         FabricType = Cotton,
         WaterResistance = 0.45,
         Weight = 1,
+        WorldStaticModel = JacketCoat_Ground,
 
     }
 
