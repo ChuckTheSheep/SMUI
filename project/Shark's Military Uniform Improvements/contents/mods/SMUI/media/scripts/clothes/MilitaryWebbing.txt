@@ -1,7 +1,5 @@
 module SMUIClothing {
-  imports {
-      Base
-  }
+
 	item MilitaryWebbing
 	{
 		Type = Clothing,
@@ -12,6 +10,6 @@ module SMUIClothing {
 		RunSpeedModifier = 1,
 		Icon = MilitaryWebbing,
 		Tooltip = Tooltip_AmmoStrap,
-		WorldStaticModel = AmmoStrap_Ground,
+		WorldStaticModel = MilitaryWebbing_WorldItem,
 	}
 }
