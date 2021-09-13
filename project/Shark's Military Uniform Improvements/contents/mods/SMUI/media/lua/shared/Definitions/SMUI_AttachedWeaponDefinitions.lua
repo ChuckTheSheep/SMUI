@@ -43,8 +43,7 @@ SMUI_AttachedWeaponDefinitions.handgunM9 = {
 SMUI_AttachedWeaponDefinitions.FragGrenade = {
 	id = "FragGrenade",
 	chance = 100,
-	outfit = {"SharkArmyCamoGreenMale", "SharkArmyCamoGreenFemale","SharkArmyCamoDesertFemale", "SharkArmyCamoDesertMale", "SharkArmyCamoUrbanMale",
-"SharkArmyCamoUrbanFemale", "SharkArmyCamoUrbanGearedMale", "SharkArmyCamoGreenMaleGasMask", "SharkArmyCamoGreenFemaleGasMask", "SharkNBCSuit"},
+	outfit = {"SharkArmyCamoGreenMale", "SharkArmyCamoGreenFemale","SharkArmyCamoDesertFemale", "SharkArmyCamoDesertMale", "SharkArmyCamoUrbanGearedMale", "SharkArmyCamoGreenMaleGasMask", "SharkArmyCamoGreenFemaleGasMask"},
 	weaponLocation = {"Belt Left", "Belt Right"},
 	bloodLocations = nil,
 	addHoles = false,
@@ -98,7 +97,6 @@ SMUI_AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoUrbanMale
 	chance = 50;
 	weapons = {
 		SMUI_AttachedWeaponDefinitions.handgunM9,
-		SMUI_AttachedWeaponDefinitions.FragGrenade,
 		SMUI_AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 }
@@ -106,7 +104,6 @@ SMUI_AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoUrbanFema
 	chance = 50;
 	weapons = {
 		SMUI_AttachedWeaponDefinitions.handgunM9,
-		SMUI_AttachedWeaponDefinitions.FragGrenade,
 		SMUI_AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 }
@@ -141,7 +138,6 @@ SMUI_AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkNBCSuit = {
 	maxitem = 3;
 	weapons = {
 		SMUI_AttachedWeaponDefinitions.handgunM9,
-		SMUI_AttachedWeaponDefinitions.FragGrenade,
 		SMUI_AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 }
