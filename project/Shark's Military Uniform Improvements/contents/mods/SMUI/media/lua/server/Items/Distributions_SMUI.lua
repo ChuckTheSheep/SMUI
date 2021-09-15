@@ -9,14 +9,20 @@ SMUI.tab_addHatsProcedural_items  = function(x,count)
   ProceduralDistributions.list[x].items = ProceduralDistributions.list[x].items or {};
   table.insert(ProceduralDistributions.list[x].items,"SMUIClothing.Hat_Army");
   table.insert(ProceduralDistributions.list[x].items, count);
-  table.insert(ProceduralDistributions.list[x].items,"SMUIClothing.Hat_BeretSpecial");
-  table.insert(ProceduralDistributions.list[x].items, count);
-  table.insert(ProceduralDistributions.list[x].items,"SMUIClothing.Hat_CavalryHat");
-  table.insert(ProceduralDistributions.list[x].items, count);
   table.insert(ProceduralDistributions.list[x].items,"SMUIClothing.Hat_PatrolCap");
   table.insert(ProceduralDistributions.list[x].items, count);
   table.insert(ProceduralDistributions.list[x].items,"SMUIClothing.Hat_PatrolCapDesert");
   table.insert(ProceduralDistributions.list[x].items, count);
+end
+
+SMUI.tab_addRareHatsProcedural_items  = function(x,count)
+  ProceduralDistributions = ProceduralDistributions or {};
+  ProceduralDistributions.list = ProceduralDistributions.list or {};
+  ProceduralDistributions.list[x] = ProceduralDistributions.list[x] or {};
+  ProceduralDistributions.list[x].items = ProceduralDistributions.list[x].items or {};
+  table.insert(ProceduralDistributions.list[x].items,"SMUIClothing.Hat_CavalryHat");
+  table.insert(ProceduralDistributions.list[x].items, count);
+  table.insert(ProceduralDistributions.list[x].items,"SMUIClothing.Hat_BeretSpecial");
 end
 
 SMUI.tab_addClothesProcedural_items  = function(x,count)
@@ -28,6 +34,8 @@ SMUI.tab_addClothesProcedural_items  = function(x,count)
   table.insert(ProceduralDistributions.list[x].items, count);
   table.insert(ProceduralDistributions.list[x].items,"SMUIClothing.Jacket_ArmyCamoGreen");
   table.insert(ProceduralDistributions.list[x].items, count);
+  table.insert(ProceduralDistributions.list[x].items,"SMUIClothing.MilitaryWebbing");
+  table.insert(ProceduralDistributions.list[x].items, count);
   table.insert(ProceduralDistributions.list[x].items,"SMUIClothing.Jacket_ArmyCamoUrban");
   table.insert(ProceduralDistributions.list[x].items, count);
   table.insert(ProceduralDistributions.list[x].items,"SMUIClothing.Trousers_CamoDesert");
@@ -37,6 +45,7 @@ SMUI.tab_addClothesProcedural_items  = function(x,count)
   table.insert(ProceduralDistributions.list[x].items,"SMUIClothing.Trousers_CamoUrban");
   table.insert(ProceduralDistributions.list[x].items, count);  
 end
+
 SMUI.tab_addShoesProcedural_items  = function(x,count)
   ProceduralDistributions = ProceduralDistributions or {};
   ProceduralDistributions.list = ProceduralDistributions.list or {};
@@ -46,10 +55,11 @@ SMUI.tab_addShoesProcedural_items  = function(x,count)
   table.insert(ProceduralDistributions.list[x].items, count);  
 end
 
-SMUI.tab_addHatsProcedural_items("LockerArmyBedroom",0.8);
-SMUI.tab_addClothesProcedural_items("LockerArmyBedroom",0.8);
-SMUI.tab_addClothesProcedural_items("CampingStoreClothes",0.8);
-SMUI.tab_addClothesProcedural_items("CrateCamping",0.8);
+SMUI.tab_addHatsProcedural_items("LockerArmyBedroom",1);
+SMUI.tab_addRareHatsProcedural_items("LockerArmyBedroom",1);
+SMUI.tab_addClothesProcedural_items("LockerArmyBedroom",1);
+SMUI.tab_addClothesProcedural_items("CampingStoreClothes",1);
+SMUI.tab_addClothesProcedural_items("CrateCamping",1);
 SMUI.tab_addShoesProcedural_items("CampingStoreLegwear",1.0);
 SMUI.tab_addShoesProcedural_items("CrateCamping",1.0);
 
