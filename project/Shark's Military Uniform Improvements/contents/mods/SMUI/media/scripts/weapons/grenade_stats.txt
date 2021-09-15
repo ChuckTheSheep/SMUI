@@ -24,6 +24,6 @@ module SMUIClothing
 	ExplosionPower		= 60,
 	ExplosionRange		= 7,
 	ExplosionSound		= BigExplosion,
-    AttachmentType = Knife,
+    AttachmentType = MeatCleaver,
 	}
 }
