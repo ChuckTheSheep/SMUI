@@ -81,13 +81,13 @@ table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
 -- Expanded Helicopter Events --
 
 local cat = {};
-cat.outfit = "1Soldier";
-cat.haircut = "Fresh:20;Bun:20;Kate:20;Ponytail:20";
+cat.outfit = "EHESoldier";
+cat.haircut = "Bun:20;Kate:20;Ponytail:20";
 table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
 
 local cat = {};
-cat.outfit = "1Soldier";
-cat.haircut = "Short:30;CrewCut:50;Fresh:20";
+cat.outfit = "EHESoldier";
+cat.haircut = "Short:34;Bald:33;CrewCut:33;";
 cat.beard = "None:100";
 table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
 
