@@ -58,7 +58,7 @@ SMUI_AttachedWeaponDefinitions.FragGrenade = {
 SMUI_AttachedWeaponDefinitions.attachedWeaponCustomOutfit = {}; 
 
 SMUI_AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoGreenMale = {
-	chance = 100;
+	chance = 45;
 	maxitem = 3;
 	weapons = {
 		SMUI_AttachedWeaponDefinitions.handgunM9,
