@@ -1,9 +1,0 @@
-UI_EN = {
-
-UI_ClothingType_Pupils = "Eye Lenses",
-UI_ClothingType_Wig = "Wig",
-ContextMenu_UpHoodie = "Hood Up",
-ContextMenu_DownHoodie = "Hood Down",
-ContextMenu_RollUp = "Roll Up",
-ContextMenu_RollDown = "Roll Down",
-}

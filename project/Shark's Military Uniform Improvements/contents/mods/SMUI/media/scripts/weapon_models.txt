@@ -1,8 +1,0 @@
-module Base
-{
-    
-model M67Grenade
-    {
-        mesh = weapons/1handed/M67Grenade,
-    }	
-}
