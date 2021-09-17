@@ -1,0 +1,9 @@
+module Base
+{
+        model MilitaryWebbing_WorldItem
+	{
+		mesh = WorldItems/MilitaryWebbing_WorldItem,
+		texture = WorldItems/MilitaryWebbing,
+		scale = 0.5,
+	}
+}

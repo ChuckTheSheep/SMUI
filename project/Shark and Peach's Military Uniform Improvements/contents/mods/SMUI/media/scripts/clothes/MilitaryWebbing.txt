@@ -1,0 +1,15 @@
+module SMUIClothing {
+
+	item MilitaryWebbing
+	{
+		Type = Clothing,
+		DisplayName = Military Webbing,
+		ClothingItem = MilitaryWebbing,
+		BodyLocation = AmmoStrap,
+		WeightReduction	=	50,
+		RunSpeedModifier = 1,
+		Icon = MilitaryWebbing,
+		Tooltip = Tooltip_AmmoStrap,
+		WorldStaticModel = MilitaryWebbing_WorldItem,
+	}
+}

@@ -1,0 +1,20 @@
+module SMUIClothing {
+  imports {
+      Base
+  }
+    item Gloves_HazmatGloves
+	{
+	Type = Clothing,
+	DisplayName = NBC Gloves,
+	ClothingItem = Gloves_HazmatGloves,
+    BodyLocation = Hands,
+	BloodLocation = Hands,
+	Icon = HazmatGloves,
+	ScratchDefense = 40,
+    BiteDefense = 10,
+    Weight = 0.3,
+    Insulation = 0.75,
+    WindResistance = 0.75,
+    WorldStaticModel = GlovesLong_Ground,
+	}
+}
