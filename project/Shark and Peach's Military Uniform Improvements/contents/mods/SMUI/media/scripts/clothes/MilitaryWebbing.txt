@@ -8,6 +8,23 @@ module SMUIClothing {
 		BodyLocation = AmmoStrap,
 		WeightReduction	=	50,
 		RunSpeedModifier = 1,
+		ClothingItemExtra = MilitaryWebbingTightened,
+        ClothingItemExtraOption = Tighten,
+		Icon = MilitaryWebbing,
+		Tooltip = Tooltip_AmmoStrap,
+		WorldStaticModel = MilitaryWebbing_WorldItem,
+	}
+
+		item MilitaryWebbingTightened
+	{
+		Type = Clothing,
+		DisplayName = Military Webbing (Tightened),
+		ClothingItem = MilitaryWebbingTightened,
+		BodyLocation = AmmoStrap,
+		WeightReduction	=	50,
+		RunSpeedModifier = 1,
+		ClothingItemExtra = MilitaryWebbing,
+        ClothingItemExtraOption = Loosen,
 		Icon = MilitaryWebbing,
 		Tooltip = Tooltip_AmmoStrap,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
