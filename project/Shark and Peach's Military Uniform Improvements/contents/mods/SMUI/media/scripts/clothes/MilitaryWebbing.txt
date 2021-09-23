@@ -11,6 +11,7 @@ module SMUIClothing {
 		ClothingItemExtra = MilitaryWebbingTightened,
         ClothingItemExtraOption = Fasten,
 		Icon = MilitaryWebbing,
+		AttachmentsProvided = HolsterRight,
 		Tooltip = Tooltip_AmmoStrap,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 	}
