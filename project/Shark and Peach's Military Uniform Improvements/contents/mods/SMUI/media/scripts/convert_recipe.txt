@@ -1,0 +1,15 @@
+module SMUI{
+
+  imports {
+      Base
+  }
+
+recipe Tuck In
+  	{
+   	   Trousers_CamoUrban,
+
+   	   Result:Trousers_CamoUrbanTucked,
+	   Time:0,
+  	}
+
+}		
