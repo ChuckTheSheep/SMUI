@@ -1,0 +1,16 @@
+module SMUIClothing {
+  imports {
+      Base
+  }
+    item Hat_M17
+    {
+        Type = Clothing,
+        DisplayName = M17 Gas Mask,
+        ClothingItem = Hat_M17,
+        BodyLocation = Hat,
+        Icon = PatrolCapWoodland,
+        CanHaveHoles = false,
+        Insulation = 0.10,
+        Weight = 0.5,
+    }
+}

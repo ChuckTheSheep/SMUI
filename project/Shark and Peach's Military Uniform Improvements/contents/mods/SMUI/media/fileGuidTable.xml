@@ -118,6 +118,11 @@
 	<guid>20260ba2-716d-4e84-9a36-8000c3eb6c2a</guid>
 	</files>	
 
+	<files>
+	<path>media/clothing/clothingItems/Hat_M17.xml</path>
+	<guid>2d32997a-b8e5-463d-b718-06fcf2a73437</guid>
+	</files>	
+
 	<!-- Vanilla Clothing -->
 	
 	<files>
