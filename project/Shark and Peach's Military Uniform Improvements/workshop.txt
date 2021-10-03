@@ -2,8 +2,8 @@ version=1
 id=2530389024
 title=Shark's and Peach's Military Uniform Improvements
 description=[img]https://i.imgur.com/p7Fv1Z6.gif[/img]
-description= 
-description= Consider supporting our modding efforts: 
+description=
+description= Consider supporting our modding efforts:
 description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
@@ -41,6 +41,5 @@ description=
 description= [list]
 description= [*] Rolling up sleeves while wearing a hoodie or similiar clothing underneath will cause a strange masking issue.
 description= [/list]
-description=
 tags=Build 41;Clothing/Armor;Military;Models;Realistic;Weapons
 visibility=public

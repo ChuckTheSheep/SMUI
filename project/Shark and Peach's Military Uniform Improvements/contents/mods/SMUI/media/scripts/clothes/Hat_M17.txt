@@ -5,7 +5,7 @@ module SMUIClothing {
         Type = Clothing,
         DisplayName = M17 Gas Mask,
         ClothingItem = Hat_M17,
-        BodyLocation = Hat,
+        BodyLocation = MaskEyes,
         Icon = M17,
         CanHaveHoles = false,
         ScratchDefense = 40,
