@@ -2,16 +2,11 @@ module SMUIClothing {
 
 	item MilitaryWebbing
 	{
-		Type = Container,
+		Type = Clothing,
 		DisplayName = Military Webbing,
 		ClothingItem = MilitaryWebbing,
 		BodyLocation = AmmoStrap,
-		CanBeEquipped = AmmoStrap,
 		WeightReduction	=	50,
-		Capacity	=	7,
-        OpenSound   =   OpenBag,
-        CloseSound   =   CloseBag,
-        PutInSound   =   PutItemInBag,
 		RunSpeedModifier = 1,
 		ClothingItemExtra = MilitaryWebbingTightened,
         ClothingItemExtraOption = Fasten,
@@ -22,16 +17,11 @@ module SMUIClothing {
 
 		item MilitaryWebbingTightened
 	{
-		Type = Container,
+		Type = Clothing,
 		DisplayName = Military Webbing (Tightened),
 		ClothingItem = MilitaryWebbingTightened,
 		BodyLocation = AmmoStrap,
-		CanBeEquipped = AmmoStrap,
 		WeightReduction	=	50,
-		Capacity	=	7,
-        OpenSound   =   OpenBag,
-        CloseSound   =   CloseBag,
-        PutInSound   =   PutItemInBag,
 		RunSpeedModifier = 1,
 		ClothingItemExtra = MilitaryWebbing,
         ClothingItemExtraOption = Unfasten,
