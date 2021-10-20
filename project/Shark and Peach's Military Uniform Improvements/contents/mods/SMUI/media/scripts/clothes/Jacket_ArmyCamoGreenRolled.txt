@@ -1,11 +1,8 @@
 module SMUIClothing {
-  imports {
-      Base
-  }
-        item Jacket_ArmyCamoGreen
-        
-    {
 
+
+        item Jacket_ArmyCamoGreen   
+    {
         Type = Clothing,
         DisplayName = Military Green Camo Jacket,
         ClothingItem = Jacket_ArmyCamoGreen,
@@ -28,9 +25,7 @@ module SMUIClothing {
     }
 
         item Jacket_ArmyCamoGreenRolled
-
     {
-
         Type = Clothing,
         DisplayName = Military Green Camo Jacket (Rolled),
         ClothingItem = Jacket_ArmyCamoGreenRolled,

@@ -1,7 +1,6 @@
 module SMUIClothing {
-  imports {
-      Base
-  }
+
+
     item Hat_PatrolCap
     {
         Type = Clothing,

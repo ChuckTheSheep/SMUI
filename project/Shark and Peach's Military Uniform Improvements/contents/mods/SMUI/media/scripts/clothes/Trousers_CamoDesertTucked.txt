@@ -1,11 +1,8 @@
 module SMUIClothing {
-  imports {
-      Base
-  }
-        item Trousers_CamoDesert
-    
-    {
 
+
+        item Trousers_CamoDesert
+    {
         Type = Clothing,
         DisplayName = Military Desert Camo Pants,
         ClothingItem = Trousers_CamoDesert,

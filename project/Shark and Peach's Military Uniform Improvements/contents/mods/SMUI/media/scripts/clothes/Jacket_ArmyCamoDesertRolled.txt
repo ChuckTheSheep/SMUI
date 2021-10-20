@@ -1,7 +1,5 @@
 module SMUIClothing {
-  imports {
-      Base
-  }
+
 
     item Jacket_ArmyCamoDesert
 

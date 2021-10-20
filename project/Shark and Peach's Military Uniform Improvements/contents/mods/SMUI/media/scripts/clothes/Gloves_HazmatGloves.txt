@@ -1,7 +1,5 @@
 module SMUIClothing {
-  imports {
-      Base
-  }
+
     item Gloves_HazmatGloves
 	{
 	Type = Clothing,
