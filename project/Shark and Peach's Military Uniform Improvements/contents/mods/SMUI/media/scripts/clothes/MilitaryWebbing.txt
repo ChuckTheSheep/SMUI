@@ -21,6 +21,8 @@ module SMUIClothing {
 		DisplayName = Military Webbing (Tightened),
 		ClothingItem = MilitaryWebbingTightened,
 		BodyLocation = AmmoStrap,
+		BiteDefense = 5,
+		ScratchDefense = 10,
 		WeightReduction	=	50,
 		RunSpeedModifier = 1,
 		ClothingItemExtra = MilitaryWebbing,
