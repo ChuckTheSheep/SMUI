@@ -6,6 +6,8 @@ module SMUIClothing {
 		DisplayName = Military Webbing,
 		ClothingItem = MilitaryWebbing,
 		BodyLocation = AmmoStrap,
+		BiteDefense = 5,
+		ScratchDefense = 10,
 		WeightReduction	=	50,
 		RunSpeedModifier = 1,
 		ClothingItemExtra = MilitaryWebbingTightened,
@@ -27,7 +29,8 @@ module SMUIClothing {
 		RunSpeedModifier = 1,
 		ClothingItemExtra = MilitaryWebbing,
         ClothingItemExtraOption = Unfasten,
-		Icon = MilitaryWebbing,
+		Icon = MilitaryWebbing
+		AttachmentsProvided = HolsterRight,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 	}
 }
