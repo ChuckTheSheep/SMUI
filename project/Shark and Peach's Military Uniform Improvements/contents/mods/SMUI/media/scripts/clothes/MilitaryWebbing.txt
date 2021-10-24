@@ -29,7 +29,7 @@ module SMUIClothing {
 		RunSpeedModifier = 1,
 		ClothingItemExtra = MilitaryWebbing,
         ClothingItemExtraOption = Unfasten,
-		Icon = MilitaryWebbing
+		Icon = MilitaryWebbing,
 		AttachmentsProvided = HolsterRight,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 	}
