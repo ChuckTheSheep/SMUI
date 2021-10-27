@@ -1,0 +1,9 @@
+UI_ES = {
+
+UI_ClothingType_Pupils = "Lentes de contacto",
+UI_ClothingType_Wig = "Peluca",
+ContextMenu_UpHoodie = "Capucha arriba",
+ContextMenu_DownHoodie = "Capucha abajo",
+ContextMenu_RollUp = "Enrollar",
+ContextMenu_RollDown = "Desenrollar",
+}
