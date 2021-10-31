@@ -7,7 +7,7 @@ description= Consider supporting our modding efforts:
 description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
-description=[h1][b]NEW UPDATE![/b][/h1]
+description=[h1][b]NOW WITH FASHION MONTAGE SUPPORT[/b][/h1]
 description=
 description= This mod entirely redoes the vanilla military zombies to be inline with actual equipment (e.g ALICE webbing) and clothing standards of the 1990's US Military.
 description=
@@ -26,14 +26,13 @@ description=
 description= [*] New wandering military zombies can be found very rarely.
 description= [/list]
 description=
-description= [h3]List of current additions:
+description= [h2]List of current additions:[/h2]
 description= [list]
 description= [*] ALICE Webbing
 description= [*] M17 Gas Mask
 description= [*] Woodland, Desert, and Urban Patrol Caps
 description= [*] OD Green MOPP Suit with Hazmat Gloves and Hazmat Boots
 description= [*] M67 Fragmentation Grenade (Only found on zombified soldiers)
-description=
 description= [/list]
 description=
 description= [h2]Bug:[/h2]
