@@ -84,8 +84,8 @@
 	</files>
 
 	<files>
-		<path>media/clothing/clothingItems/Jacket_ArmyCamoUrbanRolled.xml</path>
-		<guid>7496991e-2e75-46cd-86d9-92d2d90175f8</guid>
+	<path>media/clothing/clothingItems/Jacket_ArmyCamoUrbanRolled.xml</path>
+	<guid>7496991e-2e75-46cd-86d9-92d2d90175f8</guid>
 	</files>
 
 	<files>
@@ -122,6 +122,11 @@
 	<path>media/clothing/clothingItems/Hat_M17.xml</path>
 	<guid>2d32997a-b8e5-463d-b718-06fcf2a73437</guid>
 	</files>	
+
+	<files>
+	<path>media/clothing/clothingItems/Vest_BodyArmor.xml</path>
+	<guid>ea2e6901-f5e7-4021-87b4-c2c49f024b98</guid>
+	</files>
 
 	<!-- Vanilla Clothing -->
 	
