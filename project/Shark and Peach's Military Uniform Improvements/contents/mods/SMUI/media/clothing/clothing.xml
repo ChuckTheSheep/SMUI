@@ -607,6 +607,46 @@
 		</m_items>	
 	</m_MaleOutfits>
 
+	<m_MaleOutfits>
+		<m_Name>SharkCleanUpSoldier</m_Name>
+		<m_Guid>3b8e7f0c-1e15-47a3-a0c8-6edce5f6b36a</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+	    <m_items> <!-- Military Helmet-->
+			<itemGUID>9709be80-dbd9-4f98-90a6-aaab8e87cd28</itemGUID>
+		</m_items>
+		<m_items> <!-- M17 Gas Mask -->
+			<itemGUID>2d32997a-b8e5-463d-b718-06fcf2a73437</itemGUID>
+		</m_items>
+		<m_items> <!-- Long Socks -->
+			<itemGUID>fb86bd5f-1931-4b24-a5d7-bd6a43769991</itemGUID>
+		</m_items>	
+		<m_items> <!-- Army Boots -->
+			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
+		</m_items>
+		<m_items> <!-- Army T-Shirt -->
+			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
+		</m_items>
+		<m_items> <!-- Military Tactical Vest -->
+			<itemGUID>ea2e6901-f5e7-4021-87b4-c2c49f024b98</itemGUID>
+		</m_items>
+		<m_items> <!-- Military Webbing -->
+			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
+		</m_items>
+		<m_items> <!-- Urban Camo Pants (Tucked) -->
+			<itemGUID>805791e5-3cae-44db-bdeb-1c937c96fa8a</itemGUID>
+		</m_items>
+		<m_items> <!-- Urban Camo Jacket -->
+			<itemGUID>323fc189-8e21-41b8-b0ca-a481904cbb82</itemGUID>
+		</m_items>
+			<m_items> <!-- Dog-Tags -->
+			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
+		</m_items>
+		<m_items> <!-- Holster -->
+			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
+		</m_items>	
+	</m_MaleOutfits>
+
 	<!--Expanded Helicopter Events Integration-->
 
 	<m_MaleOutfits>

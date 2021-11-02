@@ -1,0 +1,17 @@
+module SMUIClothing {
+
+	item Vest_MilitaryTacticalVest
+	{
+		Type = Clothing,
+		DisplayName = Military Tactical Vest,
+		ClothingItem = Vest_MilitaryTacticalVest,
+		BodyLocation = TorsoExtra,
+		BiteDefense = 75,
+		ScratchDefense = 75,
+		BulletDefense = 100,
+		WeightReduction	=	50,
+		RunSpeedModifier = 1,
+		Icon = MilitaryWebbing,
+		WorldStaticModel = MilitaryWebbing_WorldItem,
+	}
+}
