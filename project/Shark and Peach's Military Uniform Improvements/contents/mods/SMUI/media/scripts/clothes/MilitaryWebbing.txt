@@ -2,10 +2,11 @@ module SMUIClothing {
 
 	item MilitaryWebbing
 	{
-		Type = Clothing,
+		Type = Container,
 		DisplayName = Military Webbing,
 		ClothingItem = MilitaryWebbing,
 		BodyLocation = AmmoStrap,
+		CanBeEquipped = AmmoStrap,
 		BiteDefense = 5,
 		ScratchDefense = 10,
 		WeightReduction	=	50,

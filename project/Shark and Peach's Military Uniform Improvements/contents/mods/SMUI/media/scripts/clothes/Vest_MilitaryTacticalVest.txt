@@ -11,7 +11,7 @@ module SMUIClothing {
 		BulletDefense = 100,
 		WeightReduction	=	50,
 		RunSpeedModifier = 1,
-		Icon = MilitaryWebbing,
-		WorldStaticModel = MilitaryWebbing_WorldItem,
+		Icon = MilitaryTacticalVest,
+		WorldStaticModel = MilitaryTacticalVest_WorldItem,
 	}
 }

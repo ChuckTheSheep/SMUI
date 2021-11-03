@@ -6,4 +6,11 @@ module Base
 		texture = WorldItems/MilitaryWebbing,
 		scale = 0.5,
 	}
+
+	    model MilitaryTacticalVest_WorldItem
+	{
+		mesh = WorldItems/MilitaryTacticalVest_WorldItem,
+		texture = WorldItems/MilitaryTacticalVest,
+		scale = 0.5,
+	}
 }
