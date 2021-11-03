@@ -580,7 +580,7 @@
 		<m_items> <!-- Military Webbing -->
 			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
 		</m_items>
-		<m_items> <!-- ALICE Pack (Woodland) -->
+		<m_items> <!-- ALICE Pack (Plain) -->
 		<probability>0.1</probability>
 			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
 		</m_items>
