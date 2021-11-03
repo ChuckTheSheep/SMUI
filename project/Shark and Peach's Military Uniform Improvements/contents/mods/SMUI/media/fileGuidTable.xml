@@ -79,8 +79,8 @@
 	</files>
 
 	<files>
-		<path>media/clothing/clothingItems/Jacket_ArmyCamoUrban.xml</path>
-		<guid>323fc189-8e21-41b8-b0ca-a481904cbb82</guid>
+	<path>media/clothing/clothingItems/Jacket_ArmyCamoUrban.xml</path>
+	<guid>323fc189-8e21-41b8-b0ca-a481904cbb82</guid>
 	</files>
 
 	<files>
@@ -116,6 +116,16 @@
 	<files>
 	<path>media/clothing/clothingItems/MilitaryWebbingTightened.xml</path>
 	<guid>20260ba2-716d-4e84-9a36-8000c3eb6c2a</guid>
+	</files>	
+
+	<files>
+	<path>media/clothing/clothingItems/MilitaryWebbingButtpack.xml</path>
+	<guid>869bb12b-cfcb-411d-b7de-388d432add5a</guid>
+	</files>	
+	
+	<files>
+	<path>media/clothing/clothingItems/MilitaryWebbingButtpackTightened.xml</path>
+	<guid>e4ab87fe-b160-4edc-a852-e8d3a13def23</guid>
 	</files>	
 
 	<files>
