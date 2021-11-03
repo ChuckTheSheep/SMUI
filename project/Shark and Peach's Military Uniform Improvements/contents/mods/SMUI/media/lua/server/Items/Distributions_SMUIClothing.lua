@@ -25,6 +25,11 @@ table.insert(ProceduralDistributions["list"]["ArmyStorageOutfit"].items, 2);
 table.insert(ProceduralDistributions["list"]["ArmySurplusHeadwear"].items, "SMUIClothing.Hat_BeretSpecial");
 table.insert(ProceduralDistributions["list"]["ArmySurplusHeadwear"].items, 2);
 
+table.insert(ProceduralDistributions["list"]["ArmyStorageOutfit"].items, "SMUIClothing.Vest_MilitaryTacticalVest");
+table.insert(ProceduralDistributions["list"]["ArmyStorageOutfit"].items, 0.5);
+table.insert(ProceduralDistributions["list"]["ArmySurplusOutfit"].items, "SMUIClothing.Vest_MilitaryTacticalVest");
+table.insert(ProceduralDistributions["list"]["ArmySurplusOutfit"].items, 0.5);
+
 table.insert(ProceduralDistributions["list"]["ArmyStorageOutfit"].items, "SMUIClothing.Hat_CavalryHat");
 table.insert(ProceduralDistributions["list"]["ArmyStorageOutfit"].items, 2);
 table.insert(ProceduralDistributions["list"]["ArmySurplusHeadwear"].items, "SMUIClothing.Hat_CavalryHat");
