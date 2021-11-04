@@ -1,0 +1,5 @@
+Tooltip_EN = {
+    Tooltip_M17 = "Standard Mlitary Gas Mask",
+    Tooltip_MilitaryWebbing = "Standard Military Webbing",
+    Tooltip_MilitaryTacticalVest = "Soft body armor designed for special units",
+}

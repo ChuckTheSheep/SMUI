@@ -32,5 +32,6 @@ module SMUIClothing {
 		Icon = MilitaryWebbing,
 		AttachmentsProvided = HolsterRight,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
+		Tooltip = Tooltip_MilitaryWebbing,
 	}
 }
