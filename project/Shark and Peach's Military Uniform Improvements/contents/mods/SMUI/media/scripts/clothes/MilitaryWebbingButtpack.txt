@@ -3,7 +3,7 @@ module SMUIClothing {
 	item MilitaryWebbingButtpack
 	{
 		Type = Clothing,
-		DisplayName = Military Webbing w/ Pack,
+		DisplayName = This isnt finished,
 		ClothingItem = MilitaryWebbing,
 		BodyLocation = AmmoStrap,
 		BiteDefense = 5,
@@ -20,7 +20,7 @@ module SMUIClothing {
 		item MilitaryWebbingButtpackTightened
 	{
 		Type = Clothing,
-		DisplayName = Military Webbing w/ Pack (Tightened),
+		DisplayName = This isnt finished,
 		ClothingItem = MilitaryWebbingButtpackTightened,
 		BodyLocation = AmmoStrap,
 		BiteDefense = 5,
