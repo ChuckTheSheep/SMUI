@@ -119,16 +119,6 @@
 	</files>	
 
 	<files>
-	<path>media/clothing/clothingItems/MilitaryWebbingButtpack.xml</path>
-	<guid>869bb12b-cfcb-411d-b7de-388d432add5a</guid>
-	</files>	
-	
-	<files>
-	<path>media/clothing/clothingItems/MilitaryWebbingButtpackTightened.xml</path>
-	<guid>e4ab87fe-b160-4edc-a852-e8d3a13def23</guid>
-	</files>	
-
-	<files>
 	<path>media/clothing/clothingItems/Hat_M17.xml</path>
 	<guid>2d32997a-b8e5-463d-b718-06fcf2a73437</guid>
 	</files>	
