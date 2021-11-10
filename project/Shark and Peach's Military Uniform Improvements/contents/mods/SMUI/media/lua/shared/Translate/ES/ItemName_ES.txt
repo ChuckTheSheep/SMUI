@@ -17,7 +17,7 @@ ItemName_ES = {
 	ItemName_SMUIClothing.Jacket_ArmyCamoGreenRolled = "Chaqueta militar de camuflaje verde (Arremangada)",
 	ItemName_SMUIClothing.Jacket_ArmyCamoUrban  = "Chaqueta militar de camuflaje urbano",
 	ItemName_SMUIClothing.Jacket_ArmyCamoUrbanRolled = "Chaqueta militar de camuflaje urbano (Arremangada)",
-	ItemName_SMUIClothing.MilitaryWebbing = "Arnés militar ",
+	ItemName_SMUIClothing.MilitaryWebbing = "Arnés militar",
 	ItemName_SMUIClothing.MilitaryWebbingTightened = "Arnés militar (Ajustado)",
 	ItemName_SMUIClothing.Shoes_HazmatBoots = "Botas NBC",
 	ItemName_SMUIClothing.NBCSuit = "Traje NBC",
@@ -26,5 +26,6 @@ ItemName_ES = {
 	ItemName_SMUIClothing.Trousers_CamoGreen = "Pantalones militares de camuflaje",
 	ItemName_SMUIClothing.Trousers_CamoGreenTucked = "Pantalones militares de camuflaje (Enrollados)",
 	ItemName_SMUIClothing.Trousers_CamoUrban = "Pantalones militares de camuflaje urbano",
-	ItemName_SMUIClothing.Trousers_CamoUrbanTucked = "Pantalones militares de camuflaje urbano (Enrollados)"
+	ItemName_SMUIClothing.Trousers_CamoUrbanTucked = "Pantalones militares de camuflaje urbano (Enrollados)",
+	ItemName_SMUIClothing.Vest_MilitaryTacticalVest = "Chaleco táctico militar"
 } 
