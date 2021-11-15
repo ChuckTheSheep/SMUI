@@ -13,7 +13,7 @@ module SMUIClothing {
 		ClothingItemExtra = MilitaryWebbingBagTightened,
         ClothingItemExtraOption = Fasten,
 		Icon = MilitaryWebbingBag,
-		Tooltip = Tooltip_MilitaryWebbing,
+		Tooltip = Tooltip_MilitaryWebbingBag,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 	}
 
@@ -30,7 +30,7 @@ module SMUIClothing {
 		ClothingItemExtra = MilitaryWebbingBag,
         ClothingItemExtraOption = Unfasten,
 		Icon = MilitaryWebbingBag,
-		Tooltip = Tooltip_MilitaryWebbing,
+		Tooltip = Tooltip_MilitaryWebbingBag,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 	}
 }

@@ -1,5 +1,6 @@
 Tooltip_EN = {
-    Tooltip_M17 = "Standard US Military Gas Mask",
-    Tooltip_MilitaryWebbing = "Standard US Military Webbing",
+    Tooltip_M17 = "Standard US Infantry Gas Mask",
+    Tooltip_MilitaryWebbing = "Standard US Infantry Webbing",
+    Tooltip_MilitaryWebbingBag = "Standard US Infantry Webbing w/ a buttpack",
     Tooltip_MilitaryTacticalVest = "Soft body armor designed for special units",
 }
