@@ -45,6 +45,8 @@ local clothing = {
 	AmmoStrap = {
 		"SMUIClothing.MilitaryWebbing",
 		"SMUIClothing.MilitaryWebbingTightened",
+		"SMUIClothing.MilitaryWebbingBag",
+		"SMUIClothing.MilitaryWebbingBagTightened",
 	},
 	Mask = {
 		"SMUIClothing.Hat_M17",
