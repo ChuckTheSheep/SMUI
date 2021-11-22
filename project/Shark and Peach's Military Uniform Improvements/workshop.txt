@@ -31,6 +31,7 @@ description= [list]
 description= [*] ALICE Webbing + Buttpack Version
 description= [*] M17 Gas Mask
 description= [*] Woodland, Desert, and Urban Patrol Caps
+description= [*] Olive Drab Military Vest
 description= [*] Military Tactical Vest
 description= [*] OD Green MOPP Suit with Hazmat Gloves and Hazmat Boots
 description= [*] M67 Fragmentation Grenade (Only found on zombified soldiers)
