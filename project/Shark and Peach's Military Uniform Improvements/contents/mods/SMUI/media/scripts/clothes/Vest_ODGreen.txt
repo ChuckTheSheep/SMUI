@@ -1,0 +1,19 @@
+module SMUIClothing {
+
+	item Vest_ODGreen
+	{
+        Type = Clothing,
+        DisplayName = Olive Drab Military Vest,
+        ClothingItem = Vest_ODGreen,
+        BodyLocation = TorsoExtra,
+        Icon = ODGreenVest,
+        BloodLocation = ShirtNoSleeves,
+        Insulation = 0.75,
+        WindResistance = 0.45,
+        BiteDefense = 30,
+        ScratchDefense = 55,
+        BulletDefense = 100,
+		Tooltip = Tooltip_ODGreen,
+        WorldStaticModel = BulletVest_Ground,
+	}
+}
