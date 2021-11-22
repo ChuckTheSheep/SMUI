@@ -3,4 +3,5 @@ Tooltip_EN = {
     Tooltip_MilitaryWebbing = "Standard US Infantry Webbing",
     Tooltip_MilitaryWebbingBag = "Standard US Infantry Webbing w/ a buttpack",
     Tooltip_MilitaryTacticalVest = "Soft body armor designed for special units",
+    Tooltip_ODGreen = "Older military vest usually issued to reservists
 }
