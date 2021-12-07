@@ -3,6 +3,7 @@ module SMUIClothing {
 
     item Hat_PatrolCapDesert
     {
+        DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Desert Camo Patrol Cap,
         ClothingItem = Hat_PatrolCapDesert,

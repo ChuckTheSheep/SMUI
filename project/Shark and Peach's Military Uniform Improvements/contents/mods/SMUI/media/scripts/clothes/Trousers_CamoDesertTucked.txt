@@ -3,6 +3,7 @@ module SMUIClothing {
 
         item Trousers_CamoDesert
     {
+        DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Military Desert Camo Pants,
         ClothingItem = Trousers_CamoDesert,
@@ -22,6 +23,7 @@ module SMUIClothing {
 
         item Trousers_CamoDesertTucked
     {
+        DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Military Desert Camo Pants (Tucked),
         ClothingItem = Trousers_CamoDesertTucked,

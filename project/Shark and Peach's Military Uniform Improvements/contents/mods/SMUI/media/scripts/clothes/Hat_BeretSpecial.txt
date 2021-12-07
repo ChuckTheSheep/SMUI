@@ -2,6 +2,7 @@ module SMUIClothing {
 
     item Hat_BeretSpecial
     {
+        DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Red Military Beret,
         ClothingItem = Hat_BeretSpecial,

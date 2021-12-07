@@ -1,9 +1,8 @@
 module SMUIClothing {
-  imports {
-      Base
-  }
+
     item Shoes_HazmatBoots
-	{
+	{   
+    DisplayCategory = Clothing,
 	Type = Clothing,
 	DisplayName = NBC Boots,
 	ClothingItem = Shoes_HazmatBoots,

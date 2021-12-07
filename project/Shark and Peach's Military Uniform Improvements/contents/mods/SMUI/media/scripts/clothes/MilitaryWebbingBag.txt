@@ -2,6 +2,7 @@ module SMUIClothing {
 
 	item MilitaryWebbingBag
 	{
+		DisplayCategory = Accessory,
 		Type = Container,
 		DisplayName = Military Webbing /w Pack,
 		ClothingItem = MilitaryWebbingBag,
@@ -13,12 +14,12 @@ module SMUIClothing {
 		ClothingItemExtra = MilitaryWebbingBagTightened,
         ClothingItemExtraOption = Fasten,
 		Icon = MilitaryWebbingBag,
-		Tooltip = Tooltip_MilitaryWebbingBag,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 	}
 
 		item MilitaryWebbingBagTightened
 	{
+		DisplayCategory = Accessory,
 		Type = Container,
 		DisplayName = Military Webbing /w Pack (Tightened),
 		ClothingItem = MilitaryWebbingBagTightened,
@@ -30,7 +31,6 @@ module SMUIClothing {
 		ClothingItemExtra = MilitaryWebbingBag,
         ClothingItemExtraOption = Unfasten,
 		Icon = MilitaryWebbingBag,
-		Tooltip = Tooltip_MilitaryWebbingBag,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 	}
 }

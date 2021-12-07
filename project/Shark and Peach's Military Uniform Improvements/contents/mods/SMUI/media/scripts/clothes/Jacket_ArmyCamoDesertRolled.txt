@@ -4,6 +4,7 @@ module SMUIClothing {
     item Jacket_ArmyCamoDesert
 
     {
+        DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Military Desert Camo Jacket,
         ClothingItem = Jacket_ArmyCamoDesert,
@@ -27,6 +28,7 @@ module SMUIClothing {
     item Jacket_ArmyCamoDesertRolled
 
     {
+        DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Military Desert Camo Jacket (Rolled),
         ClothingItem = Jacket_ArmyCamoDesertRolled,

@@ -4,7 +4,7 @@ module SMUIClothing {
         item Jacket_ArmyCamoUrban
         
     {
-
+        DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Military Urban Camo Jacket,
         ClothingItem = Jacket_ArmyCamoUrban,
@@ -29,7 +29,7 @@ module SMUIClothing {
         item Jacket_ArmyCamoUrbanRolled
 
     {
-
+        DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Military Urban Camo Jacket (Rolled),
         ClothingItem = Jacket_ArmyCamoUrbanRolled,

@@ -1,7 +1,8 @@
 module SMUIClothing {
 
 	item Vest_ODGreen
-	{
+	{   
+        DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Olive Drab Military Vest,
         ClothingItem = Vest_ODGreen,

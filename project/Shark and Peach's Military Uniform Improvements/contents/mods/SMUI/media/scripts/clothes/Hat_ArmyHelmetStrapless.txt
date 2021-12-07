@@ -2,6 +2,7 @@ module SMUIClothing {
 
         item Hat_Army
 	{
+        DisplayCategory = Clothing,
 		Type = Clothing,
 		DisplayName = Military Helmet,
 		ClothingItem = Hat_Army,
@@ -18,6 +19,7 @@ module SMUIClothing {
 	}
     item Hat_ArmyHelmetStrapless
     {
+        DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Military Helmet (Strapless),
         ClothingItem = Hat_ArmyHelmetStrapless,

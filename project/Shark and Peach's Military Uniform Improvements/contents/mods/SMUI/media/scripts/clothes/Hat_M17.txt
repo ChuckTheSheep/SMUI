@@ -2,6 +2,7 @@ module SMUIClothing {
     
       item Hat_M17
     {
+        DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = M17 Gas Mask,
         ClothingItem = Hat_M17,

@@ -3,6 +3,7 @@ module SMUIClothing {
 
         item Jacket_ArmyCamoGreen   
     {
+        DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Military Green Camo Jacket,
         ClothingItem = Jacket_ArmyCamoGreen,
@@ -26,6 +27,7 @@ module SMUIClothing {
 
         item Jacket_ArmyCamoGreenRolled
     {
+        DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Military Green Camo Jacket (Rolled),
         ClothingItem = Jacket_ArmyCamoGreenRolled,
