@@ -13,7 +13,8 @@ module SMUIClothing {
 		RunSpeedModifier = 1.2,
 		ClothingItemExtra = MilitaryWebbingBagTightened,
         ClothingItemExtraOption = Fasten,
-		Icon = MilitaryWebbingBag,
+		Icon = MilitaryWebbingBag, 
+		Tooltip = Tooltip_MilitaryWebbingBag,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 	}
 
@@ -31,6 +32,7 @@ module SMUIClothing {
 		ClothingItemExtra = MilitaryWebbingBag,
         ClothingItemExtraOption = Unfasten,
 		Icon = MilitaryWebbingBag,
+		Tooltip = Tooltip_MilitaryWebbingBag,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 	}
 }
