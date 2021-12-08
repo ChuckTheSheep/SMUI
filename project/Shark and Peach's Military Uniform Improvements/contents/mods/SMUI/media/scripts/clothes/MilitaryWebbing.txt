@@ -32,7 +32,7 @@ module SMUIClothing {
 		ClothingItemExtra = MilitaryWebbing,
         ClothingItemExtraOption = Unfasten,
 		Icon = MilitaryWebbing,
-		Tooltip_MilitaryWebbing,
+		Tooltip = Tooltip_MilitaryWebbing,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 	}
 }
