@@ -13,4 +13,11 @@ module Base
 		texture = WorldItems/MilitaryTacticalVest,
 		scale = 0.5,
 	}
+
+		model NVG_WorldItem
+	{
+		mesh = WorldItems/NVG_WorldItem,
+		texture = WorldItems/NVG,
+		scale = 0.5,
+	}
 }

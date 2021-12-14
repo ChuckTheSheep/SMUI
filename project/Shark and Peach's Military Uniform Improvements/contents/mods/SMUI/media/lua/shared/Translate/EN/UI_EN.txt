@@ -1,7 +1,7 @@
 UI_EN = {
 
-ContextMenu_UpHoodie = "Hood Up",
-ContextMenu_DownHoodie = "Hood Down",
+ContextMenu_FlipUp = "Flip Up",
+ContextMenu_FlipDown = "Flip Down",
 ContextMenu_RollUp = "Roll Up",
 ContextMenu_RollDown = "Roll Down",
 

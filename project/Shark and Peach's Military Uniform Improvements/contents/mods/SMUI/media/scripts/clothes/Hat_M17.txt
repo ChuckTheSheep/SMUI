@@ -12,6 +12,7 @@ module SMUIClothing {
         ScratchDefense = 40,
         BiteDefense = 30,
         Weight = 0.5,
+        WorldStaticModel = NVG_WorldItem,
         Tooltip = Tooltip_M17,
     }
 }

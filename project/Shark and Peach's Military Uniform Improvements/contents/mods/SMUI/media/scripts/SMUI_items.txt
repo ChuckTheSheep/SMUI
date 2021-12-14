@@ -1,0 +1,14 @@
+module SMUIClothing
+{
+
+		item NightVisionGoggles
+	{
+		DisplayCategory = Accessory,
+		Weight = 0.3,
+		Type = Normal,
+		WorldStaticModel = NVG_WorldItem,
+		DisplayName = Night Vision Goggles,
+		Tooltip = Tooltip_NightVisionGoggles,
+		Icon = NightVisionGoggles,
+	}
+}

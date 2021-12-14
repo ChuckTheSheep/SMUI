@@ -1,0 +1,37 @@
+module SMUIClothing
+{
+
+		item Hat_NightVisionGogglesUP
+
+	{
+		Type = Clothing,
+		DisplayName = Military Helmet /w Night Vision (Up),
+		ClothingItem = Hat_NightVisionGogglesUP,
+		BodyLocation = Hat,
+		Icon = NightVisionGoggles
+		CanHaveHoles = false,
+		BloodLocation = FullHelmet,
+		ClothingItemExtra = Hat_NightVisionGogglesDOWN,
+        ClothingItemExtraOption = FlipDown,
+        clothingExtraSubmenu = FlipUp,
+		ChanceToFall = 0,
+        Weight = 3,
+    }
+
+		item Hat_NightVisionGogglesDOWN
+
+	{
+		Type = Clothing,
+		DisplayName = Military Helmet /w Night Vision (Down),
+		ClothingItem = Hat_NightVisionGogglesDOWN,
+		BodyLocation = Hat,
+        Icon = NightVisionGoggles,
+		CanHaveHoles = false,
+		BloodLocation = FullHelmet,
+		ClothingItemExtra = Hat_NightVisionGogglesUP,
+        ClothingItemExtraOption = FlipDown,
+        clothingExtraSubmenu = FlipUp,
+		ChanceToFall = 0,
+        Weight = 3,
+    }
+}
