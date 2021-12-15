@@ -9,10 +9,9 @@ module SMUIClothing {
         BodyLocation = MaskEyes,
         Icon = M17,
         CanHaveHoles = false,
-        ScratchDefense = 40,
+        ScratchDefense = 10,
         BiteDefense = 30,
         Weight = 0.5,
-        WorldStaticModel = NVG_WorldItem,
         Tooltip = Tooltip_M17,
     }
 }

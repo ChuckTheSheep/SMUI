@@ -143,6 +143,27 @@
 	<guid>ea2e6901-f5e7-4021-87b4-c2c49f024b98</guid>
 	</files>
 
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetNVGUP.xml</path>
+	<guid>14b93a03-3b91-463a-b59d-4c83bf3c0574</guid>
+	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetNVGDOWN.xml</path>
+	<guid>ea2e6901-f5e7-4021-87b4-c2c49f024b98</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetStraplessNVGUP.xml</path>
+	<guid>675faad0-decc-4935-bf5d-0fad66327430</guid>
+	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetStraplessNVGDOWN.xml</path>
+	<guid>4a5156a8-17d8-4f7b-b19b-559469f07c22</guid>
+	</files>
+
+
 	<!-- Vanilla Clothing -->
 	
 	<files>
