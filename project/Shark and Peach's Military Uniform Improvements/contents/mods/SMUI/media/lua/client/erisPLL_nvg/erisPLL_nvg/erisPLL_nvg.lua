@@ -143,7 +143,7 @@ erisPLL_nvg.onDeactivate = function(_, _plObj, _itemObj, _manager)
 	erisPLL_nvg.activeNVG[_plObj:getDisplayName() .. _plObj:getPlayerNum()] = nil;
 	erisPLL_nvg.numActiveNVG = erisPLL_nvg.numActiveNVG - 1; if erisPLL_nvg.numActiveNVG < 0 then erisPLL_nvg.numActiveNVG = 0; end;
 	erisPLL_nvg.updateScreenBounds();
-	_plObj:getEmitter():playSound("nvOFF", true); 
+	_plObj:getEmitter():playSound("nvgON", true); 
 	Events.OnPreUIDraw.Remove(erisPLL_nvg.doBrightnessOverlay);
 end
 

@@ -20,4 +20,11 @@ module Base
 		texture = WorldItems/NVG,
 		scale = 0.5,
 	}
+
+		model MilitaryHelmetNVGUP_WorldItem
+	{
+		mesh = WorldItems/MilitaryHelmetNVGUP_WorldItem,
+		texture = WorldItems/MilitaryHelmetNVG,
+		scale = 0.5,
+	}
 }

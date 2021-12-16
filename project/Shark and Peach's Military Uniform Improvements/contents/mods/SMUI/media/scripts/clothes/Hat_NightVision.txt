@@ -8,7 +8,7 @@ module SMUIClothing
 		DisplayName = Military Helmet /w Night Vision (Up),
 		ClothingItem = Hat_MilitaryHelmetNVGUP,
 		BodyLocation = Hat,
-		Icon = NightVisionGoggles,
+		Icon = MilitaryHelmetNVG,
 		BloodLocation = FullHelmet,
 		BiteDefense = 100,
 		ScratchDefense = 100,
@@ -19,6 +19,7 @@ module SMUIClothing
         ClothingItemExtraOption = FlipDown,
 		ChanceToFall = 0,
         Weight = 3,
+		WorldStaticModel = MilitaryHelmetNVGUP_WorldItem,
     }
 
 		item Hat_MilitaryHelmetNVGDOWN
@@ -32,50 +33,12 @@ module SMUIClothing
 		BiteDefense = 100,
 		ScratchDefense = 100,
 		Insulation = 0.25,
-        Icon = NightVisionGoggles,
+        Icon = MilitaryHelmetNVG,
 		CanHaveHoles = false,
 		ClothingItemExtra = Hat_MilitaryHelmetNVGUP,
         ClothingItemExtraOption = FlipUp,
 		ChanceToFall = 0,
         Weight = 3,
-    }
-
-		item Hat_MilitaryHelmetStraplessNVGDOWN
-
-	{
-		Type = Clothing,
-		DisplayName = Strapless Military Helmet /w Night Vision (Down),
-		ClothingItem = Hat_MilitaryHelmetStraplessNVGDOWN,
-		BodyLocation = Hat,
-		BloodLocation = FullHelmet,
-		BiteDefense = 100,
-		ScratchDefense = 100,
-		Insulation = 0.25,
-        Icon = NightVisionGoggles,
-		CanHaveHoles = false,
-		ClothingItemExtra = Hat_MilitaryHelmetStraplessNVGUP,
-        ClothingItemExtraOption = FlipUp,
-		ChanceToFall = 50,
-        Weight = 3,
-    }
-
-		item Hat_MilitaryHelmetStraplessNVGUP
-
-	{
-		Type = Clothing,
-		DisplayName = Strapless Military Helmet /w Night Vision (Up),
-		ClothingItem = Hat_MilitaryHelmetStraplessNVGUP,
-		BodyLocation = Hat,
-		Icon = NightVisionGoggles,
-		BloodLocation = FullHelmet,
-		BiteDefense = 100,
-		ScratchDefense = 100,
-		Insulation = 0.25,
-		WaterResistance = 0.2,
-		CanHaveHoles = false,
-		ClothingItemExtra = Hat_MilitaryHelmetStraplessNVGDOWN,
-        ClothingItemExtraOption = FlipDown,
-		ChanceToFall = 50,
-        Weight = 3,
+		WorldStaticModel = MilitaryHelmetNVGUP_WorldItem,
     }
 }

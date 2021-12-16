@@ -1,4 +1,4 @@
-module SMUI{
+module SMUIClothing{
 
   imports {
       Base
@@ -53,48 +53,22 @@ recipe Roll Up
 	   Time:0,
   	}
 
-recipe Unstrap
+recipe Attach Night Vision
   	{
-   	   Hat_MilitaryHelmetNVGDOWN,
-
-   	   Result:Hat_MilitaryHelmetStraplessNVGDOWN,
-	   Time:0,
-  	}
-
-recipe Strap
-  	{
-   	   Hat_MilitaryHelmetStraplessNVGDOWN,
-
-   	   Result:Hat_MilitaryHelmetNVGDOWN,
-	   Time:0,
-  	}
-
-recipe Unstrap
-  	{
-   	   Hat_MilitaryHelmetNVGUP,
-
-   	   Result:Hat_MilitaryHelmetStraplessNVGUP,
-	   Time:0,
-  	}
-
-recipe Strap
-  	{
-   	   Hat_MilitaryHelmetStraplessNVGUP,
+   	   Hat_MilitaryHelmetNVGMount,
+	   NightVisionGoggles,
 
    	   Result:Hat_MilitaryHelmetNVGUP,
-	   Time:0,
+	   Time:60,
   	}
 
 recipe Attach Night Vision
   	{
-   	   Hat_MilitaryHelmet,
-	   SMUIClothing.NightVisionGoggles,
+   	   Hat_MilitaryHelmetNVGMountStrapless,
+	   NightVisionGoggles,
 
    	   Result:Hat_MilitaryHelmetNVGUP,
 	   Time:60,
   	}
 	  
-	  
-	  
-
 }		

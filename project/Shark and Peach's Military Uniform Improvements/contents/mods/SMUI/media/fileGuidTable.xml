@@ -2,6 +2,16 @@
 <fileGuidTable>
 
 	<!-- SMUI Clothing -->
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetNVGMount.xml</path>
+	<guid>dde2a198-d11d-4a19-9826-a58a8f92627e</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetNVGMountStrapless.xml</path>
+	<guid>a8cd2404-8850-4e00-a475-d5f6b42495ec</guid>
+	</files>
 	
 	<files>
 	<path>media/clothing/clothingItems/Hat_PatrolCap.xml</path>
