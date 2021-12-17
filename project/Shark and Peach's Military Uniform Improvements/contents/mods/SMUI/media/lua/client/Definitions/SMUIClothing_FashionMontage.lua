@@ -27,6 +27,8 @@ local clothing = {
 		"SMUIClothing.Hat_PatrolCapUrban",
 		"SMUIClothing.Hat_BeretSpecial",
 		"SMUIClothing.Hat_CavalryHat",
+		"SMUIClothing.Hat_MilitaryHelmetNVGMount",
+		"SMUIClothing.Hat_MilitaryHelmetNVGUP",
 	},
 	TankTop = {},     -- Remember,
 	Tshirt = {},      -- if

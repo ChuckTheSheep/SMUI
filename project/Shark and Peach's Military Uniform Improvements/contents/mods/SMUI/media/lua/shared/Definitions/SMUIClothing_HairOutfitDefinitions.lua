@@ -28,6 +28,18 @@ cat.haircut = "Fresh:30;Bun:20;Kate:20;Ponytail:30";
 table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
 
 local cat = {};
+cat.outfit = "SharkArmyCamoGreenNVGMale";
+cat.haircut = "Short:34;Bald:33;CrewCut:33;";
+cat.beard = "None:100";
+table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
+
+local cat = {};
+cat.outfit = "SharkArmyCamoGreenNVGFemale";
+cat.haircut = "Fresh:30;Bun:20;Kate:20;Ponytail:30";
+table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
+
+
+local cat = {};
 cat.outfit = "SharkArmyCamoDesertMale";
 cat.haircut = "Short:34;Bald:33;CrewCut:33;";
 cat.beard = "None:100";
