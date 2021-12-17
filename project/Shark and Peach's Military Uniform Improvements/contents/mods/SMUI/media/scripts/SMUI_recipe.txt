@@ -70,5 +70,21 @@ recipe Attach Night Vision
    	   Result:Hat_MilitaryHelmetNVGUP,
 	   Time:60,
   	}
+
+recipe Detach Night Vision
+  	{
+   	   Hat_MilitaryHelmetNVGUP,
+
+   	   Result:NightVisionGoggles,
+	   Time:60,
+  	}
+
+recipe Detach Night Vision
+  	{
+   	   Hat_MilitaryHelmetNVGUP,
+
+   	   Result:NightVisionGoggles,
+	   Time:60,
+  	}
 	  
 }		

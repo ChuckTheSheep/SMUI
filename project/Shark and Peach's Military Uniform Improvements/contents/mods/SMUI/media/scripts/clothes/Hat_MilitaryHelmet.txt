@@ -1,22 +1,5 @@
 module SMUIClothing {
 
-        item Hat_MilitaryHelmet
-	{
-        DisplayCategory = Clothing,
-		Type = Clothing,
-		DisplayName = Military Helmet,
-		ClothingItem = Hat_MilitaryHelmet,
-		BodyLocation = Hat,
-		Icon = HelmetArmyGreen,
-		CanHaveHoles = false,
-        ClothingItemExtra = Hat_ArmyHelmetStrapless,
-        ClothingItemExtraOption = Unstrap,
-		BloodLocation = Head,
-		BiteDefense = 100,
-		ScratchDefense = 100,
-		Insulation = 0.25,
-		WaterResistance = 0.2,
-	}
 
         item Hat_Army
 	{
@@ -67,6 +50,7 @@ module SMUIClothing {
 		ScratchDefense = 100,
 		Insulation = 0.25,
 		WaterResistance = 0.2,
+		WorldStaticModel = MilitaryHelmetNVGMount_WorldItem,
 	}
 
 		item Hat_MilitaryHelmetNVGMountStrapless,
@@ -85,6 +69,7 @@ module SMUIClothing {
 		ScratchDefense = 100,
 		Insulation = 0.25,
 		WaterResistance = 0.2,
+		WorldStaticModel = MilitaryHelmetNVGMount_WorldItem,
 	}
 
 	
