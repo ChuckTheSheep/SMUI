@@ -16,6 +16,7 @@ module SMUIClothing {
 		Icon = MilitaryWebbing,
 		Tooltip = Tooltip_MilitaryWebbing,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
+		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
 
 		item MilitaryWebbingTightened
@@ -34,5 +35,6 @@ module SMUIClothing {
 		Icon = MilitaryWebbing,
 		Tooltip = Tooltip_MilitaryWebbing,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
+		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
 }

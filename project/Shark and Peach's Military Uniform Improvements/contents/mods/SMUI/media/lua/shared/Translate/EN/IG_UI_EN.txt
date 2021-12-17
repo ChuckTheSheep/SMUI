@@ -1,0 +1,6 @@
+IGUI_EN = {
+
+	IGUI_HotbarAttachment_SMUIWebbingLeft = "Webbing Left Slot",
+	IGUI_HotbarAttachment_SMUIWebbingRight = "Webbing Right Slot",
+
+}
