@@ -52,6 +52,14 @@ recipe Roll Up
    	   Result:Jacket_ArmyCamoUrbanRolled,
 	   Time:0,
   	}
+
+recipe Refit helmet
+  	{
+   	   Hat_Army,
+
+   	   Result:Hat_MilitaryHelmet,
+	   Time:0,
+  	}
 	  
 
 }		
