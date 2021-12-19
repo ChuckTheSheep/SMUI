@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <clothingItem>
-	<m_MaleModel>media/models_X/Skinned/clothes/MilitaryHelmetMount.FBX</m_MaleModel>
-	<m_MaleModel>media/models_X/Skinned/clothes/MilitaryHelmetMount.FBX</m_MaleModel>
+	<m_MaleModel>media/models_X/Skinned/clothes/MilitaryHelmet.FBX</m_MaleModel>
+	<m_MaleModel>media/models_X/Skinned/clothes/MilitaryHelmet.FBX</m_MaleModel>
 	<m_GUID>e3b68146-8b14-4c4c-a59e-d0fb94901858</m_GUID>
 	<m_Static>true</m_Static>
 	<m_AllowRandomHue>false</m_AllowRandomHue>
