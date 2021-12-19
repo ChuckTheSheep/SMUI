@@ -1,34 +1,31 @@
 module SMUIClothing {
 
 
-        item Hat_Army
-	{
+        item Hat_MilitaryHelmet
+    {
         DisplayCategory = Clothing,
-		Type = Clothing,
-		DisplayName = Military Helmet,
-		ClothingItem = Hat_Army,
-		BodyLocation = Hat,
-		Icon = HelmetArmyGreen,
-		CanHaveHoles = false,
-        ClothingItemExtra = Hat_ArmyHelmetStrapless,
-        ClothingItemExtraOption = Unstrap,
-		BloodLocation = Head,
-		BiteDefense = 100,
-		ScratchDefense = 100,
-		Insulation = 0.25,
-		WaterResistance = 0.2,
-	}
+        Type = Clothing,
+        DisplayName = Military Helmet,
+        ClothingItem = Hat_MilitaryHelmet,
+        BodyLocation = Hat,
+        Icon = MilitaryHelmetStrapless,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_MilitaryHelmetStrapless,
+        ClothingItemExtraOption = Strap,
+        Insulation = 0.10,
+        Weight = 0.2,
+    }
 
-        item Hat_ArmyHelmetStrapless
+        item Hat_MilitaryHelmetStrapless
     {
         DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Military Helmet (Strapless),
-        ClothingItem = Hat_ArmyHelmetStrapless,
+        ClothingItem = Hat_MilitaryHelmetStrapless,
         BodyLocation = Hat,
-        Icon = ArmyHelmetStrapless,
+        Icon = MilitaryHelmetStrapless,
         CanHaveHoles = false,
-        ClothingItemExtra = Hat_Army,
+        ClothingItemExtra = Hat_MilitaryHelmet,
         ClothingItemExtraOption = Strap,
         ChanceToFall = 80,
         Insulation = 0.10,

@@ -4,6 +4,11 @@
 	<!-- SMUI Clothing -->
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmet.xml</path>
+	<guid>e3b68146-8b14-4c4c-a59e-d0fb94901858</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_MilitaryHelmetNVGMount.xml</path>
 	<guid>dde2a198-d11d-4a19-9826-a58a8f92627e</guid>
 	</files>
