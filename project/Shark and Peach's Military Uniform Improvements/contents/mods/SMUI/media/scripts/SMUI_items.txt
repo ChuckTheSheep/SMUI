@@ -11,4 +11,15 @@ module SMUIClothing
 		Tooltip = Tooltip_NightVisionGoggles,
 		Icon = NightVisionGoggles,
 	}
+
+		item NightVisionMount
+	{
+		DisplayCategory = Accessory,
+		Weight = 0.1,
+		Type = Normal,
+		WorldStaticModel = NVGStrap_WorldItem,
+		DisplayName = Night Vision Mount,
+		Tooltip = Tooltip_NVGMount,
+		Icon = NVGMount,
+	}
 }
