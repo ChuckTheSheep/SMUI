@@ -1,0 +1,44 @@
+module SMUIClothing
+{
+
+		item Hat_MilitaryHelmetNVGUP
+
+	{
+		Type = Clothing,
+		DisplayName = Military Helmet /w Night Vision (Up),
+		ClothingItem = Hat_MilitaryHelmetNVGUP,
+		BodyLocation = Hat,
+		Icon = MilitaryHelmetNVG,
+		BloodLocation = FullHelmet,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		Insulation = 0.25,
+		WaterResistance = 0.2,
+		CanHaveHoles = false,
+		ClothingItemExtra = Hat_MilitaryHelmetNVGDOWN,
+        ClothingItemExtraOption = FlipDown,
+		ChanceToFall = 0,
+        Weight = 3,
+		WorldStaticModel = MilitaryHelmetNVGUP_WorldItem,
+    }
+
+		item Hat_MilitaryHelmetNVGDOWN
+
+	{
+		Type = Clothing,
+		DisplayName = Military Helmet /w Night Vision (Down),
+		ClothingItem = Hat_MilitaryHelmetNVGDOWN,
+		BodyLocation = Hat,
+		BloodLocation = FullHelmet,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		Insulation = 0.25,
+        Icon = MilitaryHelmetNVG,
+		CanHaveHoles = false,
+		ClothingItemExtra = Hat_MilitaryHelmetNVGUP,
+        ClothingItemExtraOption = FlipUp,
+		ChanceToFall = 0,
+        Weight = 3,
+		WorldStaticModel = MilitaryHelmetNVGUP_WorldItem,
+    }
+}
