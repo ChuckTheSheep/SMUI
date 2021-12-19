@@ -62,4 +62,13 @@ recipe Attach Night Vision
 	   Time:60,
   	}
 
+recipe Attach Night Vision
+  	{
+   	   Hat_MilitaryHelmetNVGMountStrapless,
+	   NightVisionGoggles,
+
+   	   Result:Hat_MilitaryHelmetNVGUP,
+	   Time:60,
+  	}
+
 }		
