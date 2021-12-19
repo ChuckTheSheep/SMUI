@@ -53,6 +53,26 @@ recipe Roll Up
 	   Time:0,
   	}
 
+
+recipe Attach NVG mount
+  	{
+   	   Hat_MilitaryHelmet,
+	   NightVisionMount,
+
+   	   Result:Hat_MilitaryHelmetNVGMount,
+	   Time:60,
+  	}
+
+recipe Attach NVG mount
+  	{
+   	   Hat_MilitaryHelmetStrapless,
+	   NightVisionMount,
+
+   	   Result:Hat_MilitaryHelmetNVGMountStrapless,
+	   Time:60,
+  	}
+
+
 recipe Attach Night Vision
   	{
    	   Hat_MilitaryHelmetNVGMount,
