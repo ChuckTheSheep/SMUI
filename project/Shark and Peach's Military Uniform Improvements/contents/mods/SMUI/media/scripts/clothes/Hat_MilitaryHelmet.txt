@@ -8,7 +8,7 @@ module SMUIClothing {
         DisplayName = Military Helmet,
         ClothingItem = Hat_MilitaryHelmet,
         BodyLocation = Hat,
-        Icon = MilitaryHelmetStrapless,
+        Icon = MilitaryHelmet,
         BiteDefense = 100,
 		ScratchDefense = 100,
         BulletDefense = 100,
@@ -16,7 +16,7 @@ module SMUIClothing {
         ClothingItemExtra = Hat_MilitaryHelmetStrapless,
         ClothingItemExtraOption = Strap,
         Insulation = 0.10,
-        Weight = 0.2,
+        Weight = 1,
     }
 
         item Hat_MilitaryHelmetStrapless
@@ -35,7 +35,7 @@ module SMUIClothing {
         ClothingItemExtraOption = Strap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.2,
+        Weight = 1,
     }
 	    item Hat_MilitaryHelmetNVGMount
 	{
@@ -44,7 +44,7 @@ module SMUIClothing {
 		DisplayName = Military Helmet w/ NVG Mount,
 		ClothingItem = Hat_MilitaryHelmetNVGMount,
 		BodyLocation = Hat,
-		Icon = HelmetArmyGreen,
+		Icon = MilitaryHelmet,
         BiteDefense = 100,
 		ScratchDefense = 100,
         BulletDefense = 100,
@@ -56,6 +56,7 @@ module SMUIClothing {
 		ScratchDefense = 100,
 		Insulation = 0.25,
 		WaterResistance = 0.2,
+        Weight = 1,
 		WorldStaticModel = MilitaryHelmetNVGMount_WorldItem,
 	}
 
@@ -66,7 +67,7 @@ module SMUIClothing {
 		DisplayName = Strapless Military Helmet w/ NVG Mount,
 		ClothingItem = Hat_MilitaryHelmetNVGMountStrapless,
 		BodyLocation = Hat,
-		Icon = HelmetArmyGreen,
+		Icon = MilitaryHelmetStrapless,
         BiteDefense = 100,
 		ScratchDefense = 100,
         BulletDefense = 100,
@@ -74,10 +75,9 @@ module SMUIClothing {
         ClothingItemExtra = Hat_MilitaryHelmetNVGMount,
         ClothingItemExtraOption = Unstrap,
 		BloodLocation = Head,
-		BiteDefense = 100,
-		ScratchDefense = 100,
 		Insulation = 0.25,
 		WaterResistance = 0.2,
+        Weight = 1,
 		WorldStaticModel = MilitaryHelmetNVGMount_WorldItem,
 	}
 
