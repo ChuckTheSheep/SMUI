@@ -1,0 +1,63 @@
+module SMUIClothing 
+{
+
+    item NBCSuit
+    
+    {
+    
+    DisplayCategory = Clothing,
+    Type = Clothing,
+    DisplayName = NBC Suit,
+    ClothingItem = Suit_NBCSuit,
+    BodyLocation = FullSuit,
+    Icon = NBCSuit,
+    BloodLocation = Trousers;Jumper,
+    RunSpeedModifier = 0.9,
+    ScratchDefense = 30,
+    Insulation = 0.90,
+    WindResistance = 0.90,
+    WorldStaticModel = BoilerSuit_Ground,
+    }
+       
+    item Gloves_HazmatGloves
+
+	{
+	DisplayCategory = Clothing,
+	Type = Clothing,
+	DisplayName = NBC Gloves,
+	ClothingItem = Gloves_HazmatGloves,
+    BodyLocation = Hands,
+	BloodLocation = Hands,
+	Icon = HazmatGloves,
+	ScratchDefense = 40,
+    BiteDefense = 10,
+    Weight = 0.3,
+    Insulation = 0.75,
+    WindResistance = 0.75,
+    WorldStaticModel = GlovesLong_Ground,
+	}
+
+    
+    item Shoes_HazmatBoots
+    
+	{   
+    DisplayCategory = Clothing,
+	Type = Clothing,
+	DisplayName = NBC Boots,
+	ClothingItem = Shoes_HazmatBoots,
+	BodyLocation = Shoes,
+	BloodLocation = Shoes,
+	Icon = HazmatBoots,
+	StompPower = 2.7,
+	Weight = 2,
+    RunSpeedModifier = 0.9,
+    RemoveOnBroken = false,
+    ScratchDefense = 40,
+    BiteDefense = 10,
+    Insulation = 0.9,
+    WindResistance = 0.65,
+    WaterResistance = 0.65,
+    WorldStaticModel = Boots_Ground,
+	}
+
+}
