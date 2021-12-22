@@ -44,7 +44,6 @@ recipe Roll Up
 	   Time:0,
   	}
 
-
 recipe Roll Up
   	{
    	   Jacket_ArmyCamoUrban,
@@ -52,7 +51,6 @@ recipe Roll Up
    	   Result:Jacket_ArmyCamoUrbanRolled,
 	   Time:0,
   	}
-
 
 recipe Attach NVG mount
   	{
@@ -63,28 +61,9 @@ recipe Attach NVG mount
 	   Time:60,
   	}
 
-recipe Attach NVG mount
-  	{
-   	   Hat_MilitaryHelmetStrapless,
-	   NightVisionMount,
-
-   	   Result:Hat_MilitaryHelmetNVGMountStrapless,
-	   Time:60,
-  	}
-
-
 recipe Attach Night Vision
   	{
    	   Hat_MilitaryHelmetNVGMount,
-	   NightVisionGoggles,
-
-   	   Result:Hat_MilitaryHelmetNVGUP,
-	   Time:60,
-  	}
-
-recipe Attach Night Vision
-  	{
-   	   Hat_MilitaryHelmetNVGMountStrapless,
 	   NightVisionGoggles,
 
    	   Result:Hat_MilitaryHelmetNVGUP,
