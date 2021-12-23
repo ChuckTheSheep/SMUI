@@ -1,0 +1,10 @@
+ContextMenu_ES = {
+	ContextMenu_RollUp = "Arremangar",
+    ContextMenu_RollDown = "Desarremangar",
+	ContextMenu_TuckIn = "Enrollar",
+    ContextMenu_TuckOut = "Desenrollar",
+	ContextMenu_Strap = "Abrochar",
+    ContextMenu_Unstrap = "Desabrochar",
+	ContextMenu_Fasten = "Ajustar",
+    ContextMenu_Unfasten = "Aflojar",
+} 

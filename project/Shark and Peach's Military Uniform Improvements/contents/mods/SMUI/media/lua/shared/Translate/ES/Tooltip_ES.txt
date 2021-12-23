@@ -1,5 +1,7 @@
 Tooltip_ES = {
     Tooltip_M17 = "Máscara de gas estándar de los US",
     Tooltip_MilitaryWebbing = "Arnés militar estándar de los US",
+	Tooltip_MilitaryWebbingBag = "Arnés militar estándar de los US con bolsa",
     Tooltip_MilitaryTacticalVest = "Armadura ligera diseñada para unidades especiales",
+	Tooltip_ODGreen = "Chaleco militar antiguo usualmente entregado a los reservistas",
 }
