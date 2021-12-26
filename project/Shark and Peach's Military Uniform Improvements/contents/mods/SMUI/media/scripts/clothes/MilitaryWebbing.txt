@@ -1,0 +1,40 @@
+module SMUIClothing {
+
+	item MilitaryWebbing
+	{
+		DisplayCategory = Accessory,
+		Type = Container,
+		DisplayName = Military Webbing,
+		ClothingItem = MilitaryWebbing,
+		BodyLocation = AmmoStrap,
+		CanBeEquipped = AmmoStrap,
+		Capacity = 5,
+		WeightReduction	=	40,
+		RunSpeedModifier = 1,
+		ClothingItemExtra = MilitaryWebbingTightened,
+        ClothingItemExtraOption = Fasten,
+		Icon = MilitaryWebbing,
+		Tooltip = Tooltip_MilitaryWebbing,
+		WorldStaticModel = MilitaryWebbing_WorldItem,
+		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
+	}
+
+		item MilitaryWebbingTightened
+	{
+		DisplayCategory = Accessory,
+		Type = Container,
+		DisplayName = Military Webbing (Tightened),
+		ClothingItem = MilitaryWebbingTightened,
+		BodyLocation = AmmoStrap,
+		CanBeEquipped = AmmoStrap,
+		Capacity = 5,
+		WeightReduction	=	40,
+		RunSpeedModifier = 1,
+		ClothingItemExtra = MilitaryWebbing,
+        ClothingItemExtraOption = Unfasten,
+		Icon = MilitaryWebbing,
+		Tooltip = Tooltip_MilitaryWebbing,
+		WorldStaticModel = MilitaryWebbing_WorldItem,
+		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
+	}
+}

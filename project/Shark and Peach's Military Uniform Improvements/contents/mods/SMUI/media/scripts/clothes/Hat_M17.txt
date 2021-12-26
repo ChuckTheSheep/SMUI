@@ -1,0 +1,18 @@
+module SMUIClothing {
+    
+      item Hat_M17
+    {
+        DisplayCategory = Accessory,
+        Type = Clothing,
+        DisplayName = M17 Gas Mask,
+        ClothingItem = Hat_M17,
+        BodyLocation = MaskEyes,
+        Icon = M17,
+        CanHaveHoles = false,
+        Weight = 0.3,
+        Tooltip = Tooltip_M17,
+		    AttachmentType  = GasMask,	
+		    StaticModel 	= GasMaskM17NotWorn,
+		    Tags 			= GasMask,			
+    }
+}

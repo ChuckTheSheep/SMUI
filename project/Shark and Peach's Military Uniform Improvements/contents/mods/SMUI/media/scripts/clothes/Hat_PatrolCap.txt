@@ -1,0 +1,19 @@
+module SMUIClothing {
+
+
+    item Hat_PatrolCap
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Green Camo Patrol Cap,
+        ClothingItem = Hat_PatrolCap,
+        BodyLocation = Hat,
+        Icon = PatrolCapWoodland,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_PatrolCapReversed,
+        ClothingItemExtraOption = ReverseCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.5,
+    }
+}

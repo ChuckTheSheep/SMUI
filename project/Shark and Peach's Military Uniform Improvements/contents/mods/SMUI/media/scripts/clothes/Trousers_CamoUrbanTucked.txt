@@ -1,0 +1,47 @@
+module SMUIClothing {
+
+        item Trousers_CamoUrban
+    
+    {   
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military Urban Camo Pants,
+        ClothingItem = Trousers_CamoUrban,
+        BodyLocation = Pants,
+        Icon = TrousersCamoGrey,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        ClothingItemExtra = Trousers_CamoUrbanTucked,
+        ClothingItemExtraOption = TuckIn,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+        item Trousers_CamoUrbanTucked
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military Urban Camo Pants (Tucked),
+        ClothingItem = Trousers_CamoUrbanTucked,
+        BodyLocation = Pants,
+        Icon = TrousersCamoGrey,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,
+        ClothingItemExtra = Trousers_CamoUrban,
+        ClothingItemExtraOption = TuckOut,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+}
+    
+   

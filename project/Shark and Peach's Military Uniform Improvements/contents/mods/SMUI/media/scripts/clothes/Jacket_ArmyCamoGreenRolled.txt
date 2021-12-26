@@ -1,0 +1,52 @@
+module SMUIClothing {
+
+
+        item Jacket_ArmyCamoGreen   
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military Green Camo Jacket,
+        ClothingItem = Jacket_ArmyCamoGreen,
+        BodyLocation = Jacket,
+        Icon = ShirtCamoGreen,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItemExtra = Jacket_ArmyCamoGreenRolled,
+        ClothingItemExtraOption = RollUp,
+        BiteDefense = 20,
+        ScratchDefense = 30,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+        
+    }
+
+        item Jacket_ArmyCamoGreenRolled
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military Green Camo Jacket (Rolled),
+        ClothingItem = Jacket_ArmyCamoGreenRolled,
+        BodyLocation = Jacket,
+        Icon = TShirtCamoGreen,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItemExtra = Jacket_ArmyCamoGreen,
+        ClothingItemExtraOption = RollDown,
+        BiteDefense = 15,
+        ScratchDefense = 20,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+
+    }
+
+  }

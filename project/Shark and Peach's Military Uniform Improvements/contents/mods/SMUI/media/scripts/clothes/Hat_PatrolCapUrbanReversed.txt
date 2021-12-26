@@ -1,0 +1,19 @@
+module SMUIClothing {
+
+
+    item Hat_PatrolCapUrbanReversed
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Urban Patrol Cap (Reversed),
+        ClothingItem = Hat_PatrolCapUrbanReversed,
+        BodyLocation = Hat,
+        Icon = PatrolCapUrban,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_PatrolCapUrban,
+        ClothingItemExtraOption = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.5,
+    }
+}

@@ -1,0 +1,16 @@
+module SMUIClothing {
+
+    item Hat_CavalryHat
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Cavalry Hat,
+        ClothingItem = Hat_CavalryHat,
+        BodyLocation = Hat,
+        Icon = CavalryHat,
+        CanHaveHoles = false,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.5,
+    }
+}
