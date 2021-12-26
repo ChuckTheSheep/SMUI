@@ -1,4 +1,5 @@
-module SMUIClothing {
+module SMUIClothing 
+{
 
 	item Vest_ODGreen
 	{   
@@ -16,5 +17,22 @@ module SMUIClothing {
         BulletDefense = 100,
 		Tooltip = Tooltip_ODGreen,
         WorldStaticModel = BulletVest_Ground,
+	}
+
+    	item Vest_MilitaryTacticalVest
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Military Tactical Vest,
+		ClothingItem = Vest_MilitaryTacticalVest,
+		BodyLocation = TorsoExtra,
+		BiteDefense = 75,
+		ScratchDefense = 75,
+		BulletDefense = 100,
+		WeightReduction	=	50,
+		RunSpeedModifier = 1,
+		Icon = MilitaryTacticalVest,
+		WorldStaticModel = MilitaryTacticalVest_WorldItem,
+		Tooltip = Tooltip_MilitaryTacticalVest,
 	}
 }
