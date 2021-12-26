@@ -1,5 +1,4 @@
-module SMUIClothing 
-{
+module SMUIClothing {
 
 
         item Hat_MilitaryHelmet
