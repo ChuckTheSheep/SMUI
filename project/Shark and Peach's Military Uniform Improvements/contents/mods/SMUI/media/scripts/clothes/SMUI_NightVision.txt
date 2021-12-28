@@ -20,6 +20,7 @@ module SMUIClothing
 		ClothingItemExtra = Hat_MilitaryHelmetNVGDOWN,
         ClothingItemExtraOption = FlipDown,
 		ChanceToFall = 0,
+		Tooltip = Tooltip_NVGBroken,
         Weight = 1.7,
 		WorldStaticModel = MilitaryHelmetNVGUP_WorldItem,
     }
@@ -42,6 +43,7 @@ module SMUIClothing
 		ClothingItemExtra = Hat_MilitaryHelmetNVGUP,
         ClothingItemExtraOption = FlipUp,
 		ChanceToFall = 0,
+		Tooltip = Tooltip_NVGBroken,
         Weight = 1.7,
 		WorldStaticModel = MilitaryHelmetNVGUP_WorldItem,
     }

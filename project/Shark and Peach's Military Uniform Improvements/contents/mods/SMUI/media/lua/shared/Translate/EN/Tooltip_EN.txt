@@ -5,5 +5,6 @@ Tooltip_EN = {
     Tooltip_MilitaryTacticalVest = "Soft body armor designed for special units",
     Tooltip_ODGreen = "Older military vest usually issued to reservists",
     Tooltip_NightVisionGoggles = "Must be attached to a mount for use",
+    Tooltip_NVGBroken = "Currently inoperable. Yell at the other modders.",
     Tooltip_NVGMount = "Used to mount night vision onto helmets",
 }
