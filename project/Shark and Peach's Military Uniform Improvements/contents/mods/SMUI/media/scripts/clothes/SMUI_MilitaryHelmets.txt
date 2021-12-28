@@ -75,7 +75,7 @@ module SMUIClothing
         BulletDefense = 100,
 		CanHaveHoles = false,
         ClothingItemExtra = Hat_MilitaryHelmetNVGMount,
-        ClothingItemExtraOption = Unstrap,
+        ClothingItemExtraOption = Strap,
 		BloodLocation = Head,
 		Insulation = 0.25,
 		WaterResistance = 0.2,
