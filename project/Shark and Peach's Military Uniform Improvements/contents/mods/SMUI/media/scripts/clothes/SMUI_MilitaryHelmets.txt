@@ -38,6 +38,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
     }
+    
 	    item Hat_MilitaryHelmetNVGMount
 	{
         DisplayCategory = Clothing,
