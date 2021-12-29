@@ -14,6 +14,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetNVGMountStrapless.xml</path>
+	<guid>63abe6e7-39a7-42d8-b887-76b718b136dd</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_PatrolCap.xml</path>
 	<guid>601bf44b-fe47-44b1-a327-3fd441250ca7</guid>
 	</files>
