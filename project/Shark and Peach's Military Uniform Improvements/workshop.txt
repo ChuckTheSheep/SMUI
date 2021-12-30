@@ -8,7 +8,10 @@ description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
 description=[h1][b]NEW: Helmet mounted night vision (AN/PVS-7)[/b][/h1]
-description=[h1][b]Special thanks to: ParaNautic for commissioning them[/b][/h1]
+description=[h1][b]NEW: Military Webbing now has attachment points[/b][/h1]
+description=[h1][b]Special thanks to: ParaNautic for commissioning it[/b][/h1]
+description=
+description=[h2][b]Note: Because of the current Eris/PLL/Brita NVG code issue- the new NVG's currently have their capability removed as a safety measure. This is temporary.[/b][/h2]
 description=
 description= This mod entirely redoes the vanilla military zombies to be inline with actual equipment (e.g ALICE webbing) and clothing standards of the 1990's US Military.
 description=
@@ -29,7 +32,7 @@ description= [/list]
 description=
 description= [h2]List of current additions:[/h2]
 description= [list]
-description= [*] ALICE Webbing + Buttpack Version
+description= [*] ALICE Webbing + Buttpack Version (Has attachment points)
 description= [*] Night Vision Goggles (Based on AN/PVS-7)
 description= [*] M17 Gas Mask
 description= [*] Woodland, Desert, and Urban Patrol Caps
