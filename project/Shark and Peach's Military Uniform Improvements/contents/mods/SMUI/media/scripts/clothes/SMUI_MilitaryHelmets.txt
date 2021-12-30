@@ -4,7 +4,7 @@ module SMUIClothing
 
         item Hat_MilitaryHelmet
     {
-        DisplayCategory = Accessory,
+        DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Military Helmet,
         ClothingItem = Hat_MilitaryHelmet,
@@ -22,7 +22,7 @@ module SMUIClothing
 
         item Hat_MilitaryHelmetStrapless
     {
-        DisplayCategory = Accessory,
+        DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Military Helmet (Strapless),
         ClothingItem = Hat_MilitaryHelmetStrapless,
@@ -41,7 +41,7 @@ module SMUIClothing
     
 	    item Hat_MilitaryHelmetNVGMount
 	{
-        DisplayCategory = Accessory,
+        DisplayCategory = Clothing,
 		Type = Clothing,
 		DisplayName = Military Helmet w/ NVG Mount,
 		ClothingItem = Hat_MilitaryHelmetNVGMount,
@@ -51,6 +51,8 @@ module SMUIClothing
 		ScratchDefense = 100,
         BulletDefense = 100,
 		CanHaveHoles = false,
+        ClothingItemExtra = Hat_MilitaryHelmetNVGMountStrapless,
+        ClothingItemExtraOption = Unstrap,
 		BloodLocation = Head,
 		BiteDefense = 100,
 		ScratchDefense = 100,
@@ -59,5 +61,27 @@ module SMUIClothing
         Weight = 1,
 		WorldStaticModel = MilitaryHelmetNVGMount_WorldItem,
 	}
+
+		item Hat_MilitaryHelmetNVGMountStrapless,
+	{
+        DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Strapless Military Helmet w/ NVG Mount,
+		ClothingItem = Hat_MilitaryHelmetNVGMountStrapless,
+		BodyLocation = Hat,
+		Icon = MilitaryHelmetStrapless,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+		CanHaveHoles = false,
+        ClothingItemExtra = Hat_MilitaryHelmetNVGMount,
+        ClothingItemExtraOption = Strap,
+		BloodLocation = Head,
+		Insulation = 0.25,
+		WaterResistance = 0.2,
+        Weight = 1,
+		WorldStaticModel = MilitaryHelmetNVGMount_WorldItem,
+	}
+
 	
 }
