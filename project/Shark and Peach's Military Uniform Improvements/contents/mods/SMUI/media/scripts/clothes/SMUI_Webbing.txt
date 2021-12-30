@@ -3,7 +3,7 @@ module SMUIClothing
 
 	item MilitaryWebbing
 	{
-		DisplayCategory = Accessory,
+		DisplayCategory = Webbing,
 		Type = Container,
 		DisplayName = Military Webbing,
 		ClothingItem = MilitaryWebbing,
@@ -22,7 +22,7 @@ module SMUIClothing
 
 		item MilitaryWebbingTightened
 	{
-		DisplayCategory = Accessory,
+		DisplayCategory = Webbing,
 		Type = Container,
 		DisplayName = Military Webbing (Tightened),
 		ClothingItem = MilitaryWebbingTightened,
@@ -41,7 +41,7 @@ module SMUIClothing
 
 		item MilitaryWebbingBag
 	{
-		DisplayCategory = Accessory,
+		DisplayCategory = Webbing,
 		Type = Container,
 		DisplayName = Military Webbing /w Pack,
 		ClothingItem = MilitaryWebbingBag,
@@ -60,7 +60,7 @@ module SMUIClothing
 
 		item MilitaryWebbingBagTightened
 	{
-		DisplayCategory = Accessory,
+		DisplayCategory = Webbing,
 		Type = Container,
 		DisplayName = Military Webbing /w Pack (Tightened),
 		ClothingItem = MilitaryWebbingBagTightened,
