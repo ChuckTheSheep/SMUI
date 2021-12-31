@@ -22,4 +22,15 @@ module SMUIClothing
 		Tooltip = Tooltip_NVGMount,
 		Icon = NVGMount,
 	}
+
+		item M17Hood
+	{
+		DisplayCategory = Accessory,
+		Weight = 0.1,
+		Type = Normal,
+		WorldStaticModel = M17Hood_WorldItem,
+		DisplayName = Doff Hood,
+		Tooltip = Tooltip_M17,
+		Icon = DoffHood,
+	}
 }

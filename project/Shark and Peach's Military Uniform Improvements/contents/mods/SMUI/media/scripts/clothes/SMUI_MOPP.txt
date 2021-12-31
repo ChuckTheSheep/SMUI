@@ -18,6 +18,26 @@ module SMUIClothing
     WorldStaticModel = BoilerSuit_Ground,
     }
 
+    item M17Doff
+    {
+    
+    DisplayCategory = GasMask,
+    Type = Clothing,
+    DisplayName = M17 w/ Doff Hood,
+    ClothingItem = Hat_M17Doff,
+    BodyLocation = MaskEyes,
+    Icon = M17Doff,
+    CanHaveHoles = false,
+    Weight = 0.3,
+    ScratchDefense = 10,
+    BiteDefense = 5,
+    Insulation = 0.50,
+    WindResistance = 0.65,
+    WaterResistance = 1.0,
+    Tooltip = Tooltip_M17,
+    WorldStaticModel = M17Doff_WorldItem,
+    }
+
 
     item Shoes_HazmatBoots
     

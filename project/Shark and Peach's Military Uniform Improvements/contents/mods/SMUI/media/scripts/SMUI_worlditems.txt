@@ -14,6 +14,20 @@ module Base
 		scale = 0.5,
 	}
 
+		model M17Doff_WorldItem
+	{
+		mesh = WorldItems/M17Doff_WorldItem,
+		texture = WorldItems/M17Doff,
+		scale = 0.5,
+	}
+
+		model M17Hood_WorldItem
+	{
+		mesh = WorldItems/M17Hood_WorldItem,
+		texture = WorldItems/M17Doff,
+		scale = 0.5,
+	}
+
 		model NVG_WorldItem
 	{
 		mesh = WorldItems/NVG_WorldItem,
