@@ -4,7 +4,7 @@ module SMUIClothing
 		item Hat_MilitaryHelmetNVGUP
 
 	{
-		DisplayCategory = Clothing,
+		DisplayCategory = Helmet,
 		Type = Clothing,
 		DisplayName = Military Helmet /w Night Vision (Up),
 		ClothingItem = Hat_MilitaryHelmetNVGUP,
@@ -28,7 +28,7 @@ module SMUIClothing
 		item Hat_MilitaryHelmetNVGDOWN
 
 	{
-		DisplayCategory = Clothing,
+		DisplayCategory = Helmet,
 		Type = Clothing,
 		DisplayName = Military Helmet /w Night Vision (Down),
 		ClothingItem = Hat_MilitaryHelmetNVGDOWN,
