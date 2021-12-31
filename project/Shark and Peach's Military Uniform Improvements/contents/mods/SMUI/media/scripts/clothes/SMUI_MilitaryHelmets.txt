@@ -6,16 +6,19 @@ module SMUIClothing
 	    DisplayCategory = Accessory,
 		Type = Clothing,
 		DisplayName = Military Helmet,
-		ClothingItem = Hat_Army,
+		ClothingItem = Hat_MilitaryHelmet,
 		BodyLocation = Hat,
 		Icon = MilitaryHelmet,
 		CanHaveHoles = false,
 		BloodLocation = Head,
 		BiteDefense = 100,
 		ScratchDefense = 100,
-		ChanceToFall = 10,
+		BulletDefense = 100,
+		ClothingItemExtra = Hat_MilitaryHelmetStrapless,
+        ClothingItemExtraOption = Unstrap,
 		Insulation = 0.25,
 		WaterResistance = 0.2,
+		WorldStaticModel = MilitaryHelmetNVGMount_WorldItem,
 	}
 
         item Hat_ArmyHelmetStrapless
@@ -30,14 +33,18 @@ module SMUIClothing
 		BloodLocation = Head,
 		BiteDefense = 100,
 		ScratchDefense = 100,
+		BulletDefense = 100,
 		ChanceToFall = 10,
+		ClothingItemExtra = Hat_MilitaryHelmet,
+        ClothingItemExtraOption = Strap,
 		Insulation = 0.25,
 		WaterResistance = 0.2,
+		WorldStaticModel = MilitaryHelmetNVGMount_WorldItem,
 	}
 
         item Hat_MilitaryHelmet
     {
-        DisplayCategory = Accessory,
+        DisplayCategory = Helmet,
         Type = Clothing,
         DisplayName = Military Helmet,
         ClothingItem = Hat_MilitaryHelmet,
@@ -51,11 +58,12 @@ module SMUIClothing
         ClothingItemExtraOption = Strap,
         Insulation = 0.10,
         Weight = 1,
+		WorldStaticModel = MilitaryHelmetNVGMount_WorldItem,
     }
 
         item Hat_MilitaryHelmetStrapless
     {
-        DisplayCategory = Accessory,
+        DisplayCategory = Helmet,
         Type = Clothing,
         DisplayName = Military Helmet (Strapless),
         ClothingItem = Hat_MilitaryHelmetStrapless,
@@ -70,11 +78,12 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 1,
+		WorldStaticModel = MilitaryHelmetNVGMount_WorldItem,
     }
     
 	    item Hat_MilitaryHelmetNVGMount
 	{
-        DisplayCategory = Accessory,
+        DisplayCategory = Helmet,
 		Type = Clothing,
 		DisplayName = Military Helmet w/ NVG Mount,
 		ClothingItem = Hat_MilitaryHelmetNVGMount,
