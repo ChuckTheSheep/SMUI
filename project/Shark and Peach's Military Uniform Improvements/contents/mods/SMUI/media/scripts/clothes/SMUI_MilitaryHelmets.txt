@@ -5,7 +5,7 @@ module SMUIClothing
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = MilitaryHelmet,
+		DisplayName = Military Helmet,
 		ClothingItem = Hat_Army,
 		BodyLocation = Hat,
 		Icon = MilitaryHelmet,
