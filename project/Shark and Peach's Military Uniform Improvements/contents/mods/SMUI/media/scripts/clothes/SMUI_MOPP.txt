@@ -34,7 +34,7 @@ module SMUIClothing
     Insulation = 0.50,
     WindResistance = 0.65,
     WaterResistance = 1.0,
-    Tooltip = Tooltip_M17,
+    Tooltip = Tooltip_M17Doff,
     WorldStaticModel = M17Doff_WorldItem,
     }
 

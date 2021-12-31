@@ -30,7 +30,7 @@ module SMUIClothing
 		Type = Normal,
 		WorldStaticModel = M17Hood_WorldItem,
 		DisplayName = Doff Hood,
-		Tooltip = Tooltip_M17,
+		Tooltip = Tooltip_DoffHood,
 		Icon = DoffHood,
 	}
 }
