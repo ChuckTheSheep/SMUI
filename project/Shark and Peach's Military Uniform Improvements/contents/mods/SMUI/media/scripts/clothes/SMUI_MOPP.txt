@@ -18,7 +18,7 @@ module SMUIClothing
     WorldStaticModel = BoilerSuit_Ground,
     }
 
-    item M17Doff
+    item Hat_M17Doff
     {
     
     DisplayCategory = GasMask,

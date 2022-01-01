@@ -70,4 +70,12 @@ recipe Attach Night Vision
 	   Time:60,
   	}
 
+recipe Attach doff hood
+  	{
+   	   Hat_M17,
+	   M17Hood,
+
+   	   Result:Hat_M17Doff,
+	   Time:60,
+  	}
 }		
