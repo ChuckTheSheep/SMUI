@@ -33,4 +33,26 @@ module SMUIClothing
 		Tooltip = Tooltip_DoffHood,
 		Icon = DoffHood,
 	}
+
+		item MOPPPackageTop
+	{
+		DisplayCategory = Accessory,
+		Weight = 0.5,
+		Type = Normal,
+		WorldStaticModel = MOPPPackageTop_WorldItem,
+		DisplayName = MOPP Top Package,
+		Tooltip = Tooltip_PackageTop,
+		Icon = MOPPPackage,
+	}
+
+		item MOPPPackageBottom
+	{
+		DisplayCategory = Accessory,
+		Weight = 0.5,
+		Type = Normal,
+		WorldStaticModel = MOPPPackageBottom_WorldItem,
+		DisplayName = MOPP Bottom Package,
+		Tooltip = Tooltip_PackageBottom,
+		Icon = MOPPPackage,
+	}
 }

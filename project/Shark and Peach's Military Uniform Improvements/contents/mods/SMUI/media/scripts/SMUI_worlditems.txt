@@ -62,4 +62,19 @@ module Base
 		texture = WorldItems/MilitaryHelmetNVG,
 		scale = 0.5,
 	}
+
+		model MOPPPackageTop_WorldItem
+	{
+		mesh = WorldItems/MOPPPackage_WorldItem,
+		texture = WorldItems/MOPPPackageTop,
+		scale = 0.5,
+	}
+
+		model MOPPPackageBottom_WorldItem
+	{
+		mesh = WorldItems/MOPPPackage_WorldItem,
+		texture = WorldItems/MOPPPackageBottom,
+		scale = 0.5,
+	}
+	
 }
