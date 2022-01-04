@@ -409,7 +409,6 @@
 			<itemGUID>b0d642f6-eb11-456c-aeb0-1b190b29a364</itemGUID>
 		</m_items>
 		<m_items> <!-- Woodland Camo Jacket (Rolled) -->
-		<probability>0.5</probability>
 			<itemGUID>a51eee81-0e8a-45b1-9169-145d87041d99</itemGUID>
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
@@ -469,7 +468,6 @@
 			<itemGUID>b0d642f6-eb11-456c-aeb0-1b190b29a364</itemGUID>
 		</m_items>
 		<m_items> <!-- Woodland Camo Jacket (Rolled) -->
-		<probability>0.5</probability>
 			<itemGUID>a51eee81-0e8a-45b1-9169-145d87041d99</itemGUID>
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
