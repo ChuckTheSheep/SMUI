@@ -84,6 +84,16 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Suit_NBCSuitHood.xml</path>
+	<guid>4e61b2ff-495d-440e-9bc3-217373c0b41f</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_NBCPants.xml</path>
+	<guid>cf542079-55ed-4065-bf4b-9a121526ac73</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Jacket_ArmyCamoDesertRolled.xml</path>
 	<guid>eb8d1f35-8d0b-4c9c-a308-aba2aa040z75</guid>
 	</files>

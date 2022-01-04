@@ -55,4 +55,14 @@ module SMUIClothing
 		Tooltip = Tooltip_PackageBottom,
 		Icon = MOPPPackage,
 	}
+
+		item MOPPPackageWrapper
+	{
+		DisplayCategory = Accessory,
+		Weight = 0.1,
+		Type = Normal,
+		WorldStaticModel = MOPPPackageWrapper_WorldItem,
+		DisplayName = MOPP Package Wrapper,
+		Icon = MOPPPackage,
+	}
 }

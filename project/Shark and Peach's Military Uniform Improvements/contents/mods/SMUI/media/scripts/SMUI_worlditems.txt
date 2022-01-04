@@ -76,5 +76,12 @@ module Base
 		texture = WorldItems/MOPPPackageBottom,
 		scale = 0.5,
 	}
+
+		model MOPPPackageBottom_WorldItem
+	{
+		mesh = WorldItems/MOPPPackageWrapper_WorldItem,
+		texture = WorldItems/MOPPPackageBottom,
+		scale = 0.5,
+	}
 	
 }

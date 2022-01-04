@@ -78,4 +78,22 @@ recipe Attach doff hood
    	   Result:Hat_M17Doff,
 	   Time:60,
   	}
+
+ recipe Open sealed package
+  	{
+       MOPPPackageTop,
+       keep [SMUI_Recipe.CanOpenBoxes],
+       Result:SMUIClothing.MOPPPackageWrapper,
+       OnCreate:SMUI_Recipe.PACKAGETOP,
+       Time:70.0,
+  	}
+ 
+ recipe Open sealed package
+  	{
+       MOPPPackageBottom,
+       keep [SMUI_Recipe.CanOpenBoxes],
+       Result:SMUIClothing.MOPPPackageWrapper,
+       OnCreate:SMUI_Recipe.PACKAGEBOTTOM,
+       Time:70.0,
+  	}
 }		
