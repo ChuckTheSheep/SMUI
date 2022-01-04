@@ -5,49 +5,49 @@ SMUIZombiesZoneDefinition.Army = {
 
 	ArmyInstructorM = {
 		name="ArmyInstructor",
-		toSpawn=1,
+		toSpawn=0,
 		mandatory="true",
 		gender="male",
 	},
 	SharkArmyInstructorM = {
 		name="SharkArmyInstructor",
-		toSpawn=1,
+		toSpawn=0,
 		mandatory="true",
 		gender="male",
 	},
 	GhillieM = {
 		name="Ghillie",
-		toSpawn=1,
-		mandatory="true",
+		toSpawn=0,
+		mandatory="false",
 		gender="male",
 	},		
 	ArmyInstructor = {
 		name="ArmyInstructor",
-		chance=15,
+		chance=0,
 		gender="male",
 	},
 	SharkArmyInstructor = {
 		name="SharkArmyInstructor",
-		chance=15,
+		chance=50,
 		gender="male",
 	},	
 	ArmyCamoDesert = {
 		name="ArmyCamoDesert",
-		chance=5,
+		chance=0,
 	},
 	SharkArmyCamoDesertMale = {
 		name="SharkArmyCamoDesertMale",
-		chance=3,
+		chance=30,
 		gender="male",
 	},
 	SharkArmyCamoDesertFemale = {
 		name="SharkArmyCamoDesertFemale",
-		chance=3,
+		chance=15,
 		gender="male",
 	},	
 	ArmyCamoGreen = {
 		name="ArmyCamoGreen",
-		chance=30,
+		chance=0,
 	},
 	SharkArmyCamoGreenMale = {
 		name="SharkArmyCamoGreenMale",
@@ -94,12 +94,12 @@ SMUIZombiesZoneDefinition.SecretBase = {
 	},
 	ArmyInstructor = {
 		name="ArmyInstructor",
-		chance=5,
+		chance=0,
 		gender="male",
 	},
 	ArmyCamoGreen = {
 		name="ArmyCamoGreen",
-		chance=20,
+		chance=0,
 	},
 	OfficeWorkerSkirt = {
 		name="OfficeWorkerSkirt",
