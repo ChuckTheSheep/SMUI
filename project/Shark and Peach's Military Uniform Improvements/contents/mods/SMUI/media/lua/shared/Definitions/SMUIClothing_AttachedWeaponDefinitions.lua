@@ -56,7 +56,6 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoGreenMale = {
 	maxitem = 3;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
-		AttachedWeaponDefinitions.FragGrenade,
 		AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 }
@@ -65,7 +64,6 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoGreenFemale = 
 	maxitem = 3;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
-		AttachedWeaponDefinitions.FragGrenade,
 		AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 }
@@ -74,7 +72,6 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoDesertFemale =
 	maxitem = 3;	
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
-		AttachedWeaponDefinitions.FragGrenade,
 		AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 }
@@ -83,7 +80,6 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoDesertMale = {
 	maxitem = 3;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
-		AttachedWeaponDefinitions.FragGrenade,
 		AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 } 
@@ -91,7 +87,6 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoUrbanMale = {
 	chance = 50;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
-		AttachedWeaponDefinitions.FragGrenade,
 		AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 }
@@ -99,7 +94,6 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoUrbanFemale = 
 	chance = 50;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
-		AttachedWeaponDefinitions.FragGrenade,
 		AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 }
@@ -108,7 +102,6 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoUrbanGearedMal
 	maxitem = 3;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
-		AttachedWeaponDefinitions.FragGrenade,
 		AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 }
@@ -116,7 +109,6 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoGreenMaleGasMa
 	chance = 50;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
-		AttachedWeaponDefinitions.FragGrenade,
 		AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 }
@@ -125,7 +117,6 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoGreenFemaleGas
 	maxitem = 2;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
-		AttachedWeaponDefinitions.FragGrenade,
 		AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 }
@@ -134,7 +125,6 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkNBCSuit = {
 	maxitem = 3;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
-		AttachedWeaponDefinitions.FragGrenade,
 		AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 }
