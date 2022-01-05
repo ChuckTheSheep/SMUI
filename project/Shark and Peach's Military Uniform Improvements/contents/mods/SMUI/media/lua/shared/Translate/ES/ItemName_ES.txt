@@ -31,4 +31,10 @@ ItemName_ES = {
 	ItemName_SMUIClothing.Vest_ODGreen = "Chaleco militar verde oliva",
 	ItemName_SMUIClothing.MilitaryWebbingBag = "Arnés militar con bolsa",
 	ItemName_SMUIClothing.MilitaryWebbingBagTightened = "Arnés militar con bolsa (Ajustado)",
+	ItemName_SMUIClothing.M17Doff = "M17 con capucha protectora NBC",
+	ItemName_SMUIClothing.Hat_MilitaryHelmetNVGUP = "Casco militar con Gafas de visión nocturna (Arriba)",
+	ItemName_SMUIClothing.Hat_MilitaryHelmetNVGDOWN = "Casco militar con Gafas de visión nocturna (Abajo)",
+	ItemName_SMUIClothing.Hat_MilitaryHelmet = "Casco militar",
+	ItemName_SMUIClothing.Hat_MilitaryHelmetStrapless = "Casco militar (Desabrochado)",
+	ItemName_SMUIClothing.Hat_MilitaryHelmetNVGMount = "Casco militar con soporte para gafas de visión nocturna",
 } 

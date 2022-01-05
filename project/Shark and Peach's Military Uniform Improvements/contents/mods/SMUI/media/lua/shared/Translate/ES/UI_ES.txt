@@ -1,7 +1,7 @@
 UI_ES = {
 
-ContextMenu_UpHoodie = "Capucha arriba",
-ContextMenu_DownHoodie = "Capucha abajo",
+ContextMenu_FlipUp = "Voltear hacia arriba",
+ContextMenu_FlipDown = "Voltear hacia abajo",
 ContextMenu_RollUp = "Enrollar",
 ContextMenu_RollDown = "Desenrollar",
 
