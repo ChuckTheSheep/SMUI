@@ -382,6 +382,9 @@
 		<m_items> <!-- Military Webbing-->
 			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
 		</m_items>
+		<m_items> <!-- NBC Gloves -->
+			<itemGUID>27bbfaa3-bfec-4fdf-a7e0-8d1de17f1fa4</itemGUID>
+		</m_items>
 		<m_items> <!-- Military Webbing w/ Pack-->
 			<probability>0.5</probability>
 			<itemGUID>696a65be-2608-448c-afe3-aa1289638598</itemGUID>
@@ -407,9 +410,6 @@
 		</m_items>
 		<m_items> <!-- Woodland Camo Jacket -->
 			<itemGUID>b0d642f6-eb11-456c-aeb0-1b190b29a364</itemGUID>
-		</m_items>
-		<m_items> <!-- Woodland Camo Jacket (Rolled) -->
-			<itemGUID>a51eee81-0e8a-45b1-9169-145d87041d99</itemGUID>
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
@@ -441,6 +441,9 @@
 		<m_items> <!-- M17 Gas Mask w/ Doff-->
 			<itemGUID>c8285da6-70cd-4794-9691-67d0b5b2c91b</itemGUID>
 		</m_items>
+		<m_items> <!-- NBC Gloves -->
+			<itemGUID>27bbfaa3-bfec-4fdf-a7e0-8d1de17f1fa4</itemGUID>
+		</m_items>
 		<m_items> <!-- Military Webbing w/ Pack-->
 			<probability>0.5</probability>
 			<itemGUID>696a65be-2608-448c-afe3-aa1289638598</itemGUID>
@@ -466,9 +469,6 @@
 		</m_items>
 		<m_items> <!-- Woodland Camo Jacket -->
 			<itemGUID>b0d642f6-eb11-456c-aeb0-1b190b29a364</itemGUID>
-		</m_items>
-		<m_items> <!-- Woodland Camo Jacket (Rolled) -->
-			<itemGUID>a51eee81-0e8a-45b1-9169-145d87041d99</itemGUID>
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
