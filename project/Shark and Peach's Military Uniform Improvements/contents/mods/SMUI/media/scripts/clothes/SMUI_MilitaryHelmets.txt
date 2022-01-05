@@ -18,7 +18,7 @@ module SMUIClothing
         ClothingItemExtraOption = Unstrap,
 		Insulation = 0.25,
 		WaterResistance = 0.2,
-		WorldStaticModel = MilitaryHelmetNVGMount_WorldItem,
+		WorldStaticModel = MilitaryHelmet_WorldItem,
 	}
 
         item Hat_ArmyHelmetStrapless
@@ -39,7 +39,7 @@ module SMUIClothing
         ClothingItemExtraOption = Strap,
 		Insulation = 0.25,
 		WaterResistance = 0.2,
-		WorldStaticModel = MilitaryHelmetNVGMount_WorldItem,
+		WorldStaticModel = MilitaryHelmet_WorldItem,
 	}
 
         item Hat_MilitaryHelmet
@@ -59,7 +59,7 @@ module SMUIClothing
         ClothingItemExtraOption = Strap,
         Insulation = 0.10,
         Weight = 1,
-		WorldStaticModel = MilitaryHelmetNVGMount_WorldItem,
+		WorldStaticModel = MilitaryHelmet_WorldItem,
     }
 
         item Hat_MilitaryHelmetStrapless
@@ -80,7 +80,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 1,
-		WorldStaticModel = MilitaryHelmetNVGMount_WorldItem,
+		WorldStaticModel = MilitaryHelmet_WorldItem,
     }
     
 	    item Hat_MilitaryHelmetNVGMount

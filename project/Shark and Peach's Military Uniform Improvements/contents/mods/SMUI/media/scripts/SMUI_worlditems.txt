@@ -49,6 +49,13 @@ module Base
 		scale = 0.5,
 	}
 
+		model MilitaryHelmet_WorldItem
+	{
+		mesh = WorldItems/MilitaryHelmet_WorldItem,
+		texture = WorldItems/MilitaryHelmet,
+		scale = 0.5,
+	}
+
 		model MilitaryHelmetNVGMount_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetNVGMount_WorldItem,
