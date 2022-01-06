@@ -79,6 +79,15 @@ recipe Attach doff hood
 	   Time:60,
   	}
 
+recipe Attach doff hood
+  	{
+   	   Hat_PoliceM17,
+	   M17Hood,
+
+   	   Result:Hat_M17Doff,
+	   Time:60,
+  	}
+
  recipe Open sealed package
   	{
        MOPPPackageTop,
