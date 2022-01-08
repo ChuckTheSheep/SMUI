@@ -8,7 +8,7 @@ module SMUIClothing
     Type = Clothing,
     DisplayName = MOPP Suit Top (Hood Down),
     ClothingItem = Suit_NBCSuit,
-    BodyLocation = FullSuit,
+    BodyLocation = Jacket,
     Icon = NBCSuit,
     BloodLocation = Jacket,
     RunSpeedModifier = 0.89,
