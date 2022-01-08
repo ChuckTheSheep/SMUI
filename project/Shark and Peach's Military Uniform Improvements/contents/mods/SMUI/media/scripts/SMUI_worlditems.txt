@@ -1,5 +1,27 @@
 module Base
 {
+
+	    model PatrolCapWoodland_WorldItem
+	{
+		mesh = WorldItems/PatrolCap_WorldItem,
+		texture = WorldItems/PatrolCapWoodland,
+		scale = 0.5,
+	}
+
+		model PatrolCapDesert_WorldItem
+	{
+		mesh = WorldItems/PatrolCap_WorldItem,
+		texture = WorldItems/PatrolCapDesert,
+		scale = 0.5,
+	}
+
+		model PatrolCapUrban_WorldItem
+	{
+		mesh = WorldItems/PatrolCap_WorldItem,
+		texture = WorldItems/PatrolCapUrban,
+		scale = 0.5,
+	}
+
         model MilitaryWebbing_WorldItem
 	{
 		mesh = WorldItems/MilitaryWebbing_WorldItem,
