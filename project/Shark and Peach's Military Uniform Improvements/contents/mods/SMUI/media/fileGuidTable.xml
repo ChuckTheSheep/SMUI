@@ -218,6 +218,16 @@
 	<guid>dd49740b-e934-45d9-929f-7eadb7b81466</guid>
 	</files>
 
+	<files>
+	<path>media/clothing/clothingItems/Hat_ShemaghWoodland.xml</path>
+	<guid>17386261-2512-4014-b202-83ddf6c19fbf</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_ShemaghDesert.xml</path>
+	<guid>febc596e-8c34-4528-a184-b6369e610aba</guid>
+	</files>
+
 
 	<!-- Vanilla Clothing -->
 	

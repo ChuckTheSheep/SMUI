@@ -112,5 +112,26 @@ module Base
 		texture = WorldItems/MOPPPackageBottom,
 		scale = 0.5,
 	}
+
+		model Shemagh_WorldItem
+	{
+		mesh = WorldItems/Shemagh_WorldItem,
+		texture = WorldItems/Shemagh,
+		scale = 0.5,
+	}
+	
+		model ShemaghWoodland_WorldItem
+	{
+		mesh = WorldItems/Shemagh_WorldItem,
+		texture = WorldItems/ShemaghWoodland,
+		scale = 0.5,
+	}
+
+		model ShemaghDesert_WorldItem
+	{
+		mesh = WorldItems/Shemagh_WorldItem,
+		texture = WorldItems/ShemaghDesert,
+		scale = 0.5,
+	}
 	
 }
