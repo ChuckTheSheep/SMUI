@@ -19,6 +19,46 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetNVGUP.xml</path>
+	<guid>14b93a03-3b91-463a-b59d-4c83bf3c0574</guid>
+	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetNVGDOWN.xml</path>
+	<guid>3468f688-5da8-4398-943a-488f0e73d2b1</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetDesert.xml</path>
+	<guid>b049fdda-ea87-444c-9a5b-c719b3776e81</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetDesertStrapless.xml</path>
+	<guid>6394c4f5-2eee-4485-bcef-fc3205ad4457</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetDesertNVGMount.xml</path>
+	<guid>dde2a198-d11d-4a19-9826-a58a8f92627e</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetDesertNVGMountStrapless.xml</path>
+	<guid>63abe6e7-39a7-42d8-b887-76b718b136dd</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetDesertNVGUP.xml</path>
+	<guid>2fed88b2-cf3a-4362-9e2f-995f46bd7fd7</guid>
+	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetDesertNVGDOWN.xml</path>
+	<guid>655c363c-60b9-4a03-8f63-0d1a2ed8352e</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_PatrolCap.xml</path>
 	<guid>601bf44b-fe47-44b1-a327-3fd441250ca7</guid>
 	</files>
@@ -172,17 +212,6 @@
 	<path>media/clothing/clothingItems/Vest_MilitaryTacticalVest.xml</path>
 	<guid>ea2e6901-f5e7-4021-87b4-c2c49f024b98</guid>
 	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/Hat_MilitaryHelmetNVGUP.xml</path>
-	<guid>14b93a03-3b91-463a-b59d-4c83bf3c0574</guid>
-	</files>
-	
-	<files>
-	<path>media/clothing/clothingItems/Hat_MilitaryHelmetNVGDOWN.xml</path>
-	<guid>3468f688-5da8-4398-943a-488f0e73d2b1</guid>
-	</files>
-
 
 	<!-- Vanilla Clothing -->
 	

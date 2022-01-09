@@ -103,5 +103,47 @@ module SMUIClothing
         Weight = 1,
 		WorldStaticModel = MilitaryHelmetNVGMount_WorldItem,
 	}
+
+	
+        item Hat_MilitaryHelmetDesert
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Desert Military Helmet,
+        ClothingItem = Hat_MilitaryHelmetDesert,
+        BodyLocation = Hat,
+        Icon = MilitaryHelmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_MilitaryHelmetDesertStrapless,
+        ClothingItemExtraOption = Strap,
+        Insulation = 0.10,
+        Weight = 1,
+		WorldStaticModel = MilitaryHelmet_WorldItem,
+    }
+
+        item Hat_MilitaryHelmetDesertStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName =  Desert Military Helmet (Strapless),
+        ClothingItem = Hat_MilitaryHelmetDesertStrapless,
+        BodyLocation = Hat,
+        Icon = MilitaryHelmetStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_MilitaryHelmetDesert,
+        ClothingItemExtraOption = Strap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 1,
+		WorldStaticModel = MilitaryHelmet_WorldItem,
+    }
 	
 }

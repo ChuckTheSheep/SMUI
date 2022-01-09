@@ -105,3 +105,9 @@ module SMUIClothing
         WorldStaticModel = PatrolCapUrban_WorldItem,
     }
 }
+
+sharkProtectedClothing = 
+{
+    "SMUIClothing,Hat_M17",
+    "SMUIClothing.Hat_M17Doff",
+}
