@@ -212,6 +212,12 @@
 	<path>media/clothing/clothingItems/Vest_MilitaryTacticalVest.xml</path>
 	<guid>ea2e6901-f5e7-4021-87b4-c2c49f024b98</guid>
 	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/Hat_Shemagh.xml</path>
+	<guid>dd49740b-e934-45d9-929f-7eadb7b81466</guid>
+	</files>
+
 
 	<!-- Vanilla Clothing -->
 	
