@@ -583,46 +583,6 @@
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_MaleOutfits>
-
-	<m_MaleOutfits>
-		<m_Name>SharkNBCSuit</m_Name>
-		<m_Guid>82c517ea-2efd-4742-b465-f9abf4c214f1</m_Guid>
-		<m_Top>false</m_Top>
-		<m_Pants>false</m_Pants>
-		<m_items> <!-- NBC Mask-->
-			<itemGUID>3ecbd0ed-beef-4532-9823-c2a9437e8484</itemGUID>
-		</m_items>
-		<m_items> <!-- Long Socks -->
-			<itemGUID>fb86bd5f-1931-4b24-a5d7-bd6a43769991</itemGUID>
-		</m_items>	
-		<m_items> <!-- NBC Gloves -->
-			<itemGUID>27bbfaa3-bfec-4fdf-a7e0-8d1de17f1fa4</itemGUID>
-		</m_items>
-		<m_items> <!-- NBC Boots -->
-			<itemGUID>56b62e70-0f4b-4425-8cc6-0f9d723b1a19</itemGUID>
-		</m_items>
-		<m_items> <!-- Army T-Shirt -->
-			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
-		</m_items>
-		<m_items> <!-- NBC Suit -->
-			<itemGUID>20a92dca-f73c-4a00-a0da-7bb88c57fa5f</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Webbing -->
-			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Webbing w/ Pack-->
-			<probability>0.5</probability>
-			<itemGUID>696a65be-2608-448c-afe3-aa1289638598</itemGUID>
-		</m_items>
-			<m_items> <!-- Dog-Tags -->
-			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
-		</m_items>
-		<m_items> <!-- Holster -->
-			<probability>0.3</probability>
-			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
-		</m_items>	
-	</m_MaleOutfits>
-
 	
 	<m_MaleOutfits>
 		<m_Name>SharkArmyCavalry</m_Name>
