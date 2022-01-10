@@ -102,7 +102,7 @@ module Base
 		model MilitaryHelmetDesertNVGMount_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetNVGMount_WorldItem,
-		texture = WorldItems/MilitaryHelmeDesertNVG,
+		texture = WorldItems/MilitaryHelmetDesertNVG,
 		scale = 0.5,
 	}
 
