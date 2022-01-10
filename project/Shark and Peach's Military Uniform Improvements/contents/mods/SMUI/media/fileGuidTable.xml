@@ -9,6 +9,26 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetGoggles.xml</path>
+	<guid>d7874b7a-2c99-43ee-b7ba-c474a4591360</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetGogglesStrapless.xml</path>
+	<guid>bea41b04-3b87-4733-9124-654323c3ac77</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetDesertGoggles.xml</path>
+	<guid>925f00d1-ac42-445f-8ebd-cd7cb73a4201</guid>
+	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetDesertGogglesStrapless.xml</path>
+	<guid>f3192a33-14d5-498b-8e42-5cff1f2fbc57</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_MilitaryHelmetNVGMount.xml</path>
 	<guid>dde2a198-d11d-4a19-9826-a58a8f92627e</guid>
 	</files>

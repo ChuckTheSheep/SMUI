@@ -66,7 +66,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Military Helmet (Strapless),
+        DisplayName = Strapless Military Helmet,
         ClothingItem = Hat_MilitaryHelmetStrapless,
         BodyLocation = Hat,
         Icon = MilitaryHelmetStrapless,
@@ -83,6 +83,47 @@ module SMUIClothing
 		WorldStaticModel = MilitaryHelmet_WorldItem,
     }
     
+	    item Hat_MilitaryHelmetGoggles
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Military Helmet w/ Goggles,
+        ClothingItem = Hat_MilitaryHelmetGoggles,
+        BodyLocation = Hat,
+        Icon = MilitaryHelmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_MilitaryHelmetGogglesStrapless,
+        ClothingItemExtraOption = Unstrap,
+        Insulation = 0.10,
+        Weight = 1,
+        WorldStaticModel = MilitaryHelmetGoggles_WorldItem,
+    }
+
+        item Hat_MilitaryHelmetGogglesStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless Military Helmet w/ Goggles,
+        ClothingItem = Hat_MilitaryHelmetGogglesStrapless,
+        BodyLocation = Hat,
+        Icon = MilitaryHelmetStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_MilitaryHelmetGoggles,
+        ClothingItemExtraOption = Strap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 1,
+		WorldStaticModel = MilitaryHelmetGoggles_WorldItem,
+    }
+
 	    item Hat_MilitaryHelmetNVGMount
 	{
         DisplayCategory = Helmet,
@@ -104,7 +145,6 @@ module SMUIClothing
 		WorldStaticModel = MilitaryHelmetNVGMount_WorldItem,
 	}
 
-	
         item Hat_MilitaryHelmetDesert
     {
         DisplayCategory = Helmet,
@@ -144,6 +184,47 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
 		WorldStaticModel = MilitaryHelmetDesert_WorldItem,
+    }
+
+	    item Hat_MilitaryHelmetDesertGoggles
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Desert Military Helmet /w Goggles,
+        ClothingItem = Hat_MilitaryHelmetDesertGoggles,
+        BodyLocation = Hat,
+        Icon = DesertMilitaryHelmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_MilitaryHelmetDesertGogglesStrapless,
+        ClothingItemExtraOption = Unstrap,
+        Insulation = 0.10,
+        Weight = 1,
+		WorldStaticModel = MilitaryHelmetDesertGoggles_WorldItem,
+    }
+
+        item Hat_MilitaryHelmetDesertGogglesStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName =  Strapless Desert Military Helmet w/ Goggles,
+        ClothingItem = Hat_MilitaryHelmetDesertGogglesStrapless,
+        BodyLocation = Hat,
+        Icon = DesertMilitaryHelmetStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_MilitaryHelmetDesertGoggles,
+        ClothingItemExtraOption = Strap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 1,
+		WorldStaticModel = MilitaryHelmetDesertGoggles_WorldItem,
     }
 
     	item Hat_MilitaryHelmetDesertNVGMount

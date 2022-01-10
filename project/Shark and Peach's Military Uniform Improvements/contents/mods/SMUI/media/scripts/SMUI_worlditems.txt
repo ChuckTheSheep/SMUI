@@ -161,4 +161,18 @@ module Base
 		texture = WorldItems/MilitaryGoggles,
 		scale = 0.5,
 	}
+
+		model MilitaryHelmetGoggles_WorldItem
+	{
+		mesh = WorldItems/MilitaryHelmetGoggles_WorldItem,
+		texture = WorldItems/MilitaryHelmetGoggles,
+		scale = 0.5,
+	}
+
+		model MilitaryHelmetDesertGoggles_WorldItem
+	{
+		mesh = WorldItems/MilitaryHelmetGoggles_WorldItem,
+		texture = WorldItems/MilitaryHelmetDesertGoggles,
+		scale = 0.5,
+	}
 }
