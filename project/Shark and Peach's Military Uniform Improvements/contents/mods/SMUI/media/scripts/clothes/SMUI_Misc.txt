@@ -45,13 +45,14 @@ module SMUIClothing
 	    DisplayCategory = Accessory,
 		Type = Clothing,
 		DisplayName = Military Dust Goggles,
-		ClothingItem = Glasses_M1944Goggles,
+		ClothingItem = Glasses_MilitaryGoggles,
 		BodyLocation = Eyes,
         BloodLocation = Head,
         ScratchDefense = 10,
-		Icon= SkiGogglesBlack,
+		Icon= MilitaryGoggles,
 		Weight = 0.1,
 		Cosmetic = TRUE,
+        WorldStaticModel = MilitaryGoggles_WorldItem,
 	}
 
         item Hat_ShemaghWoodland

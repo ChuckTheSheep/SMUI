@@ -155,4 +155,10 @@ module Base
 		scale = 0.5,
 	}
 	
+		model MilitaryGoggles_WorldItem
+	{
+		mesh = WorldItems/MilitaryGoggles_WorldItem,
+		texture = WorldItems/MilitaryGoggles,
+		scale = 0.5,
+	}
 }
