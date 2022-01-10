@@ -40,13 +40,15 @@ module SMUIClothing
         WorldStaticModel = Shemagh_WorldItem,	
     }
 
-    	item Glasses_M1944Goggles
+    	item Glasses_MilitaryGoggles
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = M-1944 Goggles,
+		DisplayName = Military Dust Goggles,
 		ClothingItem = Glasses_M1944Goggles,
 		BodyLocation = Eyes,
+        BloodLocation = Head,
+        ScratchDefense = 10,
 		Icon= SkiGogglesBlack,
 		Weight = 0.1,
 		Cosmetic = TRUE,
