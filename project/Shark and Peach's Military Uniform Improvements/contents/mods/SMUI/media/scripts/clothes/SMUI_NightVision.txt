@@ -69,7 +69,7 @@ module SMUIClothing
 		ChanceToFall = 0,
 		Tooltip = Tooltip_NVGBroken,
         Weight = 1.7,
-		WorldStaticModel = MilitaryHelmetNVGUP_WorldItem,
+		WorldStaticModel = MilitaryHelmetDesertNVGUP_WorldItem,
     }
 
 		item Hat_MilitaryHelmetDesertNVGDOWN
@@ -92,6 +92,6 @@ module SMUIClothing
 		ChanceToFall = 0,
 		Tooltip = Tooltip_NVGBroken,
         Weight = 1.7,
-		WorldStaticModel = MilitaryHelmetNVGUP_WorldItem,
+		WorldStaticModel = MilitaryHelmetDesertNVGUP_WorldItem,
     }
 }

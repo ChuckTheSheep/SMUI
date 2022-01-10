@@ -92,6 +92,27 @@ module Base
 		scale = 0.5,
 	}
 
+		model MilitaryHelmetDesert_WorldItem
+	{
+		mesh = WorldItems/MilitaryHelmet_WorldItem,
+		texture = WorldItems/MilitaryHelmetDesert,
+		scale = 0.5,
+	}
+
+		model MilitaryHelmetDesertNVGMount_WorldItem
+	{
+		mesh = WorldItems/MilitaryHelmetNVGMount_WorldItem,
+		texture = WorldItems/MilitaryHelmeDesertNVG,
+		scale = 0.5,
+	}
+
+		model MilitaryHelmetDesertNVGUP_WorldItem
+	{
+		mesh = WorldItems/MilitaryHelmetNVGUP_WorldItem,
+		texture = WorldItems/MilitaryHelmetDesertNVG,
+		scale = 0.5,
+	}
+
 		model MOPPPackageTop_WorldItem
 	{
 		mesh = WorldItems/MOPPPackage_WorldItem,

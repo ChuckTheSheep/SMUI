@@ -228,6 +228,10 @@
 	<guid>febc596e-8c34-4528-a184-b6369e610aba</guid>
 	</files>
 
+	<files>
+	<path>media/clothing/clothingItems/Glasses_M1944Glasses.xml</path>
+	<guid>fb606b91-267c-427c-a8ce-fd211331b2a6</guid>
+	</files>
 
 	<!-- Vanilla Clothing -->
 	
