@@ -1,19 +1,31 @@
 SMUI_Recipe = {}
 
+
+-- Code by Chuck and written originally for Expanded Helicopter Events
+
 function SMUI_Recipe.CanOpenBoxes(scriptItems)
 	scriptItems:addAll(getScriptManager():getItemsTag("CanOpenBoxes"))
 end
 
-function SMUI_Recipe.PACKAGETOP(recipe, result, player)
-	player:getInventory():AddItems("SMUIClothing.Suit_NBCSuit", 1)
-	player:getInventory():AddItems("SMUIClothing.Gloves_HazmatGloves", 1)
+function SMUI_Recipe.M17HOOD(recipe, result, player)
+	player:getInventory():AddItems("SMUIClothing.M17Hood", 1)
 end
 
-function SMUI_Recipe.PACKAGEBOTTOM(recipe, result, player)
-	player:getInventory():AddItems("SMUIClothing.Trousers_NBCPants", 1)
-	player:getInventory():AddItems("SMUIClothing.Shoes_HazmatBoots", 1)
+function SMUI_Recipe.GOGGLESWOODLAND(recipe, result, player)
+	player:getInventory():AddItems("SMUIClothing.Hat_MilitaryHelmet", 1)
 end
 
+function SMUI_Recipe.GOGGLESWOODLANDSTRAPLESS(recipe, result, player)
+	player:getInventory():AddItems("SMUIClothing.Hat_MilitaryHelmetStrapless", 1)
+end
+
+function SMUI_Recipe.GOGGLESDESERT(recipe, result, player)
+	player:getInventory():AddItems("SMUIClothing.Hat_MilitaryHelmetDesert", 1)
+end
+
+function SMUI_Recipe.GOGGLESDESERTSTRAPLESS(recipe, result, player)
+	player:getInventory():AddItems("SMUIClothing.Hat_MilitaryHelmetDesertStrapless", 1)
+end
 
 SMUI_Recipe.typesThatCanOpenBoxes = SMUI_Recipe.typesThatCanOpenBoxes or {}
 

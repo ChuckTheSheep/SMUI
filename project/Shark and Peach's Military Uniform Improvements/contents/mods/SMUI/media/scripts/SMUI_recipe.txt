@@ -97,6 +97,24 @@ recipe Attach goggles to helmet
 	   Time:20,
   	}
 
+recipe Detach goggles from helmet
+  	{
+   	   Hat_MilitaryHelmetGoggles,
+	   OnCreate.SMUI_Recipe.GOGGLESWOODLAND,
+
+   	   Result:Glasses_MilitaryGoggles,
+	   Time:20,
+  	}
+ 
+recipe Attach goggles to helmet
+  	{
+   	   Hat_MilitaryHelmet,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Glasses_MilitaryGoggles,
+	   Time:20,
+  	}
+
 recipe Attach goggles to helmet
   	{
    	   Hat_MilitaryHelmetStrapless,
@@ -106,12 +124,30 @@ recipe Attach goggles to helmet
 	   Time:20,
   	}
 
+recipe Detach goggles from helmet
+  	{
+   	   Hat_MilitaryHelmetGogglesStrapless,
+	   OnCreate.SMUI_Recipe.GOGGLESWOODLANDSTRAPLESS,
+
+   	   Result:Glasses_MilitaryGoggles,
+	   Time:20,
+  	}
+ 
 recipe Attach goggles to helmet
   	{
    	   Hat_MilitaryHelmetDesert,
 	   Glasses_MilitaryGoggles,
 
    	   Result:Hat_MilitaryHelmetDesertGoggles,
+	   Time:20,
+  	}
+
+recipe Detach goggles from helmet
+  	{
+   	   Hat_MilitaryHelmetDesertGoggles,
+	   OnCreate.SMUI_Recipe.GOGGLESDESERT,
+
+   	   Result:Hat_MilitaryHelmetDesert,
 	   Time:20,
   	}
 
@@ -124,7 +160,14 @@ recipe Attach goggles to helmet
 	   Time:20,
   	}
 
+recipe Detach goggles from helmet
+  	{
+   	   Hat_MilitaryHelmetDesertGogglesStrapless,
+	   OnCreate.SMUI_Recipe.GOGGLESDESERTSTRAPLESS,
 
+   	   Result:Hat_MilitaryDesertStrapless,
+	   Time:20,
+  	}
 
 recipe Attach doff hood
   	{
@@ -141,6 +184,14 @@ recipe Attach doff hood
 	   M17Hood,
 
    	   Result:Hat_M17Doff,
+	   Time:60,
+  	}
+
+recipe Remove doff hood
+  	{
+   	   Hat_M17Doff,
+	   OnCreate: SMUI_Recipe.M17HOOD,
+   	   Result:Hat_M17,
 	   Time:60,
   	}
 
