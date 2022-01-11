@@ -128,8 +128,7 @@
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
 		<m_items> <!-- Military Helmet-->
-		<probability>0.6</probability>
-			<itemGUID>dde2a198-d11d-4a19-9826-a58a8f92627e</itemGUID>
+			<itemGUID>e3b68146-8b14-4c4c-a59e-d0fb94901858</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Helmet w/ Goggles -->
 		<probability>0.5</probability>
@@ -189,8 +188,8 @@
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
-	    <m_items> <!-- Military Helmet-->
-			<itemGUID>dde2a198-d11d-4a19-9826-a58a8f92627e</itemGUID>
+		<m_items> <!-- Military Helmet-->
+			<itemGUID>e3b68146-8b14-4c4c-a59e-d0fb94901858</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Helmet w/ Goggles -->
 		<probability>0.5</probability>
@@ -540,7 +539,7 @@
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
 		<m_items> <!-- Military Helmet -->
-			<itemGUID>dde2a198-d11d-4a19-9826-a58a8f92627e</itemGUID>
+			<itemGUID>e3b68146-8b14-4c4c-a59e-d0fb94901858</itemGUID>
 		</m_items>
 			<m_items> <!-- Military Helmet w/ Goggles -->
 		<probability>0.5</probability>
