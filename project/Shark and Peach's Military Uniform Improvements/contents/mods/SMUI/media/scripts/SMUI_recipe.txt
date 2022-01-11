@@ -60,7 +60,6 @@ recipe Attach NVG mount
    	   Result:Hat_MilitaryHelmetNVGMount,
 	   Time:60,
   	}
-
 	  
 recipe Attach NVG mount
   	{
@@ -88,6 +87,43 @@ recipe Attach Night Vision
    	   Result:Hat_MilitaryHelmetDesertNVGUP,
 	   Time:60,
   	}
+
+recipe Attach goggles to helmet
+  	{
+   	   Hat_MilitaryHelmet,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_MilitaryHelmetGoggles,
+	   Time:20,
+  	}
+
+recipe Attach goggles to helmet
+  	{
+   	   Hat_MilitaryHelmetStrapless,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_MilitaryHelmetGogglesStrapless,
+	   Time:20,
+  	}
+
+recipe Attach goggles to helmet
+  	{
+   	   Hat_MilitaryHelmetDesert,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_MilitaryHelmetDesertGoggles,
+	   Time:20,
+  	}
+
+recipe Attach goggles to helmet
+  	{
+   	   Hat_MilitaryHelmetDesertStrapless,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_MilitaryHelmetDesertGogglesStrapless,
+	   Time:20,
+  	}
+
 
 
 recipe Attach doff hood
