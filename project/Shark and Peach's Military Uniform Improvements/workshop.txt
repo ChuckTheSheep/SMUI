@@ -7,9 +7,14 @@ description= Consider supporting our modding efforts:
 description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
-description=[h1][b]NEW: M17 /w Doff Hood[/b][/h1]
+description=[h1][b]NEW: Desert Military Helmets[/b][/h1]
+description=[h1][b]NEW: Shemaghs (Plain, Desert, Woodland)[/b][/h1]
+description=[h1][b]NEW: Military Dust Goggles[/b][/h1]
+description=[h1][b]NEW: Military Helmets w/ Dust Goggles (can be put on and taken off)[/b][/h1]
 description=
-description=[h2][b]Note: Because of the current Eris/PLL/Brita NVG code issue- the new NVG's currently have their capability removed as a safety measure. This is temporary.[/b][/h2]
+description=[h1][b]Special thanks to: ParaNautic and Dr. Bright for both commissioning[/b][/h1]
+description=
+description=[h2][b]Note: Because of the current Eris/PLL/Brita NVG code issue- the new NVG's currently have their capability removed as a safety measure. This is still temporary.[/b][/h2]
 description=
 description= This mod entirely redoes the vanilla military zombies to be inline with actual equipment (e.g ALICE webbing) and clothing standards of the 1990's US Military.
 description=
