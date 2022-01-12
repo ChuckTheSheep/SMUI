@@ -11,21 +11,10 @@ function SMUI_Recipe.M17HOOD(recipe, result, player)
 	player:getInventory():AddItems("SMUIClothing.M17Hood", 1)
 end
 
-function SMUI_Recipe.GOGGLESWOODLAND(recipe, result, player)
-	player:getInventory():AddItems("SMUIClothing.Hat_MilitaryHelmet", 1)
+function SMUI_Recipe.GOGGLES(recipe, result, player)
+	player:getInventory():AddItems("SMUIClothing.Glasses_MilitaryGoggles", 1)
 end
 
-function SMUI_Recipe.GOGGLESWOODLANDSTRAPLESS(recipe, result, player)
-	player:getInventory():AddItems("SMUIClothing.Hat_MilitaryHelmetStrapless", 1)
-end
-
-function SMUI_Recipe.GOGGLESDESERT(recipe, result, player)
-	player:getInventory():AddItems("SMUIClothing.Hat_MilitaryHelmetDesert", 1)
-end
-
-function SMUI_Recipe.GOGGLESDESERTSTRAPLESS(recipe, result, player)
-	player:getInventory():AddItems("SMUIClothing.Hat_MilitaryHelmetDesertStrapless", 1)
-end
 
 SMUI_Recipe.typesThatCanOpenBoxes = SMUI_Recipe.typesThatCanOpenBoxes or {}
 

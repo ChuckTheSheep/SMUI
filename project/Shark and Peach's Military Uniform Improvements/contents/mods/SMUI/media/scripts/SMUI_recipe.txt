@@ -97,21 +97,12 @@ recipe Attach goggles to helmet
 	   Time:20,
   	}
 
-recipe Detach goggles from helmet
-  	{
-   	   Hat_MilitaryHelmetGoggles,
-	   OnCreate.SMUI_Recipe.GOGGLESWOODLAND,
-
-   	   Result:Glasses_MilitaryGoggles,
-	   Time:20,
-  	}
- 
 recipe Attach goggles to helmet
   	{
    	   Hat_MilitaryHelmet,
 	   Glasses_MilitaryGoggles,
 
-   	   Result:Glasses_MilitaryGoggles,
+   	   Result:Hat_MilitaryHelmetGoggles,
 	   Time:20,
   	}
 
@@ -124,15 +115,6 @@ recipe Attach goggles to helmet
 	   Time:20,
   	}
 
-recipe Detach goggles from helmet
-  	{
-   	   Hat_MilitaryHelmetGogglesStrapless,
-	   OnCreate.SMUI_Recipe.GOGGLESWOODLANDSTRAPLESS,
-
-   	   Result:Glasses_MilitaryGoggles,
-	   Time:20,
-  	}
- 
 recipe Attach goggles to helmet
   	{
    	   Hat_MilitaryHelmetDesert,
@@ -142,30 +124,12 @@ recipe Attach goggles to helmet
 	   Time:20,
   	}
 
-recipe Detach goggles from helmet
-  	{
-   	   Hat_MilitaryHelmetDesertGoggles,
-	   OnCreate.SMUI_Recipe.GOGGLESDESERT,
-
-   	   Result:Hat_MilitaryHelmetDesert,
-	   Time:20,
-  	}
-
 recipe Attach goggles to helmet
   	{
    	   Hat_MilitaryHelmetDesertStrapless,
 	   Glasses_MilitaryGoggles,
 
    	   Result:Hat_MilitaryHelmetDesertGogglesStrapless,
-	   Time:20,
-  	}
-
-recipe Detach goggles from helmet
-  	{
-   	   Hat_MilitaryHelmetDesertGogglesStrapless,
-	   OnCreate.SMUI_Recipe.GOGGLESDESERTSTRAPLESS,
-
-   	   Result:Hat_MilitaryDesertStrapless,
 	   Time:20,
   	}
 
@@ -195,21 +159,38 @@ recipe Remove doff hood
 	   Time:60,
   	}
 
- recipe Open sealed package
+recipe Remove goggles
   	{
-       MOPPPackageTop,
-       keep [SMUI_Recipe.CanOpenBoxes],
-       Result:SMUIClothing.MOPPPackageWrapper,
-       OnCreate:SMUI_Recipe.PACKAGETOP,
-       Time:70.0,
+   	   Hat_MilitaryHelmetGoggles,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_MilitaryHelmet,
+	   Time:60,
   	}
- 
- recipe Open sealed package
+
+recipe Remove goggles
   	{
-       MOPPPackageBottom,
-       keep [SMUI_Recipe.CanOpenBoxes],
-       Result:SMUIClothing.MOPPPackageWrapper,
-       OnCreate:SMUI_Recipe.PACKAGEBOTTOM,
-       Time:70.0,
+   	   Hat_MilitaryHelmetGogglesStrapless,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_MilitaryHelmetStrapless,
+	   Time:60,
   	}
+
+recipe Remove goggles
+  	{
+   	   Hat_MilitaryHelmetDesertGoggles,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_MilitaryHelmetDesert,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_MilitaryHelmetDesertGogglesStrapless,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_MilitaryHelmetDesertStrapless,
+	   Time:60,
+  	}
+
+
+
 }		
