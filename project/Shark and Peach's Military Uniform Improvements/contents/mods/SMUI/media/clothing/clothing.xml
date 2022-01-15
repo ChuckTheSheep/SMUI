@@ -262,7 +262,7 @@
 			<itemGUID>dde2a198-d11d-4a19-9826-a58a8f92627e</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Helmet (NVG up)-->
-		<probability>0.3</probability>
+		<probability>0.1</probability>
 			<itemGUID>14b93a03-3b91-463a-b59d-4c83bf3c0574</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Webbing-->
@@ -323,7 +323,7 @@
 			<itemGUID>dde2a198-d11d-4a19-9826-a58a8f92627e</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Helmet (NVG up)-->
-		<probability>0.3</probability>
+		<probability>0.1</probability>
 			<itemGUID>14b93a03-3b91-463a-b59d-4c83bf3c0574</itemGUID>
 		</m_items>
 	    <m_items> <!-- Woodland Patrol Cap-->
@@ -746,7 +746,7 @@
 			<itemGUID>dde2a198-d11d-4a19-9826-a58a8f92627e</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Helmet (NVG up)-->
-		<probability>0.3</probability>
+		<probability>0.1</probability>
 			<itemGUID>3468f688-5da8-4398-943a-488f0e73d2b1</itemGUID>
 		</m_items>
 		<m_items> <!-- Red Military Beret -->
