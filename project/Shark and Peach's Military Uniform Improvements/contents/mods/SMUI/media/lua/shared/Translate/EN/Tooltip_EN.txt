@@ -1,5 +1,4 @@
 Tooltip_EN = {
-    Tooltip_M17 = "Standard US Infantry Gas Mask",
     Tooltip_M17Doff = "M17 fitted with a protective NBC hood",
     Tooltip_DoffHood = "Protective NBC hood designed for the M17",
     Tooltip_PackageTop = "Contains an NBC suit top and protective gloves",
