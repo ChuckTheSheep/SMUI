@@ -16,7 +16,6 @@ module SMUIClothing
         Weight = 0.3,
         Insulation = 0.75,
         WindResistance = 0.45,
-        Tooltip = Tooltip_M17,
 		AttachmentType  = GasMask,	
 		StaticModel 	= GasMaskM17NotWorn,
         WorldStaticModel = M17_WorldItem,
@@ -44,7 +43,7 @@ module SMUIClothing
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Military Dust Goggles,
+		DisplayName = Dust Goggles,
 		ClothingItem = Glasses_MilitaryGoggles,
 		BodyLocation = Eyes,
         BloodLocation = Head,
