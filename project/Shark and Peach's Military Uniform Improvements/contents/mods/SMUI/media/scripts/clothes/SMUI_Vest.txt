@@ -18,7 +18,6 @@ module SMUIClothing
         WindResistance = 0.45,
 		WeightReduction	=	50,
 		RunSpeedModifier = 1,
-		Tooltip = Tooltip_ODGreen,
         WorldStaticModel = BulletVest_Ground,
 	}
 
@@ -38,6 +37,5 @@ module SMUIClothing
 		WeightReduction	=	65,
 		Icon = MilitaryTacticalVest,
 		WorldStaticModel = MilitaryTacticalVest_WorldItem,
-		Tooltip = Tooltip_MilitaryTacticalVest,
 	}
 }
