@@ -15,7 +15,6 @@ module SMUIClothing
 		ClothingItemExtra = MilitaryWebbingTightened,
         ClothingItemExtraOption = Fasten,
 		Icon = MilitaryWebbing,
-		Tooltip = Tooltip_MilitaryWebbing,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
@@ -34,7 +33,6 @@ module SMUIClothing
 		ClothingItemExtra = MilitaryWebbing,
         ClothingItemExtraOption = Unfasten,
 		Icon = MilitaryWebbing,
-		Tooltip = Tooltip_MilitaryWebbing,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
@@ -53,7 +51,6 @@ module SMUIClothing
 		ClothingItemExtra = MilitaryWebbingBagTightened,
         ClothingItemExtraOption = Fasten,
 		Icon = MilitaryWebbingBag, 
-		Tooltip = Tooltip_MilitaryWebbingBag,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,	
 	}
@@ -72,7 +69,6 @@ module SMUIClothing
 		ClothingItemExtra = MilitaryWebbingBag,
         ClothingItemExtraOption = Unfasten,
 		Icon = MilitaryWebbingBag,
-		Tooltip = Tooltip_MilitaryWebbingBag,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
