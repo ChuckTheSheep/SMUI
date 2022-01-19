@@ -258,8 +258,8 @@
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
-		<m_items> <!-- Military Helmet w/ NVG Mount-->
-			<itemGUID>dde2a198-d11d-4a19-9826-a58a8f92627e</itemGUID>
+		<m_items> <!-- Military Helmet-->
+			<itemGUID>e3b68146-8b14-4c4c-a59e-d0fb94901858</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Helmet (NVG up)-->
 		<probability>0.1</probability>
@@ -320,7 +320,7 @@
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
 		<m_items> <!-- Military Helmet w/ NVG Mount-->
-			<itemGUID>dde2a198-d11d-4a19-9826-a58a8f92627e</itemGUID>
+			<itemGUID>bacbb049-f306-446f-b6a1-00172bb63590</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Helmet (NVG up)-->
 		<probability>0.1</probability>
@@ -743,7 +743,7 @@
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
 		<m_items> <!-- Military Helmet w/ NVG Mount-->
-			<itemGUID>dde2a198-d11d-4a19-9826-a58a8f92627e</itemGUID>
+			<itemGUID>bacbb049-f306-446f-b6a1-00172bb63590</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Helmet (NVG up)-->
 		<probability>0.1</probability>
