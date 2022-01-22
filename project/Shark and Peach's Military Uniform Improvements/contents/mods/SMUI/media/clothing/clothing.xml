@@ -542,12 +542,16 @@
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
-		<m_items> <!-- Military Helmet -->
-			<itemGUID>e3b68146-8b14-4c4c-a59e-d0fb94901858</itemGUID>
+		<m_items> <!-- Military Helmet /w Riot Visor (Up) -->
+			<itemGUID>744b22b2-9d94-49fc-872b-4cc695f86f67</itemGUID>
 		</m_items>
 			<m_items> <!-- Military Helmet w/ Goggles -->
 		<probability>0.5</probability>
 			<itemGUID>d7874b7a-2c99-43ee-b7ba-c474a4591360</itemGUID>
+		</m_items>
+		<m_items> <!-- M17 Gas Mask -->
+			<probability>0.5</probability>
+			<itemGUID>2d32997a-b8e5-463d-b718-06fcf2a73437</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Webbing-->
 			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>

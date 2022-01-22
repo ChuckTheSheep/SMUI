@@ -82,49 +82,7 @@ module SMUIClothing
         Weight = 1,
 		WorldStaticModel = MilitaryHelmet_WorldItem,
     }
-        item Hat_MilitaryHelmetRiot
-    {
-        
-        DisplayCategory = Helmet,
-        Type = Clothing,
-        DisplayName = Military Helmet w/ Riot Visor,
-        ClothingItem = Hat_MilitaryHelmetRiot,
-        BodyLocation = Hat,
-        Icon = MilitaryHelmet,
-		BloodLocation = Head,
-        BiteDefense = 100,
-		ScratchDefense = 100,
-        BulletDefense = 100,
-        CanHaveHoles = false,
-        ClothingItemExtra = Hat_MilitaryHelmetStrapless,
-        ClothingItemExtraOption = Unstrap,
-        Insulation = 0.10,
-        Weight = 1,
-		WorldStaticModel = MilitaryHelmet_WorldItem,
-    }
 
-        item Hat_MilitaryHelmetRiotUP
-    {
-        
-        DisplayCategory = Helmet,
-        Type = Clothing,
-        DisplayName = Military Helmet w/ Riot Visor (Up),
-        ClothingItem = Hat_MilitaryHelmetRiotUP,
-        BodyLocation = Hat,
-        Icon = MilitaryHelmetStrapless,
-		BloodLocation = Head,
-        BiteDefense = 100,
-		ScratchDefense = 100,
-        BulletDefense = 100,
-        CanHaveHoles = false,
-        ClothingItemExtra = Hat_MilitaryHelmet,
-        ClothingItemExtraOption = Strap,
-        ChanceToFall = 80,
-        Insulation = 0.10,
-        Weight = 1,
-		WorldStaticModel = MilitaryHelmet_WorldItem,
-    }
-    
 	    item Hat_MilitaryHelmetGoggles
     {
         DisplayCategory = Helmet,
@@ -289,5 +247,48 @@ module SMUIClothing
         Weight = 1,
 		WorldStaticModel = MilitaryHelmetDesertNVGMount_WorldItem,
 	}
+
+        item Hat_MilitaryHelmetRiot
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Military Helmet w/ Riot Visor,
+        ClothingItem = Hat_MilitaryHelmetRiot,
+        BodyLocation = Hat,
+        Icon = MilitaryHelmetRiot,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_MilitaryHelmetRiotUP,
+        ClothingItemExtraOption = VisorUp,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 1,
+		WorldStaticModel = MilitaryHelmetRiot_WorldItem,
+    }
+
+        item Hat_MilitaryHelmetRiotUP
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Military Helmet w/ Riot Visor (Up),
+        ClothingItem = Hat_MilitaryHelmetRiotUP,
+        BodyLocation = Hat,
+        Icon = MilitaryHelmetRiotUP,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_MilitaryHelmetRiot,
+        ClothingItemExtraOption = VisorDown,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 1,
+		WorldStaticModel = MilitaryHelmetRiot_WorldItem,
+    }
 	
 }

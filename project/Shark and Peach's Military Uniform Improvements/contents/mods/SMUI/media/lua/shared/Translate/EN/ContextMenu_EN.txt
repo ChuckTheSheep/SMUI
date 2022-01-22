@@ -1,4 +1,5 @@
 ContextMenu_EN = {
+    
 	ContextMenu_RollUp = "Roll Up",
     ContextMenu_RollDown = "Roll Down",
 	ContextMenu_TuckIn = "Tuck In",
@@ -9,4 +10,6 @@ ContextMenu_EN = {
     ContextMenu_Unstrap = "Unstrap",
 	ContextMenu_Fasten = "Fasten",
     ContextMenu_Unfasten = "Unfasten",
+    ContextMenu_VisorUp = "Visor Up",
+    ContextMenu_VisorDown = "Visor Down",
 } 
