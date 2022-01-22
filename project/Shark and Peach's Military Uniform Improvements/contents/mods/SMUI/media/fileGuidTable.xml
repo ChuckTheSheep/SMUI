@@ -9,6 +9,16 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetRiot.xml</path>
+	<guid>ecaa87ad-d9eb-477a-b42d-4492a9bdedcc</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetRiotUP.xml</path>
+	<guid>744b22b2-9d94-49fc-872b-4cc695f86f67</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_MilitaryHelmetGoggles.xml</path>
 	<guid>d7874b7a-2c99-43ee-b7ba-c474a4591360</guid>
 	</files>
