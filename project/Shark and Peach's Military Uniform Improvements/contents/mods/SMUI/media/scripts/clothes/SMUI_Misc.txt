@@ -1,7 +1,26 @@
 module SMUIClothing 
 {
     
-      item Hat_M17
+
+        item Hat_DH132
+	{
+	    DisplayCategory = Helmet,
+		Type = Clothing,
+		DisplayName = DH-132 Helmet,
+		ClothingItem = Hat_DH132,
+		BodyLocation = Hat,
+		Icon = DH132,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		BulletDefense = 100,
+		Insulation = 0.45,
+		WaterResistance = 0.4,
+		WorldStaticModel = DH132_WorldItem,
+	}
+    
+        item Hat_M17
     {
         DisplayCategory = GasMask,
         Type = Clothing,

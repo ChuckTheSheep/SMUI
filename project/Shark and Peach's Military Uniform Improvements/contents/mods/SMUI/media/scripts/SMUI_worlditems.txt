@@ -182,4 +182,11 @@ module Base
 		texture = WorldItems/MilitaryHelmetRiot,
 		scale = 0.5,
 	}
+
+		model DH132_WorldItem
+	{
+		mesh = WorldItems/DH132_WorldItem,
+		texture = WorldItems/DH132,
+		scale = 0.5,
+	}
 }
