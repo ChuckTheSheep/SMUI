@@ -125,6 +125,49 @@ module SMUIClothing
         FabricType = Cotton,
         WorldStaticModel = Trousers_Ground,
     }
+
+        item Trousers_ODGreen
+    
+    {   
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military Olive Drab Pants,
+        ClothingItem = Trousers_ODGreen,
+        BodyLocation = Pants,
+        Icon = ODGreenPants,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        ClothingItemExtra = Trousers_ODGreenTucked,
+        ClothingItemExtraOption = TuckIn,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+        item Trousers_ODGreenTucked
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military Olive Drab Pants (Tucked),
+        ClothingItem = Trousers_ODGreenTucked,
+        BodyLocation = Pants,
+        Icon = ODGreenPants,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,
+        ClothingItemExtra = Trousers_ODGreen,
+        ClothingItemExtraOption = TuckOut,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
 }
     
    

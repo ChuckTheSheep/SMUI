@@ -268,6 +268,26 @@
 	<guid>fb606b91-267c-427c-a8ce-fd211331b2a6</guid>
 	</files>
 
+	<files>
+	<path>media/clothing/clothingItems/Jacket_ODGreen.xml</path>
+	<guid>d9baa406-1095-4706-a184-4104b646be23</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Jacket_ODGreenRolled.xml</path>
+	<guid>43ea7734-f74d-4df3-ad09-a532369e5d6d</guid>
+	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/Trousers_ODGreen.xml</path>
+	<guid>31568bfe-c28e-4bac-8e95-779d6191788e</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_ODGreenTucked.xml</path>
+	<guid>caaf9d9c-be1b-46ef-9a39-0686bdf2f3ac</guid>
+	</files>
+
 	<!-- Vanilla Clothing -->
 	
 	<files>
