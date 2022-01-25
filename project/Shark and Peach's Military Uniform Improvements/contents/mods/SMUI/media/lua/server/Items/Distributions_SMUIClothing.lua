@@ -15,6 +15,11 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Hat_M17");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
 
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_M40");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 6);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Hat_M40");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 1);
+
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Jacket_ODGreen");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 7);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Trousers_ODGreen");
@@ -29,6 +34,11 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.M17Hood");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.M40Hood");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 6);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.M40Hood");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 1);
 
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_MilitaryHelmetRiot");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);

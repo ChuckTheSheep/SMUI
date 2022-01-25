@@ -10,4 +10,9 @@ model GasMaskM17NotWorn
         mesh = Skinned/Clothes/M_M17_NotWorn,
 		texture = clothes\hat\Hat_M17,		
     }	
+model GasMaskM40NotWorn
+    {
+        mesh = Skinned/Clothes/M_M40_NotWorn,
+		texture = clothes\hat\Hat_M40,		
+    }
 }

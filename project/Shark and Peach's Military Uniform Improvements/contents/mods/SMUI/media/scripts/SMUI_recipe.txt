@@ -135,6 +135,15 @@ recipe Attach goggles to helmet
 
 recipe Attach doff hood
   	{
+   	   Hat_M40,
+	   M40Hood,
+
+   	   Result:Hat_M40Doff,
+	   Time:60,
+  	}
+
+recipe Attach doff hood
+  	{
    	   Hat_M17,
 	   M17Hood,
 
@@ -156,6 +165,14 @@ recipe Remove doff hood
    	   Hat_M17Doff,
 	   OnCreate: SMUI_Recipe.M17HOOD,
    	   Result:Hat_M17,
+	   Time:60,
+  	}
+
+recipe Remove doff hood
+  	{
+   	   Hat_M40Doff,
+	   OnCreate: SMUI_Recipe.M40HOOD,
+   	   Result:Hat_M40,
 	   Time:60,
   	}
 

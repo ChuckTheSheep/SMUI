@@ -29,9 +29,20 @@ module SMUIClothing
 		Weight = 0.1,
 		Type = Normal,
 		WorldStaticModel = M17Hood_WorldItem,
-		DisplayName = Doff Hood,
+		DisplayName = Doff Hood (M17),
 		Tooltip = Tooltip_DoffHood,
-		Icon = DoffHood,
+		Icon = DoffHoodM17,
+	}
+
+		item M40Hood
+	{
+		DisplayCategory = Accessory,
+		Weight = 0.1,
+		Type = Normal,
+		WorldStaticModel = M40Hood_WorldItem,
+		DisplayName = Doff Hood (M40),
+		Tooltip = Tooltip_DoffHoodM40,
+		Icon = DoffHoodM40,
 	}
 
 		item MOPPPackageTop

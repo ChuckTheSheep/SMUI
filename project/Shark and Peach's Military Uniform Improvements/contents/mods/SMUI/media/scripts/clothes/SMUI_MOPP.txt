@@ -84,9 +84,29 @@ module SMUIClothing
     WorldStaticModel = M17Doff_WorldItem,
     }
 
-    item Gloves_HazmatGloves
+    item Hat_M40Doff
+    {
+    
+    DisplayCategory = GasMask,
+    Type = Clothing,
+    DisplayName = M40 w/ Doff Hood,
+    ClothingItem = Hat_M40Doff,
+    BodyLocation = MaskEyes,
+    BloodLocation = Head,
+    Icon = M40Doff,
+    CanHaveHoles = false,
+    Weight = 0.0,
+    ScratchDefense = 20,
+    BiteDefense = 5,
+    Insulation = 0.90,
+    WindResistance = 0.65,
+    WaterResistance = 1.0,
+    WorldStaticModel = M40Doff_WorldItem,
+    }
 
+    item Gloves_HazmatGloves
 	{
+
 	DisplayCategory = Clothing,
 	Type = Clothing,
 	DisplayName = NBC Gloves,

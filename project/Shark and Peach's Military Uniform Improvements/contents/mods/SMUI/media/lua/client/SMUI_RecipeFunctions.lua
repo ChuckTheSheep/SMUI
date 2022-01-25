@@ -11,6 +11,10 @@ function SMUI_Recipe.M17HOOD(recipe, result, player)
 	player:getInventory():AddItems("SMUIClothing.M17Hood", 1)
 end
 
+function SMUI_Recipe.M40HOOD(recipe, result, player)
+	player:getInventory():AddItems("SMUIClothing.M40Hood", 1)
+end
+
 function SMUI_Recipe.GOGGLES(recipe, result, player)
 	player:getInventory():AddItems("SMUIClothing.Glasses_MilitaryGoggles", 1)
 end

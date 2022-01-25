@@ -41,6 +41,27 @@ module SMUIClothing
 		Tags 			= GasMask,			
     }
 
+        item Hat_M40
+    {
+        DisplayCategory = GasMask,
+        Type = Clothing,
+        DisplayName = M40 Gas Mask,
+        ClothingItem = Hat_M40,
+        BodyLocation = MaskEyes,
+        BloodLocation = Head,
+        Icon = M40,
+        CanHaveHoles = false,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+        Weight = 0.3,
+        Insulation = 0.75, 
+        WindResistance = 0.45,
+		AttachmentType  = GasMask,	
+		StaticModel 	= GasMaskM17NotWorn,
+        WorldStaticModel = M40_WorldItem,
+		Tags 			= GasMask,			
+    }
+
         item Hat_Shemagh
     {
         DisplayCategory = Accessory,

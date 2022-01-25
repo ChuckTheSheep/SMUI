@@ -49,11 +49,32 @@ module Base
 		texture = WorldItems/M17Doff,
 		scale = 0.5,
 	}
-
+	
 		model M17Hood_WorldItem
 	{
 		mesh = WorldItems/M17Hood_WorldItem,
 		texture = WorldItems/M17Doff,
+		scale = 0.5,
+	}
+
+		model M40_WorldItem
+	{
+		mesh = WorldItems/M40_WorldItem,
+		texture = WorldItems/M40,
+		scale = 0.5,
+	}
+	
+		model M40Doff_WorldItem
+	{
+		mesh = WorldItems/M40Doff_WorldItem,
+		texture = WorldItems/M40Doff,
+		scale = 0.5,
+	}
+
+		model M40Hood_WorldItem
+	{
+		mesh = WorldItems/M40Hood_WorldItem,
+		texture = WorldItems/M40Doff,
 		scale = 0.5,
 	}
 

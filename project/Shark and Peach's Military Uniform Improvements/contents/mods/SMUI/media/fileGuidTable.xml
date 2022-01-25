@@ -288,6 +288,16 @@
 	<guid>caaf9d9c-be1b-46ef-9a39-0686bdf2f3ac</guid>
 	</files>
 
+	<files>
+	<path>media/clothing/clothingItems/Hat_M40.xml</path>
+	<guid>68597e1c-b333-4391-a87e-8fdfca7915ca</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M40Doff.xml</path>
+	<guid>fd977ee6-e0e5-46ff-a537-538a42a8e63a</guid>
+	</files>
+
 	<!-- Vanilla Clothing -->
 	
 	<files>
