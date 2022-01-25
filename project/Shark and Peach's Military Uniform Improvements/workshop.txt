@@ -7,9 +7,7 @@ description= Consider supporting our modding efforts:
 description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
-description=[h1][b]NEW: DH-132 Crewman Helmet[/b][/h1]
-description=[h1][b]NEW: Military Helmet w/ Riot Visor[/b][/h1]
-description=[h1][b]NEW: Olive Drab Fatigues (Find them in surplus stores)[/b][/h1]
+description=[h1][b]NEW: M40 Gas Mask + Doff Hood[/b][/h1]
 description=
 description=[h2][b]Note: Because of the current Eris/PLL/Brita NVG code issue the new NVG's currently have their capability removed as a safety measure. This is still temporary.[/b][/h2]
 description=
@@ -39,6 +37,7 @@ description= [*] Dust Goggles
 description= [*] DH-132 Crewman Helmet
 description= [*] Military Helmet w/ Riot Visor
 description= [*] M17 Gas Mask + Doff Hood
+description= [*] M40 Gas Mask + Doff Hood
 description= [*] Woodland, Desert, and Urban Patrol Caps
 description= [*] Olive Drab Military Vest
 description= [*] Olive Drab Military Fatigues
