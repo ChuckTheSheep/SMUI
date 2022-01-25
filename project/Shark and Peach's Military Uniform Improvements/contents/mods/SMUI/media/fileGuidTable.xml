@@ -254,13 +254,28 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_ShemaghDown.xml</path>
+	<guid>981ce4a7-4ee8-46ce-8d8d-db717ccc707f</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_ShemaghWoodland.xml</path>
 	<guid>17386261-2512-4014-b202-83ddf6c19fbf</guid>
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_ShemaghWoodlandDown.xml</path>
+	<guid>cb203cbe-4904-437d-aac6-de02fe004d2f</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_ShemaghDesert.xml</path>
 	<guid>febc596e-8c34-4528-a184-b6369e610aba</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_ShemaghDesertDown.xml</path>
+	<guid>e5f9e952-6d88-4b65-9a0a-aeb9cc4ea226</guid>
 	</files>
 
 	<files>
