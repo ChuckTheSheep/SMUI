@@ -70,6 +70,11 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Vest_ODGreen");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
 
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Vest_MilitaryTankerVest");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Vest_MilitaryTankerVest");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
+
 table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothing.MilitaryWebbing");
 table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 1);
 table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothing.MilitaryWebbing");
@@ -98,6 +103,16 @@ table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 3);
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_PatrolCapUrban");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 4);
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_PatrolCapUrban");
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 5);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_PatrolCapWinter");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 4);
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_PatrolCapWinter");
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 5);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_PatrolCapWinterDesert");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 4);
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_PatrolCapWinterDesert");
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 5);
 
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Jacket_CamoUrban");
