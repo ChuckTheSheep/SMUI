@@ -627,8 +627,8 @@
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
-		<m_items> <!-- Olive Drab Bulletproof Vest -->
-			<itemGUID>d0df6609-330d-469d-81ce-beaff255d0a1</itemGUID>
+		<m_items> <!-- Military Tanker Vest -->
+			<itemGUID>e29129b7-5c6f-4a7c-b18c-20de3d46e06f</itemGUID>
 		</m_items>
 		<m_items> <!-- Woodland Camo Pants (Tucked) -->
 			<itemGUID>eb8d1f35-8d0b-4c9c-a308-aba2aa085r34</itemGUID>
