@@ -44,15 +44,6 @@ recipe Roll Up
 	   Time:0,
   	}
 
-
-recipe Roll Up
-  	{
-   	   Jacket_ArmyCamoUrban,
-
-   	   Result:Jacket_ArmyCamoUrbanRolled,
-	   Time:0,
-  	}
-
 recipe Refit helmet
   	{
    	   Hat_Army,
