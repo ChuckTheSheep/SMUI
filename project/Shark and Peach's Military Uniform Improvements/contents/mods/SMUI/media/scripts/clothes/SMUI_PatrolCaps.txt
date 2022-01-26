@@ -104,4 +104,37 @@ module SMUIClothing
         Weight = 0.5,
         WorldStaticModel = PatrolCapUrban_WorldItem,
     }
+
+        item Hat_PatrolCapWinter
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Green Camo Winter Patrol Cap,
+        ClothingItem = Hat_PatrolCapWinter,
+        BodyLocation = Hat,
+        Icon = PatrolCapWinter,
+        CanHaveHoles = false,
+        ChanceToFall = 80,
+        Insulation = 0.60,
+        WindResistance = 0.50,
+        Weight = 0.5,
+        WorldStaticModel = PatrolCapWoodland_WorldItem,
+    }
+
+        item Hat_PatrolCapWinterDesert
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Desert Camo Winter Patrol Cap,
+        ClothingItem = Hat_PatrolCapWinterDesert,
+        BodyLocation = Hat,
+        Icon = PatrolCapWinterDesert,
+        CanHaveHoles = false,
+        ChanceToFall = 80,
+        Insulation = 0.60,
+        WindResistance = 0.50,
+        Weight = 0.5,
+        WorldStaticModel = PatrolCapDesert_WorldItem,
+    }
+
 }

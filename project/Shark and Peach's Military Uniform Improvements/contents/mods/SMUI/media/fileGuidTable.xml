@@ -98,6 +98,8 @@
 	<guid>601bf44b-fe47-44b1-a327-3fd441250ca7</guid>
 	</files>
 
+
+
 	<files>
 	<path>media/clothing/clothingItems/Hat_PatrolCapReversed.xml</path>
 	<guid>f83d54ac-508d-413a-bf94-b1e4a5c41f5c</guid>
@@ -122,6 +124,17 @@
 	<path>media/clothing/clothingItems/Hat_PatrolCapUrbanReversed.xml</path>
 	<guid>376e3834-d440-49ce-b2f4-dcb6cfa0a82c</guid>
 	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapWinter.xml</path>
+	<guid>590c3c58-c09c-438e-845d-22046c7dc513</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapWinterDesert.xml</path>
+	<guid>140eac25-2d5c-4e2a-9107-5ed58326b7ca</guid>
+	</files>
+
 
 	<files>
 	<path>media/clothing/clothingItems/Hat_CavalryHat.xml</path>
@@ -241,6 +254,11 @@
 	<files>
 	<path>media/clothing/clothingItems/Vest_ODGreen.xml</path>
 	<guid>d0df6609-330d-469d-81ce-beaff255d0a1</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Vest_MilitaryTankerVest.xml</path>
+	<guid>e29129b7-5c6f-4a7c-b18c-20de3d46e06f</guid>
 	</files>
 	
 	<files>

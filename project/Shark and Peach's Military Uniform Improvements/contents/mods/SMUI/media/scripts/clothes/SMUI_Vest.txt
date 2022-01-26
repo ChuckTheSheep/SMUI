@@ -38,4 +38,22 @@ module SMUIClothing
 		Icon = MilitaryTacticalVest,
 		WorldStaticModel = MilitaryTacticalVest_WorldItem,
 	}
+
+	    item Vest_MilitaryTankerVest
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Military Tanker Vest,
+		ClothingItem = Vest_MilitaryTankerVest,
+		BodyLocation = TorsoExtra,
+		BloodLocation = ShirtNoSleeves,
+		BiteDefense = 65,
+		ScratchDefense = 65,
+		BulletDefense = 100,
+		Insulation = 0.75,
+        WindResistance = 0.45,
+		WeightReduction	=	50,
+		Icon = MilitaryTankerVest,
+		WorldStaticModel = MilitaryTankerVest_WorldItem,
+	}
 }
