@@ -7,12 +7,13 @@ description= Consider supporting our modding efforts:
 description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
-description=[h1][b]NEW: M40 Gas Mask + Doff Hood[/b][/h1]
+description=[h1][b]NEW: Military Crewman Vest[/b][/h1]
+description=[h1][b]NEW: Winter Patrol Caps[/b][/h1]
 description=
 description=[h2][b]Note: Because of the current Eris/PLL/Brita NVG code issue the new NVG's currently have their capability removed as a safety measure. This is still temporary.[/b][/h2]
 description=
 description= This mod entirely redoes the vanilla military zombies to be inline with actual equipment (e.g ALICE webbing) and clothing standards of the 1990's US Military.
-description= The time period for equipment in this mod is 1970 - 1999.
+description= The time period for equipment in this mod is 1970 - 1996.
 description=
 description=
 description= [h2]Features[/h2]
@@ -40,9 +41,10 @@ description= [*] DH-132 Crewman Helmet
 description= [*] Military Helmet w/ Riot Visor
 description= [*] M17 Gas Mask + Doff Hood
 description= [*] M40 Gas Mask + Doff Hood
-description= [*] Woodland, Desert, and Urban Patrol Caps
+description= [*] Woodland, Desert, and Urban Patrol Caps + Winter Version
 description= [*] Olive Drab Military Vest
 description= [*] Olive Drab Military Fatigues
+description= [*] Military Crewman Vest
 description= [*] Military Tactical Vest
 description= [*] Hazmat Gloves and Hazmat Boots
 description= [*] M67 Fragmentation Grenade (Temporarily pulled from spawns)
