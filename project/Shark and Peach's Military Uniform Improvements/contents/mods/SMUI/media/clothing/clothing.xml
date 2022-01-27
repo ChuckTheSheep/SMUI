@@ -96,9 +96,9 @@
 		<m_items> <!-- Military Bulletproof Vest -->
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
-		<m_items> <!-- ALICE Pack (Plain) -->
-		<probability>0.1</probability>
-			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
+		<m_items> <!-- Military Medical Bag -->
+		<probability>0.5</probability>
+			<itemGUID>fb14001e-2c6d-44a4-bcd3-4f23d57c0b69</itemGUID>
 		</m_items>
 		<m_items> <!-- Desert Camo Pants (Tucked) -->
 			<itemGUID>afd79fed-34e7-4e5a-9dec-b8bc54424aea</itemGUID>
@@ -222,9 +222,9 @@
 		<m_items> <!-- Military Bulletproof Vest -->
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
-		<m_items> <!-- ALICE Pack (Woodland) -->
-		<probability>0.1</probability>
-			<itemGUID>e5e131ff-bc65-4b94-9bc1-b70e8f99e68d</itemGUID>
+		<m_items> <!-- Military Medical Bag -->
+		<probability>0.5</probability>
+			<itemGUID>fb14001e-2c6d-44a4-bcd3-4f23d57c0b69</itemGUID>
 		</m_items>
 		<m_items> <!-- Woodland Camo Pants (Tucked) -->
 			<itemGUID>eb8d1f35-8d0b-4c9c-a308-aba2aa085r34</itemGUID>
@@ -807,9 +807,9 @@
 		<probability>0.1</probability>
 			<itemGUID>3468f688-5da8-4398-943a-488f0e73d2b1</itemGUID>
 		</m_items>
-		<m_items> <!-- Red Military Beret -->
+		<m_items> <!-- M40 Gas Mask -->
 			<probability>0.5</probability>
-			<itemGUID>408d4d09-81ae-4bf8-9b77-1f4bfccbb1c9</itemGUID>
+			<itemGUID>68597e1c-b333-4391-a87e-8fdfca7915ca</itemGUID>
 		</m_items>
 		<m_items> <!-- Long Socks -->
 			<itemGUID>fb86bd5f-1931-4b24-a5d7-bd6a43769991</itemGUID>

@@ -217,4 +217,11 @@ module Base
 		texture = WorldItems/DH132,
 		scale = 0.5,
 	}
+
+		model MilitaryMedicalBag_WorldItem
+	{
+		mesh = WorldItems/MilitaryMedicalBag_WorldItem,
+		texture = WorldItems/MilitaryMedicalBag,
+		scale = 0.5,
+	}
 }

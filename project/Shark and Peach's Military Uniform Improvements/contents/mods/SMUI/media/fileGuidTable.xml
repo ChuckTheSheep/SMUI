@@ -3,6 +3,22 @@
 
 	<!-- SMUI Clothing -->
 
+	
+	<files>
+	<path>media/clothing/clothingItems/Bag_MilitaryMedicalBag.xml</path>
+	<guid>fb14001e-2c6d-44a4-bcd3-4f23d57c0b69</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Bag_MilitaryMedicalBag_Rhand.xml</path>
+	<guid>2dc216cf-2cf1-4d60-8af9-9b346c53f852</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Bag_MilitaryMedicalBag_Lhand.xml</path>
+	<guid>1c73cff5-eec9-4ee4-9603-2504bc56db7d</guid>
+	</files>
+
 	<files>
 	<path>media/clothing/clothingItems/Hat_DH132.xml</path>
 	<guid>d303ddaa-ed62-442a-8706-f7b8a577b748</guid>

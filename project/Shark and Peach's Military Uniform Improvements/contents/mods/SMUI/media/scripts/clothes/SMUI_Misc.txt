@@ -219,4 +219,25 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 0.5,
     }
+
+    	item Bag_MilitaryMedicalBag
+    {
+        Type	=	Container,
+        WeightReduction	=	65,
+        Weight	=	1.2,
+        Capacity	=	15,
+        DisplayName	= Military Medical Bag,
+        Icon = MilitaryMedicalBag,
+        CanBeEquipped = Back,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        ClothingItem = Bag_MilitaryMedicalBag,
+        BloodLocation = Bag,
+        RunSpeedModifier = 0.96,
+        AttachmentReplacement = Bag,
+        ReplaceInSecondHand = Bag_MilitaryMedicalBag_LHand holdingbagleft,
+        ReplaceInPrimaryHand = Bag_MilitaryMedicalBag_RHand holdingbagright,
+        WorldStaticModel = MilitaryMedicalBag_WorldItem,
+    }
 }
