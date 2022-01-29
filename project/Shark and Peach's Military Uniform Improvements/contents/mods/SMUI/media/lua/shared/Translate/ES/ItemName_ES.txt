@@ -8,9 +8,6 @@ ItemName_ES = {
 	ItemName_SMUIClothing.Jacket_ArmyCamoUrban  = "Chaqueta militar de camuflaje urbano",
 	ItemName_SMUIClothing.Jacket_ArmyCamoUrbanRolled = "Chaqueta militar de camuflaje urbano (Arremangada)",
 	
-	ItemName_SMUIClothing.Jacket_ODGreen = "Chaqueta militar verde oliva",
-	ItemName_SMUIClothing.Jacket_ODGreenRolled = "Chaqueta militar verde oliva (Arremangada)",
-	
 	/* Vests */
 	
 	ItemName_SMUIClothing.Vest_MilitaryTacticalVest = "Chaleco táctico militar",
@@ -53,11 +50,6 @@ ItemName_ES = {
 	ItemName_SMUIClothing.Hat_MilitaryHelmetNVGDOWN = "Casco militar con visión nocturna (Abajo)",
 	ItemName_SMUIClothing.Hat_MilitaryHelmetDesertNVGUP = "Casco militar con visión nocturna (Arriba)",
 	ItemName_SMUIClothing.Hat_MilitaryHelmetDesertNVGDOWN = "Casco militar con visión nocturna (Abajo)",
-	
-	ItemName_SMUIClothing.Hat_MilitaryHelmetRiot = "Casco militar con visor antidisturbios",
-	ItemName_SMUIClothing.Hat_MilitaryHelmetRiotUP = "Casco militar con visor antidisturbios (Visor arriba)",
-	
-	ItemName_SMUIClothing.Hat_DH132 = "Casco DH-132",
 	
 	/* NBC */
 	
