@@ -7,11 +7,6 @@
 	<path>media/clothing/clothingItems/GasMaskBag.xml</path>
 	<guid>25a8cb1d-0a71-425b-b2ab-25953532e366</guid>
 	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/GasMaskBagLoosened.xml</path>
-	<guid>a48b0cf0-5391-4d29-b356-ef89096af64c</guid>
-	</files>
 	
 	<files>
 	<path>media/clothing/clothingItems/Bag_MilitaryMedicalBag.xml</path>

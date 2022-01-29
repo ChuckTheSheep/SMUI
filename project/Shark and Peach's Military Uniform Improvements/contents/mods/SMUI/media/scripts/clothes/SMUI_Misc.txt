@@ -247,7 +247,7 @@ module SMUIClothing
         Type	=	Container,
         WeightReduction	=	30,
         Weight	=	0.5,
-        Capacity	=	5,
+        Capacity	=	3,
         DisplayName	= Military Gas Mask Bag,
         Icon = GasMaskBag,
         CanBeEquipped = Back,
@@ -256,29 +256,9 @@ module SMUIClothing
         PutInSound   =   PutItemInBag,
         ClothingItem = GasMaskBag,
         BloodLocation = Bag,
-        AttachmentReplacement = Bag,
+        AttachmentReplacement = AmmoStrap,
         ClothingItemExtra = GasMaskBagLoosened,
         ClothingItemExtraOption = Unfasten,
-        WorldStaticModel = MilitaryMedicalBag_WorldItem,
-    }
-
-        item GasMaskBagLoosened
-    {
-        Type	=	Container,
-        WeightReduction	=	30,
-        Weight	=	0.5,
-        Capacity	=	5,
-        DisplayName	= Military Gas Mask Bag (Loosened),
-        Icon = GasMaskBag,
-        CanBeEquipped = Back,
-        OpenSound   =   OpenBag,
-        CloseSound   =   CloseBag,
-        PutInSound   =   PutItemInBag,
-        ClothingItem = GasMaskBagLoosened,
-        BloodLocation = Bag,
-        AttachmentReplacement = Bag,
-        ClothingItemExtra = GasMaskBag,
-        ClothingItemExtraOption = Fasten,
         WorldStaticModel = MilitaryMedicalBag_WorldItem,
     }
 }
