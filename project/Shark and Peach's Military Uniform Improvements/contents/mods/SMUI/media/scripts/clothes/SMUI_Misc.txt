@@ -32,7 +32,7 @@ module SMUIClothing
         CanHaveHoles = false,
         BiteDefense = 5,
         ScratchDefense = 10,
-        Weight = 0.3,
+        Weight = 0.5,
         Insulation = 0.75,
         WindResistance = 0.45,
 		AttachmentType  = GasMask,	
@@ -53,7 +53,7 @@ module SMUIClothing
         CanHaveHoles = false,
         BiteDefense = 5,
         ScratchDefense = 10,
-        Weight = 0.3,
+        Weight = 0.5,
         Insulation = 0.75, 
         WindResistance = 0.45,
 		AttachmentType  = GasMask,	
@@ -241,7 +241,6 @@ module SMUIClothing
         WorldStaticModel = MilitaryMedicalBag_WorldItem,
     }
 
-
         item GasMaskBag
     {
         Type	=	Container,
@@ -259,4 +258,17 @@ module SMUIClothing
         BodyLocation = AmmoStrap,
         WorldStaticModel = GasMaskBag_WorldItem,
     }
+
+        item MPBrassard
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Military Police Brassard,
+		ClothingItem = MPBrassard,
+		BodyLocation = BellyButton,
+		Icon = MPBrassard,
+		CanHaveHoles = false,
+		WorldStaticModel = MPBrassard_WorldItem,
+	}
+    
 }

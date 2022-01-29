@@ -15,6 +15,11 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 4);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_MilitaryMedicalBag");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 4);
 
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.MPBrassard");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.MPBrassard");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
+
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.GasMaskBag");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 4);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.GasMaskBag");
