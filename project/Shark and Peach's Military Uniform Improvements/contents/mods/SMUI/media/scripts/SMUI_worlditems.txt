@@ -224,4 +224,11 @@ module Base
 		texture = WorldItems/MilitaryMedicalBag,
 		scale = 0.5,
 	}
+
+		model GasMaskBag_WorldItem
+	{
+		mesh = WorldItems/GasMaskBag_WorldItem,
+		texture = WorldItems/GasMaskBag,
+		scale = 0.5,
+	}
 }
