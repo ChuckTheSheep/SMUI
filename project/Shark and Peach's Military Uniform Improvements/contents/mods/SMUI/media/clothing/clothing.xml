@@ -394,6 +394,9 @@
 			<probability>0.6</probability>
 			<itemGUID>d977ee6-e0e5-46ff-a537-538a42a8e63a</itemGUID>
 		</m_items>
+		<m_items> <!-- Gas Mask Bag -->
+			<itemGUID>25a8cb1d-0a71-425b-b2ab-25953532e366</itemGUID>
+		</m_items>
 		<m_items> <!-- Military Webbing-->
 			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
 		</m_items>
@@ -459,6 +462,9 @@
 	    <m_items> <!-- M40 Gas Mask /w Doff-->
 			<probability>0.6</probability>
 			<itemGUID>d977ee6-e0e5-46ff-a537-538a42a8e63a</itemGUID>
+		</m_items>
+		<m_items> <!-- Gas Mask Bag -->
+			<itemGUID>25a8cb1d-0a71-425b-b2ab-25953532e366</itemGUID>
 		</m_items>
 		<m_items> <!-- NBC Gloves -->
 			<itemGUID>27bbfaa3-bfec-4fdf-a7e0-8d1de17f1fa4</itemGUID>
@@ -560,6 +566,9 @@
 		<m_items> <!-- M17 Gas Mask -->
 			<probability>0.5</probability>
 			<itemGUID>2d32997a-b8e5-463d-b718-06fcf2a73437</itemGUID>
+		</m_items>
+		<m_items> <!-- Gas Mask Bag -->
+			<itemGUID>25a8cb1d-0a71-425b-b2ab-25953532e366</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Webbing-->
 			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
