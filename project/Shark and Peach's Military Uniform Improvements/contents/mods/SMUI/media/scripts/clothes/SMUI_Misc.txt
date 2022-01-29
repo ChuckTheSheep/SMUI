@@ -256,7 +256,7 @@ module SMUIClothing
         PutInSound   =   PutItemInBag,
         ClothingItem = GasMaskBag,
         BloodLocation = Bag,
-        AttachmentReplacement = AmmoStrap,
+        BodyLocation = AmmoStrap,
         WorldStaticModel = GasMaskBag_WorldItem,
     }
 }
