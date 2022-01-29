@@ -250,15 +250,13 @@ module SMUIClothing
         Capacity	=	3,
         DisplayName	= Military Gas Mask Bag,
         Icon = GasMaskBag,
-        CanBeEquipped = Back,
+        CanBeEquipped = AmmoStrap,
         OpenSound   =   OpenBag,
         CloseSound   =   CloseBag,
         PutInSound   =   PutItemInBag,
         ClothingItem = GasMaskBag,
         BloodLocation = Bag,
         AttachmentReplacement = AmmoStrap,
-        ClothingItemExtra = GasMaskBagLoosened,
-        ClothingItemExtraOption = Unfasten,
-        WorldStaticModel = MilitaryMedicalBag_WorldItem,
+        WorldStaticModel = GasMaskBag_WorldItem,
     }
 }
