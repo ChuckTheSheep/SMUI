@@ -7,13 +7,8 @@ module SMUIClothing
 		Type = Container,
 		DisplayName = Military Webbing,
 		ClothingItem = MilitaryWebbing,
-<<<<<<< HEAD
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,
-=======
-		BodyLocation = TorsoRigPlus,
-		CanBeEquipped = TorsoRigPlus,
->>>>>>> 320205c485d7e7a6ac6f7d16b4ff0092f3f591b9
 		Capacity = 5,
 		WeightReduction	=	40,
 		RunSpeedModifier = 1,
@@ -30,13 +25,8 @@ module SMUIClothing
 		Type = Container,
 		DisplayName = Military Webbing (Tightened),
 		ClothingItem = MilitaryWebbingTightened,
-<<<<<<< HEAD
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,
-=======
-		BodyLocation = TorsoRigPlus,
-		CanBeEquipped = TorsoRigPlus,
->>>>>>> 320205c485d7e7a6ac6f7d16b4ff0092f3f591b9
 		Capacity = 5,
 		WeightReduction	=	40,
 		RunSpeedModifier = 1,
@@ -53,13 +43,8 @@ module SMUIClothing
 		Type = Container,
 		DisplayName = Military Webbing /w Pack,
 		ClothingItem = MilitaryWebbingBag,
-<<<<<<< HEAD
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,
-=======
-		BodyLocation = TorsoRigPlus,
-		CanBeEquipped = TorsoRigPlus,
->>>>>>> 320205c485d7e7a6ac6f7d16b4ff0092f3f591b9
 		Capacity = 8,
 		WeightReduction	=	60,
 		RunSpeedModifier = 1.2,
@@ -76,13 +61,8 @@ module SMUIClothing
 		Type = Container,
 		DisplayName = Military Webbing /w Pack (Tightened),
 		ClothingItem = MilitaryWebbingBagTightened,
-<<<<<<< HEAD
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,
-=======
-		BodyLocation = TorsoRigPlus,
-		CanBeEquipped = TorsoRigPlus,
->>>>>>> 320205c485d7e7a6ac6f7d16b4ff0092f3f591b9
 		Capacity = 8,
 		WeightReduction	=	60,
 		RunSpeedModifier = 1.2,
