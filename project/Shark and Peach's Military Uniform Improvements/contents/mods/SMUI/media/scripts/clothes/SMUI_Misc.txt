@@ -255,7 +255,7 @@ module SMUIClothing
         PutInSound   =   PutItemInBag,
         ClothingItem = GasMaskBag,
         BloodLocation = Bag,
-        BodyLocation = AmmoStrap,
+        BodyLocation = SMUITorsoRigPlus,
         WorldStaticModel = GasMaskBag_WorldItem,
     }
 
@@ -265,7 +265,7 @@ module SMUIClothing
 		Type = Clothing,
 		DisplayName = Military Police Brassard,
 		ClothingItem = MPBrassard,
-		BodyLocation = BellyButton,
+		BodyLocation = SMUIRightArmPlus,
 		Icon = MPBrassard,
 		CanHaveHoles = false,
 		WorldStaticModel = MPBrassard_WorldItem,
