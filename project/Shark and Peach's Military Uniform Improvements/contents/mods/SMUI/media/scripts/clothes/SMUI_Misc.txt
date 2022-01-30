@@ -243,6 +243,7 @@ module SMUIClothing
 
         item GasMaskBag
     {
+        DisplayCategory = Container,
         Type	=	Container,
         WeightReduction	=	30,
         Weight	=	0.5,
