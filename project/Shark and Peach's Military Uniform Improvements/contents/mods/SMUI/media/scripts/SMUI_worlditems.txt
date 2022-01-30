@@ -231,4 +231,11 @@ module Base
 		texture = WorldItems/GasMaskBag,
 		scale = 0.5,
 	}
+
+		model MPBrassard_WorldItem
+	{
+		mesh = WorldItems/MPBrassard_WorldItem,
+		texture = WorldItems/MPBrassard,
+		scale = 0.5,
+	}
 }
