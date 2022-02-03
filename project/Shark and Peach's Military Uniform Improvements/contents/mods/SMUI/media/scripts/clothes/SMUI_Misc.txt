@@ -223,8 +223,8 @@ module SMUIClothing
     	item Bag_MilitaryMedicalBag
     {
         Type	=	Container,
-        WeightReduction	=	65,
-        Weight	=	1.2,
+        WeightReduction	=	50,
+        Weight	=	0.5,
         Capacity	=	15,
         DisplayName	= Military Medical Bag,
         Icon = MilitaryMedicalBag,
@@ -239,6 +239,27 @@ module SMUIClothing
         ReplaceInSecondHand = Bag_MilitaryMedicalBag_LHand holdingbagleft,
         ReplaceInPrimaryHand = Bag_MilitaryMedicalBag_RHand holdingbagright,
         WorldStaticModel = MilitaryMedicalBag_WorldItem,
+    }
+
+    	item Bag_CFP90AssaultPack
+    {
+        Type	=	Container,
+        WeightReduction	=	75,
+        Weight	=	0.5,
+        Capacity	=	17,
+        DisplayName	= CFP-90 Assault Pack,
+        Icon = AssaultPack,
+        CanBeEquipped = Back,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        ClothingItem = Bag_CFP90AssaultPack,
+        BloodLocation = Bag,
+        RunSpeedModifier = 0.96,
+        AttachmentReplacement = Bag,
+        ReplaceInSecondHand = Bag_MilitaryMedicalBag_LHand holdingbagleft,
+        ReplaceInPrimaryHand = Bag_MilitaryMedicalBag_RHand holdingbagright,
+        WorldStaticModel = AssaultPack_WorldItem,
     }
 
         item GasMaskBag

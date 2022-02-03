@@ -3,7 +3,11 @@
 
 	<!-- SMUI Clothing -->
 
-	
+	<files>
+	<path>media/clothing/clothingItems/Bag_CFP90AssaultPack.xml</path>
+	<guid>80c41e56-7aeb-48ee-a1a7-c75be8cd80cc</guid>
+	</files>
+
 	<files>
 	<path>media/clothing/clothingItems/MPBrassard.xml</path>
 	<guid>480c1126-3a95-409d-9a48-27a0787aae4a</guid>

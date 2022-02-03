@@ -238,4 +238,11 @@ module Base
 		texture = WorldItems/MPBrassard,
 		scale = 0.5,
 	}
+	
+		model AssaultPack_WorldItem
+	{
+		mesh = WorldItems/AssaultPack_WorldItem,
+		texture = WorldItems/CFP90,
+		scale = 0.5,
+	}
 }
