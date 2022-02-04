@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fileGuidTable>
 
-	<!-- SMUI Clothing -->
+	<!-- Shark's Military Uniform Improvements -->
 
 	<files>
-	<path>media/clothing/clothingItems/Bag_CFP90AssaultPack.xml</path>
+	<path>media/clothing/clothingItems/Bag_CFP90PatrolPack.xml</path>
 	<guid>80c41e56-7aeb-48ee-a1a7-c75be8cd80cc</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Bag_CFP90PatrolPack_Rhand.xml</path>
+	<guid>886c5c45-11aa-4255-996e-f2e440a159ff</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Bag_CFP90PatrolPack_Lhand.xml</path>
+	<guid>38ab4649-aff9-4790-83ac-90942a2dee2f</guid>
 	</files>
 
 	<files>
@@ -127,8 +137,6 @@
 	<path>media/clothing/clothingItems/Hat_PatrolCap.xml</path>
 	<guid>601bf44b-fe47-44b1-a327-3fd441250ca7</guid>
 	</files>
-
-
 
 	<files>
 	<path>media/clothing/clothingItems/Hat_PatrolCapReversed.xml</path>

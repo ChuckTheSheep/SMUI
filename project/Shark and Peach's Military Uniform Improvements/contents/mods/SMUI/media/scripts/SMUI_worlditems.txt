@@ -239,9 +239,9 @@ module Base
 		scale = 0.5,
 	}
 	
-		model AssaultPack_WorldItem
+		model PatrolPack_WorldItem
 	{
-		mesh = WorldItems/AssaultPack_WorldItem,
+		mesh = WorldItems/PatrolPack_WorldItem,
 		texture = WorldItems/CFP90,
 		scale = 0.5,
 	}
