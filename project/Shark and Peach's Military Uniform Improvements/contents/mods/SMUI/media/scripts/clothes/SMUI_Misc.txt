@@ -270,6 +270,8 @@ module SMUIClothing
         Weight	=	0.5,
         Capacity	=	3,
         DisplayName	= Military Gas Mask Bag,
+        ClothingItemExtra = GasMaskBag,
+        ClothingItemExtraOption = Wear,
         Icon = GasMaskBag,
         CanBeEquipped = AmmoStrap,
         OpenSound   =   OpenBag,
