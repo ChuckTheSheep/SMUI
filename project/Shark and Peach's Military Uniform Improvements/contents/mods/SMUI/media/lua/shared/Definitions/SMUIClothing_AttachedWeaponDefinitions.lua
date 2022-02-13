@@ -7,7 +7,7 @@ AttachedWeaponDefinitions.assaultRifleM16OnBack = {
 	id = "assaultRifleM16OnBack",
 	chance = 15,
 	outfit = {"SharkArmyCamoGreenMale", "SharkArmyCamoGreenFemale","SharkArmyCamoDesertFemale", "SharkArmyCamoDesertMale", "SharkArmyCamoUrbanMale",
-"SharkArmyCamoUrbanFemale", "SharkArmyCamoUrbanGearedMale", "SharkArmyCamoGreenMaleGasMask", "SharkArmyCamoGreenFemaleGasMask", "SharkNBCSuit",	
+"SharkArmyCamoUrbanFemale", "SharkArmyCamoUrbanGearedMale", "SharkArmyCamoGreenMaleGasMask", "SharkArmyCamoGreenFemaleGasMask", "SharkMOPPSuitOD",	
 "SharkArmyInstructor","SharkArmyCavalry"},
 	weaponLocation =  {"Rifle On Back"},
 	bloodLocations = nil,
@@ -22,7 +22,7 @@ AttachedWeaponDefinitions.handgunM9 = {
 	id = "handgunM9",
 	chance = 15,
 	outfit = {"SharkArmyCamoGreenMale", "SharkArmyCamoGreenFemale","SharkArmyCamoDesertFemale", "SharkArmyCamoDesertMale", "SharkArmyCamoUrbanMale",
-"SharkArmyCamoUrbanFemale", "SharkArmyCamoUrbanGearedMale", "SharkArmyCamoGreenMaleGasMask", "SharkArmyCamoGreenFemaleGasMask", "SharkNBCSuit",	
+"SharkArmyCamoUrbanFemale", "SharkArmyCamoUrbanGearedMale", "SharkArmyCamoGreenMaleGasMask", "SharkArmyCamoGreenFemaleGasMask", "SharkMOPPSuitOD",	
 "SharkArmyInstructor","SharkArmyCavalry"},
 	weaponLocation = {"Holster Left", "Holster Right"},
 	bloodLocations = nil,
@@ -38,7 +38,7 @@ AttachedWeaponDefinitions.FragGrenade = {
 	id = "FragGrenade",
 	chance = 0,
 	outfit = {"SharkArmyCamoGreenMale", "SharkArmyCamoGreenFemale","SharkArmyCamoDesertFemale", "SharkArmyCamoDesertMale", "SharkArmyCamoUrbanMale",
-"SharkArmyCamoUrbanFemale", "SharkArmyCamoUrbanGearedMale", "SharkArmyCamoGreenMaleGasMask", "SharkArmyCamoGreenFemaleGasMask", "SharkNBCSuit"},
+"SharkArmyCamoUrbanFemale", "SharkArmyCamoUrbanGearedMale", "SharkArmyCamoGreenMaleGasMask", "SharkArmyCamoGreenFemaleGasMask", "SharkMOPPSuitOD"},
 	weaponLocation = {"Belt Left", "Belt Right"},
 	bloodLocations = nil,
 	addHoles = false,
@@ -129,6 +129,14 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyInstructor = {
 	},
 }
 AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCavalry = {
+	chance = 15;
+	weapons = {
+		AttachedWeaponDefinitions.handgunM9,
+		AttachedWeaponDefinitions.assaultRifleM16OnBack,	
+	},
+}
+
+AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkMOPPSuitOD = {
 	chance = 15;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,

@@ -6,6 +6,7 @@ module SMUIClothing
     
     DisplayCategory = Clothing,
     Type = Clothing,
+    DisplayName = MOPP Suit Top,
     ClothingItem = Suit_NBCSuit,
     BodyLocation = Jacket,
     Icon = NBCSuit,
@@ -27,6 +28,7 @@ module SMUIClothing
     
     DisplayCategory = Clothing,
     Type = Clothing,
+    DisplayName = MOPP Suit Top (Up),
     ClothingItem = Suit_NBCSuitHood,
     BodyLocation = Jacket,
     Icon = NBCSuit,
@@ -49,7 +51,8 @@ module SMUIClothing
 
     DisplayCategory = Clothing,
     Type = Clothing,
-    ClothingItem = Trousers_MOPPPants,
+    DisplayName = MOPP Suit Pants,
+    ClothingItem = Trousers_NBCPants,
     BodyLocation = Pants,
     BloodLocation = Trousers,
     Icon = NBCSuit,
