@@ -69,10 +69,6 @@ SMUIZombiesZoneDefinition.Army = {
 		name="SharkTankCrewman",
 		chance=22,
 	},
-	SharkMOPPSuitOD = {
-		name="SharkMOPPSuitOD",
-		chance=22,
-	},
 	SharkArmyCamoUrbanGearedMale = {
 		name="SharkArmyCamoUrbanGearedMale",
 		chance=3,
@@ -137,10 +133,6 @@ SMUIZombiesZoneDefinition.SecretBase = {
 		name="SharkArmyCamoUrbanFemale",
 		chance=10,
 	},
-	SharkMOPPSuitOD = {
-		name="SharkMOPPSuitOD",
-		chance=22,
-	},
 	Doctor = {
 		name="Doctor",
 		chance=10,
@@ -153,7 +145,6 @@ SMUIZombiesZoneDefinition.Default = ZombiesZoneDefinition.Default or {};
 table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkArmyCamoGreenMale", chance=0.01});
 table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkArmyCamoGreenNVGMale", chance=0.01});
 table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkArmyCamoGreenMaleGasmask", chance=0.1});
-table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkMOPPSuitOD", chance=0.1});
 table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkArmyCamoGreenFemale", chance=0.01});
 table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkArmyCamoGreenNVGFemale", chance=0.01});
 table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkArmyCamoGreenFemaleGasmask", chance=0.1});
