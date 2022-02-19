@@ -284,11 +284,48 @@ module SMUIClothing
         CanHaveHoles = false,
         ClothingItemExtra = Hat_MilitaryHelmetRiot,
         ClothingItemExtraOption = VisorDown,
-        ChanceToFall = 80,
         Insulation = 0.10,
         WaterResistance = 0.2,
         Weight = 1,
 		WorldStaticModel = MilitaryHelmetRiot_WorldItem,
     }
-	
+
+        item Hat_M1Helmet
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = M1 Steel Helmet,
+        ClothingItem = Hat_M1Helmet,
+        BodyLocation = Hat,
+        Icon = MilitaryHelmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = MilitaryHelmetRiot_WorldItem,
+    }
+
+        item Hat_M1HelmetStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless M1 Steel Helmet,
+        ClothingItem = Hat_M1HelmetStrapless,
+        BodyLocation = Hat,
+        Icon = MilitaryHelmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = MilitaryHelmetRiot_WorldItem,
+    }
 }
