@@ -6,26 +6,26 @@ module SMUIClothing{
 
 recipe Tuck In
   	{
-   	   Trousers_CamoUrban,
+   	   Base.Trousers_CamoUrban,
 
-   	   Result:Trousers_CamoUrbanTucked,
-	   Time:0,
+   	   Result:SMUIClothing.Trousers_CamoUrbanTucked,
+	   Time:10.0,
   	}
 
 recipe Tuck In
   	{
-   	   Trousers_CamoDesert,
+   	   Base.Trousers_CamoDesert,
 
-   	   Result:Trousers_CamoDesertTucked,
-	   Time:0,
+   	   Result:SMUIClothing.Trousers_CamoDesertTucked,
+	   Time:10,
   	}
 
 recipe Tuck In
   	{
-   	   Trousers_CamoGreen,
+   	   Base.Trousers_CamoGreen,
 
-   	   Result:Trousers_CamoGreenTucked,
-	   Time:0,
+   	   Result:SMUIClothing.Trousers_CamoGreenTucked,
+	   Time:10.0,
   	}
 
 recipe Roll Up
@@ -33,7 +33,7 @@ recipe Roll Up
    	   Jacket_ArmyCamoGreen,
 
    	   Result:Jacket_ArmyCamoGreenRolled,
-	   Time:0,
+	   Time:10.0,
   	}
 
 recipe Roll Up
