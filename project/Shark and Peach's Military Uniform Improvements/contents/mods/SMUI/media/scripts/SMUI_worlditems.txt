@@ -245,4 +245,11 @@ module Base
 		texture = WorldItems/CFP90,
 		scale = 0.5,
 	}
+
+		model M1Helmet_WorldItem
+	{
+		mesh = WorldItems/M1Helmet_WorldItem,
+		texture = WorldItems/M1Helmet,
+		scale = 0.5,
+	}
 }

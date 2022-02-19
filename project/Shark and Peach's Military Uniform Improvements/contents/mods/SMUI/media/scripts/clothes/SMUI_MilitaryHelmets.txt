@@ -306,7 +306,7 @@ module SMUIClothing
         Insulation = 0.10,
         WaterResistance = 0.2,
         Weight = 0.5,
-		WorldStaticModel = MilitaryHelmetRiot_WorldItem,
+		WorldStaticModel = M1Helmet_WorldItem,
     }
 
         item Hat_M1HelmetStrapless
@@ -316,7 +316,7 @@ module SMUIClothing
         DisplayName = Strapless M1 Steel Helmet,
         ClothingItem = Hat_M1HelmetStrapless,
         BodyLocation = Hat,
-        Icon = M1Helmet,
+        Icon = M1HelmetStrapless,
 		BloodLocation = Head,
         BiteDefense = 100,
 		ScratchDefense = 100,
@@ -326,6 +326,24 @@ module SMUIClothing
         Insulation = 0.10,
         WaterResistance = 0.2,
         Weight = 0.5,
-		WorldStaticModel = MilitaryHelmetRiot_WorldItem,
+		WorldStaticModel = M1Helmet_WorldItem,
+    }
+
+        item Hat_MilitaryTacticalHelmet
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Military Tactical Helmet,
+        ClothingItem = Hat_MilitaryTacticalHelmet,
+        BodyLocation = Hat,
+        Icon = MilitaryTacticalHelmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        CanHaveHoles = false,
+        Insulation = 0.5,
+        WaterResistance = 0.4,
+        Weight = 0.3,
+		WorldStaticModel = M1Helmet_WorldItem,
     }
 }
