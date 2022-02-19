@@ -42,16 +42,6 @@
 	<path>media/clothing/clothingItems/Bag_MilitaryMedicalBag_Lhand.xml</path>
 	<guid>1c73cff5-eec9-4ee4-9603-2504bc56db7d</guid>
 	</files>
-	
-	<files>
-	<path>media/clothing/clothingItems/Hat_M1Helmet.xml</path>
-	<guid>4fd438f9-45cc-4b8d-a374-cfaf74856280</guid>
-	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/Hat_M1HelmetStrapless.xml</path>
-	<guid>63276add-e9c1-46fe-97be-dc7fd55bd315</guid>
-	</files>
 
 	<files>
 	<path>media/clothing/clothingItems/Hat_DH132.xml</path>
