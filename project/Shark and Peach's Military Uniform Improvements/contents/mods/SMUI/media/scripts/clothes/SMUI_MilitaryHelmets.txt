@@ -344,6 +344,24 @@ module SMUIClothing
         Insulation = 0.5,
         WaterResistance = 0.4,
         Weight = 0.3,
-		WorldStaticModel = M1Helmet_WorldItem,
+        WorldStaticModel = MilitaryTacticalHelmet_WorldItem,
+    }
+
+        item Hat_MilitaryTacticalHelmetGoggles
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Military Tactical Helmet w/ Goggles,
+        ClothingItem = Hat_MilitaryTacticalHelmetGoggles,
+        BodyLocation = Hat,
+        Icon = MilitaryTacticalHelmetGoggles,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        CanHaveHoles = false,
+        Insulation = 0.5,
+        WaterResistance = 0.4,
+        Weight = 0.3,
+        WorldStaticModel = MilitaryTacticalHelmetGoggles_WorldItem,
     }
 }

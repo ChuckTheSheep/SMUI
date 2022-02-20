@@ -211,6 +211,20 @@ module Base
 		scale = 0.5,
 	}
 
+		model MilitaryTacticalHelmet_WorldItem
+	{
+		mesh = WorldItems/MilitaryTacticalHelmet_WorldItem,
+		texture = WorldItems/MilitaryTacticalHelmet,
+		scale = 0.5,
+	}
+
+		model MilitaryTacticalHelmetGoggles_WorldItem
+	{
+		mesh = WorldItems/MilitaryTacticalHelmetGoggles_WorldItem,
+		texture = WorldItems/MilitaryTacticalHelmetGoggles,
+		scale = 0.5,
+	}
+
 		model DH132_WorldItem
 	{
 		mesh = WorldItems/DH132_WorldItem,

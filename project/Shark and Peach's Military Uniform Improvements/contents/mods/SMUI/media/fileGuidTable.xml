@@ -9,6 +9,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryTacticalHelmetGoggles.xml</path>
+	<guid>2d92c154-f9e9-48f6-b09f-0b020c601690</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Bag_CFP90PatrolPack.xml</path>
 	<guid>80c41e56-7aeb-48ee-a1a7-c75be8cd80cc</guid>
 	</files>

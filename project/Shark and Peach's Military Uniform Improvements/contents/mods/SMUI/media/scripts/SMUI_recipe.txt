@@ -133,6 +133,15 @@ recipe Attach goggles to helmet
 	   Time:20,
   	}
 
+recipe Attach goggles to helmet
+  	{
+   	   Hat_MilitaryTacticalHelmet,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_MilitaryTacticalHelmetGoggles,
+	   Time:20,
+  	}
+
 recipe Attach doff hood
   	{
    	   Hat_M40,
@@ -205,6 +214,14 @@ recipe Remove goggles
    	   Hat_MilitaryHelmetDesertGogglesStrapless,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_MilitaryHelmetDesertStrapless,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_MilitaryTacticalHelmetGoggles,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_MilitaryTacticalHelmet,
 	   Time:60,
   	}
 
