@@ -225,6 +225,20 @@ recipe Remove goggles
 	   Time:60,
   	}
 
+recipe Unseal package
+  	{
+   	   MOPPPackageTop,
+	   OnCreate: SMUI_Recipe.MOPPTOP,
+   	   Result:MOPPPackageWrapper,
+	   Time:60,
+  	}
 
+recipe Unseal package
+  	{
+   	   MOPPPackageBottom,
+	   OnCreate: SMUI_Recipe.MOPPBOTTOM,
+   	   Result:MOPPPackageWrapper,
+	   Time:60,
+  	}
 
 }		

@@ -19,6 +19,15 @@ function SMUI_Recipe.GOGGLES(recipe, result, player)
 	player:getInventory():AddItems("SMUIClothing.Glasses_MilitaryGoggles", 1)
 end
 
+function SMUI_Recipe.MOPPTOP(recipe, result, player)
+	player:getInventory():AddItems("SMUIClothing.Suit_NBCSuit", 1)
+	player:getInventory():AddItems("SMUIClothing.Gloves_HazmatGloves", 1)
+end
+
+function SMUI_Recipe.MOPPBOTTOM(recipe, result, player)
+	player:getInventory():AddItems("SMUIClothing.Trousers_NBCPants", 1)
+	player:getInventory():AddItems("SMUIClothing.Shoes_HazmatBoots", 1)
+end
 
 SMUI_Recipe.typesThatCanOpenBoxes = SMUI_Recipe.typesThatCanOpenBoxes or {}
 
