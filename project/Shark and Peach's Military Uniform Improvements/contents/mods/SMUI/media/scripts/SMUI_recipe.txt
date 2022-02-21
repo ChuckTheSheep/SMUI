@@ -135,6 +135,24 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+   	   Hat_DH132,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_DH132Goggles,
+	   Time:20,
+  	}
+
+recipe Attach goggles to helmet
+  	{
+   	   Hat_DH132,
+	   Glasses_TacticalGoggles,
+
+   	   Result:Hat_DH132Goggles,
+	   Time:20,
+  	}
+
+recipe Attach goggles to helmet
+  	{
    	   Hat_MilitaryTacticalHelmet,
 	   Glasses_MilitaryGoggles,
 
@@ -222,6 +240,14 @@ recipe Remove goggles
    	   Hat_MilitaryTacticalHelmetGoggles,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_MilitaryTacticalHelmet,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_DH132Goggles,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_DH132,
 	   Time:60,
   	}
 

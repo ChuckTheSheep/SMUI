@@ -89,6 +89,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_DH132Goggles.xml</path>
+	<guid>c8f6aea5-cdd0-473c-a5c8-539f582c5f39</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_MilitaryHelmet.xml</path>
 	<guid>e3b68146-8b14-4c4c-a59e-d0fb94901858</guid>
 	</files>

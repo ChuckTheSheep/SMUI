@@ -19,6 +19,24 @@ module SMUIClothing
 		WaterResistance = 0.4,
 		WorldStaticModel = DH132_WorldItem,
 	}
+
+        item Hat_DH132Goggles
+	{
+	    DisplayCategory = Helmet,
+		Type = Clothing,
+		DisplayName = DH-132 Helmet /w Goggles,
+		ClothingItem = Hat_DH132Goggles,
+		BodyLocation = Hat,
+		Icon = DH132,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		BulletDefense = 100,
+		Insulation = 0.45,
+		WaterResistance = 0.4,
+		WorldStaticModel = DH132_WorldItem,
+	}
     
         item Hat_M17
     {
