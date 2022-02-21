@@ -266,4 +266,18 @@ module Base
 		texture = WorldItems/M1Helmet,
 		scale = 0.5,
 	}
+
+		model M1HelmetWoodland_WorldItem
+	{
+		mesh = WorldItems/M1Helmet_WorldItem,
+		texture = WorldItems/M1HelmetWoodland,
+		scale = 0.5,
+	}
+
+		model M1HelmetMitchell_WorldItem
+	{
+		mesh = WorldItems/M1Helmet_WorldItem,
+		texture = WorldItems/M1HelmetMitchell,
+		scale = 0.5,
+	}
 }

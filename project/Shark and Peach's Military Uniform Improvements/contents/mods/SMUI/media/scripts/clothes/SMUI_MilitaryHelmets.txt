@@ -333,6 +333,92 @@ module SMUIClothing
 		WorldStaticModel = M1Helmet_WorldItem,
     }
 
+        item Hat_M1HelmetWoodland
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Woodland M1 Steel Helmet,
+        ClothingItem = Hat_M1HelmetWoodland,
+        BodyLocation = Hat,
+        Icon = M1HelmetWoodland,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_M1HelmetWoodlandStrapless,
+        ClothingItemExtraOption = Unstrap,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetWoodland_WorldItem,
+    }
+
+        item Hat_M1HelmetWoodlandStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless Woodland M1 Steel Helmet,
+        ClothingItem = Hat_M1HelmetWoodlandStrapless,
+        BodyLocation = Hat,
+        Icon = M1HelmetWoodlandStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_M1HelmetWoodland,
+        ClothingItemExtraOption = Strap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetWoodland_WorldItem,
+    }
+
+        item Hat_M1HelmetMitchell
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName =  Mitchell M1 Steel Helmet,
+        ClothingItem = Hat_M1HelmetMitchell,
+        BodyLocation = Hat,
+        Icon = M1HelmetMitchell,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_M1HelmetMitchellStrapless,
+        ClothingItemExtraOption = Unstrap,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetMitchell_WorldItem,
+    }
+
+        item Hat_M1HelmetMitchellStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless Mitchell M1 Steel Helmet,
+        ClothingItem = Hat_M1HelmetMitchellStrapless,
+        BodyLocation = Hat,
+        Icon = M1HelmetMitchellStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_M1HelmetMitchell,
+        ClothingItemExtraOption = Strap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetMitchell_WorldItem,
+    }
+
         item Hat_MilitaryTacticalHelmet
     {
         DisplayCategory = Helmet,

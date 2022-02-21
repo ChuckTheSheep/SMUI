@@ -64,6 +64,26 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetWoodland.xml</path>
+	<guid>666d2ff1-61eb-4fc6-a6f3-9442f804740a</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetWoodlandStrapless.xml</path>
+	<guid>c34c8ad8-c032-4ddd-b55b-39207a377c85</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetMitchell.xml</path>
+	<guid>4c08abca-b4aa-479e-b9c1-720c32b1d8e1</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetMitchellStrapless.xml</path>
+	<guid>7850b133-1e81-42f2-bccc-61861ba6d122</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_DH132.xml</path>
 	<guid>d303ddaa-ed62-442a-8706-f7b8a577b748</guid>
 	</files>

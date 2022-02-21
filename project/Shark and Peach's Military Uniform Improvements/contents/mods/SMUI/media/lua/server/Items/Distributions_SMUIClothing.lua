@@ -65,6 +65,16 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 6);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.M40Hood");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 1);
 
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.MOPPPackageTop");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 2);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.MOPPPackageTop");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 6);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.MOPPPackageBottom");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 2);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.MOPPPackageBottom");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 6);
+
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_MilitaryHelmetRiot");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Hat_MilitaryHelmetRiot");
@@ -180,7 +190,19 @@ table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 5);
 table.insert(ProceduralDistributions.list.GarageFirearms.items, "SMUIClothing.Hat_M1Helmet");
 table.insert(ProceduralDistributions.list.GarageFirearms.items, 1);
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Hat_M1Helmet");
-table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 4);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_M1HelmetWoodland");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.3);
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_M1HelmetWoodland");
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 5);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Hat_M1HelmetWoodland");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
+
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_M1HelmetMitchell");
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 5);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Hat_M1HelmetMitchell");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
 
 
 
