@@ -404,7 +404,7 @@ module SMUIClothing
         DisplayName = Strapless Mitchell M1 Steel Helmet,
         ClothingItem = Hat_M1HelmetMitchellStrapless,
         BodyLocation = Hat,
-        Icon = M1HelmetStrapless,
+        Icon = M1HelmetMitchellStrapless,
 		BloodLocation = Head,
         BiteDefense = 100,
 		ScratchDefense = 100,
