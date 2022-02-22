@@ -232,6 +232,13 @@ module Base
 		scale = 0.5,
 	}
 
+		model DH132Goggles_WorldItem
+	{
+		mesh = WorldItems/DH132Goggles_WorldItem,
+		texture = WorldItems/DH132Goggles,
+		scale = 0.5,
+	}
+
 		model MilitaryMedicalBag_WorldItem
 	{
 		mesh = WorldItems/MilitaryMedicalBag_WorldItem,

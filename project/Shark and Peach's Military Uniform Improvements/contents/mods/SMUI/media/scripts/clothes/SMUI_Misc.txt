@@ -35,7 +35,7 @@ module SMUIClothing
 		BulletDefense = 100,
 		Insulation = 0.45,
 		WaterResistance = 0.4,
-		WorldStaticModel = DH132_WorldItem,
+		WorldStaticModel = DH132Goggles_WorldItem,
 	}
     
         item Hat_M17
