@@ -160,6 +160,61 @@ recipe Attach goggles to helmet
 	   Time:20,
   	}
 
+recipe Attach goggles to helmet
+  	{
+   	   Hat_M1Helmet,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_M1HelmetGoggles,
+	   Time:20,
+  	}
+
+recipe Attach goggles to helmet
+  	{
+   	   Hat_M1HelmetStrapless,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_M1HelmetGogglesStrapless,
+	   Time:20,
+  	}
+
+recipe Attach goggles to helmet
+  	{
+   	   Hat_M1HelmetWoodland,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_M1HelmetWoodlandGoggles,
+	   Time:20,
+  	}
+
+recipe Attach goggles to helmet
+  	{
+   	   Hat_M1HelmetWoodlandStrapless,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_M1HelmetWoodlandGogglesStrapless,
+	   Time:20,
+  	}
+
+recipe Attach goggles to helmet
+  	{
+   	   Hat_M1HelmetMitchell,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_M1HelmetMitchellGoggles,
+	   Time:20,
+  	}
+
+recipe Attach goggles to helmet
+  	{
+   	   Hat_M1HelmetMitchellStrapless,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_M1HelmetMitchellStrapless,
+	   Time:20,
+  	}
+	  
+	  
 recipe Attach doff hood
   	{
    	   Hat_M40,
@@ -248,6 +303,54 @@ recipe Remove goggles
    	   Hat_DH132Goggles,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_DH132,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_M1HelmetGoggles,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_M1Helmet,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_M1HelmetGogglesStrapless,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_M1Helmet,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_M1HelmetWoodlandGoggles,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_M1HelmetWoodland,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_M1HelmetWoodlandGogglesStrapless,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_M1HelmetWoodlandStrapless,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_M1HelmetMitchellGoggles,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_M1HelmetMitchell,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_M1HelmetMitchellGogglesStrapless,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_M1HelmetMitchellStrapless,
 	   Time:60,
   	}
 

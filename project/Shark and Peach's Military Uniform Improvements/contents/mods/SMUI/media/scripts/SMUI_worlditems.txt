@@ -273,18 +273,25 @@ module Base
 		texture = WorldItems/M1Helmet,
 		scale = 0.5,
 	}
-
-		model M1HelmetWoodland_WorldItem
+	
+		model M1HelmetGoggles_WorldItem
 	{
-		mesh = WorldItems/M1Helmet_WorldItem,
-		texture = WorldItems/M1HelmetWoodland,
+		mesh = WorldItems/M1HelmetGoggles_WorldItem,
+		texture = WorldItems/M1HelmetGoggles,
 		scale = 0.5,
 	}
 
-		model M1HelmetMitchell_WorldItem
+		model M1HelmetWoodlandGoggles_WorldItem
 	{
-		mesh = WorldItems/M1Helmet_WorldItem,
-		texture = WorldItems/M1HelmetMitchell,
+		mesh = WorldItems/M1HelmetGoggles_WorldItem,
+		texture = WorldItems/M1HelmetWoodlandGoggles,
+		scale = 0.5,
+	}
+
+		model M1HelmetMitchellGoggles_WorldItem
+	{
+		mesh = WorldItems/M1HelmetGoggles_WorldItem,
+		texture = WorldItems/M1HelmetMitchellGoggles,
 		scale = 0.5,
 	}
 }
