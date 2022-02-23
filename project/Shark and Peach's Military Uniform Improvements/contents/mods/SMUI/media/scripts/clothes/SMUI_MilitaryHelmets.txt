@@ -333,6 +333,49 @@ module SMUIClothing
 		WorldStaticModel = M1Helmet_WorldItem,
     }
 
+        item Hat_M1HelmetGoggles
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = M1 Steel Helmet w/ Goggles,
+        ClothingItem = Hat_M1HelmetGoggles,
+        BodyLocation = Hat,
+        Icon = M1Helmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_M1HelmetGogglesStrapless,
+        ClothingItemExtraOption = Unstrap,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1Helmet_WorldItem,
+    }
+
+        item Hat_M1HelmetGogglesStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless M1 Steel Helmet w/ Goggles,
+        ClothingItem = Hat_M1HelmetGogglesStrapless,
+        BodyLocation = Hat,
+        Icon = M1HelmetStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_M1HelmetGoggles,
+        ClothingItemExtraOption = Strap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1Helmet_WorldItem,
+    }
+
         item Hat_M1HelmetWoodland
     {
         DisplayCategory = Helmet,
@@ -368,6 +411,49 @@ module SMUIClothing
         BulletDefense = 20,
         CanHaveHoles = false,
         ClothingItemExtra = Hat_M1HelmetWoodland,
+        ClothingItemExtraOption = Strap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetWoodland_WorldItem,
+    }
+
+        item Hat_M1HelmetWoodlandGoggles
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Woodland M1 Steel Helmet w/ Goggles,
+        ClothingItem = Hat_M1HelmetWoodlandGoggles,
+        BodyLocation = Hat,
+        Icon = M1HelmetWoodland,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_M1HelmetWoodlandGogglesStrapless,
+        ClothingItemExtraOption = Unstrap,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetWoodland_WorldItem,
+    }
+
+        item Hat_M1HelmetWoodlandGogglesStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless Woodland M1 Steel Helmet w/ Goggles,
+        ClothingItem = Hat_M1HelmetWoodlandGogglesStrapless,
+        BodyLocation = Hat,
+        Icon = M1HelmetWoodlandStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_M1HelmetWoodlandGoggles,
         ClothingItemExtraOption = Strap,
         ChanceToFall = 80,
         Insulation = 0.10,
