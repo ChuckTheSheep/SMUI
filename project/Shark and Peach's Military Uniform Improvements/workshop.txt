@@ -9,8 +9,8 @@ description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
 description= [h1][b]NEW: M1 Steel Helmets (Coverless, Woodland, and Mitchell + can be unstrapped/strapped + can have goggles attached[/b][/h1]
 description= [h1][b]NEW: Military Tactical Helmet (Modified Protec Full-Cut Helmet)[/b][/h1]
-description= [h1][b]NEW: MOPP Suits have been reintroduced with a top/bottom, and can be worn with body armor + webbing[/h1]
-description= [h1][b]NEW: DH-132 Helmet can now be worn with goggles[/h1]
+description= [h1][b]NEW: MOPP Suits have been reintroduced with a top/bottom, and can be worn with body armor + webbing + included packaged top/bottom kits[/b][/h1]
+description= [h1][b]NEW: DH-132 Helmet can now be worn with goggles[/b][/h1]
 description=
 description= [h2][b]This mod entirely redoes the vanilla military zombies to be inline with actual equipment (e.g ALICE webbing) and clothing standards of the 1990's US Military.[/b][/h2]
 description=
