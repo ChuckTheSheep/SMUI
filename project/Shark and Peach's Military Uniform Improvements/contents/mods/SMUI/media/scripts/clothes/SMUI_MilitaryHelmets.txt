@@ -505,6 +505,49 @@ module SMUIClothing
 		WorldStaticModel = M1HelmetMitchell_WorldItem,
     }
 
+        item Hat_M1HelmetMitchellGoggles
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName =  Mitchell M1 Steel Helmet w/ Goggles,
+        ClothingItem = Hat_M1HelmetMitchellGoggles,
+        BodyLocation = Hat,
+        Icon = M1HelmetMitchell,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_M1HelmetMitchellGogglesStrapless,
+        ClothingItemExtraOption = Unstrap,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetMitchell_WorldItem,
+    }
+
+        item Hat_M1HelmetMitchellGogglesStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless Mitchell M1 Steel Helmet w/ Goggles,
+        ClothingItem = Hat_M1HelmetMitchellGogglesStrapless,
+        BodyLocation = Hat,
+        Icon = M1HelmetMitchellStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = Hat_M1HelmetMitchellGoggles,
+        ClothingItemExtraOption = Strap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetMitchell_WorldItem,
+    }
+
         item Hat_MilitaryTacticalHelmet
     {
         DisplayCategory = Helmet,
