@@ -7,4 +7,5 @@
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
 	<textureChoices>clothes\vest\Vest_MilitaryTacticalVest</textureChoices>
+	<textureChoices>clothes\vest\Vest_MilitaryTacticalVest2</textureChoices>
 </clothingItem>
