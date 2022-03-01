@@ -336,8 +336,13 @@
 	<files>
 	<path>media/clothing/clothingItems/MilitaryWebbing.xml</path>
 	<guid>01ee11ca-3de7-4495-85d6-078d33fcab12</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/PistolBeltPouches.xml</path>
+	<guid>904a7137-9402-4c93-a902-6cf8f28892ce</guid>
 	</files>	
-	
+		
 	<files>
 	<path>media/clothing/clothingItems/MilitaryWebbingTightened.xml</path>
 	<guid>20260ba2-716d-4e84-9a36-8000c3eb6c2a</guid>
@@ -345,6 +350,11 @@
 
 	<files>
 	<path>media/clothing/clothingItems/MilitaryWebbingBag.xml</path>
+	<guid>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</guid>
+	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/PistolBeltBag.xml</path>
 	<guid>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</guid>
 	</files>	
 	

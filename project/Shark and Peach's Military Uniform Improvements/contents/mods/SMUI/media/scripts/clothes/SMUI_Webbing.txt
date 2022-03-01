@@ -72,4 +72,34 @@ module SMUIClothing
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
+
+		item PistolBeltPouches
+	{
+		DisplayCategory = Webbing,
+		Type = Container,
+		DisplayName = Military Pistol Belt w/ Pouches,
+		ClothingItem = PistolBeltPouches,
+		BodyLocation = SMUIWebbingPlus,
+		CanBeEquipped = SMUIWebbingPlus,
+		Capacity = 8,
+		WeightReduction	=	30,
+		RunSpeedModifier = 1.2,
+		Icon = PistolBelt, 
+		WorldStaticModel = WebbingBelt_WorldItem,
+	}
+
+		item PistolBeltBag
+	{
+		DisplayCategory = Webbing,
+		Type = Container,
+		DisplayName = Military Pistol Belt w/ Pouches + Buttpack,
+		ClothingItem = PistolBeltBag,
+		BodyLocation = SMUIWebbingPlus,
+		CanBeEquipped = SMUIWebbingPlus,
+		Capacity = 8,
+		WeightReduction	=	30,
+		RunSpeedModifier = 1.2,
+		Icon = PistolBelt,
+		WorldStaticModel = WebbingBelt_WorldItem,
+	}
 }

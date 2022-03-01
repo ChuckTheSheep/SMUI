@@ -29,6 +29,20 @@ module Base
 		scale = 0.5,
 	}
 
+		model WebbingHarness_WorldItem
+	{
+		mesh = WorldItems/WebbingHarness_WorldItem,
+		texture = WorldItems/MilitaryWebbing,
+		scale = 0.5,
+	}
+
+		model WebbingBelt_WorldItem
+	{
+		mesh = WorldItems/WebbingBelt_WorldItem,
+		texture = WorldItems/MilitaryWebbing,
+		scale = 0.5,
+	}
+
 		model MilitaryTankerVest_WorldItem
 	{
 		mesh = WorldItems/MilitaryTacticalVest_WorldItem,

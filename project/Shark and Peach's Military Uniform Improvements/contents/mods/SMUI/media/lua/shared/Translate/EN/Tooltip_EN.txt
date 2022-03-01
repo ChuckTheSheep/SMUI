@@ -10,4 +10,5 @@ Tooltip_EN = {
     Tooltip_NightVisionGoggles = "Must be attached to a mount for use",
     Tooltip_NVGBroken = "Currently inoperable. Yell at the other modders.",
     Tooltip_NVGMount = "Used to mount night vision onto helmets",
+    Tooltip_WebbingHarness = "Used in conjunction wth pistol belts for load bearing webbing",
 }

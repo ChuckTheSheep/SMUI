@@ -214,7 +214,6 @@ recipe Attach goggles to helmet
 	   Time:20,
   	}
 	  
-	  
 recipe Attach doff hood
   	{
    	   Hat_M40,
@@ -255,6 +254,60 @@ recipe Remove doff hood
    	   Hat_M40Doff,
 	   OnCreate: SMUI_Recipe.M40HOOD,
    	   Result:Hat_M40,
+	   Time:60,
+  	}
+
+recipe Attach harness to belt
+  	{
+   	   MilitaryWebbingHarness,
+	   PistolBeltPouches,
+	   OnCreate:KeepInventory,
+   	   Result:MilitaryWebbing,
+	   Time:60,
+  	}
+
+recipe Attach harness to belt
+  	{
+   	   MilitaryWebbingHarness,
+	   PistolBeltBag,
+	   OnCreate:KeepInventory,
+   	   Result:MilitaryWebbingBag,
+	   Time:60,
+  	}
+
+recipe Detach harness from belt
+  	{
+   	   MilitaryWebbing,
+	   OnCreate: SMUI_Recipe.HARNESS,
+	   OnCreate:KeepInventory,
+   	   Result:PistolBeltPouches,
+	   Time:60,
+  	}
+
+recipe Detach harness from belt
+  	{
+   	   MilitaryWebbingTightened,
+	   OnCreate: SMUI_Recipe.HARNESS,
+	   OnCreate:KeepInventory,
+   	   Result:PistolBeltPouches,
+	   Time:60,
+  	}
+
+recipe Detach harness from belt
+  	{
+   	   MilitaryWebbingBag,
+	   OnCreate: SMUI_Recipe.HARNESS,
+	   OnCreate:KeepInventory,
+   	   Result:PistolBeltBag,
+	   Time:60,
+  	}
+
+recipe Detach harness from belt
+  	{
+   	   MilitaryWebbingBagTightened,
+	   OnCreate: SMUI_Recipe.HARNESS,
+	   OnCreate:KeepInventory,
+   	   Result:PistolBeltBag,
 	   Time:60,
   	}
 

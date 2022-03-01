@@ -23,6 +23,17 @@ module SMUIClothing
 		Icon = NVGMount,
 	}
 
+		item MilitaryWebbingHarness
+	{
+		DisplayCategory = Accessory,
+		Weight = 0.1,
+		Type = Normal,
+		WorldStaticModel = WebbingHarness_WorldItem,
+		DisplayName = Military Webbing Harness,
+		Tooltip = Tooltip_WebbingHarness,
+		Icon = WebbingHarness,
+	}
+
 		item M17Hood
 	{
 		DisplayCategory = Accessory,
