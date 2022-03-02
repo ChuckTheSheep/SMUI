@@ -389,6 +389,11 @@
 	</files>
 	
 	<files>
+	<path>media/clothing/clothingItems/Vest_RangerBodyArmor.xml</path>
+	<guid>5015651a-e3b2-4ef6-b41a-bf2aca34063b</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_Shemagh.xml</path>
 	<guid>dd49740b-e934-45d9-929f-7eadb7b81466</guid>
 	</files>

@@ -16,9 +16,25 @@ module SMUIClothing
 		BulletDefense = 100,
 		Insulation = 0.75,
         WindResistance = 0.45,
-		WeightReduction	=	50,
 		RunSpeedModifier = 1,
         WorldStaticModel = BulletVest_Ground,
+	}
+
+	    item Vest_RangerBodyArmor
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Ranger Body Armor,
+		ClothingItem = Vest_RangerBodyArmor,
+		BodyLocation = TorsoExtra,
+		BloodLocation = ShirtNoSleeves,
+		BiteDefense = 75,
+		ScratchDefense = 75,
+		BulletDefense = 100,
+		Insulation = 0.75,
+        WindResistance = 0.45,
+		Icon = RangerBodyArmor,
+		WorldStaticModel = MilitaryTacticalVest_WorldItem,
 	}
 
     	item Vest_MilitaryTacticalVest
@@ -51,8 +67,7 @@ module SMUIClothing
 		ScratchDefense = 65,
 		BulletDefense = 100,
 		Insulation = 0.75,
-        WindResistance = 0.45,
-		WeightReduction	=	50,
+        WindResistance = 0.30,
 		Icon = MilitaryTankerVest,
 		WorldStaticModel = MilitaryTankerVest_WorldItem,
 	}
