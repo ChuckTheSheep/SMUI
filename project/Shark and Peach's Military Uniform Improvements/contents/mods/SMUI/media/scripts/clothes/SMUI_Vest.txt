@@ -20,12 +20,12 @@ module SMUIClothing
         WorldStaticModel = BulletVest_Ground,
 	}
 
-	    item Vest_RangerBodyArmor
+	    item Vest_RangerBodyArmorWoodland
 	{
 		DisplayCategory = Clothing,
 		Type = Clothing,
-		DisplayName = Ranger Body Armor,
-		ClothingItem = Vest_RangerBodyArmor,
+		DisplayName = Woodland Ranger Body Armor,
+		ClothingItem = Vest_RangerBodyArmorWoodland,
 		BodyLocation = TorsoExtra,
 		BloodLocation = ShirtNoSleeves,
 		BiteDefense = 75,
@@ -33,7 +33,24 @@ module SMUIClothing
 		BulletDefense = 100,
 		Insulation = 0.75,
         WindResistance = 0.45,
-		Icon = RangerBodyArmor,
+		Icon = RangerBodyArmorWoodland,
+		WorldStaticModel = MilitaryTacticalVest_WorldItem,
+	}
+
+	    item Vest_RangerBodyArmorDesert
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Desert Ranger Body Armor,
+		ClothingItem = Vest_RangerBodyArmorDesert,
+		BodyLocation = TorsoExtra,
+		BloodLocation = ShirtNoSleeves,
+		BiteDefense = 75,
+		ScratchDefense = 75,
+		BulletDefense = 100,
+		Insulation = 0.75,
+        WindResistance = 0.45,
+		Icon = RangerBodyArmorDesert,
 		WorldStaticModel = MilitaryTacticalVest_WorldItem,
 	}
 

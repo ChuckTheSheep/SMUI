@@ -51,6 +51,55 @@ module SMUIClothing
 
     }
 
+        item Jacket_ERDL   
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military ERDL Jacket,
+        BodyLocation = Jacket,
+        Icon = ShirtCamoGreen,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = Jacket_ERDL,
+        ClothingItemExtra =  SMUIClothing.Jacket_ERDLRolled,
+        ClothingItemExtraOption = RollUp,
+        BiteDefense = 20,
+        ScratchDefense = 30,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+        
+    }
+
+        item Jacket_ERDLRolled
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military ERDL Jacket (Rolled),
+        ClothingItem = Jacket_ERDLRolled,
+        BodyLocation = Jacket,
+        Icon = TShirtCamoGreen,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = Jacket_ERDLRolled,
+        ClothingItemExtra = SMUIClothing.Jacket_ERDL,
+        ClothingItemExtraOption = RollDown,
+        BiteDefense = 15,
+        ScratchDefense = 20,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+
+    }
+
        item Jacket_ArmyCamoDesert
 
     {
@@ -88,6 +137,54 @@ module SMUIClothing
         CombatSpeedModifier = 0.97,
         ClothingItem = Jacket_ArmyCamoDesertRolled,
         ClothingItemExtra = SMUIClothing.Jacket_ArmyCamoDesert,
+        ClothingItemExtraOption = RollDown,
+        BiteDefense = 15,
+        ScratchDefense = 20,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+    }
+
+        item Jacket_DesertCombat
+
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military Desert Combat Jacket,
+        BodyLocation = Jacket,
+        BloodLocation = Jacket,
+        Icon = ShirtCamoSand,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = Jacket_DesertCombat,
+        ClothingItemExtra = SMUIClothing.Jacket_DesertCombatRolled,
+        ClothingItemExtraOption = RollUp,
+        BiteDefense = 20,
+        ScratchDefense = 30,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+    }
+
+        item Jacket_DesertCombatRolled
+
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military Desert Combat Jacket (Rolled),
+        BodyLocation = Jacket,
+        BloodLocation = Jacket,
+        Icon = TShirtCamoSand,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = Jacket_DesertCombatRolled,
+        ClothingItemExtra = SMUIClothing.Jacket_DesertCombat,
         ClothingItemExtraOption = RollDown,
         BiteDefense = 15,
         ScratchDefense = 20,

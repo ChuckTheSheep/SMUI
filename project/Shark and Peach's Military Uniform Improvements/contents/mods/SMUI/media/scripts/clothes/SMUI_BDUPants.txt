@@ -41,6 +41,46 @@ module SMUIClothing
         WorldStaticModel = Trousers_Ground,
     }
 
+        item Trousers_ERDL
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military ERDL Pants,
+        BodyLocation = Pants,
+        Icon = TrousersCamoGreen,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,   
+        ClothingItem = Trousers_ERDL,
+        ClothingItemExtra = SMUIClothing.Trousers_ERDLTucked,
+        ClothingItemExtraOption = TuckIn,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+        item Trousers_ERDLTucked
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military ERDL Pants (Tucked),
+        BodyLocation = Pants,
+        Icon = TrousersCamoGreen,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,     
+        ClothingItem = Trousers_ERDLTucked,
+        ClothingItemExtra = SMUIClothing.Trousers_ERDL,
+        ClothingItemExtraOption = TuckOut,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
         item Trousers_CamoDesert
     {
         DisplayCategory = Clothing,
@@ -74,6 +114,47 @@ module SMUIClothing
         Insulation = 0.4,
         ClothingItem = Trousers_CamoDesertTucked,
         ClothingItemExtra = SMUIClothing.Trousers_CamoDesert,
+        ClothingItemExtraOption = TuckOut,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+        item Trousers_DesertCombat
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military Desert Combat Pants,
+        BodyLocation = Pants,
+        Icon = TrousersCamoSand,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,      
+        ClothingItem = Trousers_DesertCombat,
+        ClothingItemExtra = SMUIClothing.Trousers_DesertCombatTucked,
+        ClothingItemExtraOption = TuckIn,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+        item Trousers_DesertCombatTucked
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military Desert Combat Pants (Tucked),
+        BodyLocation = Pants,
+        Icon = TrousersCamoSand,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,
+        ClothingItem = Trousers_DesertCombatTucked,
+        ClothingItemExtra = SMUIClothing.Trousers_DesertCombat,
         ClothingItemExtraOption = TuckOut,
         Insulation = 0.4,
         WindResistance = 0.3,
