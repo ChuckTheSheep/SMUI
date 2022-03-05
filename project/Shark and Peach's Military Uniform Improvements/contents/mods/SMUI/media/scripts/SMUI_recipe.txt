@@ -88,6 +88,15 @@ recipe Attach Night Vision
 	   Time:60,
   	}
 
+ recipe Attach Night Vision
+  	{
+   	   Hat_MilitaryHelmetDesertCombatNVGMount,
+	   NightVisionGoggles,
+
+   	   Result:Hat_MilitaryHelmetDesertNVGUP,
+	   Time:60,
+  	}
+
 recipe Attach goggles to helmet
   	{
    	   Hat_MilitaryHelmet,
@@ -121,6 +130,15 @@ recipe Attach goggles to helmet
 	   Glasses_MilitaryGoggles,
 
    	   Result:Hat_MilitaryHelmetDesertGoggles,
+	   Time:20,
+  	}
+
+recipe Attach goggles to helmet
+  	{
+   	   Hat_MilitaryHelmetDesertCombat,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_MilitaryHelmetDesertCombatGoggles,
 	   Time:20,
   	}
 
@@ -340,6 +358,22 @@ recipe Remove goggles
    	   Hat_MilitaryHelmetDesertGogglesStrapless,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_MilitaryHelmetDesertStrapless,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_MilitaryHelmetDesertCombatGoggles,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_MilitaryHelmetDesertCombat,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_MilitaryHelmetDesertCombatGogglesStrapless,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_MilitaryHelmetDesertCombatStrapless,
 	   Time:60,
   	}
 

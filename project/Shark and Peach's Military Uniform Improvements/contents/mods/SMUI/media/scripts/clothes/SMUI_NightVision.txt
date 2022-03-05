@@ -94,4 +94,51 @@ module SMUIClothing
         Weight = 1.7,
 		WorldStaticModel = MilitaryHelmetDesertNVGUP_WorldItem,
     }
+
+		item Hat_MilitaryHelmetDesertCombatNVGUP
+
+	{
+		DisplayCategory = Helmet,
+		Type = Clothing,
+		DisplayName = Desert Combat Military Helmet /w Night Vision (Up),
+		ClothingItem = Hat_MilitaryHelmetDesertCombatNVGUP,
+		BodyLocation = Hat,
+		Icon = DesertMilitaryHelmetNVG,
+		BloodLocation = FullHelmet,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+		Insulation = 0.25,
+		WaterResistance = 0.2,
+		CanHaveHoles = false,
+		ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetDesertCombatNVGDOWN,
+        ClothingItemExtraOption = FlipDown,
+		ChanceToFall = 0,
+		Tooltip = Tooltip_NVGBroken,
+        Weight = 1.7,
+		WorldStaticModel = MilitaryHelmetDesertNVGUP_WorldItem,
+    }
+
+		item Hat_MilitaryHelmetDesertCombatNVGDOWN
+
+	{
+		DisplayCategory = Helmet,
+		Type = Clothing,
+		DisplayName = Desert Military Helmet /w Night Vision (Down),
+		ClothingItem = Hat_MilitaryHelmetDesertCombatNVGDOWN,
+		BodyLocation = Hat,
+		BloodLocation = FullHelmet,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+		Insulation = 0.25,
+        Icon = DesertMilitaryHelmetNVG,
+		CanHaveHoles = false,
+		ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetDesertCombatNVGUP,
+        ClothingItemExtraOption = FlipUp,
+		ChanceToFall = 0,
+		Tooltip = Tooltip_NVGBroken,
+        Weight = 1.7,
+		WorldStaticModel = MilitaryHelmetDesertNVGUP_WorldItem,
+    }
 }

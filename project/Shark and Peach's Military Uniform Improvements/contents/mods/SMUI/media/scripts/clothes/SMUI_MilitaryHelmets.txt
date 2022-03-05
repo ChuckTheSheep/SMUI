@@ -165,6 +165,27 @@ module SMUIClothing
 		WorldStaticModel = MilitaryHelmetDesert_WorldItem,
     }
 
+        item Hat_MilitaryHelmetDesertCombat
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Desert Combat Military Helmet,
+        ClothingItem = Hat_MilitaryHelmetDesertCombat,
+        BodyLocation = Hat,
+        Icon = DesertMilitaryHelmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetDesertCombatStrapless,
+        ClothingItemExtraOption = Unstrap,
+        Insulation = 0.10,
+        Weight = 1,
+		WorldStaticModel = MilitaryHelmetDesert_WorldItem,
+    }
+
+
         item Hat_MilitaryHelmetDesertStrapless
     {
         DisplayCategory = Helmet,
@@ -179,6 +200,27 @@ module SMUIClothing
         BulletDefense = 100,
         CanHaveHoles = false,
         ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetDesert,
+        ClothingItemExtraOption = Strap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 1,
+		WorldStaticModel = MilitaryHelmetDesert_WorldItem,
+    }
+
+        item Hat_MilitaryHelmetDesertCombatStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName =  Desert Combat Military Helmet (Strapless),
+        ClothingItem = Hat_MilitaryHelmetDesertCombatStrapless,
+        BodyLocation = Hat,
+        Icon = DesertMilitaryHelmetStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetDesertCombat,
         ClothingItemExtraOption = Strap,
         ChanceToFall = 80,
         Insulation = 0.10,
@@ -206,6 +248,26 @@ module SMUIClothing
 		WorldStaticModel = MilitaryHelmetDesertGoggles_WorldItem,
     }
 
+	    item Hat_MilitaryHelmetDesertCombatGoggles
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Desert Combat Military Helmet /w Goggles,
+        ClothingItem = Hat_MilitaryHelmetDesertCombatGoggles,
+        BodyLocation = Hat,
+        Icon = MilitaryHelmetDesertGoggles,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetDesertCombatGogglesStrapless,
+        ClothingItemExtraOption = Unstrap,
+        Insulation = 0.10,
+        Weight = 1,
+		WorldStaticModel = MilitaryHelmetDesertGoggles_WorldItem,
+    }
+
         item Hat_MilitaryHelmetDesertGogglesStrapless
     {
         DisplayCategory = Helmet,
@@ -227,12 +289,54 @@ module SMUIClothing
 		WorldStaticModel = MilitaryHelmetDesertGoggles_WorldItem,
     }
 
+        item Hat_MilitaryHelmetDesertCombatGogglesStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName =  Strapless Desert Combat Military Helmet w/ Goggles,
+        ClothingItem = Hat_MilitaryHelmetDesertCombatGogglesStrapless,
+        BodyLocation = Hat,
+        Icon = MilitaryHelmetDesertGogglesStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetDesertCombatGoggles,
+        ClothingItemExtraOption = Strap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 1,
+		WorldStaticModel = MilitaryHelmetDesertGoggles_WorldItem,
+    }
+
     	item Hat_MilitaryHelmetDesertNVGMount
 	{
         DisplayCategory = Helmet,
 		Type = Clothing,
 		DisplayName = Desert Military Helmet w/ NVG Mount,
 		ClothingItem = Hat_MilitaryHelmetDesertNVGMount,
+		BodyLocation = Hat,
+		Icon = DesertMilitaryHelmet,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		Insulation = 0.25,
+		WaterResistance = 0.2,
+        Weight = 1,
+		WorldStaticModel = MilitaryHelmetDesertNVGMount_WorldItem,
+	}
+
+        item Hat_MilitaryHelmetDesertCombatNVGMount
+	{
+        DisplayCategory = Helmet,
+		Type = Clothing,
+		DisplayName = Desert Combat Military Helmet w/ NVG Mount,
+		ClothingItem = Hat_MilitaryHelmetDesertCombatNVGMount,
 		BodyLocation = Hat,
 		Icon = DesertMilitaryHelmet,
         BiteDefense = 100,
