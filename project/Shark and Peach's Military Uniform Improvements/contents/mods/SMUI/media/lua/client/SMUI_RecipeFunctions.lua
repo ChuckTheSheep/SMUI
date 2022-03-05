@@ -20,7 +20,7 @@ function SMUI_Recipe.GOGGLES(recipe, result, player)
 end
 
 function SMUI_Recipe.HARNESS(recipe, result, player)
-	player:getInventory():AddItems("SMUIClothing.MilitaryWebbingHarness", 1)
+	player:getInventory():AddItems("SMUIClothing.MilitaryWebbingSuspenders", 1)
 end
 
 function SMUI_Recipe.MOPPTOP(recipe, result, player)
