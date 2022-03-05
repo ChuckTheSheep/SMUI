@@ -23,14 +23,14 @@ module SMUIClothing
 		Icon = NVGMount,
 	}
 
-		item MilitaryWebbingHarness
+		item MilitaryWebbingSuspenders
 	{
 		DisplayCategory = Accessory,
 		Weight = 0.1,
 		Type = Normal,
-		WorldStaticModel = WebbingHarness_WorldItem,
-		DisplayName = Military Webbing Harness,
-		Tooltip = Tooltip_WebbingHarness,
+		WorldStaticModel = WebbingSuspenders_WorldItem,
+		DisplayName = Military Webbing Suspenders,
+		Tooltip = Tooltip_WebbingSuspenders,
 		Icon = WebbingHarness,
 	}
 
@@ -41,7 +41,7 @@ module SMUIClothing
 		Type = Normal,
 		WorldStaticModel = M17Hood_WorldItem,
 		DisplayName = Doff Hood (M17),
-		Tooltip = Tooltip_DoffHood,
+		Tooltip = Tooltip_DoffHoodM17,
 		Icon = DoffHoodM17,
 	}
 

@@ -29,9 +29,9 @@ module Base
 		scale = 0.5,
 	}
 
-		model WebbingHarness_WorldItem
+		model WebbingSuspenders_WorldItem
 	{
-		mesh = WorldItems/WebbingHarness_WorldItem,
+		mesh = WorldItems/WebbingSuspenders_WorldItem,
 		texture = WorldItems/MilitaryWebbing,
 		scale = 0.5,
 	}

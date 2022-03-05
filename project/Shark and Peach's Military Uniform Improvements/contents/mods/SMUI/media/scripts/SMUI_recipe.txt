@@ -257,55 +257,55 @@ recipe Remove doff hood
 	   Time:60,
   	}
 
-recipe Attach harness to belt
+recipe Attach suspenders to belt
   	{
-   	   MilitaryWebbingHarness,
+   	   MilitaryWebbingSuspenders,
 	   PistolBeltPouches,
 	   OnCreate:KeepInventory,
    	   Result:MilitaryWebbing,
 	   Time:60,
   	}
 
-recipe Attach harness to belt
+recipe Attach suspenders to belt
   	{
-   	   MilitaryWebbingHarness,
+   	   MilitaryWebbingSuspenders,
 	   PistolBeltBag,
 	   OnCreate:KeepInventory,
    	   Result:MilitaryWebbingBag,
 	   Time:60,
   	}
 
-recipe Detach harness from belt
+recipe Detach suspenders from belt
   	{
    	   MilitaryWebbing,
-	   OnCreate: SMUI_Recipe.HARNESS,
+	   OnCreate: SMUI_Recipe.SUSPENDERS,
 	   OnCreate:KeepInventory,
    	   Result:PistolBeltPouches,
 	   Time:60,
   	}
 
-recipe Detach harness from belt
+recipe Detach suspenders from belt
   	{
    	   MilitaryWebbingTightened,
-	   OnCreate: SMUI_Recipe.HARNESS,
+	   OnCreate: SMUI_Recipe.SUSPENDERS,
 	   OnCreate:KeepInventory,
    	   Result:PistolBeltPouches,
 	   Time:60,
   	}
 
-recipe Detach harness from belt
+recipe Detach suspenders from belt
   	{
    	   MilitaryWebbingBag,
-	   OnCreate: SMUI_Recipe.HARNESS,
+	   OnCreate: SMUI_Recipe.SUSPENDERS,
 	   OnCreate:KeepInventory,
    	   Result:PistolBeltBag,
 	   Time:60,
   	}
 
-recipe Detach harness from belt
+recipe Detach suspenders from belt
   	{
    	   MilitaryWebbingBagTightened,
-	   OnCreate: SMUI_Recipe.HARNESS,
+	   OnCreate: SMUI_Recipe.SUSPENDERS,
 	   OnCreate:KeepInventory,
    	   Result:PistolBeltBag,
 	   Time:60,
