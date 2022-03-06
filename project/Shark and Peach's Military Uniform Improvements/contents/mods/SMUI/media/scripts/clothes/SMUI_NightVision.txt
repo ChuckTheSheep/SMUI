@@ -20,7 +20,6 @@ module SMUIClothing
 		ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetNVGDOWN,
         ClothingItemExtraOption = FlipDown,
 		ChanceToFall = 0,
-		Tooltip = Tooltip_NVGBroken,
         Weight = 1.7,
 		WorldStaticModel = MilitaryHelmetNVGUP_WorldItem,
     }
@@ -43,7 +42,6 @@ module SMUIClothing
 		ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetNVGUP,
         ClothingItemExtraOption = FlipUp,
 		ChanceToFall = 0,
-		Tooltip = Tooltip_NVGBroken,
         Weight = 1.7,
 		WorldStaticModel = MilitaryHelmetNVGUP_WorldItem,
     }
@@ -67,7 +65,6 @@ module SMUIClothing
 		ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetDesertNVGDOWN,
         ClothingItemExtraOption = FlipDown,
 		ChanceToFall = 0,
-		Tooltip = Tooltip_NVGBroken,
         Weight = 1.7,
 		WorldStaticModel = MilitaryHelmetDesertNVGUP_WorldItem,
     }
@@ -90,7 +87,6 @@ module SMUIClothing
 		ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetDesertNVGUP,
         ClothingItemExtraOption = FlipUp,
 		ChanceToFall = 0,
-		Tooltip = Tooltip_NVGBroken,
         Weight = 1.7,
 		WorldStaticModel = MilitaryHelmetDesertNVGUP_WorldItem,
     }
@@ -114,7 +110,6 @@ module SMUIClothing
 		ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetDesertCombatNVGDOWN,
         ClothingItemExtraOption = FlipDown,
 		ChanceToFall = 0,
-		Tooltip = Tooltip_NVGBroken,
         Weight = 1.7,
 		WorldStaticModel = MilitaryHelmetDesertNVGUP_WorldItem,
     }
@@ -124,7 +119,7 @@ module SMUIClothing
 	{
 		DisplayCategory = Helmet,
 		Type = Clothing,
-		DisplayName = Desert Military Helmet /w Night Vision (Down),
+		DisplayName = Desert Combat Military Helmet /w Night Vision (Down),
 		ClothingItem = Hat_MilitaryHelmetDesertCombatNVGDOWN,
 		BodyLocation = Hat,
 		BloodLocation = FullHelmet,
@@ -137,7 +132,6 @@ module SMUIClothing
 		ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetDesertCombatNVGUP,
         ClothingItemExtraOption = FlipUp,
 		ChanceToFall = 0,
-		Tooltip = Tooltip_NVGBroken,
         Weight = 1.7,
 		WorldStaticModel = MilitaryHelmetDesertNVGUP_WorldItem,
     }
