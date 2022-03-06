@@ -302,51 +302,6 @@ recipe Attach suspenders to belt
 	   Time:60,
   	}
 
-recipe Attach suspenders to belt
-  	{
-   	   MilitaryWebbingSuspenders,
-	   PistolBeltBag,
-	   OnCreate:KeepInventory,
-   	   Result:MilitaryWebbingBag,
-	   Time:60,
-  	}
-
-recipe Detach suspenders from belt
-  	{
-   	   MilitaryWebbing,
-	   OnCreate: SMUI_Recipe.SUSPENDERS,
-	   OnCreate:KeepInventory,
-   	   Result:PistolBeltPouches,
-	   Time:60,
-  	}
-
-recipe Detach suspenders from belt
-  	{
-   	   MilitaryWebbingTightened,
-	   OnCreate: SMUI_Recipe.SUSPENDERS,
-	   OnCreate:KeepInventory,
-   	   Result:PistolBeltPouches,
-	   Time:60,
-  	}
-
-recipe Detach suspenders from belt
-  	{
-   	   MilitaryWebbingBag,
-	   OnCreate: SMUI_Recipe.SUSPENDERS,
-	   OnCreate:KeepInventory,
-   	   Result:PistolBeltBag,
-	   Time:60,
-  	}
-
-recipe Detach suspenders from belt
-  	{
-   	   MilitaryWebbingBagTightened,
-	   OnCreate: SMUI_Recipe.SUSPENDERS,
-	   OnCreate:KeepInventory,
-   	   Result:PistolBeltBag,
-	   Time:60,
-  	}
-
 recipe Remove goggles
   	{
    	   Hat_MilitaryHelmetGoggles,
