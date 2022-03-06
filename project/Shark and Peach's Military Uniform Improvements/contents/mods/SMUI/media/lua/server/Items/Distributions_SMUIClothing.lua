@@ -110,7 +110,7 @@ table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 5);
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_Shemagh");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Hat_Shemagh");
-table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 2;
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 2);
 
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Hat_ShemaghWoodland");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.5);
