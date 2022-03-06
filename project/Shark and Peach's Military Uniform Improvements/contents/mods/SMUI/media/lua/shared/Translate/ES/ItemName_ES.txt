@@ -11,12 +11,20 @@ ItemName_ES = {
 	ItemName_SMUIClothing.Jacket_ODGreen = "Chaqueta militar verde oliva",
 	ItemName_SMUIClothing.Jacket_ODGreenRolled = "Chaqueta militar verde oliva (Arremangada)",
 	
+	ItemName_SMUIClothing.Jacket_ERDL = "Chaqueta militar ERDL",
+	ItemName_SMUIClothing.Jacket_ERDLRolled = "Chaqueta militar ERDL (Arremangada)",
+	ItemName_SMUIClothing.Jacket_DesertCombat = "Chaqueta de combate militar de camuflaje del desierto",
+	ItemName_SMUIClothing.Jacket_DesertCombatRolled = "Chaqueta de combate militar de camuflaje del desierto (Arremangada)",
+	
 	/* Vests */
 	
 	ItemName_SMUIClothing.Vest_MilitaryTacticalVest = "Chaleco táctico militar",
 	ItemName_SMUIClothing.Vest_ODGreen = "Chaleco militar verde oliva",
 	
 	ItemName_SMUIClothing.Vest_MilitaryTankerVest = "Chaleco militar de tripulante",
+	
+	ItemName_SMUIClothing.Vest_RangerBodyArmorWoodland = "Chaleco de guardabosque de camuflaje verde",
+	ItemName_SMUIClothing.Vest_RangerBodyArmorDesert = "Chaleco de guardabosque de camuflaje del desierto",
 	
 	/* Pants */
 	
@@ -30,6 +38,11 @@ ItemName_ES = {
 	ItemName_SMUIClothing.Trousers_ODGreen = "Pantalones militares verde oliva",
 	ItemName_SMUIClothing.Trousers_ODGreenTucked = "Pantalones militares verde oliva (Enrollados)",
 	
+	ItemName_SMUIClothing.Trousers_ERDL = "Pantalones militares ERDL",
+	ItemName_SMUIClothing.Trousers_ERDLTucked = "Pantalones militares ERDL (Enrollados)",
+	ItemName_SMUIClothing.Trousers_DesertCombat = "Pantalones de combate militares de camuflaje del desierto",
+	ItemName_SMUIClothing.Trousers_DesertCombatTucked = "Pantalones de combate militares de camuflaje del desierto (Enrollados)",
+	
 	/* Helmets and hats */
 	
 	ItemName_SMUIClothing.Hat_Army = "Casco militar",
@@ -39,19 +52,19 @@ ItemName_ES = {
 	ItemName_SMUIClothing.Hat_PatrolCap = "Gorra de patrulla de camuflaje verde",
 	ItemName_SMUIClothing.Hat_PatrolCapReversed = "Gorra de patrulla de camuflaje verde (Hacia atrás)",
 	ItemName_SMUIClothing.Hat_PatrolCapDesert = "Gorra de patrulla de camuflaje del desierto",
-	ItemName_SMUIClothing.Hat_PatrolCapDesertReversed "Gorra de patrulla de camuflaje del desierto (Hacia atrás)",
+	ItemName_SMUIClothing.Hat_PatrolCapDesertReversed = "Gorra de patrulla de camuflaje del desierto (Hacia atrás)",
 	ItemName_SMUIClothing.Hat_PatrolCapUrban = "Gorra de patrulla de camuflaje urbano",
 	ItemName_SMUIClothing.Hat_PatrolCapUrbanReversed = "Gorra de patrulla de camuflaje urbano (Hacia atrás)",
 	
 	ItemName_SMUIClothing.Hat_MilitaryHelmet = "Casco militar",
 	ItemName_SMUIClothing.Hat_MilitaryHelmetStrapless = "Casco militar (Desabrochado)",
-	ItemName_SMUIClothing.Hat_MilitaryHelmetGoggles = "Casco militar con gafas de protección",
-	ItemName_SMUIClothing.Hat_MilitaryHelmetGogglesStrapless = "Casco militar con gafas de protección (Desabrochado)",
+	ItemName_SMUIClothing.Hat_MilitaryHelmetGoggles = "Casco militar con gafas antipolvo",
+	ItemName_SMUIClothing.Hat_MilitaryHelmetGogglesStrapless = "Casco militar con gafas antipolvo (Desabrochado)",
 	ItemName_SMUIClothing.Hat_MilitaryHelmetNVGMount = "Casco militar con soporte para gafas de visión nocturna",
 	ItemName_SMUIClothing.Hat_MilitaryHelmetDesert = "Casco militar",
 	ItemName_SMUIClothing.Hat_MilitaryHelmetDesertStrapless = "Casco militar (Desabrochado)",
-	ItemName_SMUIClothing.Hat_MilitaryHelmetDesertGoggles = "Casco militar con gafas de protección",
-	ItemName_SMUIClothing.Hat_MilitaryHelmetDesertGogglesStrapless = "Casco militar con gafas de protección (Desabrochado)",
+	ItemName_SMUIClothing.Hat_MilitaryHelmetDesertGoggles = "Casco militar con gafas antipolvo",
+	ItemName_SMUIClothing.Hat_MilitaryHelmetDesertGogglesStrapless = "Casco militar con gafas antipolvo (Desabrochado)",
 	ItemName_SMUIClothing.Hat_MilitaryHelmetDesertNVGMount = "Casco militar con soporte para gafas de visión nocturna",
 	
 	ItemName_SMUIClothing.Hat_MilitaryHelmetNVGUP = "Casco militar con visión nocturna (Arriba)",
@@ -63,15 +76,46 @@ ItemName_ES = {
 	ItemName_SMUIClothing.Hat_MilitaryHelmetRiotUP = "Casco militar con visor antidisturbios (Visor arriba)",
 	
 	ItemName_SMUIClothing.Hat_DH132 = "Casco DH-132",
+	ItemName_SMUIClothing.Hat_DH132Goggles = "Casco DH-132 con gafas antipolvo",
 	
 	ItemName_SMUIClothing.Hat_PatrolCapWinter = "Gorra de patrulla de camuflaje verde de invierno",
 	ItemName_SMUIClothing.Hat_PatrolCapWinterDesert = "Gorra de patrulla de camuflaje del desierto de invierno",
+	
+	ItemName_SMUIClothing.Hat_M1Helmet = "Casco de acero M1",
+	ItemName_SMUIClothing.Hat_M1HelmetStrapless = "Casco de acero M1 (Desabrochado)",
+	ItemName_SMUIClothing.Hat_M1HelmetGoggles = "Casco de acero M1 con gafas antipolvo",
+	ItemName_SMUIClothing.Hat_M1HelmetGogglesStrapless = "Casco de acero M1 con gafas antipolvo (Desabrochado)",
+	ItemName_SMUIClothing.Hat_M1HelmetWoodland = "Casco de acero M1 de camuflaje",
+	ItemName_SMUIClothing.Hat_M1HelmetWoodlandStrapless = "Casco de acero M1 de camuflaje (Desabrochado)",
+	ItemName_SMUIClothing.Hat_M1HelmetWoodlandGoggles = "Casco de acero M1 de camuflaje con gafas antipolvo",
+	ItemName_SMUIClothing.Hat_M1HelmetWoodlandGogglesStrapless = "Casco de acero M1 de camuflaje con gafas antipolvo (Desabrochado)",
+	ItemName_SMUIClothing.Hat_M1HelmetMitchell = "Casco de acero M1 Mitchell",
+	ItemName_SMUIClothing.Hat_M1HelmetMitchellStrapless = "Casco de acero M1 Mitchell (Desabrochado)",
+	ItemName_SMUIClothing.Hat_M1HelmetMitchellGoggles = "Casco de acero M1 Mitchell con gafas antipolvo",
+	ItemName_SMUIClothing.Hat_M1HelmetMitchellGogglesStrapless = "Casco de acero M1 Mitchell con gafas antipolvo (Desabrochado)",
+	
+	ItemName_SMUIClothing.Hat_MilitaryTacticalHelmet = "Casco militar táctico",
+	ItemName_SMUIClothing.Hat_MilitaryTacticalHelmetGoggles = "Casco militar táctico con gafas antipolvo",
+	
+	ItemName_SMUIClothing.Hat_MilitaryHelmetDesertCombat = "Casco militar de combate",
+	ItemName_SMUIClothing.Hat_MilitaryHelmetDesertCombatStrapless = "Casco militar de combate (Desabrochado)",
+	ItemName_SMUIClothing.Hat_MilitaryHelmetDesertCombatGoggles = "Casco militar de combate con gafas antipolvo",
+	ItemName_SMUIClothing.Hat_MilitaryHelmetDesertCombatGogglesStrapless = "Casco militar de combate con gafas antipolvo (Desabrochado)",
+	ItemName_SMUIClothing.Hat_MilitaryHelmetDesertCombatNVGMount = "Casco militar de combate con soporte para gafas de visión nocturna",
+	ItemName_SMUIClothing.Hat_MilitaryHelmetDesertCombatNVGUP = "Casco militar de combate con visión nocturna (Arriba)",
+	ItemName_SMUIClothing.Hat_MilitaryHelmetDesertCombatNVGDOWN = "Casco militar de combate con visión nocturna (Abajo)",
+	
+	ItemName_SMUIClothing.Hat_PatrolCapDesertCombat = "Gorra de patrulla de combate de camuflaje del desierto",
+	ItemName_SMUIClothing.Hat_PatrolCapDesertCombatReversed = "Gorra de patrulla de combate de camuflaje del desierto (Hacia atrás)",
 	
 	/* NBC */
 	
 	ItemName_SMUIClothing.Gloves_HazmatGloves = "Guantes NBC",
 	ItemName_SMUIClothing.Shoes_HazmatBoots = "Botas NBC",
-	ItemName_SMUIClothing.NBCSuit = "Traje NBC",
+	ItemName_SMUIClothing.NBCSuit = "Parte superior del traje MOPP",
+	
+	ItemName_SMUIClothing.NBCSuitHood = "Parte superior del traje MOPP (Capucha arriba)",
+	ItemName_SMUIClothing.Trousers_NBCPants = "Pantalones del traje MOPP",
 	
 	/* Accesories */
 	
@@ -84,7 +128,7 @@ ItemName_ES = {
 	ItemName_SMUIClothing.Hat_Shemagh = "Pañuelo",
 	ItemName_SMUIClothing.Hat_ShemaghWoodland = "Pañuelo de camuflaje",
 	ItemName_SMUIClothing.Hat_ShemaghDesert = "Pañuelo de camuflaje del desierto",
-	ItemName_SMUIClothing.Glasses_MilitaryGoggles = "Gafas militares antipolvo",
+	ItemName_SMUIClothing.Glasses_MilitaryGoggles = "Gafas antipolvo",
 	
 	ItemName_SMUIClothing.Hat_M40 = "Máscara de gas M40",
 	ItemName_SMUIClothing.Hat_M40Doff = "M40 con capucha protectora NBC",
@@ -104,5 +148,14 @@ ItemName_ES = {
 	ItemName_SMUIClothing.MOPPPackageTop = "Paquete superior MOPP",
 	ItemName_SMUIClothing.MOPPPackageBottom = "Paquete inferior MOPP",
 	ItemName_SMUIClothing.MOPPPackageWrapper = "Envoltorio de paquete MOPP",
+	
+	ItemName_SMUIClothing.PistolBeltPouches = "Cinturón militar con bolsillos",
+	ItemName_SMUIClothing.PistolBeltBag = "Cinturón militar con bolsillos y bolsa",
+	
+	ItemName_SMUIClothing.MilitaryWebbingSuspenders = "Tirantes para arnés militar",
+	
+	/* Weapons */
+	
+	ItemName_SMUIClothing.M67Grenade = "Granada M67",
 	
 } 
