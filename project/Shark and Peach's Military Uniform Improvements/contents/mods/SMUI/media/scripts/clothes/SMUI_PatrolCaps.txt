@@ -85,7 +85,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.5,
-        WorldStaticModel = PatrolCapDesert_WorldItem,
+        WorldStaticModel = PatrolCapDesertCombat_WorldItem,
     }
 
         item Hat_PatrolCapDesertCombatReversed
@@ -102,7 +102,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.5,
-        WorldStaticModel = PatrolCapDesert_WorldItem,
+        WorldStaticModel = PatrolCapDesertCombat_WorldItem,
     }
 
 
