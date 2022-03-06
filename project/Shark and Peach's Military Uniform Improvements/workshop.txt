@@ -7,10 +7,9 @@ description= Consider supporting our modding efforts:
 description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
-description= [h1][b]NEW: M1 Steel Helmets (Coverless, Woodland, and Mitchell + can be unstrapped/strapped + can have goggles attached[/b][/h1]
-description= [h1][b]NEW: Military Tactical Helmet (Modified Protec Full-Cut Helmet)[/b][/h1]
-description= [h1][b]NEW: MOPP Suits have been reintroduced with a top/bottom, and can be worn with body armor + webbing + included packaged top/bottom kits[/b][/h1]
-description= [h1][b]NEW: DH-132 Helmet can now be worn with goggles[/b][/h1]
+description= [h1][b]NEW: Ranger Body Armor (Woodland + Desert)[/b][/h1]
+description= [h1][b]NEW: DCU pattern for Desert Military (Found alongside older Six-Color Desert)[/b][/h1]
+description= [h1][b]NEW: ERDL pattern uniforms (Found in surplus + hunting areas)[/b][/h1]
 description=
 description= [h2][b]This mod entirely redoes the vanilla military zombies to be inline with actual equipment (e.g ALICE webbing) and clothing standards of the 1990's US Military.[/b][/h2]
 description=
@@ -40,10 +39,13 @@ description= [*] Night Vision Goggles (Based on AN/PVS-7) * Currently non-functi
 description= [*] Shemaghs (Can be pulled down)
 description= [*] Dust Goggles
 description= [*] DH-132 Crewman Helmet 
+description= [*] Ranger Body Armor (Woodland + Desert)
 description= [*] Military Helmet w/ Riot Visor
 description= [*] M17 Gas Mask + Doff Hood
 description= [*] M40 Gas Mask + Doff Hood
 description= [*] Woodland, Desert, and Urban Patrol Caps + Winter Version
+description= [*] DCU Uniforms
+description= [*] ERDL Uniforms (Found in army surplus + hunting areas)
 description= [*] Olive Drab Military Vest
 description= [*] Olive Drab Military Fatigues
 description= [*] Military Crewman Vest
