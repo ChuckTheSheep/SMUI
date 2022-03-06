@@ -15,6 +15,13 @@ module Base
 		scale = 0.5,
 	}
 
+		model PatrolCapDesertCombat_WorldItem
+	{
+		mesh = WorldItems/PatrolCap_WorldItem,
+		texture = WorldItems/PatrolCapDesertCombat,
+		scale = 0.5,
+	}
+
 		model PatrolCapUrban_WorldItem
 	{
 		mesh = WorldItems/PatrolCap_WorldItem,
@@ -141,6 +148,13 @@ module Base
 		scale = 0.5,
 	}
 
+		model MilitaryHelmetDesert_WorldItem
+	{
+		mesh = WorldItems/MilitaryHelmet_WorldItem,
+		texture = WorldItems/MilitaryHelmetDesert,
+		scale = 0.5,
+	}
+
 		model MilitaryHelmetDesertNVGMount_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetNVGMount_WorldItem,
@@ -148,10 +162,24 @@ module Base
 		scale = 0.5,
 	}
 
+		model MilitaryHelmetDesertCombatNVGMount_WorldItem
+	{
+		mesh = WorldItems/MilitaryHelmetNVGMount_WorldItem,
+		texture = WorldItems/MilitaryHelmetDesertCombatNVG,
+		scale = 0.5,
+	}
+
 		model MilitaryHelmetDesertNVGUP_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetNVGUP_WorldItem,
 		texture = WorldItems/MilitaryHelmetDesertNVG,
+		scale = 0.5,
+	}
+
+		model MilitaryHelmetDesertCombatNVGUP_WorldItem
+	{
+		mesh = WorldItems/MilitaryHelmetNVGUP_WorldItem,
+		texture = WorldItems/MilitaryHelmetDesertCombatNVG,
 		scale = 0.5,
 	}
 
@@ -215,6 +243,13 @@ module Base
 	{
 		mesh = WorldItems/MilitaryHelmetGoggles_WorldItem,
 		texture = WorldItems/MilitaryHelmetDesertGoggles,
+		scale = 0.5,
+	}
+
+		model MilitaryHelmetDesertCombatGoggles_WorldItem
+	{
+		mesh = WorldItems/MilitaryHelmetGoggles_WorldItem,
+		texture = WorldItems/MilitaryHelmetDesertCombatGoggles,
 		scale = 0.5,
 	}
 
