@@ -182,7 +182,7 @@ module SMUIClothing
         ClothingItemExtraOption = Unstrap,
         Insulation = 0.10,
         Weight = 1,
-		WorldStaticModel = MilitaryHelmetDesert_WorldItem,
+		WorldStaticModel = MilitaryHelmetDesertCombat_WorldItem,
     }
 
 
@@ -225,7 +225,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 1,
-		WorldStaticModel = MilitaryHelmetDesert_WorldItem,
+		WorldStaticModel = MilitaryHelmetDesertCombat_WorldItem,
     }
 
 	    item Hat_MilitaryHelmetDesertGoggles
@@ -307,7 +307,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 1,
-		WorldStaticModel = MilitaryHelmetDesertGoggles_WorldItem,
+		WorldStaticModel = MilitaryHelmetDesertCombatGoggles_WorldItem,
     }
 
     	item Hat_MilitaryHelmetDesertNVGMount
@@ -349,7 +349,7 @@ module SMUIClothing
 		Insulation = 0.25,
 		WaterResistance = 0.2,
         Weight = 1,
-		WorldStaticModel = MilitaryHelmetDesertNVGMount_WorldItem,
+		WorldStaticModel = MilitaryHelmetDesertCombatNVGMount_WorldItem,
 	}
 
         item Hat_MilitaryHelmetRiot
