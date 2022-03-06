@@ -37,7 +37,12 @@ SMUIZombiesZoneDefinition.Army = {
 	},
 	SharkArmyCamoDesertMale = {
 		name="SharkArmyCamoDesertMale",
-		chance=30,
+		chance=5,
+		gender="male",
+	},
+	SharkArmyCamoDesertMaleDCU = {
+		name="SharkArmyCamoDesertMaleDCU",
+		chance=15,
 		gender="male",
 	},
 	SharkArmyCamoDesertFemale = {
