@@ -52,7 +52,7 @@ module Base
 
 		model MilitaryTankerVest_WorldItem
 	{
-		mesh = WorldItems/MilitaryTacticalVest_WorldItem,
+		mesh = WorldItems/TankerVest_WorldItem,
 		texture = WorldItems/MilitaryTankerVest,
 		scale = 0.5,
 	}
