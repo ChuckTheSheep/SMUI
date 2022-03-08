@@ -424,6 +424,26 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Jacket_TigerStripe.xml</path>
+	<guid>6e6ecffc-2d23-4f46-9732-6b49587168c1</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Jacket_TigerStripeRolled.xml</path>
+	<guid>34fde266-f0e1-47ad-9f80-68f3b23652b6</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_TigerStripe.xml</path>
+	<guid>212ea44b-ef22-48f3-94c9-e1be70550430</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_TigerStripeTucked.xml</path>
+	<guid>85e403e5-62c1-4249-b950-1ea7816498d3</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/MilitaryWebbing.xml</path>
 	<guid>01ee11ca-3de7-4495-85d6-078d33fcab12</guid>
 	</files>

@@ -81,6 +81,46 @@ module SMUIClothing
         WorldStaticModel = Trousers_Ground,
     }
 
+        item Trousers_TigerStripe
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military Tiger Stripe Pants,
+        BodyLocation = Pants,
+        Icon = TrousersCamoGreen,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,   
+        ClothingItem = Trousers_TigerStripe,
+        ClothingItemExtra = SMUIClothing.Trousers_TigerStripeTucked,
+        ClothingItemExtraOption = TuckIn,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+        item Trousers_TigerStripeTucked
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military Tiger Stripe Pants (Tucked),
+        BodyLocation = Pants,
+        Icon = TrousersCamoGreen,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,     
+        ClothingItem = Trousers_TigerStripeTucked,
+        ClothingItemExtra = SMUIClothing.Trousers_TigerStripe,
+        ClothingItemExtraOption = TuckOut,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
         item Trousers_CamoDesert
     {
         DisplayCategory = Clothing,
