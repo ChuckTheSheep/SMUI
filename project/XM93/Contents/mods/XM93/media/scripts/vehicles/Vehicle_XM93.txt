@@ -1,0 +1,489 @@
+module Base
+{
+	model XM93Base
+	{
+		mesh = vehicles/Vehicle_XM93_Body,
+		shader = vehicle_norandom_multiuv,
+		invertX = FALSE,
+		scale = 1,
+	}
+	model XM93frontwheelleft
+	{
+		mesh = vehicles/Vehicle_XM93_Wheel,
+		texture = vehicles/Vehicle_XM93Wheel,
+		shader = vehiclewheel,
+	}
+	model XM93frontwheelright
+	{
+		mesh = vehicles/Vehicle_XM93_Wheel,
+		texture = vehicles/Vehicle_XM93Wheel,
+		shader = vehiclewheel,
+	}
+	model XM93backwheelleft
+	{
+		mesh = vehicles/Vehicle_XM93_Wheel,
+		texture = vehicles/Vehicle_XM93Wheel,
+		shader = vehiclewheel,
+	}
+	model XM93backwheelright
+	{
+		mesh = vehicles/Vehicle_XM93_Wheel,
+		texture = vehicles/Vehicle_XM93Wheel,
+		shader = vehiclewheel,
+	}
+	vehicle XM93
+	{
+		mechanicType = 2,
+		offRoadEfficiency = 2,
+		engineRepairLevel = 4,
+		playerDamageProtection = 1.3,
+
+		model
+		{
+			file = XM93Base,
+			scale = 0.7800,
+			offset = 0.0000 -0.0128 0.0000,
+		}
+
+		skin
+		{
+			texture = Vehicles/Vehicle_XM93_Woodland,
+		}
+
+		skin
+		{
+			texture = Vehicles/Vehicle_XM93_Woodland,
+		}
+
+		textureShadow = Vehicles/Vehicle_XM93_filler
+
+		sound
+		{
+			engine = VehicleEngineSUV,
+			engineStart = VehicleEngineSUV,
+			engineTurnOff = VehicleEngineSUV,
+			horn = VehicleHornStandard,
+			ignitionFail = VehicleIgnitionFailSUV,
+		}
+
+		extents = 3.5128 3.2564 8.3846,
+		mass = 1500,
+		physicsChassisShape = 3.5128 3.2564 8.3333,
+		centerOfMassOffset = 0.0000 1.6282 0.0000,
+		shadowExtents = 3.6902 8.1233,
+		shadowOffset = 0.0000 -0.1121,
+		engineForce = 5500,
+		maxSpeed = 65f,
+		engineLoudness = 130,
+		engineQuality = 85,
+		gearRatioCount = 4,
+		gearRatioR = 4,
+		gearRatio1 = 4,
+		gearRatio2 = 3,
+		gearRatio3 = 2.5,
+		gearRatio4 = 1.0,
+		brakingForce = 60,
+		stoppingMovementForce = 4.0f,
+		rollInfluence = 0.50f,
+		steeringIncrement = 0.04,
+		steeringClamp = 0.3,
+		suspensionStiffness = 30,
+		suspensionCompression = 3.83,
+		suspensionDamping = 2.88,
+		maxSuspensionTravelCm = 12,
+		suspensionRestLength = 0.5,
+		wheelFriction = 1.6f,
+		frontEndHealth = 4500,
+		rearEndHealth = 3500,
+		seats = 3,
+
+		wheel FrontLeft
+		{
+			front = true,
+			offset = 1.4103 0.0128 2.1923,
+			radius = 0.60f,
+			width = 0.30f,
+		}
+
+		wheel FrontRight
+		{
+			front = true,
+			offset = -1.4103 0.0128 2.1923,
+			radius = 0.60f,
+			width = 0.30f,
+		}
+
+		wheel RearLeft
+		{
+			front = false,
+			offset = 1.4103 0.0128 -2.1923,
+			radius = 0.60f,
+			width = 2.22f,
+		}
+
+		wheel RearRight
+		{
+			front = false,
+			offset = -1.4103 0.0128 -2.1923,
+			radius = 0.60f,
+			width = 2.22f,
+		}
+
+		template = PassengerSeat3,
+
+		passenger FrontLeft
+		{
+			showPassenger = true,
+			hasRoof = true,
+
+			position inside
+			{
+				offset = 0.8590 1.0128 2.6667,
+				rotate = 0.0000 0.0000 0.0000,
+			}
+
+			position outside
+			{
+				offset = -2.5641 -1.0000 2.8718,
+				rotate = 0.0000 0.0000 0.0000,
+				area = SeatFrontLeft,
+			}
+		}
+
+		passenger FrontRight
+		{
+			showPassenger = true,
+			hasRoof = true,
+
+			position inside
+			{
+				offset = -0.8590 1.0128 2.6667,
+				rotate = 0.0000 0.0000 0.0000,
+			}
+
+			position outside
+			{
+				offset = 2.5641 -1.0000 3.0000,
+				rotate = 0.0000 0.0000 0.0000,
+				area = SeatFrontRight,
+			}
+		}
+
+		passenger RearRight
+		{
+			position inside
+			{
+				offset = -0.8590 1.0128 0.0000,
+				rotate = 0.0000 0.0000 0.0000,
+			}
+
+			position outside
+			{
+				offset = 0.0000 -1.0000 -4.7821,
+				rotate = 0.0000 0.0000 0.0000,
+				area = SeatFrontRight,
+			}
+		}
+
+		area Engine
+		{
+			xywh = 0.0000 5.1923 4.0000 2.0000,
+		}
+
+		area TruckBed
+		{
+			xywh = -2.1154 0.0000 0.7179 -0.7436,
+		}
+
+		area SeatFrontLeft
+		{
+			xywh = 2.7564 3.1923 2.0000 2.0000,
+		}
+
+		area SeatRearRight
+		{
+			xywh = 0.0128 -5.1923 2.0000 2.0000,
+		}
+
+		area SeatFrontRight
+		{
+			xywh = -2.7564 3.1923 2.0000 2.0000,
+		}
+
+		area GasTank
+		{
+			xywh = -1.7564 -1.3974 0.0000 0.0000,
+		}
+
+		area TireFrontLeft
+		{
+			xywh = 1.0000 3.0000 0.0000 0.0000,
+		}
+
+		area TireFrontRight
+		{
+			xywh = -1.0000 3.0000 0.0000 0.0000,
+		}
+
+		area TireRearLeft
+		{
+			xywh = 2.0000 -1.0000 0.0000 0.0000,
+		}
+
+		area TireRearRight
+		{
+			xywh = -2.0000 -1.0000 0.0000 0.0000,
+		}
+
+		template = Seat/part/SeatFrontLeft,
+		template = Seat/part/SeatRearRight,
+		template = Seat/part/SeatFrontRight,
+
+		part Seat*
+		{
+			table install
+			{
+				skills = Mechanics:2,
+				recipes = Intermediate Mechanics,
+			}
+
+			table uninstall
+			{
+				skills = Mechanics:2,
+				recipes = Intermediate Mechanics,
+			}
+		}
+
+		template = GasTank,
+
+		part GasTank
+		{
+			container
+			{
+				conditionAffectsCapacity = false,
+				capacity = 300,
+			}
+
+			install
+			{
+				skills = Mechanics:7,
+				recipes = Intermediate Mechanics,
+			}
+
+			uninstall
+			{
+				skills = Mechanics:7,
+				recipes = Intermediate Mechanics,
+			}
+		}
+
+		template = Battery,
+		template = Engine,
+		template = Muffler,
+
+		part Muffler
+		{
+			table install
+			{
+				recipes = Intermediate Mechanics,
+			}
+
+			table uninstall
+			{
+				recipes = Intermediate Mechanics,
+			}
+		}
+
+		template = EngineDoor,
+
+		part EngineDoor
+		{
+			table install
+			{
+				recipes = Intermediate Mechanics,
+			}
+
+			table uninstall
+			{
+				recipes = Intermediate Mechanics,
+			}
+		}
+
+		part Heater
+		{
+			category = engine,
+
+			lua
+			{
+				update = Vehicles.Update.Heater,
+			}
+		}
+
+		part PassengerCompartment
+		{
+			category = nodisplay,
+
+			lua
+			{
+				update = Vehicles.Update.PassengerCompartment,
+			}
+		}
+
+		template = Windshield/part/Windshield,
+		template = Windshield/part/WindshieldRear,
+
+		part Windshield*
+		{
+			table install
+			{
+				recipes = Intermediate Mechanics,
+			}
+
+			table uninstall
+			{
+				recipes = Intermediate Mechanics,
+			}
+		}
+
+		template = Window/part/WindowFrontLeft,
+		template = Window/part/WindowFrontRight,
+		template = Window/part/WindowRearRight,
+		template = Window/part/WindowRearLeft,
+
+		part Window*
+		{
+			table install
+			{
+				recipes = Intermediate Mechanics,
+			}
+
+			table uninstall
+			{
+				recipes = Intermediate Mechanics,
+			}
+		}
+
+		part WindowRearLeft
+		{
+			area = TireRearLeft,
+			parent =,
+
+			table install
+			{
+				requireInstalled =,
+			}
+		}
+
+		part WindowRearRight
+		{
+			area = TireRearRight,
+			parent =,
+
+			table install
+			{
+				requireInstalled =,
+			}
+		}
+
+		template = Door/part/DoorFrontLeft,
+		template = Door/part/DoorFrontRight,
+
+		part Door*
+		{
+			table install
+			{
+				recipes = Intermediate Mechanics,
+			}
+
+			table uninstall
+			{
+				recipes = Intermediate Mechanics,
+			}
+		}
+
+		template = Tire,
+		template = Axle,
+
+		part TireFrontLeft
+		{
+			model InflatedTirePlusWheel
+			{
+				file = XM93frontwheelleft,
+			}
+		}
+
+		part TireFrontRight
+		{
+			model InflatedTirePlusWheel
+			{
+				file = XM93frontwheelright,
+			}
+		}
+
+		part TireRearLeft
+		{
+			model InflatedTirePlusWheel
+			{
+				file = XM93backwheelleft,
+			}
+		}
+
+		part TireRearRight
+		{
+			model InflatedTirePlusWheel
+			{
+				file = XM93backwheelright,
+			}
+		}
+
+		template = Brake,
+
+		part Brake*
+		{
+			table install
+			{
+				skills = Mechanics:4,
+				recipes = Intermediate Mechanics,
+			}
+
+			table uninstall
+			{
+				skills = Mechanics:4,
+				recipes = Intermediate Mechanics,
+			}
+		}
+
+		template = Suspension,
+
+		part Suspension*
+		{
+			table install
+			{
+				skills = Mechanics:4,
+				recipes = Intermediate Mechanics,
+			}
+
+			table uninstall
+			{
+				skills = Mechanics:4,
+				recipes = Intermediate Mechanics,
+			}
+		}
+
+		template = Radio,
+
+		part Radio*
+		{
+			itemType = Radio.HamRadio1,
+		}
+
+		template = Headlight,
+
+		physics box
+		{
+			offset = 0.0000 1.2949 0.2051,
+			extents = 3.4872 1.3718 8.0128,
+			rotate = 0.0000 0.0000 0.0000,
+		}
+	}
+}
