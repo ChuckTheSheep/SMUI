@@ -59,7 +59,7 @@ module SMUIClothing
         CanHaveHoles = false,
         ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetStrapless,
         ClothingItemExtraOption = Unstrap,
-        ClothingExtraSubmenu = Unstrap,
+        ClothingExtraSubmenu = Strap,
         Insulation = 0.10,
         Weight = 1,
 		WorldStaticModel = MilitaryHelmet_WorldItem,
