@@ -7,9 +7,7 @@ description= Consider supporting our modding efforts:
 description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
-description= [h1][b]NEW: Ranger Body Armor (Woodland + Desert)[/b][/h1]
-description= [h1][b]NEW: DCU pattern for Desert Military (Found alongside older Six-Color Desert)[/b][/h1]
-description= [h1][b]NEW: ERDL pattern uniforms (Found in surplus + hunting areas)[/b][/h1]
+description= [h1][b]NEW: Tiger Stripe Fatigues[/b][/h1]
 description=
 description= [h2][b]This mod entirely redoes the vanilla military zombies to be inline with actual equipment (e.g ALICE webbing) and clothing standards of the 1990's US Military.[/b][/h2]
 description=
@@ -48,6 +46,7 @@ description= [*] DCU Uniforms
 description= [*] ERDL Uniforms (Found in army surplus + hunting areas)
 description= [*] Olive Drab Military Vest
 description= [*] Olive Drab Military Fatigues
+description= [*] Tiger Stripe Military Fatigues
 description= [*] Military Crewman Vest
 description= [*] Military Tactical Helmet (Modified Protec Full-Cut Helmet w/ Comms Set)
 description= [*] Military Tactical Vest

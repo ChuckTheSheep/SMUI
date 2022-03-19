@@ -4,6 +4,26 @@
 	<!-- Shark's Military Uniform Improvements -->
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetHawaiian.xml</path>
+	<guid>b3d0c4c0-e034-4fb7-ab90-a803b908eb42</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetHawaiianStrapless.xml</path>
+	<guid>14b3a8f0-d3a3-45a0-a4fc-0e925008f66b</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetHawaiian.xml</path>
+	<guid>4c0f7895-d67b-4681-bec2-9c9f0ce16cdf</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetHawaiianStrapless.xml</path>
+	<guid>21769de3-9259-4d87-b652-1d64662766ea2</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_MilitaryTacticalHelmet.xml</path>
 	<guid>0f8e3cda-6558-4c51-9e43-c4a92882764e</guid>
 	</files>

@@ -1,0 +1,95 @@
+module SMUIClothing 
+{
+
+        item Hat_MilitaryHelmetHawaiian
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Hawaiian Military Helmet,
+        ClothingItem = Hat_MilitaryHelmetHawaiian,
+        BodyLocation = Hat,
+        Icon = MilitaryHelmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetHawaiianStrapless,
+        ClothingItemExtraOption = Unstrap,
+        ClothingExtraSubmenu = Strap,
+        Insulation = 0.10,
+        Weight = 1,
+        Tooltip = Tooltip_CoolKids,
+		WorldStaticModel = MilitaryHelmet_WorldItem,
+    }
+
+        item Hat_MilitaryHelmetHawaiianStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless Hawaiian Military Helmet,
+        ClothingItem = Hat_MilitaryHelmetHawaiianStrapless,
+        BodyLocation = Hat,
+        Icon = MilitaryHelmetStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetHawaiian,
+        ClothingItemExtraOption = Strap,
+        ClothingExtraSubmenu = Unstrap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 1,
+        Tooltip = Tooltip_CoolKids,
+		WorldStaticModel = MilitaryHelmet_WorldItem,
+    }
+
+        item Hat_M1HelmetHawaiian
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Hawaiian M1 Steel Helmet,
+        ClothingItem = Hat_M1HelmetHawaiian,
+        BodyLocation = Hat,
+        Icon = M1Helmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetHawaiianStrapless,
+        ClothingItemExtraOption = Unstrap,
+        ClothingExtraSubmenu = Strap,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+        Tooltip = Tooltip_CoolKids,
+		WorldStaticModel = M1Helmet_WorldItem,
+    }
+
+        item Hat_M1HelmetHawaiianStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless Hawaiian M1 Steel Helmet,
+        ClothingItem = Hat_M1HelmetHawaiianStrapless,
+        BodyLocation = Hat,
+        Icon = M1HelmetStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetHawaiian,
+        ClothingItemExtraOption = Strap,
+        ClothingExtraSubmenu = Unstrap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+        Tooltip = Tooltip_CoolKids,
+		WorldStaticModel = M1Helmet_WorldItem,
+    }
+}
