@@ -4,54 +4,6 @@ module SMUIClothing{
       Base
   }
 
-recipe Tuck In
-  	{
-   	   Base.Trousers_CamoUrban,
-
-   	   Result:SMUIClothing.Trousers_CamoUrbanTucked,
-	   Time:10.0,
-  	}
-
-recipe Tuck In
-  	{
-   	   Base.Trousers_CamoDesert,
-
-   	   Result:SMUIClothing.Trousers_CamoDesertTucked,
-	   Time:10,
-  	}
-
-recipe Tuck In
-  	{
-   	   Base.Trousers_CamoGreen,
-
-   	   Result:SMUIClothing.Trousers_CamoGreenTucked,
-	   Time:10.0,
-  	}
-
-recipe Roll Up
-  	{
-   	   Jacket_ArmyCamoGreen,
-
-   	   Result:Jacket_ArmyCamoGreenRolled,
-	   Time:10.0,
-  	}
-
-recipe Roll Up
-  	{
-   	   Jacket_ArmyCamoDesert,
-
-   	   Result:Jacket_ArmyCamoDesertRolled,
-	   Time:0,
-  	}
-
-recipe Roll Up
-  	{
-   	   Jacket_ArmyCamoUrban,
-
-   	   Result:Jacket_ArmyCamoUrbanRolled,
-	   Time:0,
-  	}
-
 recipe Attach NVG mount
   	{
    	   Hat_MilitaryHelmet,
