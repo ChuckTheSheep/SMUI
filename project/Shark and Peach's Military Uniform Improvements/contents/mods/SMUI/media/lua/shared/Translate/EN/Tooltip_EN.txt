@@ -4,7 +4,8 @@ Tooltip_EN = {
     Tooltip_PackageTop = "Contains an NBC suit top and protective gloves",
     Tooltip_PackageBottom = "Contains an NBC suit bottom and protective boots",
     Tooltip_NightVisionGoggles = "Must be attached to a mount for use",
-    Tooltip_NVGBroken = "Currently inoperable. Yell at the other modders.",
+    Tooltip_NVGBroken = "Currently inoperable. Yell at the other modders",
     Tooltip_NVGMount = "Used to mount night vision onto helmets",
     Tooltip_WebbingSuspenders = "Used in conjunction wth pistol belts for load bearing webbing",
+    Tooltip_CoolKids = "Cool kids only",
 }
