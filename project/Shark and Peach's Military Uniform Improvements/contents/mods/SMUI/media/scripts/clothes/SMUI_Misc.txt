@@ -319,19 +319,19 @@ module SMUIClothing
 		WorldStaticModel = MPBrassard_WorldItem,
 	}
 
-	    item FlightGlovew
+	    item FlightGloves
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Summer Flyer Gloves,
+		DisplayName = Flight Gloves,
 		ClothingItem = Gloves_FlightGloves,
 		BodyLocation = Hands,
-		IconsForTexture = GlovesLeatherBlackpng;GlovesLeatherBrown,
+		Icon = SummerFlyers,
 		BloodLocation = Hands,
-		ScratchDefense = 30,
+		ScratchDefense = 60,
         BiteDefense = 20,
         Weight = 0.1,
-        Insulation = 0.75,
+        Insulation = 0.80,
         WindResistance = 0.75,
         FabricType = Cotton,
         WorldStaticModel = Gloves_Ground,

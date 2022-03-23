@@ -306,6 +306,58 @@ module SMUIClothing
 
     }
 
+        item Jacket_TPattern
+        
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military T-Pattern Camo Jacket,
+        BodyLocation = Jacket,
+        Icon = ShirtCamoGrey,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = Jacket_TPattern,
+        ClothingItemExtra = SMUIClothing.Jacket_TPatternRolled,
+        ClothingItemExtraOption = RollUp,
+        ClothingExtraSubmenu = RollDown,
+        BiteDefense = 20,
+        ScratchDefense = 30,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+        
+    }
+
+        item Jacket_TPatternRolled
+
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military T-Pattern Camo Jacket (Rolled),
+        BodyLocation = Jacket,
+        Icon = TShirtCamoGrey,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = Jacket_TPatternRolled,
+        ClothingItemExtra = SMUIClothing.Jacket_TPattern,
+        ClothingItemExtraOption = RollDown,
+        ClothingExtraSubmenu = RollUp,
+        BiteDefense = 15,
+        ScratchDefense = 20,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+
+    }
+
         item Jacket_ODGreen
         
     {

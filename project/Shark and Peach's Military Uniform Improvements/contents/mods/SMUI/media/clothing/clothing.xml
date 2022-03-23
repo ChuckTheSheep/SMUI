@@ -966,15 +966,15 @@
 		<probability>0.7</probability>
 			<itemGUID>80c41e56-7aeb-48ee-a1a7-c75be8cd80cc</itemGUID>
 		</m_items>
-		<m_items> <!-- Urban Camo Pants (Tucked) -->
-			<itemGUID>805791e5-3cae-44db-bdeb-1c937c96fa8a</itemGUID>
+		<m_items> <!-- T-Pattern Camo Pants (Tucked) -->
+			<itemGUID>43bbdf52-3c82-4eee-8476-e7b5af8aa242</itemGUID>
 		</m_items>
-		<m_items> <!-- Urban Camo Jacket -->
-			<itemGUID>323fc189-8e21-41b8-b0ca-a481904cbb82</itemGUID>
+		<m_items> <!-- T-Pattern Camo Jacket -->
+			<itemGUID>145c4b2d-b7ee-4f08-819a-28e6720fc0da</itemGUID>
 		</m_items>
-		<m_items> <!-- Urban Camo Jacket (Rolled) -->
+		<m_items> <!-- T-Pattern Camo Jacket (Rolled) -->
 		<probability>0.5</probability>
-			<itemGUID>7496991e-2e75-46cd-86d9-92d2d90175f8</itemGUID>
+			<itemGUID>af61f827-1234-48bb-bb1f-96e34aa74916</itemGUID>
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
@@ -982,6 +982,9 @@
 		<m_items> <!-- Military Watch (Right) -->
 		<probability>0.5</probability>
 			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
+		</m_items>
+		<m_items> <!-- Flight Gloves -->
+			<itemGUID>376cd290-8fdb-4b2a-ab52-7a85b2412bd7</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
@@ -994,9 +997,6 @@
 		<m_Guid>a975fd61-fc49-47f0-9519-22a5eb62c8dd</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
-		<m_items> <!-- Urban Patrol Cap -->
-			<itemGUID>a3e30089-9aa5-4902-8919-f11ae122cbe6</itemGUID>
-		</m_items>
 		<m_items> <!-- Red Military Beret -->
 			<probability>0.5</probability>
 			<itemGUID>408d4d09-81ae-4bf8-9b77-1f4bfccbb1c9</itemGUID>
@@ -1010,15 +1010,15 @@
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
-		<m_items> <!-- Urban Camo Pants (Tucked) -->
-			<itemGUID>805791e5-3cae-44db-bdeb-1c937c96fa8a</itemGUID>
+		<m_items> <!-- T-Pattern Camo Pants (Tucked) -->
+			<itemGUID>43bbdf52-3c82-4eee-8476-e7b5af8aa242</itemGUID>
 		</m_items>
-		<m_items> <!-- Urban Camo Jacket -->
-			<itemGUID>323fc189-8e21-41b8-b0ca-a481904cbb82</itemGUID>
+		<m_items> <!-- T-Pattern Camo Jacket -->
+			<itemGUID>145c4b2d-b7ee-4f08-819a-28e6720fc0da</itemGUID>
 		</m_items>
-		<m_items> <!-- Urban Camo Jacket (Rolled) -->
+		<m_items> <!-- T-Pattern Camo Jacket (Rolled) -->
 		<probability>0.5</probability>
-			<itemGUID>7496991e-2e75-46cd-86d9-92d2d90175f8</itemGUID>
+			<itemGUID>af61f827-1234-48bb-bb1f-96e34aa74916</itemGUID>
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
@@ -1038,9 +1038,6 @@
 		<m_Guid>c8e321d3-4ff6-4eb4-9fe6-46c1d5fa3cfe</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
-		<m_items> <!-- Urban Patrol Cap -->
-			<itemGUID>a3e30089-9aa5-4902-8919-f11ae122cbe6</itemGUID>
-		</m_items>
 		<m_items> <!-- Red Military Beret -->
 			<probability>0.5</probability>
 			<itemGUID>408d4d09-81ae-4bf8-9b77-1f4bfccbb1c9</itemGUID>
@@ -1054,15 +1051,15 @@
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
-		<m_items> <!-- Urban Camo Pants (Tucked) -->
-			<itemGUID>805791e5-3cae-44db-bdeb-1c937c96fa8a</itemGUID>
+		<m_items> <!-- T-Pattern Camo Pants (Tucked) -->
+			<itemGUID>43bbdf52-3c82-4eee-8476-e7b5af8aa242</itemGUID>
 		</m_items>
-		<m_items> <!-- Urban Camo Jacket -->
-			<itemGUID>323fc189-8e21-41b8-b0ca-a481904cbb82</itemGUID>
+		<m_items> <!-- T-Pattern Camo Jacket -->
+			<itemGUID>145c4b2d-b7ee-4f08-819a-28e6720fc0da</itemGUID>
 		</m_items>
-		<m_items> <!-- Urban Camo Jacket (Rolled) -->
+		<m_items> <!-- T-Pattern Camo Jacket (Rolled) -->
 		<probability>0.5</probability>
-			<itemGUID>7496991e-2e75-46cd-86d9-92d2d90175f8</itemGUID>
+			<itemGUID>af61f827-1234-48bb-bb1f-96e34aa74916</itemGUID>
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
@@ -1113,15 +1110,15 @@
 		<probability>0.7</probability>
 			<itemGUID>80c41e56-7aeb-48ee-a1a7-c75be8cd80cc</itemGUID>
 		</m_items>
-		<m_items> <!-- Urban Camo Pants (Tucked) -->
-			<itemGUID>805791e5-3cae-44db-bdeb-1c937c96fa8a</itemGUID>
+		<m_items> <!-- T-Pattern Camo Pants (Tucked) -->
+			<itemGUID>43bbdf52-3c82-4eee-8476-e7b5af8aa242</itemGUID>
 		</m_items>
-		<m_items> <!-- Urban Camo Jacket -->
-			<itemGUID>323fc189-8e21-41b8-b0ca-a481904cbb82</itemGUID>
+		<m_items> <!-- T-Pattern Camo Jacket -->
+			<itemGUID>145c4b2d-b7ee-4f08-819a-28e6720fc0da</itemGUID>
 		</m_items>
-		<m_items> <!-- Urban Camo Jacket (Rolled) -->
+		<m_items> <!-- T-Pattern Camo Jacket (Rolled) -->
 		<probability>0.5</probability>
-			<itemGUID>7496991e-2e75-46cd-86d9-92d2d90175f8</itemGUID>
+			<itemGUID>af61f827-1234-48bb-bb1f-96e34aa74916</itemGUID>
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
@@ -1129,6 +1126,9 @@
 		<m_items> <!-- Military Watch (Right) -->
 		<probability>0.5</probability>
 			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
+		</m_items>
+		<m_items> <!-- Flight Gloves -->
+			<itemGUID>376cd290-8fdb-4b2a-ab52-7a85b2412bd7</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>

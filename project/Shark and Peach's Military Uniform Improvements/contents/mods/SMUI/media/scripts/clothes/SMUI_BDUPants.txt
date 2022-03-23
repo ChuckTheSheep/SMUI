@@ -258,6 +258,51 @@ module SMUIClothing
         WorldStaticModel = Trousers_Ground,
     }
 
+         item Trousers_TPattern
+    
+    {   
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military T-Pattern Camo Pants,
+        BodyLocation = Pants,
+        Icon = TrousersCamoGrey,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        ClothingItem = Trousers_TPattern,
+        ClothingItemExtra = SMUIClothing.Trousers_TPatternTucked,
+        ClothingItemExtraOption = TuckIn,
+        ClothingExtraSubmenu = TuckOut,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+        item Trousers_TPatternTucked
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military T-Pattern Camo Pants (Tucked),
+        BodyLocation = Pants,
+        Icon = TrousersCamoGrey,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,        
+        ClothingItem = Trousers_TPatternTucked,
+        ClothingItemExtra = SMUIClothing.Trousers_TPattern,
+        ClothingItemExtraOption = TuckOut,
+        ClothingExtraSubmenu = TuckIn,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
         item Trousers_ODGreen
     
     {   

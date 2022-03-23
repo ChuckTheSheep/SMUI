@@ -394,6 +394,26 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Jacket_TPattern.xml</path>
+	<guid>145c4b2d-b7ee-4f08-819a-28e6720fc0da</guid>
+	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/Jacket_TPatternRolled.xml</path>
+	<guid>af61f827-1234-48bb-bb1f-96e34aa74916</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_TPattern.xml</path>
+	<guid>a34576f1-a543-4fc2-88f6-d36164dc082e</guid>
+	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/Trousers_TPatternTucked.xml</path>
+	<guid>43bbdf52-3c82-4eee-8476-e7b5af8aa242</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Jacket_DesertCombatRolled.xml</path>
 	<guid>6739d152-91f3-4d3c-b21b-7c5aee7477ff</guid>
 	</files>
