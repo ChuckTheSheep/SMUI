@@ -344,6 +344,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Gloves_FlightGloves.xml</path>
+	<guid>376cd290-8fdb-4b2a-ab52-7a85b2412bd7</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Gloves_HazmatGloves.xml</path>
 	<guid>27bbfaa3-bfec-4fdf-a7e0-8d1de17f1fa4</guid>
 	</files>
