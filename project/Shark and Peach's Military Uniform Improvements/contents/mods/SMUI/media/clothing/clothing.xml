@@ -943,6 +943,10 @@
 		<m_items> <!-- Military Tactical Helmet -->
 			<itemGUID>0f8e3cda-6558-4c51-9e43-c4a92882764e</itemGUID>
 		</m_items>
+		<m_items> <!-- Boogie Goggles -->
+		<probability>0.7</probability>
+			<itemGUID>e8441963-a45b-4454-81d3-8fd69c0ec453</itemGUID>
+		</m_items>
 		<m_items> <!-- Long Socks -->
 			<itemGUID>fb86bd5f-1931-4b24-a5d7-bd6a43769991</itemGUID>
 		</m_items>	
