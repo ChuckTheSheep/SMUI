@@ -7,7 +7,8 @@ description= Consider supporting our modding efforts:
 description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
-description= [h1][b]NEW: Tiger Stripe Fatigues[/b][/h1]
+description= [h1][b]NEW: T-Pattern Urban Uniform (From Operation: Urban Warrior)[/b][/h1]
+description= [h1][b]MEW:
 description=
 description= [h2][b]This mod entirely redoes the vanilla military zombies to be inline with actual equipment (e.g ALICE webbing) and clothing standards of the 1990's US Military.[/b][/h2]
 description=
@@ -35,6 +36,8 @@ description= [*] ALICE Webbing + Buttpack Version (Has attachment points)
 description= [*] CFP-90 Patrol Pack
 description= [*] Night Vision Goggles (Based on AN/PVS-7) * Currently non-functional *
 description= [*] Shemaghs (Can be pulled down)
+description= [*] Watch Caps
+description= [*] Boogie Goggles
 description= [*] Dust Goggles
 description= [*] DH-132 Crewman Helmet
 description= [*] Ranger Body Armor (Woodland + Desert)
@@ -45,6 +48,7 @@ description= [*] Woodland, Desert, and Urban Patrol Caps + Winter Version
 description= [*] DCU Uniforms
 description= [*] ERDL Uniforms (Found in army surplus + hunting areas)
 description= [*] Olive Drab Military Vest
+description= [*] T-Pattern Urban Uniform (From Operation: Urban Warrior)
 description= [*] Olive Drab Military Fatigues
 description= [*] Tiger Stripe Military Fatigues
 description= [*] Military Crewman Vest
