@@ -3,6 +3,17 @@
 
 	<!-- Shark's Military Uniform Improvements -->
 
+
+	<files>
+	<path>media/clothing/clothingItems/Glasses_BoogieGoggles.xml</path>
+	<guid>e8441963-a45b-4454-81d3-8fd69c0ec453</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_WatchCap.xml</path>
+	<guid>e5cc2ab2-7ef5-446a-9089-017361485d88</guid>
+	</files>
+
 	<files>
 	<path>media/clothing/clothingItems/Hat_MilitaryHelmetHawaiian.xml</path>
 	<guid>b3d0c4c0-e034-4fb7-ab90-a803b908eb42</guid>

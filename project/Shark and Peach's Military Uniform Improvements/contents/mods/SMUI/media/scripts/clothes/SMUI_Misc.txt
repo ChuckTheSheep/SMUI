@@ -328,6 +328,7 @@ module SMUIClothing
 		BodyLocation = Hands,
 		Icon = SummerFlyers,
 		BloodLocation = Hands,
+        CanHaveHoles = false,
 		ScratchDefense = 60,
         BiteDefense = 20,
         Weight = 0.1,
@@ -336,5 +337,35 @@ module SMUIClothing
         FabricType = Cotton,
         WorldStaticModel = Gloves_Ground,
 	}
-    
+
+    	item Glasses_BoogieGoggles
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Boogie Goggles,
+		ClothingItem = Glasses_BoogieGoggles,
+		BodyLocation = Eyes,
+        BloodLocation = Head,
+        ScratchDefense = 10,
+		Icon= BoogieGoggles,
+		Weight = 0.1,
+		Cosmetic = TRUE,
+        WorldStaticModel = BoogieGoggles_WorldItem,
+	}
+
+        item Hat_WatchCap
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Watch Cap,
+		ClothingItem = Hat_WatchCap,
+		BodyLocation = Hat,
+        BloodLocation = Head,
+        Insulation = 0.7,
+		WindResistance = 0.6,
+		Icon= WatchCap,
+		Weight = 0.1,
+		Cosmetic = TRUE,
+        WorldStaticModel = WatchCap_WorldItem,
+	}
 }

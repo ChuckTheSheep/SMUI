@@ -188,14 +188,14 @@ table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 4);
 
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Jacket_TPattern");
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 4);
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.5);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Jacket_TPattern");
-table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.5);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.1);
 
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Trousers_TPattern");
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 4);
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.5;
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Trousers_TPattern");
-table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.5);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.1);
 
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_BeretSpecial");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
@@ -256,6 +256,15 @@ table.insert(ProceduralDistributions.list.ArmyHangarOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Gloves_FlightGloves");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 6);
 
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_WatchCap");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 6);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Hat_WatchCap");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 6);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Glasses_BoogieGoggles");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.5);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Glasses_BoogieGoggles");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 1);
 
 
 

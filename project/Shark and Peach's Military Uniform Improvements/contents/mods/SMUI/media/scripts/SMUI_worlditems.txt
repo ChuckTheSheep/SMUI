@@ -343,4 +343,18 @@ module Base
 		texture = WorldItems/M1HelmetMitchellGoggles,
 		scale = 0.5,
 	}
+
+		model BoogieGoggles_WorldItem
+	{
+		mesh = WorldItems/BoogieGoggles_WorldItem,
+		texture = WorldItems/BoogieGoggles,
+		scale = 0.5,
+	}
+
+		model WatchCap_WorldItem
+	{
+		mesh = WorldItems/WatchCap_WorldItem,
+		texture = WorldItems/WatchCap,
+		scale = 0.5,
+	}
 }
