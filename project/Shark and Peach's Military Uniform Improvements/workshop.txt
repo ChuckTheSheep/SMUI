@@ -7,8 +7,9 @@ description= Consider supporting our modding efforts:
 description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
+description= [h1][b]MEW: PASGT Vests (Woodlandm, Three Color Desert, and Olive Drab)
 description= [h1][b]NEW: T-Pattern Urban Uniform (From Operation: Urban Warrior)[/b][/h1]
-description= [h1][b]MEW:
+description= [h1][b]NEW: Flight Gloves (Summer Flyer Gloves)
 description=
 description= [h2][b]This mod entirely redoes the vanilla military zombies to be inline with actual equipment (e.g ALICE webbing) and clothing standards of the 1990's US Military.[/b][/h2]
 description=
@@ -33,6 +34,7 @@ description= [h2]List of current additions:[/h2]
 description= [list]
 description= [*] M1 Steel Helmets (Coverless, Woodland, and Mitchell + can be strapped/unstrapped + can have goggles attached)
 description= [*] ALICE Webbing + Buttpack Version (Has attachment points)
+description= [*] PASGT Vests (Woodland and Three-Color Desert)
 description= [*] CFP-90 Patrol Pack
 description= [*] Night Vision Goggles (Based on AN/PVS-7) * Currently non-functional *
 description= [*] Shemaghs (Can be pulled down)
