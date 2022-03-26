@@ -1,6 +1,7 @@
 module SMUIClothing 
 {
 
+
 	item Vest_ODGreen
 	{   
 
