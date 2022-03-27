@@ -134,12 +134,9 @@ SMUIZombiesZoneDefinition.SecretBase = {
 		name="SharkArmyCamoUrbanGearedMale",
 		chance=15,
 	},
-	SharkArmyCamoUrbanMale = {
+	SharkCleanUpCrew = {
 		name="SharkArmyCamoUrbanMale",
-		chance=10,
-	},
-	SharkArmyCamoUrbanFemale = {
-		name="SharkArmyCamoUrbanFemale",
+		toSpawn=10,
 		chance=10,
 	},
 	SharkMOPPSuitOD = {
@@ -166,5 +163,3 @@ table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkArmyCamoGreenReserv
 table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkArmyInstructor", chance=0.01});
 table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkTankCrewman", chance=0.01});
 table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkMilitaryPolice", chance=0.01});
-table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkArmyCamoUrbanGearedMale", chance=0.01});
-table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkArmyCamoUrbanMale", chance=0.01});
