@@ -368,4 +368,25 @@ module SMUIClothing
 		Cosmetic = TRUE,
         WorldStaticModel = WatchCap_WorldItem,
 	}
+
+        item Shoes_JungleBoots
+	{   
+
+        DisplayCategory = Clothing,
+    	Type = Clothing,
+	    DisplayName = Jungle Combat Boots,
+	    ClothingItem = Shoes_JungleBoots,
+	    BodyLocation = Shoes,
+	    BloodLocation = Shoes,
+	    Icon = JungleBoots,
+	    Weight = 1,
+        RunSpeedModifier = 0.9,
+        RemoveOnBroken = true,
+        ScratchDefense = 70,
+        BiteDefense = 80,
+        Insulation = 0.9,
+        WindResistance = 0.65,
+        WaterResistance = 0.80,
+        WorldStaticModel = Boots_Ground,
+	}
 }

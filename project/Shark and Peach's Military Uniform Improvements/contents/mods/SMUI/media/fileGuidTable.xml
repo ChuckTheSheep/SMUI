@@ -653,6 +653,11 @@
 	<guid>fd977ee6-e0e5-46ff-a537-538a42a8e63a</guid>
 	</files>
 
+	<files>
+	<path>media/clothing/clothingItems/Shoes_JungleBoots.xml</path>
+	<guid>a44baed4-108f-46d8-9543-e99377953d5f</guid>
+	</files>
+
 	<!-- Vanilla Clothing -->
 	
 	<files>
