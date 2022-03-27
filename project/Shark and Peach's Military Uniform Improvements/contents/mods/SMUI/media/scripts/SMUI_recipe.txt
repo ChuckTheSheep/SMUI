@@ -201,7 +201,25 @@ recipe Attach goggles to helmet
    	   Result:Hat_M1HelmetMitchellStrapless,
 	   Time:20,
   	}
-	  
+
+recipe Attach goggles to helmet
+  	{
+   	   Hat_M1HelmetThreeColor,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_M1HelmetThreeColorGoggles,
+	   Time:20,
+  	}
+
+recipe Attach goggles to helmet
+  	{
+   	   Hat_M1HelmetThreeColorStrapless,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_M1HelmetThreeColorStrapless,
+	   Time:20,
+  	}
+
 recipe Attach doff hood
   	{
    	   Hat_M40,
@@ -363,6 +381,22 @@ recipe Remove goggles
    	   Hat_M1HelmetMitchellGogglesStrapless,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1HelmetMitchellStrapless,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_M1HelmetThreeColorGoggles,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_M1HelmetThreeColor,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_M1HelmetThreeColorGogglesStrapless,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_M1HelmetThreeColorStrapless,
 	   Time:60,
   	}
 
