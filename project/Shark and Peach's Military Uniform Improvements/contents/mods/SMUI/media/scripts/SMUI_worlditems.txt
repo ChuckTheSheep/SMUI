@@ -357,4 +357,18 @@ module Base
 		texture = WorldItems/WatchCap,
 		scale = 0.5,
 	}
+
+		model PASGTWoodland_WorldItem
+	{
+		mesh = WorldItems/PASGTVest_WorldItem,
+		texture = WorldItems/PASGTWoodland,
+		scale = 0.5,
+	}
+	
+		model PASGTOD_WorldItem
+	{
+		mesh = WorldItems/PASGTVest_WorldItem,
+		texture = WorldItems/PASGTOD,
+		scale = 0.5,
+	}
 }

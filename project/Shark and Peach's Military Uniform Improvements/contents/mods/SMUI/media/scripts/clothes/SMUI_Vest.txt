@@ -7,7 +7,7 @@ module SMUIClothing
 
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Olive Drab Military Vest,
+        DisplayName = Olive Drab PASGT Vest,
         ClothingItem = Vest_ODGreen,
         BodyLocation = TorsoExtra,
         Icon = ODGreenVest,
@@ -18,7 +18,7 @@ module SMUIClothing
 		Insulation = 0.75,
         WindResistance = 0.45,
 		RunSpeedModifier = 1,
-        WorldStaticModel = BulletVest_Ground,
+        WorldStaticModel = PASGTOD_Ground,
 	}
 
 	    item Vest_RangerBodyArmorWoodland
