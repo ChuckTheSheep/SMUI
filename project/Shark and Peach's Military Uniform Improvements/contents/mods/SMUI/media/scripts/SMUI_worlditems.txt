@@ -337,6 +337,20 @@ module Base
 		scale = 0.5,
 	}
 
+		model M1HelmetThreeColor_WorldItem
+	{
+		mesh = WorldItems/M1Helmet_WorldItem,
+		texture = WorldItems/M1HelmetThreeColor,
+		scale = 0.5,
+	}
+	
+		model M1HelmetThreeColorGoggles_WorldItem
+	{
+		mesh = WorldItems/M1HelmetGoggles_WorldItem,
+		texture = WorldItems/M1HelmetThreeColorGoggles,
+		scale = 0.5,
+	}
+
 		model M1HelmetMitchellGoggles_WorldItem
 	{
 		mesh = WorldItems/M1HelmetGoggles_WorldItem,

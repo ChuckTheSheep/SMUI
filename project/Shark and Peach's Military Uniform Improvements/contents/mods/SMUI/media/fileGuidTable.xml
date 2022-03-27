@@ -147,6 +147,26 @@
 	<path>media/clothing/clothingItems/Hat_M1HelmetMitchellGogglesStrapless.xml</path>
 	<guid>744c5643-b296-45aa-8426-dc7cdc842b3a</guid>
 	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetThreeColor.xml</path>
+	<guid>2011dd63-2c12-4840-b2ee-1afeb066205f</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetThreeColorStrapless.xml</path>
+	<guid>b126c537-6020-41e0-b57a-5855e99ddf72</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetThreeColorGoggles.xml</path>
+	<guid>93dc4e0-525b-4ebc-a631-f4363c465ff3</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetThreeColorGogglesStrapless.xml</path>
+	<guid>11b7a3c1-2103-44df-a4a1-2c5fd75b01f3</guid>
+	</files>
 
 	<files>
 	<path>media/clothing/clothingItems/Hat_DH132.xml</path>

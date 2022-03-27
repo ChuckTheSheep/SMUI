@@ -670,7 +670,7 @@ module SMUIClothing
 		ScratchDefense = 100,
         BulletDefense = 20,
         CanHaveHoles = false,
-        ClothingItemExtra = SMUIClothing.Hat_M1HelmetMitchellGoggles,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetThreeColorGoggles,
         ClothingItemExtraOption = Strap,
         ClothingExtraSubmenu = Unstrap,
         ChanceToFall = 80,
@@ -678,6 +678,96 @@ module SMUIClothing
         WaterResistance = 0.2,
         Weight = 0.5,
 		WorldStaticModel = M1HelmetMitchellGoggles_WorldItem,
+    }
+
+        item Hat_M1HelmetThreeColor
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName =  Three Color Desert M1 Steel Helmet,
+        ClothingItem = Hat_M1HelmetThreeColor,
+        BodyLocation = Hat,
+        Icon = M1HelmetThreeColor,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetThreeColorStrapless,
+        ClothingItemExtraOption = Unstrap,
+        ClothingExtraSubmenu = Strap,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetThreeColor_WorldItem,
+    }
+
+        item Hat_M1HelmetThreeColorStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless Three Color Desert M1 Steel Helmet,
+        ClothingItem = Hat_M1HelmetThreeColorStrapless,
+        BodyLocation = Hat,
+        Icon = M1HelmetThreeColorStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetThreeColor,
+        ClothingItemExtraOption = Strap,
+        ClothingExtraSubmenu = Unstrap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetThreeColor_WorldItem,
+    }
+
+        item Hat_M1HelmetThreeColorGoggles
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName =  Three Color Desert M1 Helmet w/ Goggles,
+        ClothingItem = Hat_M1HelmetThreeColorGoggles,
+        BodyLocation = Hat,
+        Icon = M1HelmetThreeColorGoggles,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetThreeColorGogglesStrapless,
+        ClothingItemExtraOption = Unstrap,
+        ClothingExtraSubmenu = Strap,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetThreeColorGoggles_WorldItem,
+    }
+
+        item Hat_M1HelmetThreeColorGogglesStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless Three Color M1 Steel Helmet w/ Goggles,
+        ClothingItem = Hat_M1HelmetThreeColorGogglesStrapless,
+        BodyLocation = Hat,
+        Icon = M1HelmetThreeColorGogglesStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetThreeColorGoggles,
+        ClothingItemExtraOption = Strap,
+        ClothingExtraSubmenu = Unstrap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetThreeColorGoggles_WorldItem,
     }
 
         item Hat_MilitaryTacticalHelmet
