@@ -1014,15 +1014,15 @@
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
-		<m_items> <!-- T-Pattern Camo Pants (Tucked) -->
-			<itemGUID>43bbdf52-3c82-4eee-8476-e7b5af8aa242</itemGUID>
+		<m_items> <!-- Urban Camo Pants (Tucked) -->
+			<itemGUID>805791e5-3cae-44db-bdeb-1c937c96fa8a</itemGUID>
 		</m_items>
-		<m_items> <!-- T-Pattern Camo Jacket -->
-			<itemGUID>145c4b2d-b7ee-4f08-819a-28e6720fc0da</itemGUID>
+		<m_items> <!-- Urban Camo Jacket -->
+			<itemGUID>323fc189-8e21-41b8-b0ca-a481904cbb82</itemGUID>
 		</m_items>
-		<m_items> <!-- T-Pattern Camo Jacket (Rolled) -->
+		<m_items> <!-- Urban Camo Jacket (Rolled) -->
 		<probability>0.5</probability>
-			<itemGUID>af61f827-1234-48bb-bb1f-96e34aa74916</itemGUID>
+			<itemGUID>7496991e-2e75-46cd-86d9-92d2d90175f8</itemGUID>
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
@@ -1055,15 +1055,15 @@
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
-		<m_items> <!-- T-Pattern Camo Pants (Tucked) -->
-			<itemGUID>43bbdf52-3c82-4eee-8476-e7b5af8aa242</itemGUID>
+		<m_items> <!-- Urban Camo Pants (Tucked) -->
+			<itemGUID>805791e5-3cae-44db-bdeb-1c937c96fa8a</itemGUID>
 		</m_items>
-		<m_items> <!-- T-Pattern Camo Jacket -->
-			<itemGUID>145c4b2d-b7ee-4f08-819a-28e6720fc0da</itemGUID>
+		<m_items> <!-- Urban Camo Jacket -->
+			<itemGUID>323fc189-8e21-41b8-b0ca-a481904cbb82</itemGUID>
 		</m_items>
-		<m_items> <!-- T-Pattern Camo Jacket (Rolled) -->
+		<m_items> <!-- Urban Camo Jacket (Rolled) -->
 		<probability>0.5</probability>
-			<itemGUID>af61f827-1234-48bb-bb1f-96e34aa74916</itemGUID>
+			<itemGUID>7496991e-2e75-46cd-86d9-92d2d90175f8</itemGUID>
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
@@ -1114,15 +1114,15 @@
 		<probability>0.7</probability>
 			<itemGUID>80c41e56-7aeb-48ee-a1a7-c75be8cd80cc</itemGUID>
 		</m_items>
-		<m_items> <!-- T-Pattern Camo Pants (Tucked) -->
-			<itemGUID>43bbdf52-3c82-4eee-8476-e7b5af8aa242</itemGUID>
+		<m_items> <!-- Urban Camo Pants (Tucked) -->
+			<itemGUID>805791e5-3cae-44db-bdeb-1c937c96fa8a</itemGUID>
 		</m_items>
-		<m_items> <!-- T-Pattern Camo Jacket -->
-			<itemGUID>145c4b2d-b7ee-4f08-819a-28e6720fc0da</itemGUID>
+		<m_items> <!-- Urban Camo Jacket -->
+			<itemGUID>323fc189-8e21-41b8-b0ca-a481904cbb82</itemGUID>
 		</m_items>
-		<m_items> <!-- T-Pattern Camo Jacket (Rolled) -->
+		<m_items> <!-- Urban Camo Jacket (Rolled) -->
 		<probability>0.5</probability>
-			<itemGUID>af61f827-1234-48bb-bb1f-96e34aa74916</itemGUID>
+			<itemGUID>7496991e-2e75-46cd-86d9-92d2d90175f8</itemGUID>
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
