@@ -7,18 +7,18 @@ module SMUIClothing
 
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Olive Drab PASGT Vest,
-        ClothingItem = Vest_ODGreen,
+        DisplayName = M69 Flak Vest,
+        ClothingItem = Vest_M69FlakVest,
         BodyLocation = TorsoExtra,
         Icon = PASGTOD,
         BloodLocation = ShirtNoSleeves,
 		BiteDefense = 75,
 		ScratchDefense = 75,
-		BulletDefense = 100,
+		BulletDefense = 65,
 		Insulation = 0.75,
         WindResistance = 0.45,
 		RunSpeedModifier = 1,
-        WorldStaticModel = PASGTOD_Ground,
+        WorldStaticModel = PASGTWoodland_WorldItem,
 	}
 
 	    item Vest_RangerBodyArmorWoodland
@@ -88,5 +88,62 @@ module SMUIClothing
         WindResistance = 0.30,
 		Icon = MilitaryTankerVest,
 		WorldStaticModel = MilitaryTankerVest_WorldItem,
+	}
+
+		item Vest_PASGTWoodland
+	{   
+
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Woodland PASGT Vest,
+        ClothingItem = Vest_PASGT,
+        BodyLocation = TorsoExtra,
+        Icon = PASGTWoodland,
+        BloodLocation = ShirtNoSleeves,
+		BiteDefense = 75,
+		ScratchDefense = 75,
+		BulletDefense = 100,
+		Insulation = 0.75,
+        WindResistance = 0.45,
+		RunSpeedModifier = 1,
+        WorldStaticModel = PASGTWoodland_WorldItem,
+	}
+
+		item Vest_PASGTDesert
+	{   
+
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Three Color Desert PASGT Vest,
+        ClothingItem = Vest_PASGTDesert,
+        BodyLocation = TorsoExtra,
+        Icon = PASGTOD,
+        BloodLocation = ShirtNoSleeves,
+		BiteDefense = 75,
+		ScratchDefense = 75,
+		BulletDefense = 100,
+		Insulation = 0.75,
+        WindResistance = 0.45,
+		RunSpeedModifier = 1,
+        WorldStaticModel = PASGTWoodland_WorldItem,
+	}
+
+		item Vest_PASGTOD
+	{   
+
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Green PASGT Vest,
+        ClothingItem = Vest_PASGTOD,
+        BodyLocation = TorsoExtra,
+        Icon = PASGTOD,
+        BloodLocation = ShirtNoSleeves,
+		BiteDefense = 75,
+		ScratchDefense = 75,
+		BulletDefense = 100,
+		Insulation = 0.75,
+        WindResistance = 0.45,
+		RunSpeedModifier = 1,
+        WorldStaticModel = PASGTOD_WorldItem,
 	}
 }

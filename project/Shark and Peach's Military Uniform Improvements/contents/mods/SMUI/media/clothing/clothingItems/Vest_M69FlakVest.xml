@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_PASGT</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\kate_bulletvest</m_FemaleModel>
+	<m_GUID>bf9ea181-3f37-4e98-bf54-810dfeefb4bc</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\vest\Vest_PASGT</textureChoices>
+</clothingItem>

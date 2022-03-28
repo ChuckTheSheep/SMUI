@@ -7,6 +7,21 @@
 	<path>media/clothing/clothingItems/Vest_PASGTWoodland.xml</path>
 	<guid>e32dfe79-c24c-4a89-8dfe-1ed66b97a37d</guid>
 	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/Vest_PASGTDesert.xml</path>
+	<guid>837b4e55-b547-4e82-b891-2f1b9abea3d0</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Vest_PASGTOD.xml</path>
+	<guid>bd491c9f-6fe3-48ca-bf05-04c8070cfb99</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Vest_M69FlakVest.xml</path>
+	<guid>bf9ea181-3f37-4e98-bf54-810dfeefb4bc</guid>
+	</files>
 
 	<files>
 	<path>media/clothing/clothingItems/Glasses_BoogieGoggles.xml</path>
