@@ -368,6 +368,20 @@ module SMUIClothing
         WorldStaticModel = WatchCap_WorldItem,
 	}
 
+        item Hat_GarrisonCap
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Garrison Cap,
+		ClothingItem = Hat_GarrisonCap,
+		BodyLocation = Hat,
+        BloodLocation = Head,
+		Icon= GarrisonCap,
+        ChanceToFall = 70,
+		Weight = 0.1,
+        WorldStaticModel = GarrisonCap_WorldItem,
+	}
+
         item Shoes_JungleBoots
 	{   
 

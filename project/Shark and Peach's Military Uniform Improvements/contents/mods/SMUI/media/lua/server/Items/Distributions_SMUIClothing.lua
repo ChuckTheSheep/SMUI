@@ -276,6 +276,11 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 6);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Hat_WatchCap");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 6);
 
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_GarrisonCap");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 6);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Hat_GarrisonCap");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 6);
+
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Socks_GeneralIssue");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 6);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Socks_GeneralIssue");

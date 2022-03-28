@@ -4,6 +4,11 @@
 	<!-- Shark's Military Uniform Improvements -->
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_GarrisonCap.xml</path>
+	<guid>22c473b7-8c3d-431e-becd-6cf63348cc59</guid>
+	</files>
+	
+	<files>
 	<path>media/clothing/clothingItems/Vest_PASGTWoodland.xml</path>
 	<guid>304930ad-57d9-494c-a5c0-a4ddc2ef64b8</guid>
 	</files>

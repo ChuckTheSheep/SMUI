@@ -372,6 +372,13 @@ module Base
 		scale = 0.5,
 	}
 
+		model GarrisonCap_WorldItem
+	{
+		mesh = WorldItems/GarrisonCap_WorldItem,
+		texture = WorldItems/GarrisonCap,
+		scale = 0.5,
+	}
+
 		model PASGTWoodland_WorldItem
 	{
 		mesh = WorldItems/PASGTVest_WorldItem,
