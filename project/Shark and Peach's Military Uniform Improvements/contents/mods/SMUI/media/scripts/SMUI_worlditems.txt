@@ -399,4 +399,11 @@ module Base
 		texture = WorldItems/PASGTOD,
 		scale = 0.5,
 	}
+
+		model M69Vest_WorldItem
+	{
+		mesh = WorldItems/M69Vest_WorldItem,
+		texture = WorldItems/M69Vest,
+		scale = 0.5,
+	}
 }

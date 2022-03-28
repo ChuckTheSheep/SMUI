@@ -10,7 +10,7 @@ module SMUIClothing
         DisplayName = M69 Flak Vest,
         ClothingItem = Vest_M69FlakVest,
         BodyLocation = TorsoExtra,
-        Icon = PASGTOD,
+        Icon = M69Vest,
         BloodLocation = ShirtNoSleeves,
 		BiteDefense = 75,
 		ScratchDefense = 75,
@@ -18,7 +18,7 @@ module SMUIClothing
 		Insulation = 0.75,
         WindResistance = 0.45,
 		RunSpeedModifier = 1,
-        WorldStaticModel = PASGTWoodland_WorldItem,
+        WorldStaticModel = M69Vest_WorldItem,
 	}
 
 	    item Vest_RangerBodyArmorWoodland
@@ -114,7 +114,7 @@ module SMUIClothing
 
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Three Color Desert PASGT Vest,
+        DisplayName = Six Color Desert PASGT Vest,
         ClothingItem = Vest_PASGTDesert,
         BodyLocation = TorsoExtra,
         Icon = PASGTDesert,

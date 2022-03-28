@@ -120,7 +120,7 @@ table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.5);
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Vest_ODGreen");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Vest_ODGreen");
-table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 4);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 6);
 
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Vest_PASGTDesert");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
