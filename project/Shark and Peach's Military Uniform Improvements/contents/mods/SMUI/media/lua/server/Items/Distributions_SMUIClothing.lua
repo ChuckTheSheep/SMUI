@@ -193,7 +193,7 @@ table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.1);
 
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Trousers_TPattern");
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.5;
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.5);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Trousers_TPattern");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.1);
 
