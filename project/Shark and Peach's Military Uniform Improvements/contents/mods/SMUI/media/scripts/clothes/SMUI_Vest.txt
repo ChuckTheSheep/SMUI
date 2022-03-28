@@ -96,7 +96,7 @@ module SMUIClothing
         DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Woodland PASGT Vest,
-        ClothingItem = Vest_PASGT,
+        ClothingItem = Vest_PASGTWoodland,
         BodyLocation = TorsoExtra,
         Icon = PASGTWoodland,
         BloodLocation = ShirtNoSleeves,
@@ -117,7 +117,7 @@ module SMUIClothing
         DisplayName = Three Color Desert PASGT Vest,
         ClothingItem = Vest_PASGTDesert,
         BodyLocation = TorsoExtra,
-        Icon = PASGTOD,
+        Icon = PASGTDesert,
         BloodLocation = ShirtNoSleeves,
 		BiteDefense = 75,
 		ScratchDefense = 75,
@@ -125,7 +125,7 @@ module SMUIClothing
 		Insulation = 0.75,
         WindResistance = 0.45,
 		RunSpeedModifier = 1,
-        WorldStaticModel = PASGTWoodland_WorldItem,
+        WorldStaticModel = PASGTDesert_WorldItem,
 	}
 
 		item Vest_PASGTOD

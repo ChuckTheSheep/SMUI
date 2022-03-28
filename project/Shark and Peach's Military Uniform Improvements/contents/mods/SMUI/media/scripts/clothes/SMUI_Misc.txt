@@ -361,11 +361,10 @@ module SMUIClothing
 		ClothingItem = Hat_WatchCap,
 		BodyLocation = Hat,
         BloodLocation = Head,
-        Insulation = 0.7,
-		WindResistance = 0.6,
+        Insulation = 0.8,
+		WindResistance = 0.8,
 		Icon= WatchCap,
 		Weight = 0.1,
-		Cosmetic = TRUE,
         WorldStaticModel = WatchCap_WorldItem,
 	}
 
@@ -388,5 +387,21 @@ module SMUIClothing
         WindResistance = 0.65,
         WaterResistance = 0.80,
         WorldStaticModel = Boots_Ground,
+	}
+
+    	item Socks_GeneralIssue
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = GI Socks,
+		ClothingItem = Socks_GeneralIssue,
+		BodyLocation = Socks,
+		Icon = GISocks,
+		BloodLocation = Shoes;LowerLegs,
+        Insulation = 0.70,
+        WindResistance = 0.70,
+        Weight = 0.1,
+        FabricType = Cotton,
+        WorldStaticModel = Socks_Long_Ground,
 	}
 }

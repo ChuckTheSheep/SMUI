@@ -5,7 +5,7 @@
 
 	<files>
 	<path>media/clothing/clothingItems/Vest_PASGTWoodland.xml</path>
-	<guid>e32dfe79-c24c-4a89-8dfe-1ed66b97a37d</guid>
+	<guid>304930ad-57d9-494c-a5c0-a4ddc2ef64b8</guid>
 	</files>
 	
 	<files>
@@ -671,6 +671,11 @@
 	<files>
 	<path>media/clothing/clothingItems/Shoes_JungleBoots.xml</path>
 	<guid>a44baed4-108f-46d8-9543-e99377953d5f</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Socks_GeneralIssue.xml</path>
+	<guid>b496da29-e941-43f7-85dd-854b79c7b453</guid>
 	</files>
 
 	<!-- Vanilla Clothing -->

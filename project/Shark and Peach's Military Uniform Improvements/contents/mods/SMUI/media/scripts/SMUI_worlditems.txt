@@ -379,6 +379,13 @@ module Base
 		scale = 0.5,
 	}
 	
+        model PASGTDesert_WorldItem
+	{
+		mesh = WorldItems/PASGTVest_WorldItem,
+		texture = WorldItems/PASGTDesert,
+		scale = 0.5,
+	}
+	
 		model PASGTOD_WorldItem
 	{
 		mesh = WorldItems/PASGTVest_WorldItem,
