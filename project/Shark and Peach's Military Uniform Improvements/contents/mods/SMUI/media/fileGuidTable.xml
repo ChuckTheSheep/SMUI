@@ -3,6 +3,32 @@
 
 	<!-- Shark's Military Uniform Improvements -->
 
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_BoonieHatWoodland.xml</path>
+	<guid>3d0db843-3331-4dbd-a29a-4d87fe1f31d8</guid>
+	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/Hat_BoonieHatSixColorDesert.xml</path>
+	<guid>d7a9635c-bd4f-4759-ac09-6f2798ad5990</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_BoonieHatThreeColorDesert.xml</path>
+	<guid>00884e63-72c7-4e99-ace2-789f5f741d4b</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_BoonieHatERDL.xml</path>
+	<guid>4803e391-4fe8-419c-b417-61d62cc81df4</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_BoonieHatTigerStripe.xml</path>
+	<guid>a63cf5d4-18a6-40da-bc18-07b51e764ccc</guid>
+	</files>
+
 	<files>
 	<path>media/clothing/clothingItems/Glasses_GeneralIssue.xml</path>
 	<guid>85217973-ff88-4680-8a5d-1c6c97692767</guid>
