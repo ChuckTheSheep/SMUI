@@ -311,9 +311,21 @@ module SMUIClothing
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Military Police Brassard,
+		DisplayName = Military Police Brassard (Right),
 		ClothingItem = MPBrassard,
 		BodyLocation = SMUIRightArmPlus,
+		Icon = MPBrassard,
+		CanHaveHoles = false,
+		WorldStaticModel = MPBrassard_WorldItem,
+	}
+
+        item MPBrassardAlternate
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Military Police Brassard (Left),
+		ClothingItem = MPBrassard,
+		BodyLocation = SMUILeftArmPlus,
 		Icon = MPBrassard,
 		CanHaveHoles = false,
 		WorldStaticModel = MPBrassard_WorldItem,

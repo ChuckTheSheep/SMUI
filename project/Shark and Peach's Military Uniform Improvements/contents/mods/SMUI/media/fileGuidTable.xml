@@ -94,6 +94,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/MPBrassardAlternate.xml</path>
+	<guid>f83486c6-ea9d-40cb-b9d7-0e56ef735b1f</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/GasMaskBag.xml</path>
 	<guid>25a8cb1d-0a71-425b-b2ab-25953532e366</guid>
 	</files>

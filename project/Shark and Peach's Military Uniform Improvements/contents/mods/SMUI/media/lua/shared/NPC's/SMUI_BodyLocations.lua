@@ -10,4 +10,5 @@ local group = BodyLocations.getGroup("Human")
 
 group:getOrCreateLocation("SMUIWebbingPlus")
 group:getOrCreateLocation("SMUITorsoRigPlus")
+group:getOrCreateLocation("SMUILeftArmPlus")
 group:getOrCreateLocation("SMUIRightArmPlus")
