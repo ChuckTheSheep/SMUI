@@ -14,4 +14,6 @@ ContextMenu_EN = {
     ContextMenu_VisorDown = "Visor Down",
     ContextMenu_PullUp = "Pull Up",
     ContextMenu_PullDown = "Pull Down",
+    ContextMenu_LeftArm = "Left Arm",
+    ContextMenu_RightArm = "Right Arm",
 } 
