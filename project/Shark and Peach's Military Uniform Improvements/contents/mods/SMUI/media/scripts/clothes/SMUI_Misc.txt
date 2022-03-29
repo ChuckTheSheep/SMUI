@@ -418,4 +418,19 @@ module SMUIClothing
         FabricType = Cotton,
         WorldStaticModel = Socks_Long_Ground,
 	}
+
+        item Glasses_GeneralIssue
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = GI Glasses,
+		ClothingItem = Glasses_GeneralIssue,
+        BodyLocation = Eyes,
+        BloodLocation = Head,
+        ChanceToFall = 50,
+		Icon= GIGlasses,
+		Weight = 0.1,
+		Cosmetic = TRUE,
+        WorldStaticModel = GIGlasses_WorldItem,
+	}
 }

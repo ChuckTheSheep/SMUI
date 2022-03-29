@@ -406,4 +406,11 @@ module Base
 		texture = WorldItems/M69Vest,
 		scale = 0.5,
 	}
+
+		model GIGlasses_WorldItem
+	{
+		mesh = WorldItems/GIGlasses_WorldItem,
+		texture = WorldItems/GIGlasses,
+		scale = 0.5,
+	}
 }
