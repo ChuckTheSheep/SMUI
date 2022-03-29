@@ -64,31 +64,31 @@ SMUIZombiesZoneDefinition.Army = {
 	},
 	SharkArmyCamoGreenNVGMale = {
 		name="SharkArmyCamoGreenNVGMale",
-		chance=10,
+		chance=5,
 	},
 	SharkArmyCamoGreenNVGFemale = {
 		name="SharkArmyCamoGreenNVGFemale",
-		chance=10,
+		chance=5,
 	},
 	SharkTankCrewman = {
 		name="SharkTankCrewman",
-		chance=22,
+		chance=15,
 	},
 	SharkMOPPSuitOD = {
 		name="SharkMOPPSuitOD",
-		chance=22,
+		chance=10,
 	},
 	SharkArmyCamoUrbanGearedMale = {
 		name="SharkArmyCamoUrbanGearedMale",
-		chance=3,
+		chance=5,
 	},
 	SharkArmyCamoUrbanMale = {
 		name="SharkArmyCamoUrbanMale",
-		chance=10,
+		chance=5,
 	},
 	SharkArmyCamoUrbanFemale = {
 		name="SharkArmyCamoUrbanFemale",
-		chance=10,
+		chance=5,
 	},
 	SharkMilitaryPolice = {
 		name="SharkArmyCamoUrbanFemale",
@@ -138,10 +138,6 @@ SMUIZombiesZoneDefinition.SecretBase = {
 		name="SharkArmyCamoUrbanMale",
 		toSpawn=10,
 		chance=10,
-	},
-	SharkMOPPSuitOD = {
-		name="SharkMOPPSuitOD",
-		chance=22,
 	},
 	Doctor = {
 		name="Doctor",
