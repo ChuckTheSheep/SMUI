@@ -1100,8 +1100,8 @@
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Tactical Vest -->
-			<itemGUID>ea2e6901-f5e7-4021-87b4-c2c49f024b98</itemGUID>
+		<m_items> <!-- OD PASGT Vest -->
+			<itemGUID>bd491c9f-6fe3-48ca-bf05-04c8070cfb99</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Webbing -->
 			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
