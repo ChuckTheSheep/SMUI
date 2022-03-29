@@ -19,6 +19,7 @@ module SMUIClothing
         ClothingExtraSubmenu = Strap,
 		Insulation = 0.25,
 		WaterResistance = 0.2,
+        Obsolete = TRUE,
 		WorldStaticModel = MilitaryHelmet_WorldItem,
 	}
 
@@ -41,6 +42,7 @@ module SMUIClothing
         ClothingItemExtra = Unstrap,
 		Insulation = 0.25,
 		WaterResistance = 0.2,
+        Obsolete = TRUE,
 		WorldStaticModel = MilitaryHelmet_WorldItem,
 	}
 
