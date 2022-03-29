@@ -137,7 +137,7 @@ SMUIZombiesZoneDefinition.SecretBase = {
 	SharkCleanUpCrew = {
 		name="SharkArmyCamoUrbanMale",
 		toSpawn=10,
-		chance=10,
+		chance=30,
 	},
 	Doctor = {
 		name="Doctor",
