@@ -674,6 +674,10 @@
 		<m_items> <!-- Woodland Patrol Cap-->
 			<itemGUID>601bf44b-fe47-44b1-a327-3fd441250ca7</itemGUID>
 		</m_items>
+		<m_items> <!-- Watch Cap-->
+		<probability>0.1</probability>
+			<itemGUID>e5cc2ab2-7ef5-446a-9089-017361485d88</itemGUID>
+		</m_items>
 		<m_items> <!-- GI Socks -->
 			<itemGUID>fb86bd5f-1931-4b24-a5d7-bd6a43769991</itemGUID>
 		</m_items>	
