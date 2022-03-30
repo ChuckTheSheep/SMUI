@@ -16,4 +16,6 @@ ContextMenu_EN = {
     ContextMenu_PullDown = "Pull Down",
     ContextMenu_LeftArm = "Left Arm",
     ContextMenu_RightArm = "Right Arm",
+    ContextMenu_Fold = "Fold",
+    ContextMenu_Unfold = "Unfold",
 } 

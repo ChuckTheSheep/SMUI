@@ -47,7 +47,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military ERDL Pants,
+        DisplayName = Military ERDL Pattern Pants,
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -68,7 +68,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military ERDL Pants (Tucked),
+        DisplayName = Military ERDL Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
