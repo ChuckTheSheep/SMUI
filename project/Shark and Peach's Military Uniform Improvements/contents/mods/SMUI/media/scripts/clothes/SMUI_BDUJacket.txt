@@ -57,7 +57,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military ERDL Pattern Jacket,
+        DisplayName = Military ERDL Jacket,
         BodyLocation = Jacket,
         Icon = ShirtCamoGreen,
         BloodLocation = Jacket,
@@ -82,7 +82,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military ERDL Pattern Jacket (Rolled),
+        DisplayName = Military ERDL Jacket (Rolled),
         ClothingItem = Jacket_ERDLRolled,
         BodyLocation = Jacket,
         Icon = TShirtCamoGreen,

@@ -8,20 +8,10 @@
 	<path>media/clothing/clothingItems/Hat_BoonieHatWoodland.xml</path>
 	<guid>3d0db843-3331-4dbd-a29a-4d87fe1f31d8</guid>
 	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/Hat_BoonieHatFoldedWoodland.xml</path>
-	<guid>13abecd8-da89-49fb-a0c1-9fb98b354f82</guid>
-	</files>
 	
 	<files>
 	<path>media/clothing/clothingItems/Hat_BoonieHatSixColorDesert.xml</path>
 	<guid>d7a9635c-bd4f-4759-ac09-6f2798ad5990</guid>
-	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/Hat_BoonieHatFoldedSixColorDesert.xml</path>
-	<guid>0d33a5ad-6e46-4d96-a1e5-6c30bc7715fe</guid>
 	</files>
 
 	<files>
@@ -30,28 +20,13 @@
 	</files>
 
 	<files>
-	<path>media/clothing/clothingItems/Hat_BoonieHatFoldedThreeColorDesert.xml</path>
-	<guid>9595fbe2-7989-4e63-b8c2-b01addb4c8c8</guid>
-	</files>
-
-	<files>
 	<path>media/clothing/clothingItems/Hat_BoonieHatERDL.xml</path>
 	<guid>4803e391-4fe8-419c-b417-61d62cc81df4</guid>
 	</files>
 
 	<files>
-	<path>media/clothing/clothingItems/Hat_BoonieHatFoldedERDL.xml</path>
-	<guid>9324d77d-ca39-476b-ab51-bfcaaa106c26</guid>
-	</files>
-
-	<files>
 	<path>media/clothing/clothingItems/Hat_BoonieHatTigerStripe.xml</path>
 	<guid>a63cf5d4-18a6-40da-bc18-07b51e764ccc</guid>
-	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/Hat_BoonieHatFoldedTigerStripe.xml</path>
-	<guid>8c4e62dd-9106-4aba-9386-0850ce3634f2</guid>
 	</files>
 
 	<files>
