@@ -90,25 +90,6 @@ module SMUIClothing
 		WorldStaticModel = MilitaryTankerVest_WorldItem,
 	}
 
-		item Vest_PASGTWoodland
-	{   
-
-        DisplayCategory = Clothing,
-        Type = Clothing,
-        DisplayName = Woodland PASGT Vest,
-        ClothingItem = Vest_PASGTWoodland,
-        BodyLocation = TorsoExtra,
-        Icon = PASGTWoodland,
-        BloodLocation = ShirtNoSleeves,
-		BiteDefense = 75,
-		ScratchDefense = 75,
-		BulletDefense = 100,
-		Insulation = 0.75,
-        WindResistance = 0.45,
-		RunSpeedModifier = 1,
-        WorldStaticModel = PASGTWoodland_WorldItem,
-	}
-
 		item Vest_PASGTDesert
 	{   
 

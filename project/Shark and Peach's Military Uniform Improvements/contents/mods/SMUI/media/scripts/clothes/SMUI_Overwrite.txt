@@ -1,0 +1,19 @@
+module Base 
+{
+    item Vest_BulletArmy
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Woodland PASGT Vest,
+        ClothingItem = Vest_BulletArmy,
+        BodyLocation = TorsoExtra,
+        Icon = WoodlandPASGT,
+        BloodLocation = ShirtNoSleeves,
+        Insulation = 0.75,
+        WindResistance = 0.45,
+        BiteDefense = 75,
+        ScratchDefense = 75,
+        BulletDefense = 100,
+        WorldStaticModel = PASGTWoodland_WorldItem,
+    }
+}
