@@ -413,4 +413,39 @@ module Base
 		texture = WorldItems/GIGlasses,
 		scale = 0.5,
 	}
+
+		model BoonieHatWoodland_WorldItem
+	{
+		mesh = WorldItems/BoonieHat_WorldItem,
+		texture = WorldItems/BoonieHatWoodland,
+		scale = 0.5,
+	}
+
+		model BoonieHatSixColor_WorldItem
+	{
+		mesh = WorldItems/BoonieHat_WorldItem,
+		texture = WorldItems/BoonieHatSixColor,
+		scale = 0.5,
+	}
+
+		model BoonieHatThreeColor_WorldItem
+	{
+		mesh = WorldItems/BoonieHat_WorldItem,
+		texture = WorldItems/BoonieHatSixColor,
+		scale = 0.5,
+	}
+
+		model BoonieHatERDL_WorldItem
+	{
+		mesh = WorldItems/BoonieHat_WorldItem,
+		texture = WorldItems/BoonieHatERDL,
+		scale = 0.5,
+	}
+
+		model BoonieHatTigerStripe_WorldItem
+	{
+		mesh = WorldItems/BoonieHat_WorldItem,
+		texture = WorldItems/BoonieHatTigerStripe,
+		scale = 0.5,
+	}
 }

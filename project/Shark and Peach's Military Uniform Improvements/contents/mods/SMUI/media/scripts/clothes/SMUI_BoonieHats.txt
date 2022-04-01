@@ -223,7 +223,7 @@ module SMUIClothing
         DisplayName = Six Color Desert Boonie Hat,
         ClothingItem = Hat_BoonieHatSixColorDesert,
         BodyLocation = Hat,
-        Icon BoonieHatSixColor,
+        Icon = BoonieHatSixColor,
         ClothingItemExtra = SMUIClothing.Hat_BoonieHatSixColorDesertFolded,
         ClothingItemExtraOption = Unfold,
         ClothingExtraSubmenu = Fold,
