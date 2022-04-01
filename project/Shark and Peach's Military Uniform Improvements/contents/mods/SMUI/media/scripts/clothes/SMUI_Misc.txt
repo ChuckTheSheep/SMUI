@@ -311,7 +311,7 @@ module SMUIClothing
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Military Police Brassard (Right),
+		DisplayName = Military Police Brassard,
 		ClothingItem = MPBrassard,
 		BodyLocation = SMUIRightArmPlus,
         Weight = 0.03,
@@ -324,7 +324,6 @@ module SMUIClothing
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Military Police Brassard (Left),
 		ClothingItem = MPBrassardAlternate,
 		BodyLocation = SMUILeftArmPlus,
         Weight = 0.03,
@@ -337,7 +336,7 @@ module SMUIClothing
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Flight Gloves,
+		DisplayName = Summer Flyer Gloves,
 		ClothingItem = Gloves_FlightGloves,
 		BodyLocation = Hands,
 		Icon = SummerFlyers,
