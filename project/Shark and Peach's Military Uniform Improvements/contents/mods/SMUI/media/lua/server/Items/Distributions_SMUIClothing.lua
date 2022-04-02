@@ -168,6 +168,11 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_PatrolCap");
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 3);
 
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_PatrolCapERDL");
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 3);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Hat_PatrolCapERDL");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 0.3);
+
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_MilitaryHelmetNVGMount");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_MilitaryHelmetNVGMount");
