@@ -39,6 +39,43 @@ module SMUIClothing
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
+        item Hat_PatrolCap ERDL
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military ERDL Patrol Cap,
+        ClothingItem = Hat_PatrolCapERDL,
+        BodyLocation = Hat,
+        Icon = PatrolCapWoodland,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_PatrolCapReversed,
+        ClothingItemExtraOption = ReverseCap,
+        ClothingExtraSubmenu = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.5,
+        WorldStaticModel = PatrolCapWoodland_WorldItem,
+    }
+
+        item Hat_PatrolCapReversed
+    {
+        DisplayCategory = Clothing,
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Military ERDL Patrol Cap (Reversed),
+        ClothingItem = Hat_PatrolCapERDLReversed,
+        BodyLocation = Hat,
+        Icon = PatrolCapWoodland,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_PatrolCap,
+        ClothingItemExtraOption = ForwardCap,
+        ClothingExtraSubmenu = ReverseCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.5,
+        WorldStaticModel = PatrolCapWoodland_WorldItem,
+    }
+
         item Hat_PatrolCapDesert
     {
         DisplayCategory = Clothing,

@@ -446,4 +446,37 @@ module SMUIClothing
 		Cosmetic = TRUE,
         WorldStaticModel = GIGlasses_WorldItem,
 	}
+
+        item Hat_ERDLBeret
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = ERDL Beret,
+		ClothingItem = Hat_ERDLBeret,
+		BodyLocation = Hat,
+        BloodLocation = Head,
+        Insulation = 0.1,
+		WindResistance = 0.3,
+		Icon= ERDLBeret,
+		Weight = 0.1,
+        WorldStaticModel = ERDLBeret_WorldItem,
+	}
+
+        item Hat_TigerStripeBeret
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Tiger Stripe Beret,
+		ClothingItem = Hat_TigerStripeBeret,
+		BodyLocation = Hat,
+        BloodLocation = Head,
+        Insulation = 0.1,
+		WindResistance = 0.3,
+		Icon= TigerStripeBeret,
+		Weight = 0.1,
+        WorldStaticModel = TigerStripeBeret_WorldItem,
+	}
+
+
+    
 }

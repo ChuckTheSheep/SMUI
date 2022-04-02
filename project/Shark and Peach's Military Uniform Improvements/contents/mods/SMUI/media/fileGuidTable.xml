@@ -389,6 +389,16 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapERDL.xml</path>
+	<guid>699bfd5d-eb40-47d0-8185-9ade261ffef1</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapERDLReversed.xml</path>
+	<guid>7ea4a0d2-422c-4cd2-a7a0-ed21efd17c5d</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_PatrolCapDesert.xml</path>
 	<guid>72e14fde-e6f5-4927-bf1e-58f8ec19f85f7</guid>
 	</files>
@@ -736,6 +746,16 @@
 	<files>
 	<path>media/clothing/clothingItems/Socks_GeneralIssue.xml</path>
 	<guid>b496da29-e941-43f7-85dd-854b79c7b453</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_ERDLBeret.xml</path>
+	<guid>786e9a9e-b002-4c2a-b7d7-29bfd832a4bb</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_TigerStripeBeret.xml</path>
+	<guid>93563768-750f-4d77-99d9-9df0f575db6b</guid>
 	</files>
 
 	<!-- Vanilla Clothing -->

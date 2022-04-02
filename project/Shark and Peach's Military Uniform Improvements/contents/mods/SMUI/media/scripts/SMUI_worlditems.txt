@@ -448,4 +448,18 @@ module Base
 		texture = WorldItems/BoonieHatTigerStripe,
 		scale = 0.5,
 	}
+
+		model TigerStripeBeret_WorldItem
+	{
+		mesh = WorldItems/Beret_WorldItem,
+		texture = WorldItems/TigerStripeBeret,
+		scale = 0.5,
+	}
+
+		model ERDLBeret_WorldItem
+	{
+		mesh = WorldItems/Beret_WorldItem,
+		texture = WorldItems/ERDLBeret,
+		scale = 0.5,
+	}
 }
