@@ -6,7 +6,5 @@
 	<m_Static>false</m_Static>
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
-	<m_MasksFolder>media/textures/Clothes/BulletVest\Masks_BulletVest</m_MasksFolder>
-	<m_UnderlayMasksFolder>media/textures/Clothes/BulletVest\Masks_BulletVest</m_UnderlayMasksFolder>
 	<textureChoices>clothes\vest\Vest_PASGTOD</textureChoices>
 </clothingItem>
