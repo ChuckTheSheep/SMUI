@@ -6,7 +6,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Green Camo Patrol Cap,
+        DisplayName =  Woodland Patrol Cap,
         ClothingItem = Hat_PatrolCap,
         BodyLocation = Hat,
         Icon = PatrolCapWoodland,
@@ -25,7 +25,7 @@ module SMUIClothing
         DisplayCategory = Clothing,
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Green Camo Patrol Cap (Reversed),
+        DisplayName =  Woodland Patrol Cap (Reversed),
         ClothingItem = Hat_PatrolCapReversed,
         BodyLocation = Hat,
         Icon = PatrolCapWoodland,
@@ -39,16 +39,16 @@ module SMUIClothing
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
-        item Hat_PatrolCap ERDL
+        item Hat_PatrolCapERDL
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military ERDL Patrol Cap,
+        DisplayName =  ERDL Patrol Cap,
         ClothingItem = Hat_PatrolCapERDL,
         BodyLocation = Hat,
         Icon = PatrolCapWoodland,
         CanHaveHoles = false,
-        ClothingItemExtra = SMUIClothing.Hat_PatrolCapReversed,
+        ClothingItemExtra = SMUIClothing.Hat_PatrolCapERDLReversed,
         ClothingItemExtraOption = ReverseCap,
         ClothingExtraSubmenu = ForwardCap,
         ChanceToFall = 80,
@@ -57,17 +57,16 @@ module SMUIClothing
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
-        item Hat_PatrolCapReversed
+        item Hat_PatrolCapERDLReversed
     {
         DisplayCategory = Clothing,
-        DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military ERDL Patrol Cap (Reversed),
+        DisplayName =  ERDL Patrol Cap (Reversed),
         ClothingItem = Hat_PatrolCapERDLReversed,
         BodyLocation = Hat,
         Icon = PatrolCapWoodland,
         CanHaveHoles = false,
-        ClothingItemExtra = SMUIClothing.Hat_PatrolCap,
+        ClothingItemExtra = SMUIClothing.Hat_PatrolCapERDL,
         ClothingItemExtraOption = ForwardCap,
         ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
@@ -80,7 +79,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Camo Patrol Cap,
+        DisplayName =  Desert Battle Patrol Cap,
         ClothingItem = Hat_PatrolCapDesert,
         BodyLocation = Hat,
         Icon = PatrolCapDesert,
@@ -98,7 +97,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Camo Patrol Cap (Reversed),
+        DisplayName =  Desert Battle Patrol Cap (Reversed),
         ClothingItem = Hat_PatrolCapDesertReversed,
         BodyLocation = Hat,
         Icon = PatrolCapDesert,
@@ -116,7 +115,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Combat Patrol Cap,
+        DisplayName =  Desert Combat Patrol Cap,
         ClothingItem = Hat_PatrolCapDesertCombat,
         BodyLocation = Hat,
         Icon = PatrolCapDesert,
@@ -134,7 +133,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Combat Patrol Cap (Reversed),
+        DisplayName =   Desert Combat Patrol Cap (Reversed),
         ClothingItem = Hat_PatrolCapDesertCombatReversed,
         BodyLocation = Hat,
         Icon = PatrolCapDesert,
@@ -153,7 +152,7 @@ module SMUIClothing
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Urban Camo Patrol Cap,
+        DisplayName =  Urban Camo Patrol Cap,
         ClothingItem = Hat_PatrolCapUrban,
         BodyLocation = Hat,
         Icon = PatrolCapUrban,
@@ -171,7 +170,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Urban Patrol Cap (Reversed),
+        DisplayName =  Urban Patrol Cap (Reversed),
         ClothingItem = Hat_PatrolCapUrbanReversed,
         BodyLocation = Hat,
         Icon = PatrolCapUrban,
@@ -189,7 +188,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Green Camo Winter Patrol Cap,
+        DisplayName =  Woodland Winter Patrol Cap,
         ClothingItem = Hat_PatrolCapWinter,
         BodyLocation = Hat,
         Icon = PatrolCapWinter,
@@ -205,7 +204,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Camo Winter Patrol Cap,
+        DisplayName =  Three Color Desert Winter Patrol Cap,
         ClothingItem = Hat_PatrolCapWinterDesert,
         BodyLocation = Hat,
         Icon = PatrolCapWinterDesert,

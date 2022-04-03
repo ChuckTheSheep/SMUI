@@ -8,6 +8,13 @@ module Base
 		scale = 0.5,
 	}
 
+	    model PatrolCapERDL_WorldItem
+	{
+		mesh = WorldItems/PatrolCap_WorldItem,
+		texture = WorldItems/PatrolCapERDL,
+		scale = 0.5,
+	}
+
 		model PatrolCapDesert_WorldItem
 	{
 		mesh = WorldItems/PatrolCap_WorldItem,
