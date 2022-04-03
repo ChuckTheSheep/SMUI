@@ -389,6 +389,16 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapRolled.xml</path>
+	<guid>50a07bc6-c0e0-4aad-ab68-2c5ba76da526</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapRolledReversed.xml</path>
+	<guid>aba91ca4-342f-4f48-aba1-80a7b5d5eeee</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_PatrolCapERDL.xml</path>
 	<guid>699bfd5d-eb40-47d0-8185-9ade261ffef1</guid>
 	</files>
@@ -396,6 +406,16 @@
 	<files>
 	<path>media/clothing/clothingItems/Hat_PatrolCapERDLReversed.xml</path>
 	<guid>7ea4a0d2-422c-4cd2-a7a0-ed21efd17c5d</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapERDLRolled.xml</path>
+	<guid>05e7d85c-3e06-4a45-b556-f410bb7d931f</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapERDLRolledReversed.xml</path>
+	<guid>453545f6-d782-46d7-97e3-795ef569a5bf</guid>
 	</files>
 
 	<files>
@@ -407,6 +427,16 @@
 	<path>media/clothing/clothingItems/Hat_PatrolCapDesertReversed.xml</path>
 	<guid>07e1b936-24d4-4c3d-b12b-f8a0d46f5380</guid>
 	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapDesertRolled.xml</path>
+	<guid>05e7d85c-3e06-4a45-b556-f410bb7d931f</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapDesertRolledReversed.xml</path>
+	<guid>453545f6-d782-46d7-97e3-795ef569a5bf</guid>
+	</files>
 	
 	<files>
 	<path>media/clothing/clothingItems/Hat_PatrolCapDesertCombat.xml</path>
@@ -417,6 +447,16 @@
 	<path>media/clothing/clothingItems/Hat_PatrolCapDesertCombatReversed.xml</path>
 	<guid>a7da2177-d032-4c19-b89e-aa0c4ba4bc7a</guid>
 	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapDesertCombatRolled.xml</path>
+	<guid>938673b2-0ec9-476b-b37f-0acb61821f77</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapDesertCombatRolledReversed.xml</path>
+	<guid>274fefbf-346b-4681-ba01-43ab40e0b147</guid>
+	</files>
 
 	<files>
 	<path>media/clothing/clothingItems/Hat_PatrolCapUrban.xml</path>
@@ -426,6 +466,16 @@
 	<files>
 	<path>media/clothing/clothingItems/Hat_PatrolCapUrbanReversed.xml</path>
 	<guid>376e3834-d440-49ce-b2f4-dcb6cfa0a82c</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapUrbanRolled.xml</path>
+	<guid>aadcf5c7-7f5c-4728-be38-40df4c4ffc15</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapUrbanRolledReversed.xml</path>
+	<guid>f6a77af7-a451-479d-942d-e2fe44cf427c</guid>
 	</files>
 
 	<files>
