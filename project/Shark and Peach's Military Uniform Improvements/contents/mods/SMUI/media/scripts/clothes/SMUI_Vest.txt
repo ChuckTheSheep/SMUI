@@ -95,7 +95,7 @@ module SMUIClothing
 
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Six Color Desert PASGT Vest,
+        DisplayName = Desert Combat PASGT Vest,
         ClothingItem = Vest_PASGTDesert,
         BodyLocation = TorsoExtra,
         Icon = PASGTDesert,

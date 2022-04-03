@@ -6,7 +6,7 @@ module SMUIClothing
 	{
 		DisplayCategory = Helmet,
 		Type = Clothing,
-		DisplayName = Military Helmet /w Night Vision (Up),
+		DisplayName = Woodland PASGT Helmet /w Night Vision (Up),
 		ClothingItem = Hat_MilitaryHelmetNVGUP,
 		BodyLocation = Hat,
 		Icon = MilitaryHelmetNVG,
@@ -30,7 +30,7 @@ module SMUIClothing
 	{
 		DisplayCategory = Helmet,
 		Type = Clothing,
-		DisplayName = Military Helmet /w Night Vision (Down),
+		DisplayName = Woodland PASGT Helmet /w Night Vision (Down),
 		ClothingItem = Hat_MilitaryHelmetNVGDOWN,
 		BodyLocation = Hat,
 		BloodLocation = FullHelmet,
@@ -53,7 +53,7 @@ module SMUIClothing
 	{
 		DisplayCategory = Helmet,
 		Type = Clothing,
-		DisplayName = Desert Military Helmet /w Night Vision (Up),
+		DisplayName = Desert Battle PASGT Helmet /w Night Vision (Up),
 		ClothingItem = Hat_MilitaryHelmetDesertNVGUP,
 		BodyLocation = Hat,
 		Icon = DesertMilitaryHelmetNVG,
@@ -77,7 +77,7 @@ module SMUIClothing
 	{
 		DisplayCategory = Helmet,
 		Type = Clothing,
-		DisplayName = Desert Military Helmet /w Night Vision (Down),
+		DisplayName = Desert Battle PASGT Helmet /w Night Vision (Down),
 		ClothingItem = Hat_MilitaryHelmetDesertNVGDOWN,
 		BodyLocation = Hat,
 		BloodLocation = FullHelmet,
@@ -100,7 +100,7 @@ module SMUIClothing
 	{
 		DisplayCategory = Helmet,
 		Type = Clothing,
-		DisplayName = Desert Combat Military Helmet /w Night Vision (Up),
+		DisplayName = Desert Combat PASGT Helmet /w Night Vision (Up),
 		ClothingItem = Hat_MilitaryHelmetDesertCombatNVGUP,
 		BodyLocation = Hat,
 		Icon = DesertMilitaryHelmetNVG,
@@ -124,7 +124,7 @@ module SMUIClothing
 	{
 		DisplayCategory = Helmet,
 		Type = Clothing,
-		DisplayName = Desert Combat Military Helmet /w Night Vision (Down),
+		DisplayName = Desert Combat PASGT Helmet /w Night Vision (Down),
 		ClothingItem = Hat_MilitaryHelmetDesertCombatNVGDOWN,
 		BodyLocation = Hat,
 		BloodLocation = FullHelmet,

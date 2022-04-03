@@ -5,7 +5,7 @@ module SMUIClothing
 	{
 		DisplayCategory = Webbing,
 		Type = Container,
-		DisplayName = Military Webbing,
+		DisplayName = ALICE Webbing,
 		ClothingItem = MilitaryWebbing,
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,
@@ -24,7 +24,7 @@ module SMUIClothing
 	{
 		DisplayCategory = Webbing,
 		Type = Container,
-		DisplayName = Military Webbing (Tightened),
+		DisplayName = ALICE Webbing (Tightened),
 		ClothingItem = MilitaryWebbingTightened,
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,
@@ -43,7 +43,7 @@ module SMUIClothing
 	{
 		DisplayCategory = Webbing,
 		Type = Container,
-		DisplayName = Military Webbing /w Pack,
+		DisplayName = ALICE Webbing /w Pack,
 		ClothingItem = MilitaryWebbingBag,
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,
@@ -62,7 +62,7 @@ module SMUIClothing
 	{
 		DisplayCategory = Webbing,
 		Type = Container,
-		DisplayName = Military Webbing /w Pack (Tightened),
+		DisplayName = ALICE Webbing /w Pack (Tightened),
 		ClothingItem = MilitaryWebbingBagTightened,
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,

@@ -384,7 +384,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName =  Three Color Desert Winter Patrol Cap,
+        DisplayName =  Desert Combat Winter Patrol Cap,
         ClothingItem = Hat_PatrolCapWinterDesert,
         BodyLocation = Hat,
         Icon = PatrolCapWinterDesert,

@@ -5,7 +5,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Green Camo Pants,
+        DisplayName = Woodland Pattern Pants,
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -26,7 +26,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Green Camo Pants (Tucked),
+        DisplayName = Woodland Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -47,7 +47,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military ERDL Pants,
+        DisplayName = ERDL Pattern Pants,
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -68,7 +68,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military ERDL Pants (Tucked),
+        DisplayName = ERDL Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -89,7 +89,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Tiger Stripe Pants,
+        DisplayName = Tiger Stripe Pattern Pants,
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -110,7 +110,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Tiger Stripe Pants (Tucked),
+        DisplayName = Tiger Stripe Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -131,7 +131,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Desert Camo Pants,
+        DisplayName = Desert Combat Pattern Pants,
         BodyLocation = Pants,
         Icon = TrousersCamoSand,
         BloodLocation = Trousers,
@@ -152,7 +152,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Desert Camo Pants (Tucked),
+        DisplayName = Desert Combat Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoSand,
         BloodLocation = Trousers,
@@ -174,7 +174,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Desert Combat Pants,
+        DisplayName = Desert Combat Pattern Pants,
         BodyLocation = Pants,
         Icon = TrousersCamoSand,
         BloodLocation = Trousers,
@@ -195,7 +195,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Desert Combat Pants (Tucked),
+        DisplayName = Desert Combat Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoSand,
         BloodLocation = Trousers,
@@ -218,7 +218,7 @@ module SMUIClothing
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Urban Camo Pants,
+        DisplayName = Urban Pattern Pants,
         BodyLocation = Pants,
         Icon = TrousersCamoGrey,
         BloodLocation = Trousers,
@@ -241,7 +241,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Urban Camo Pants (Tucked),
+        DisplayName = Urban Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoGrey,
         BloodLocation = Trousers,
@@ -263,7 +263,7 @@ module SMUIClothing
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military T-Pattern Camo Pants,
+        DisplayName = T-Pattern Pants,
         BodyLocation = Pants,
         Icon = TrousersCamoGrey,
         BloodLocation = Trousers,
@@ -286,7 +286,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military T-Pattern Camo Pants (Tucked),
+        DisplayName = T-Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoGrey,
         BloodLocation = Trousers,
@@ -308,7 +308,7 @@ module SMUIClothing
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Olive Drab Pants,
+        DisplayName = OG-107 Pants,
         BodyLocation = Pants,
         Icon = ODGreenPants,
         BloodLocation = Trousers,
@@ -331,7 +331,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Olive Drab Pants (Tucked),
+        DisplayName = OG-107 Pants (Tucked),
         BodyLocation = Pants,
         Icon = ODGreenPants,
         BloodLocation = Trousers,

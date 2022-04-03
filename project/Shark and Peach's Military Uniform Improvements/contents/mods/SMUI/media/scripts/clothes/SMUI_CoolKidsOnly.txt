@@ -5,7 +5,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Hawaiian Military Helmet,
+        DisplayName = Hawaiian PASGT Helmet,
         ClothingItem = Hat_MilitaryHelmetHawaiian,
         BodyLocation = Hat,
         Icon = MilitaryHelmet,
@@ -27,7 +27,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Strapless Hawaiian Military Helmet,
+        DisplayName = Strapless PASGT Military Helmet,
         ClothingItem = Hat_MilitaryHelmetHawaiianStrapless,
         BodyLocation = Hat,
         Icon = MilitaryHelmetStrapless,

@@ -6,7 +6,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Green Camo Jacket,
+        DisplayName = Woodland Pattern Jacket,
         BodyLocation = Jacket,
         Icon = ShirtCamoGreen,
         BloodLocation = Jacket,
@@ -31,7 +31,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Green Camo Jacket (Rolled),
+        DisplayName = Woodland Pattern Jacket (Rolled),
         ClothingItem = Jacket_ArmyCamoGreenRolled,
         BodyLocation = Jacket,
         Icon = TShirtCamoGreen,
@@ -57,7 +57,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military ERDL Jacket,
+        DisplayName = ERDL Pattern Jacket,
         BodyLocation = Jacket,
         Icon = ShirtCamoGreen,
         BloodLocation = Jacket,
@@ -82,7 +82,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military ERDL Jacket (Rolled),
+        DisplayName = ERDL Pattern Jacket (Rolled),
         ClothingItem = Jacket_ERDLRolled,
         BodyLocation = Jacket,
         Icon = TShirtCamoGreen,
@@ -108,7 +108,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Tiger Stripe Jacket,
+        DisplayName = Tiger Stripe Pattern Jacket,
         BodyLocation = Jacket,
         Icon = ShirtCamoGreen,
         BloodLocation = Jacket,
@@ -132,7 +132,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Tiger Stripe Jacket (Rolled),
+        DisplayName = Tiger Stripe Pattern Jacket (Rolled),
         ClothingItem = Jacket_TigerStripeRolled,
         BodyLocation = Jacket,
         Icon = TShirtCamoGreen,
@@ -159,7 +159,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Desert Camo Jacket,
+        DisplayName = Desert Combat Pattern Jacket,
         BodyLocation = Jacket,
         BloodLocation = Jacket,
         Icon = ShirtCamoSand,
@@ -184,7 +184,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Desert Camo Jacket (Rolled),
+        DisplayName = Desert Combat Jacket (Rolled),
         BodyLocation = Jacket,
         BloodLocation = Jacket,
         Icon = TShirtCamoSand,
@@ -209,7 +209,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Desert Combat Jacket,
+        DisplayName = Desert Combat Pattern Jacket,
         BodyLocation = Jacket,
         BloodLocation = Jacket,
         Icon = ShirtCamoSand,
@@ -234,7 +234,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Desert Combat Jacket (Rolled),
+        DisplayName = Desert Combat Pattern Jacket (Rolled),
         BodyLocation = Jacket,
         BloodLocation = Jacket,
         Icon = TShirtCamoSand,
@@ -259,7 +259,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Urban Camo Jacket,
+        DisplayName = Urban Pattern Jacket,
         BodyLocation = Jacket,
         Icon = ShirtCamoGrey,
         BloodLocation = Jacket,
@@ -285,7 +285,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Urban Camo Jacket (Rolled),
+        DisplayName = Urban Pattern Jacket (Rolled),
         BodyLocation = Jacket,
         Icon = TShirtCamoGrey,
         BloodLocation = Jacket,
@@ -311,7 +311,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military T-Pattern Camo Jacket,
+        DisplayName = T-Pattern Jacket,
         BodyLocation = Jacket,
         Icon = ShirtCamoGrey,
         BloodLocation = Jacket,
@@ -337,7 +337,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military T-Pattern Camo Jacket (Rolled),
+        DisplayName = T-Pattern Jacket (Rolled),
         BodyLocation = Jacket,
         Icon = TShirtCamoGrey,
         BloodLocation = Jacket,
@@ -363,7 +363,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Olive Drab Jacket,
+        DisplayName = OG-107 Jacket,
         BodyLocation = Jacket,
         Icon = ODGreen,
         BloodLocation = Jacket,
@@ -389,7 +389,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Military Olive Drab Jacket (Rolled),
+        DisplayName = OG-107 Jacket (Rolled),
         BodyLocation = Jacket,
         Icon = ODGreenJacketRolled,
         BloodLocation = Jacket,

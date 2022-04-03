@@ -5,7 +5,7 @@ module SMUIClothing
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Military Helmet,
+		DisplayName = Woodland PASGT Helmet,
 		ClothingItem = Hat_MilitaryHelmet,
 		BodyLocation = Hat,
 		Icon = MilitaryHelmet,
@@ -27,7 +27,7 @@ module SMUIClothing
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Military Helmet,
+		DisplayName = Woodland PASGT Helmet,
 		ClothingItem = Hat_MilitaryHelmetStrapless,
 		BodyLocation = Hat,
 		Icon = MilitaryHelmet,
@@ -50,7 +50,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Military Helmet,
+        DisplayName = Woodland PASGT Helmet,
         ClothingItem = Hat_MilitaryHelmet,
         BodyLocation = Hat,
         Icon = MilitaryHelmet,
@@ -71,7 +71,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Strapless Military Helmet,
+        DisplayName = Strapless Woodland PASGT Helmet,
         ClothingItem = Hat_MilitaryHelmetStrapless,
         BodyLocation = Hat,
         Icon = MilitaryHelmetStrapless,
@@ -93,7 +93,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Military Helmet w/ Goggles,
+        DisplayName = Woodland PASGT Helmet w/ Goggles,
         ClothingItem = Hat_MilitaryHelmetGoggles,
         BodyLocation = Hat,
         Icon = MilitaryHelmetGoggles,
@@ -114,7 +114,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Strapless Military Helmet w/ Goggles,
+        DisplayName = Strapless Woodland PASGT Helmet w/ Goggles,
         ClothingItem = Hat_MilitaryHelmetGogglesStrapless,
         BodyLocation = Hat,
         Icon = MilitaryHelmetGogglesStrapless,
@@ -136,7 +136,7 @@ module SMUIClothing
 	{
         DisplayCategory = Helmet,
 		Type = Clothing,
-		DisplayName = Military Helmet w/ NVG Mount,
+		DisplayName = Woodland PASGT Helmet w/ NVG Mount,
 		ClothingItem = Hat_MilitaryHelmetNVGMount,
 		BodyLocation = Hat,
 		Icon = MilitaryHelmet,
@@ -157,7 +157,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Desert Military Helmet,
+        DisplayName = Desert Battle PASGT Helmet,
         ClothingItem = Hat_MilitaryHelmetDesert,
         BodyLocation = Hat,
         Icon = DesertMilitaryHelmet,
@@ -178,7 +178,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Desert Combat Military Helmet,
+        DisplayName = Desert Battle PASGT Helmet,
         ClothingItem = Hat_MilitaryHelmetDesertCombat,
         BodyLocation = Hat,
         Icon = DesertMilitaryHelmet,
@@ -200,7 +200,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName =  Desert Military Helmet (Strapless),
+        DisplayName =  Desert Battle PASGT Helmet (Strapless),
         ClothingItem = Hat_MilitaryHelmetDesertStrapless,
         BodyLocation = Hat,
         Icon = DesertMilitaryHelmetStrapless,
@@ -222,7 +222,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName =  Desert Combat Military Helmet (Strapless),
+        DisplayName =  Desert Combat PASGT Helmet (Strapless),
         ClothingItem = Hat_MilitaryHelmetDesertCombatStrapless,
         BodyLocation = Hat,
         Icon = DesertMilitaryHelmetStrapless,
@@ -244,7 +244,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Desert Military Helmet /w Goggles,
+        DisplayName = Desert Combat PASGT Helmet /w Goggles,
         ClothingItem = Hat_MilitaryHelmetDesertGoggles,
         BodyLocation = Hat,
         Icon = MilitaryHelmetDesertGoggles,
@@ -265,7 +265,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Desert Combat Military Helmet /w Goggles,
+        DisplayName = Desert Combat PASGT Helmet /w Goggles,
         ClothingItem = Hat_MilitaryHelmetDesertCombatGoggles,
         BodyLocation = Hat,
         Icon = MilitaryHelmetDesertGoggles,
@@ -286,7 +286,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName =  Strapless Desert Military Helmet w/ Goggles,
+        DisplayName =  Strapless Desert Combat PASGT Helmet w/ Goggles,
         ClothingItem = Hat_MilitaryHelmetDesertGogglesStrapless,
         BodyLocation = Hat,
         Icon = MilitaryHelmetDesertGogglesStrapless,
@@ -308,7 +308,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName =  Strapless Desert Combat Military Helmet w/ Goggles,
+        DisplayName =  Strapless Desert Combat PASGT Helmet w/ Goggles,
         ClothingItem = Hat_MilitaryHelmetDesertCombatGogglesStrapless,
         BodyLocation = Hat,
         Icon = MilitaryHelmetDesertGogglesStrapless,
@@ -330,7 +330,7 @@ module SMUIClothing
 	{
         DisplayCategory = Helmet,
 		Type = Clothing,
-		DisplayName = Desert Military Helmet w/ NVG Mount,
+		DisplayName = Desert Battle PASGT Helmet w/ NVG Mount,
 		ClothingItem = Hat_MilitaryHelmetDesertNVGMount,
 		BodyLocation = Hat,
 		Icon = DesertMilitaryHelmet,
@@ -351,7 +351,7 @@ module SMUIClothing
 	{
         DisplayCategory = Helmet,
 		Type = Clothing,
-		DisplayName = Desert Combat Military Helmet w/ NVG Mount,
+		DisplayName = Desert Combat PASGT Helmet w/ NVG Mount,
 		ClothingItem = Hat_MilitaryHelmetDesertCombatNVGMount,
 		BodyLocation = Hat,
 		Icon = DesertMilitaryHelmet,
@@ -372,7 +372,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Military Helmet w/ Riot Visor,
+        DisplayName = Woodland PASGT Helmet w/ Riot Visor,
         ClothingItem = Hat_MilitaryHelmetRiot,
         BodyLocation = Hat,
         Icon = MilitaryHelmetRiot,
@@ -394,7 +394,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Military Helmet w/ Riot Visor (Up),
+        DisplayName = Woodland PASGT Helmet w/ Riot Visor (Up),
         ClothingItem = Hat_MilitaryHelmetRiotUP,
         BodyLocation = Hat,
         Icon = MilitaryHelmetRiotUP,
