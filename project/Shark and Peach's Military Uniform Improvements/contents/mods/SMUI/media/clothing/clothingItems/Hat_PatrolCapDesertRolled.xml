@@ -2,8 +2,8 @@
 <clothingItem>
 	<m_MaleModel>media/models_X/static/clothes/M_RangerRollPatrol.FBX</m_MaleModel>
 	<m_FemaleModel>media/models_X/static/clothes/F_RangerRollPatrol.FBX</m_FemaleModel>
-	<m_GUID>6711d3e8-0ac6-41f0-9f9c-b429d5ce55e9</m_GUID>
-	<m_Static>false</m_Static>
+	<m_GUID>07f0c2c0-4f59-4521-aae1-ebdda7d209e4</m_GUID>
+	<m_Static>true</m_Static>
 	<m_AllowRandomHue>false</m_AllowRandomHue>
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone>Bip01_Head</m_AttachBone>

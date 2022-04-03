@@ -4,6 +4,175 @@ module SMUIClothing{
       Base
   }
 
+
+recipe Roll patrol cap
+  	{
+   	   Hat_PatrolCap,
+
+   	   Result:Hat_PatrolCapRolled,
+	   Time:60,
+  	}
+
+recipe Roll patrol cap
+  	{
+   	   Hat_PatrolCapReversed,
+
+   	   Result:Hat_PatrolCapRolled,
+	   Time:60,
+  	}
+
+recipe Unroll patrol cap
+  	{
+   	   Hat_PatrolCapRolled,
+
+   	   Result:Hat_PatrolCap,
+	   Time:60,
+  	}
+
+recipe Unroll patrol cap
+  	{
+   	   Hat_PatrolCapRolledReversed,
+
+   	   Result:Hat_PatrolCap,
+	   Time:60,
+  	}
+
+recipe Roll patrol cap
+  	{
+   	   Hat_PatrolCapERDL,
+
+   	   Result:Hat_PatrolCapERDLRolled,
+	   Time:60,
+  	}
+
+recipe Roll patrol cap
+  	{
+   	   Hat_PatrolCapERDLReversed,
+
+   	   Result:Hat_PatrolCapERDLRolled,
+	   Time:60,
+  	}
+
+recipe Unroll patrol cap
+  	{
+   	   Hat_PatrolCapERDLRolled,
+
+   	   Result:Hat_PatrolCapERDL,
+	   Time:60,
+  	}
+
+recipe Unroll patrol cap
+  	{
+   	   Hat_PatrolCapERDLRolledReversed,
+
+   	   Result:Hat_PatrolCapERDL,
+	   Time:60,
+  	}
+
+recipe Roll patrol cap
+  	{
+   	   Hat_PatrolCapDesert,
+
+   	   Result:Hat_PatrolCapDesertRolled,
+	   Time:60,
+  	}
+
+recipe Roll patrol cap
+  	{
+   	   Hat_PatrolCapDesertReversed,
+
+   	   Result:Hat_PatrolCapDesertRolledReversed,
+	   Time:60,
+  	}
+
+recipe Unroll patrol cap
+  	{
+   	   Hat_PatrolCapDesertRolled,
+
+   	   Result:Hat_PatrolCapDesert,
+	   Time:60,
+  	}
+
+recipe Unroll patrol cap
+  	{
+   	   Hat_PatrolCapDesertRolledReversed,
+
+   	   Result:Hat_PatrolCapDesert,
+	   Time:60,
+  	}
+
+recipe Roll patrol cap
+  	{
+   	   Hat_PatrolCapDesertCombat,
+
+   	   Result:Hat_PatrolCapDesertCombatRolled,
+	   Time:60,
+  	}
+
+recipe Roll patrol cap
+  	{
+   	   Hat_PatrolCapDesertCombatReversed,
+
+   	   Result:Hat_PatrolCapDesertCombatRolledReversed,
+	   Time:60,
+  	}
+
+recipe Unroll patrol cap
+  	{
+   	   Hat_PatrolCapDesertCombatRolled,
+
+   	   Result:Hat_PatrolCapDesertCombat,
+	   Time:60,
+  	}
+
+recipe Unroll patrol cap
+  	{
+   	   Hat_PatrolCapDesertRolled,
+
+   	   Result:Hat_PatrolCapDesert,
+	   Time:60,
+  	}
+
+recipe Unroll patrol cap
+  	{
+   	   Hat_PatrolCapDesertRolledReversed,
+
+   	   Result:Hat_PatrolCapDesert,
+	   Time:60,
+  	}
+
+recipe Roll patrol cap
+  	{
+   	   Hat_PatrolCapUrban,
+
+   	   Result:Hat_PatrolCapUrbanRolled,
+	   Time:60,
+  	}
+
+recipe Roll patrol cap
+  	{
+   	   Hat_PatrolCapUrbanReversed,
+
+   	   Result:Hat_PatrolCapUrbanRolledReversed,
+	   Time:60,
+  	}
+
+recipe Unroll patrol cap
+  	{
+   	   Hat_PatrolCapUrbanRolled,
+
+   	   Result:Hat_PatrolCapDesertCombat,
+	   Time:60,
+  	}
+
+recipe Unroll patrol cap
+  	{
+   	   Hat_PatrolCapDesertCombatRolledReversed,
+
+   	   Result:Hat_PatrolCapUrban,
+	   Time:60,
+  	}
+
 recipe Attach NVG mount
   	{
    	   Hat_MilitaryHelmet,
