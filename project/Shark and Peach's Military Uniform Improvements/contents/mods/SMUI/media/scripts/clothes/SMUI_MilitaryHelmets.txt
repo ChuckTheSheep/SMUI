@@ -3,45 +3,22 @@ module SMUIClothing
 
         item Hat_Army
 	{
-	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Woodland PASGT Helmet,
 		ClothingItem = Hat_MilitaryHelmet,
 		BodyLocation = Hat,
 		Icon = MilitaryHelmet,
-		CanHaveHoles = false,
 		BloodLocation = Head,
-		BiteDefense = 100,
-		ScratchDefense = 100,
-		BulletDefense = 100,
-		ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetStrapless,
-        ClothingItemExtraOption = Unstrap,
-        ClothingExtraSubmenu = Strap,
-		Insulation = 0.25,
-		WaterResistance = 0.2,
         Obsolete = TRUE,
 		WorldStaticModel = MilitaryHelmet_WorldItem,
 	}
 
         item Hat_ArmyHelmetStrapless
 	{
-	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Woodland PASGT Helmet,
 		ClothingItem = Hat_MilitaryHelmetStrapless,
 		BodyLocation = Hat,
 		Icon = MilitaryHelmet,
-		CanHaveHoles = false,
 		BloodLocation = Head,
-		BiteDefense = 100,
-		ScratchDefense = 100,
-		BulletDefense = 100,
-		ChanceToFall = 10,
-		ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmet,
-        ClothingItemExtraOption = Strap,
-        ClothingItemExtra = Unstrap,
-		Insulation = 0.25,
-		WaterResistance = 0.2,
         Obsolete = TRUE,
 		WorldStaticModel = MilitaryHelmet_WorldItem,
 	}
