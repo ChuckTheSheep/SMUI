@@ -291,7 +291,7 @@ module SMUIClothing
         DisplayCategory = Container,
         Type	=	Container,
         WeightReduction	=	30,
-        Weight	=	0.5,
+        Weight	=	0.3,
         Capacity	=	3,
         DisplayName	= Military Gas Mask Bag,
         ClothingItemExtra = SMUIClothing.GasMaskBag,
@@ -311,7 +311,7 @@ module SMUIClothing
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Military Police Brassard,
+		DisplayName = Military Police Brassard (Right),
 		ClothingItem = MPBrassard,
 		BodyLocation = SMUIRightArmPlus,
         Weight = 0.03,
