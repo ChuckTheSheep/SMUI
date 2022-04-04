@@ -87,14 +87,6 @@ recipe Roll patrol cap
 
 recipe Unroll patrol cap
   	{
-   	   Hat_PatrolCapDesertRolled,
-
-   	   Result:Hat_PatrolCapDesert,
-	   Time:60,
-  	}
-
-recipe Unroll patrol cap
-  	{
    	   Hat_PatrolCapDesertRolledReversed,
 
    	   Result:Hat_PatrolCapDesert,
@@ -127,17 +119,9 @@ recipe Unroll patrol cap
 
 recipe Unroll patrol cap
   	{
-   	   Hat_PatrolCapDesertRolled,
+   	   Hat_PatrolCapDesertCombatRolledReversed,
 
-   	   Result:Hat_PatrolCapDesert,
-	   Time:60,
-  	}
-
-recipe Unroll patrol cap
-  	{
-   	   Hat_PatrolCapDesertRolledReversed,
-
-   	   Result:Hat_PatrolCapDesert,
+   	   Result:Hat_PatrolCapDesertCombat,
 	   Time:60,
   	}
 
@@ -161,13 +145,13 @@ recipe Unroll patrol cap
   	{
    	   Hat_PatrolCapUrbanRolled,
 
-   	   Result:Hat_PatrolCapDesertCombat,
+   	   Result:Hat_PatrolCapUrban,
 	   Time:60,
   	}
 
 recipe Unroll patrol cap
   	{
-   	   Hat_PatrolCapDesertCombatRolledReversed,
+   	   Hat_PatrolCapUrbanRolledReversed,
 
    	   Result:Hat_PatrolCapUrban,
 	   Time:60,
