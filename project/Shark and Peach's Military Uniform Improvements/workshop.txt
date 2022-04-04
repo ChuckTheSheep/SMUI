@@ -9,7 +9,8 @@ description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
 description= [h1][b]SNAP UPDATE: Masking on PASGT fixed and helmet w/ goggles issue patched[/b][/h1]
 description= [h1][b]NEW: Patrol Caps entirely redone (New ERDL patrol cap)[/b][/h1]
-description= [h1][b]NEW: ERDL and Tiger Stripe Berets (found in Surplus)[/b][/h1]'
+description= [h1][b]NEW: Patrol Caps can be tucked in as skull-caps[/b][/h1]
+description= [h1][b]NEW: ERDL and Tiger Stripe Berets (found in Surplus)[/b][/h1]
 description=
 description= [h2][b]This mod entirely redoes the vanilla military zombies to be inline with actual equipment (e.g ALICE webbing) and clothing standards of the 1990's US Military.[/b][/h2]
 description=
@@ -48,7 +49,7 @@ description= [*] Ranger Body Armor (Woodland + Desert)
 description= [*] Military Helmet w/ Riot Visor
 description= [*] M17 Gas Mask + Doff Hood
 description= [*] M40 Gas Mask + Doff Hood
-description= [*] Woodland, ERDL, Desert, and Urban Patrol Caps + Winter Versions
+description= [*] Woodland, ERDL, Desert, and Urban Patrol Caps (Can also be tucked) = Winter Versions
 description= [*] Desert Combat Uniforms
 description= [*] ERDL Uniforms (Found in army surplus + hunting areas)
 description= [*] Tiger Stripe Uniforms (Found in army surplus + hunting areas)
