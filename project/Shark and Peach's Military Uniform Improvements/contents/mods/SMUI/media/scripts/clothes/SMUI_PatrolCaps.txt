@@ -139,7 +139,7 @@ module SMUIClothing
         BodyLocation = Hat,
         Icon = PatrolCapERDL,
         CanHaveHoles = false,
-        ClothingItemExtra = SMUIClothing.Hat_PatrolCapERDL,
+        ClothingItemExtra = SMUIClothing.Hat_PatrolCapERDLRolled,
         ClothingItemExtraOption = ForwardCap,
         ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
