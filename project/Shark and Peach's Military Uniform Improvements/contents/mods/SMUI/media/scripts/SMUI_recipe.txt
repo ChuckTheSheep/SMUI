@@ -63,7 +63,7 @@ recipe Unroll patrol cap
 
 recipe Unroll patrol cap
   	{
-   	   Hat_PatrolCapERDLRolledReversed,
+   	   Hat_PatrolCapRolledERDLReversed,
 
    	   Result:Hat_PatrolCapERDL,
 	   Time:60,

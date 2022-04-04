@@ -1,4 +1,4 @@
-module SMUI{
+module SMUIClothing{
 
   imports {
       Base
