@@ -7,7 +7,8 @@ description= Consider supporting our modding efforts:
 description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
-description= [h1][b]SNAP UPDATE: Masking on PASGT fixed and helmet w/ goggles issue patched[/b][/h1]
+description= [h1][b]NIGHT VISION HAS RETURNED[/b][/h1]
+description= [h1][b]Masking on PASGT fixed and helmet w/ goggles issue patched[/b][/h1]
 description= [h1][b]NEW: Patrol Caps entirely redone (New ERDL patrol cap)[/b][/h1]
 description= [h1][b]NEW: Patrol Caps can be tucked in as skull-caps[/b][/h1]
 description= [h1][b]NEW: ERDL and Tiger Stripe Berets (found in Surplus)[/b][/h1]
@@ -75,6 +76,5 @@ description= [list]
 description= [*] Rolling up sleeves while wearing a hoodie or similiar clothing underneath will cause an issue between models.
 description= [/list]
 description=
-description=[h2][b]Note: Because of the current Eris/PLL/Brita NVG code issue the new NVG's currently have their capability removed as a safety measure. This is still temporary.[/b][/h2]
 tags=Build 41;Clothing/Armor;Military;Models;Realistic;Weapons
 visibility=public
