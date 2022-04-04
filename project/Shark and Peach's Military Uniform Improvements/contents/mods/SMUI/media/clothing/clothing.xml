@@ -231,10 +231,6 @@
 		<probability>0.2</probability>
 			<itemGUID>85217973-ff88-4680-8a5d-1c6c97692767</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Helmet w/ Goggles -->
-		<probability>0.5</probability>
-			<itemGUID>d7874b7a-2c99-43ee-b7ba-c474a4591360</itemGUID>
-		</m_items>
 		<m_items> <!-- Military Webbing-->
 			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
 		</m_items>
@@ -299,10 +295,6 @@
 			<m_items> <!-- GI Glasses-->
 		<probability>0.2</probability>
 			<itemGUID>85217973-ff88-4680-8a5d-1c6c97692767</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Helmet w/ Goggles -->
-		<probability>0.5</probability>
-			<itemGUID>d7874b7a-2c99-43ee-b7ba-c474a4591360</itemGUID>
 		</m_items>
 	    <m_items> <!-- Woodland Patrol Cap-->
 			<probability>0.5</probability>
@@ -740,10 +732,6 @@
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
 		<m_items> <!-- Military Helmet /w Riot Visor (Up) -->
 			<itemGUID>744b22b2-9d94-49fc-872b-4cc695f86f67</itemGUID>
-		</m_items>
-			<m_items> <!-- Military Helmet w/ Goggles -->
-		<probability>0.5</probability>
-			<itemGUID>d7874b7a-2c99-43ee-b7ba-c474a4591360</itemGUID>
 		</m_items>
 		<m_items> <!-- M17 Gas Mask -->
 			<probability>0.5</probability>
