@@ -299,7 +299,7 @@ table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 6);
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Socks_GeneralIssue");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 6);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Socks_GeneralIssue");
-table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 6);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 5);
 
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Glasses_BoogieGoggles");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.5);
@@ -362,8 +362,6 @@ table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothi
 table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 3);
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Hat_PatrolCapOG107");
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 0.2);
-
-
 
 
 
