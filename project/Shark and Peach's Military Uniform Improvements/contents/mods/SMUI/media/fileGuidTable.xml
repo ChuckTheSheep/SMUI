@@ -12,7 +12,27 @@
 	<path>media/clothing/clothingItems/Hat_OG106CapReversed.xml</path>
 	<guid>448c7bb2-8e75-4738-bbe3-0bfd07ee8044</guid>
 	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapOG107.xml</path>
+	<guid>7f9d41c3-927d-4fed-b729-02c9ad3c631f</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapOG107Reversed.xml</path>
+	<guid>57d17ad5-0ec0-4a9a-9d63-15e4ce039ad1</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapOG107Rolled.xml</path>
+	<guid>0e3ee1fe-7ee2-41ee-81cd-94aadd186098</guid>
+	</files>
 	
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapOG107RolledReversed.xml</path>
+	<guid>a762333e-0dfd-4005-b957-27fe69a5c9ed</guid>
+	</files>
+
 	<files>
 	<path>media/clothing/clothingItems/Hat_BoonieHatWoodlandFolded.xml</path>
 	<guid>b9561dec-4fd3-453a-8b9f-3bb7eaaa8c5f</guid>

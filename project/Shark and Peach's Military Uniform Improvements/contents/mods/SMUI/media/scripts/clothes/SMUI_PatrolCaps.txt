@@ -36,6 +36,94 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 0.5,
     }
+
+        item Hat_PatrolCapOG107
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  OG-107 Patrol Cap,
+        ClothingItem = Hat_PatrolCapOG107,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_PatrolCapOG107Reversed,
+        ClothingItemExtraOption = ReverseCap,
+        ClothingExtraSubmenu = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.5,
+        WorldStaticModel = PatrolCapWoodland_WorldItem,
+    }
+
+        item Hat_PatrolCapOG107Reversed
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  OG-107 Patrol Cap (Reversed),
+        ClothingItem = Hat_PatrolCapOG107Reversed,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_PatrolCapOG107,
+        ClothingItemExtraOption = ForwardCap,
+        ClothingExtraSubmenu = ReverseCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.5,
+    }
+
+        item Hat_PatrolCapOG107Rolled
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Rolled OG-107 Patrol Cap,
+        ClothingItem = Hat_PatrolCapOG107Rolled,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_PatrolCapOG107RolledReversed,
+        ClothingItemExtraOption = ReverseCap,
+        ClothingExtraSubmenu = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.5,
+        WorldStaticModel = PatrolCapWoodland_WorldItem,
+    }
+
+        item Hat_PatrolCapOG107RolledReversed
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Rolled OG-107 Patrol Cap (Reversed),
+        ClothingItem = Hat_PatrolCapOG107Rolled,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_PatrolCapOG107Rolled,
+        ClothingItemExtraOption = ReverseCap,
+        ClothingExtraSubmenu = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.5,
+        WorldStaticModel = PatrolCapWoodland_WorldItem,
+    }
+
+        item Hat_OG106CapReversed
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  OG-107 Patrol Cap (Reversed),
+        ClothingItem = Hat_PatrolCapOG107Reversed,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_PatrolCapOG107,
+        ClothingItemExtraOption = ForwardCap,
+        ClothingExtraSubmenu = ReverseCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.5,
+    }
  
         item Hat_PatrolCap
     {
