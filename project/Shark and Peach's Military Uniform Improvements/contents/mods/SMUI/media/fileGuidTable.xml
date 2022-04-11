@@ -4,8 +4,13 @@
 	<!-- Shark's Military Uniform Improvements -->
 
 	<files>
-	<path>media/clothing/clothingItems/Hat_BoonieHatWoodland.xml</path>
-	<guid>3d0db843-3331-4dbd-a29a-4d87fe1f31d8</guid>
+	<path>media/clothing/clothingItems/Hat_OG106Cap.xml</path>
+	<guid>7a40ef29-5dfb-4f03-b21f-152a0a38108b</guid>
+	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/Hat_OG106CapReversed.xml</path>
+	<guid>448c7bb2-8e75-4738-bbe3-0bfd07ee8044</guid>
 	</files>
 	
 	<files>

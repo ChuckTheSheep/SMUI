@@ -349,6 +349,15 @@ table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 3);
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Hat_TigerStripeBeret");
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 0.2);
 
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_OG106");
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 3);
+table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothing.Hat_BoonieHatERDL");
+table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 3);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Hat_OG106");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 0.2);
+
+
+
 
 
 
