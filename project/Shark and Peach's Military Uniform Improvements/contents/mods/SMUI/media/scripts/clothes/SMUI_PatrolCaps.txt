@@ -16,7 +16,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ForwardCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
@@ -34,7 +34,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
     }
 
         item Hat_PatrolCapOG107
@@ -46,12 +46,9 @@ module SMUIClothing
         BodyLocation = Hat,
         Icon = OG106,
         CanHaveHoles = false,
-        ClothingItemExtra = SMUIClothing.Hat_PatrolCapOG107Reversed,
-        ClothingItemExtraOption = ReverseCap,
-        ClothingExtraSubmenu = ForwardCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
@@ -64,12 +61,9 @@ module SMUIClothing
         BodyLocation = Hat,
         Icon = OG106,
         CanHaveHoles = false,
-        ClothingItemExtra = SMUIClothing.Hat_PatrolCapOG107,
-        ClothingItemExtraOption = ForwardCap,
-        ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
     }
 
         item Hat_PatrolCapOG107Rolled
@@ -86,7 +80,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ForwardCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
@@ -104,7 +98,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ForwardCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
@@ -122,7 +116,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
     }
  
         item Hat_PatrolCap
@@ -139,7 +133,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ForwardCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
@@ -157,7 +151,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
@@ -175,7 +169,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ForwardCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
@@ -194,7 +188,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
@@ -212,7 +206,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ForwardCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
@@ -230,7 +224,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapERDL_WorldItem,
     }
 
@@ -248,7 +242,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ForwardCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapERDL_WorldItem,
     }
 
@@ -266,7 +260,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapERDL_WorldItem,
     }
 
@@ -284,7 +278,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ForwardCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapDesert_WorldItem,
     }
 
@@ -302,7 +296,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapDesert_WorldItem,
     }
 
@@ -320,7 +314,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ForwardCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapDesert_WorldItem,
     }
 
@@ -338,7 +332,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapDesert_WorldItem,
     }
 
@@ -356,7 +350,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ForwardCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapDesertCombat_WorldItem,
     }
 
@@ -374,7 +368,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapDesertCombat_WorldItem,
     }
 
@@ -392,7 +386,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ForwardCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapDesert_WorldItem,
     }
 
@@ -410,7 +404,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapDesert_WorldItem,
     }
 
@@ -428,7 +422,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ForwardCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapUrban_WorldItem,
     }
 
@@ -446,7 +440,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapUrban_WorldItem,
     }
 
@@ -464,7 +458,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ForwardCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapUrban_WorldItem,
     }
 
@@ -482,7 +476,7 @@ module SMUIClothing
         ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapUrban_WorldItem,
     }
 
@@ -497,8 +491,8 @@ module SMUIClothing
         CanHaveHoles = false,
         ChanceToFall = 80,
         Insulation = 0.60,
-        WindResistance = 0.50,
-        Weight = 0.5,
+        WindResistance = 0.10,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
@@ -513,8 +507,8 @@ module SMUIClothing
         CanHaveHoles = false,
         ChanceToFall = 80,
         Insulation = 0.60,
-        WindResistance = 0.50,
-        Weight = 0.5,
+        WindResistance = 0.10,
+        Weight = 0.1,
         WorldStaticModel = PatrolCapDesert_WorldItem,
     }
 

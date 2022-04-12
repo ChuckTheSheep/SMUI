@@ -2,7 +2,7 @@
 <clothingItem>
 	<m_MaleModel>media/models_X/static/clothes/M_PatrolCapForward.FBX</m_MaleModel>
 	<m_FemaleModel>media/models_X/static/clothes/F_PatrolCapForward.FBX</m_FemaleModel>
-	<m_GUID>7f9d41c3-927d-4fed-b729-02c9ad3c631f</m_GUID>
+	<m_GUID>1b3b888f-99b0-48ac-b755-a994624a8fa6</m_GUID>
 	<m_Static>true</m_Static>
 	<m_AllowRandomHue>false</m_AllowRandomHue>
 	<m_AllowRandomTint>false</m_AllowRandomTint>
