@@ -102,23 +102,6 @@ module SMUIClothing
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
-        item Hat_OG106CapReversed
-    {
-        DisplayCategory = Clothing,
-        Type = Clothing,
-        DisplayName =  OG-107 Patrol Cap (Reversed),
-        ClothingItem = Hat_PatrolCapOG107Reversed,
-        BodyLocation = Hat,
-        Icon = OG106,
-        CanHaveHoles = false,
-        ClothingItemExtra = SMUIClothing.Hat_PatrolCapOG107,
-        ClothingItemExtraOption = ForwardCap,
-        ClothingExtraSubmenu = ReverseCap,
-        ChanceToFall = 80,
-        Insulation = 0.10,
-        Weight = 0.1,
-    }
- 
         item Hat_PatrolCap
     {
         DisplayCategory = Clothing,
