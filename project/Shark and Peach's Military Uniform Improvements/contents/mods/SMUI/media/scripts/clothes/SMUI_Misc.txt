@@ -477,6 +477,27 @@ module SMUIClothing
         WorldStaticModel = TigerStripeBeret_WorldItem,
 	}
 
+        item Jacket_M65OliveDrab   
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = M65 Jacket,
+        BodyLocation = Jacket,
+        Icon = ShirtCamoGreen,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = Jacket_M65OliveDrab,
+        BiteDefense = 40,
+        ScratchDefense = 60,
+        Insulation = 0.7,
+        WindResistance = 0.8,
+        WaterResistance = 0.6,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+        
+    }
 
     
 }

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <clothingItem>
-	<m_MaleModel></m_MaleModel>
-	<m_FemaleModel></m_FemaleModel>
-	<m_GUID>d9baa406-1095-4706-a184-4104b646be23</m_GUID>
+	<m_MaleModel>skinned\clothes\M_M65</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\kate_jacket</m_FemaleModel>
+	<m_GUID>58f60ce0-5fa6-4a4b-91de-5cc1af6bd3e3</m_GUID>
 	<m_Static>false</m_Static>
 	<m_AllowRandomHue>false</m_AllowRandomHue>
 	<m_AllowRandomTint>false</m_AllowRandomTint>
@@ -12,5 +12,5 @@
 	<m_Masks>3</m_Masks>
 	<m_Masks>5</m_Masks>
 	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
-	<m_BaseTextures>clothes\jacket\Jacket_OG107</m_BaseTextures>
+	<textureChoices>clothes\jacket\Jacket_OG107</textureChoices>
 </clothingItem>
