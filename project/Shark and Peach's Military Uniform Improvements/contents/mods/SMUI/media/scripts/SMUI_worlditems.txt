@@ -490,4 +490,11 @@ module Base
 		texture = WorldItems/ERDLBeret,
 		scale = 0.5,
 	}
+
+		model HBTBeret_WorldItem
+	{
+		mesh = WorldItems/Beret_WorldItem,
+		texture = WorldItems/HBTBeret,
+		scale = 0.5,
+	}
 }

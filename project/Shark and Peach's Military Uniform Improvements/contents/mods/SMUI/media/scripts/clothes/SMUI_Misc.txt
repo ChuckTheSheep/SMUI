@@ -462,6 +462,21 @@ module SMUIClothing
         WorldStaticModel = ERDLBeret_WorldItem,
 	}
 
+        item Hat_HBTBeret
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = HBT Beret,
+		ClothingItem = Hat_HBTBeret,
+		BodyLocation = Hat,
+        BloodLocation = Head,
+        Insulation = 0.1,
+		WindResistance = 0.3,
+		Icon= ERDLBeret,
+		Weight = 0.1,
+        WorldStaticModel = HBTBeret_WorldItem,
+	}
+
         item Hat_TigerStripeBeret
 	{
 	    DisplayCategory = Accessory,
@@ -481,7 +496,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = M65 Jacket,
+        DisplayName = M65 Field Jacket,
         BodyLocation = Jacket,
         Icon = ShirtCamoGreen,
         BloodLocation = Jacket,
