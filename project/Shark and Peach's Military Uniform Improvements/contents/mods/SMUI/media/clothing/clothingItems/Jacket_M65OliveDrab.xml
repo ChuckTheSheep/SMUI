@@ -12,7 +12,8 @@
 	<m_Masks>3</m_Masks>
 	<m_Masks>5</m_Masks>
 	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\jacket\Jacket_M65</textureChoices>
 	<textureChoices>clothes\jacket\Jacket_M65_PatchOne</textureChoices>
-	<textureChoices>clothes\jacket\Jacket_M65_PatchOne</textureChoices>
+	<textureChoices>clothes\jacket\Jacket_M65_PatchTwo</textureChoices>
 	<textureChoices>clothes\jacket\Jacket_M65_PatchThree</textureChoices>
 </clothingItem>
