@@ -77,6 +77,82 @@ module SMUIClothing
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
 
+	    item M1956Webbing
+	{
+		DisplayCategory = Webbing,
+		Type = Container,
+		DisplayName = M1956 Webbing,
+		ClothingItem = M1956Webbing,
+		BodyLocation = SMUIWebbingPlus,
+		CanBeEquipped = SMUIWebbingPlus,
+		Capacity = 5,
+		WeightReduction	=	40,
+		RunSpeedModifier = 1,
+		ClothingItemExtra = SMUIClothing.M1956WebbingTightened,
+        ClothingItemExtraOption = Fasten,
+		ClothingExtraSubmenu = Unfasten,
+		Icon = MilitaryWebbing,
+		WorldStaticModel = MilitaryWebbing_WorldItem,
+		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
+	}
+
+		item M1956WebbingTightened
+	{
+		DisplayCategory = Webbing,
+		Type = Container,
+		DisplayName = M1956 Webbing (Tightened),
+		ClothingItem = M1956WebbingTightened,
+		BodyLocation = SMUIWebbingPlus,
+		CanBeEquipped = SMUIWebbingPlus,
+		Capacity = 5,
+		WeightReduction	=	40,
+		RunSpeedModifier = 1,
+		ClothingItemExtra = SMUIClothing.M1956Webbing,
+        ClothingItemExtraOption = Unfasten,
+		ClothingExtraSubmenu = Fasten,
+		Icon = MilitaryWebbing,
+		WorldStaticModel = MilitaryWebbing_WorldItem,
+		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
+	}
+
+		item M1956WebbingBag
+	{
+		DisplayCategory = Webbing,
+		Type = Container,
+		DisplayName = M1956 Webbing /w Pack,
+		ClothingItem = MilitaryWebbingBag,
+		BodyLocation = SMUIWebbingPlus,
+		CanBeEquipped = SMUIWebbingPlus,
+		Capacity = 8,
+		WeightReduction	=	60,
+		RunSpeedModifier = 1.2,
+		ClothingItemExtra = SMUIClothing.M1956WebbingBagTightened,
+        ClothingItemExtraOption = Fasten,
+        ClothingExtraSubmenu = Unfasten,
+		Icon = MilitaryWebbingBag, 
+		WorldStaticModel = MilitaryWebbing_WorldItem,
+		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,	
+	}
+
+		item M1956WebbingBagTightened
+	{
+		DisplayCategory = Webbing,
+		Type = Container,
+		DisplayName = M1956 Webbing /w Pack (Tightened),
+		ClothingItem = M1956WebbingBagTightened,
+		BodyLocation = SMUIWebbingPlus,
+		CanBeEquipped = SMUIWebbingPlus,
+		Capacity = 8,
+		WeightReduction	=	60,
+		RunSpeedModifier = 1.2,
+		ClothingItemExtra = SMUIClothing.M1956WebbingBag,
+        ClothingItemExtraOption = Unfasten,
+		ClothingExtraSubmenu = Fasten,
+		Icon = MilitaryWebbingBag,
+		WorldStaticModel = MilitaryWebbing_WorldItem,
+		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
+	}
+
 		item PistolBeltPouches
 	{
 		DisplayCategory = Webbing,

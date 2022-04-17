@@ -716,7 +716,27 @@
 	<files>
 	<path>media/clothing/clothingItems/MilitaryWebbingBagTightened.xml</path>
 	<guid>dce3ea3b-f5aa-45df-9ffd-961da648d71a</guid>
-	</files>		
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/M1956Webbing.xml</path>
+	<guid>5deec6a0-e624-40f5-a88c-b5970bd041f5</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/M1956WebbingTightened.xml</path>
+	<guid>09c71cc7-b135-4308-bce0-2454b6d2da2e</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/M1956WebbingBag.xml</path>
+	<guid>c005b7b2-e6dd-43d2-bd15-565fe69c4c8b</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/M1956WebbingBagTightened.xml</path>
+	<guid>cf0cb8e1-47a6-43be-8a12-66ebe20c14a8</guid>
+	</files>
 
 	<files>
 	<path>media/clothing/clothingItems/Hat_M17.xml</path>
