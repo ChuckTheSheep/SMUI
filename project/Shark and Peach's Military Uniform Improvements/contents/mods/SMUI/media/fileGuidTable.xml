@@ -838,6 +838,11 @@
 	<guid>93563768-750f-4d77-99d9-9df0f575db6b</guid>
 	</files>
 
+	<files>
+	<path>media/clothing/clothingItems/Hat_HBTBeret.xml</path>
+	<guid>c520511a-dca8-4e8e-a24d-d5a41c1e05e1</guid>
+	</files>
+
 	<!-- Vanilla Clothing -->
 	
 	<files>
