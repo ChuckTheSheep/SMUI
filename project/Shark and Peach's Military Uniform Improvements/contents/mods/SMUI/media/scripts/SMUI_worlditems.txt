@@ -134,6 +134,27 @@ module Base
 		scale = 0.5,
 	}
 
+	    model BlackCombatBoots_WorldItem
+	{
+		mesh = WorldItems/CombatBoots_WorldItem,
+		texture = WorldItems/BlackCombatBoots,
+		scale = 0.5,
+	}
+
+	    model DesertCombatBoots_WorldItem
+	{
+		mesh = WorldItems/CombatBoots_WorldItem,
+		texture = WorldItems/DesertCombatBoots,
+		scale = 0.5,
+	}
+
+	    model JungleCombatBoots_WorldItem
+	{
+		mesh = WorldItems/CombatBoots_WorldItem,
+		texture = WorldItems/JungleCombatBoots,
+		scale = 0.5,
+	}
+
 		model MilitaryHelmetNVGMount_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetNVGMount_WorldItem,

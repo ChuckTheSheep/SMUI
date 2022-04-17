@@ -24,7 +24,7 @@ module Base
 		ClothingItem = Shoes_ArmyBoots,
 		BodyLocation = Shoes,
 		BloodLocation = Shoes,
-		Icon = BootsARmy,
+		Icon = BlackCombatBoots,
 		StompPower = 2.5,
 		ConditionLowerChanceOneIn = 20,
         ConditionMax = 30,
@@ -35,6 +35,27 @@ module Base
         Insulation = 1.0,
         WindResistance = 1.0,
         WaterResistance = 0.8,
-        WorldStaticModel = Boots_Ground,
+        WorldStaticModel = BlackCombatBoots_WorldItem,
+	}
+    	item Shoes_ArmyBootsDesert
+	{
+	    DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Desert Combat Boots,
+		ClothingItem = Shoes_ArmyBootsDesert,
+		BodyLocation = Shoes,
+		BloodLocation = Shoes,
+		Icon = DesertCombatBoots,
+		StompPower = 2.5,
+		ConditionLowerChanceOneIn = 20,
+        ConditionMax = 30,
+        RunSpeedModifier = 0.9,
+        RemoveOnBroken = false,
+        ScratchDefense = 100,
+        BiteDefense = 100,
+        Insulation = 0.5,
+        WindResistance = 0.60,
+        WaterResistance = 0.5,
+        WorldStaticModel = DesertCombatBoots_WorldItem,
 	}
 }

@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <clothingItem>
-	<m_MaleModel>media\models_X\Skinned\Clothes\M_CombatBoots</m_MaleModel>
-	<m_FemaleModel>media\models_X\Skinned\Clothes\F_CombatBoots.FBX</m_FemaleModel>
-	<m_GUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</m_GUID>
+	<m_MaleModel>skinned\clothes\M_CombatBoots</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_CombatBoots</m_FemaleModel>
+    <m_GUID>a44baed4-108f-46d8-9543-e99377953d5f</m_GUID>
 	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
-	<m_BaseTextures>clothes\shoes\JungleCombatBoots</m_BaseTextures>
+	<m_Masks>10</m_Masks>
+	<m_Masks>8</m_Masks>
+	<textureChoices>clothes\JungleCombatBoots</textureChoices>
 </clothingItem>

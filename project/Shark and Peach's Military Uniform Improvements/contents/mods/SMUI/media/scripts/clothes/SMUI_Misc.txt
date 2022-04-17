@@ -404,16 +404,16 @@ module SMUIClothing
 	    ClothingItem = Shoes_JungleBoots,
 	    BodyLocation = Shoes,
 	    BloodLocation = Shoes,
-	    Icon = JungleBoots,
+	    Icon = JungleCombatBoots,
 	    Weight = 1,
         RunSpeedModifier = 0.9,
         RemoveOnBroken = true,
-        ScratchDefense = 70,
-        BiteDefense = 80,
+        ScratchDefense = 100,
+        BiteDefense = 100,
         Insulation = 0.9,
         WindResistance = 0.65,
         WaterResistance = 0.80,
-        WorldStaticModel = Boots_Ground,
+        WorldStaticModel = JungleCombatBoots_WorldItem,
 	}
 
     	item Socks_GeneralIssue
