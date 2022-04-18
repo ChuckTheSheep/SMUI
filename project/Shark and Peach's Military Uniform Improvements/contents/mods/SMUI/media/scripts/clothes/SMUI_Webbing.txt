@@ -92,7 +92,7 @@ module SMUIClothing
         ClothingItemExtraOption = Fasten,
 		ClothingExtraSubmenu = Unfasten,
 		Icon = MilitaryWebbing,
-		WorldStaticModel = MilitaryWebbing_WorldItem,
+		WorldStaticModel = M1956Webbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
 
@@ -111,7 +111,7 @@ module SMUIClothing
         ClothingItemExtraOption = Unfasten,
 		ClothingExtraSubmenu = Fasten,
 		Icon = MilitaryWebbing,
-		WorldStaticModel = MilitaryWebbing_WorldItem,
+		WorldStaticModel = M1956Webbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
 
@@ -130,7 +130,7 @@ module SMUIClothing
         ClothingItemExtraOption = Fasten,
         ClothingExtraSubmenu = Unfasten,
 		Icon = MilitaryWebbingBag, 
-		WorldStaticModel = MilitaryWebbing_WorldItem,
+		WorldStaticModel = M1956Webbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,	
 	}
 
@@ -149,7 +149,7 @@ module SMUIClothing
         ClothingItemExtraOption = Unfasten,
 		ClothingExtraSubmenu = Fasten,
 		Icon = MilitaryWebbingBag,
-		WorldStaticModel = MilitaryWebbing_WorldItem,
+		WorldStaticModel = M1956Webbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
 

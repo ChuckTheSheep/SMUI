@@ -50,6 +50,13 @@ module Base
 		scale = 0.5,
 	}
 
+		model M1956Webbing_WorldItem
+	{
+		mesh = WorldItems/M1956Webbing_WorldItem,
+		texture = WorldItems/M1956Webbing,
+		scale = 0.5,
+	}
+
 		model WebbingBelt_WorldItem
 	{
 		mesh = WorldItems/WebbingBelt_WorldItem,
