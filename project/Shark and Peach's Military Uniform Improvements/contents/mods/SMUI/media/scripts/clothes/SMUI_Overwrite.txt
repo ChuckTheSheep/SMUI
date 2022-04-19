@@ -1,5 +1,27 @@
 module Base 
 {
+
+        item Hat_Army
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Woodland PASGT Helmet,
+		ClothingItem = Hat_Army,
+		BodyLocation = Hat,
+        Icon = MilitaryHelmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetStrapless,
+        ClothingItemExtraOption = Unstrap,
+        ClothingExtraSubmenu = Strap,
+        Insulation = 0.10,
+        Weight = 1,
+        WorldStaticModel = MilitaryHelmet_WorldItem,
+	}
+
     item Vest_BulletArmy
     {
         DisplayCategory = Clothing,
