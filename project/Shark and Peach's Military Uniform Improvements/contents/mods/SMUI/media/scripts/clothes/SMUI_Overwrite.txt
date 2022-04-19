@@ -58,4 +58,24 @@ module Base
         WaterResistance = 0.5,
         WorldStaticModel = DesertCombatBoots_WorldItem,
 	}
+
+        item Hat_BonnieHat_CamoGreen
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Woodland Boonie Hat,
+        ClothingItem = Hat_BonnieHat_CamoGreen,
+        BodyLocation = Hat,
+        Icon = BoonieHatWoodland,
+        ClothingItemExtra = SMUIClothing.Hat_BoonieHatWoodlandFolded,
+        ClothingItemExtraOption = Fold,
+        ClothingExtraSubmenu = Unfold,
+        CanHaveHoles = false,
+        ChanceToFall = 60,
+        BloodLocation = Head,
+        Insulation = 0.5,
+        WindResistance = 0.3,
+        Weight = 0.1,
+        WorldStaticModel = BoonieHatWoodland_WorldItem,
+    }
 }
