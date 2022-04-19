@@ -1,6 +1,7 @@
 ItemName_EN = {
     ItemName_Base.Vest_BulletArmy = "Woodland PASGT Vest",
     ItemName_Base.Hat_BonnieHat_CamoGreen = "Woodland Boonie Hat",
+    ItemName_Base.Hat_Army = "Woodland PASGT Helmet",
     ItemName_Base.Shoes_ArmyBoots = "Black Combat Boots",
     ItemName_Base.Shoes_ArmyBootsDesert = "Desert Combat Boots",
 }
