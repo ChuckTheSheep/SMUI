@@ -492,7 +492,7 @@ module SMUIClothing
         WorldStaticModel = TigerStripeBeret_WorldItem,
 	}
 
-        item Jacket_M65OliveDrab   
+        item Jacket_M65FieldJacket
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -502,7 +502,7 @@ module SMUIClothing
         BloodLocation = Jacket,
         RunSpeedModifier = 0.94,
         CombatSpeedModifier = 0.97,
-        ClothingItem = Jacket_M65OliveDrab,
+        ClothingItem = Jacket_M65FieldJacket,
         BiteDefense = 40,
         ScratchDefense = 60,
         Insulation = 0.7,
