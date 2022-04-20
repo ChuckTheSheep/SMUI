@@ -119,4 +119,48 @@ module Base
         WaterResistance = 1.0,
         WorldStaticModel = M17Doff_WorldItem,
     }
+
+        item Tshirt_CamoGreen
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Woodland Pattern Jacket,
+        BodyLocation = Jacket,
+        Icon = ShirtCamoGreen,
+        DisplayName = Woodland Pattern Jacket,
+        ClothingItem = Tshirt_CamoGreen,
+        ClothingItemExtra =  SMUIClothing.Jacket_ArmyCamoGreenRolled,
+        ClothingItemExtraOption = RollUp,
+        ClothingExtraSubmenu = RollDown,
+        BiteDefense = 20,
+        ScratchDefense = 30,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+    }
+
+    	item Shirt_CamoGreen
+	{
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Woodland Pattern Jacket,
+        BodyLocation = Jacket,
+        Icon = ShirtCamoGreen,
+        DisplayName = Woodland Pattern Jacket,
+        ClothingItem = Shirt_CamoGreen,
+        ClothingItemExtra =  SMUIClothing.Jacket_ArmyCamoGreenRolled,
+        ClothingItemExtraOption = RollUp,
+        ClothingExtraSubmenu = RollDown,
+        BiteDefense = 20,
+        ScratchDefense = 30,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+	}
 }
