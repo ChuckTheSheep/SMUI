@@ -100,4 +100,23 @@ module Base
         Weight = 0.1,
         WorldStaticModel = BoonieHatWoodland_WorldItem,
     }
+
+    	item Hat_NBCmask
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = M17 w/ Doff Hood,
+		ClothingItem = Hat_NBCmask,
+        BodyLocation = MaskEyes,
+        BloodLocation = Head,
+        Icon = M17Doff,
+        CanHaveHoles = false,
+        Weight = 0.0,
+        ScratchDefense = 20,
+        BiteDefense = 5,
+        Insulation = 0.90,
+        WindResistance = 0.65,
+        WaterResistance = 1.0,
+        WorldStaticModel = M17Doff_WorldItem,
+    }
 }
