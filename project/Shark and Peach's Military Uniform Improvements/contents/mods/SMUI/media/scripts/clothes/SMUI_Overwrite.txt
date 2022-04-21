@@ -289,4 +289,72 @@ module Base
         FabricType = Cotton,
         WorldStaticModel = JacketCoat_Ground,
 	}
+    
+        item Trousers_CamoGreen
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Woodland Pattern Pants,
+        BodyLocation = Pants,
+        Icon = TrousersCamoGreen,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,   
+        ClothingItem = Trousers_CamoGreen,
+        ClothingItemExtra = SMUIClothing.Trousers_CamoGreenTucked,
+        ClothingItemExtraOption = TuckIn,
+        ClothingExtraSubmenu = TuckOut,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+        item Trousers_CamoDesert
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Desert Combat Pattern Pants,
+        BodyLocation = Pants,
+        Icon = TrousersCamoSand,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,      
+        ClothingItem = Trousers_CamoDesert,
+        ClothingItemExtra = SMUIClothing.Trousers_CamoDesertTucked,
+        ClothingItemExtraOption = TuckIn,
+        ClothingExtraSubmenu = TuckOut,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+        item Trousers_CamoUrban
+    
+    {   
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Urban Pattern Pants,
+        BodyLocation = Pants,
+        Icon = TrousersCamoGrey,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        ClothingItem = Trousers_CamoUrban,
+        ClothingItemExtra = SMUIClothing.Trousers_CamoUrbanTucked,
+        ClothingItemExtraOption = TuckIn,
+        ClothingExtraSubmenu = TuckOut,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+
 }
