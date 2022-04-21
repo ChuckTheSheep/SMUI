@@ -91,7 +91,7 @@ module SMUIClothing
 		ClothingItemExtra = SMUIClothing.M1956WebbingTightened,
         ClothingItemExtraOption = Fasten,
 		ClothingExtraSubmenu = Unfasten,
-		Icon = MilitaryWebbing,
+		Icon = M1956Webbing,
 		WorldStaticModel = M1956Webbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
@@ -110,7 +110,7 @@ module SMUIClothing
 		ClothingItemExtra = SMUIClothing.M1956Webbing,
         ClothingItemExtraOption = Unfasten,
 		ClothingExtraSubmenu = Fasten,
-		Icon = MilitaryWebbing,
+		Icon = M1956Webbing,
 		WorldStaticModel = M1956Webbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
@@ -120,7 +120,7 @@ module SMUIClothing
 		DisplayCategory = Webbing,
 		Type = Container,
 		DisplayName = M1956 Webbing /w Pack,
-		ClothingItem = MilitaryWebbingBag,
+		ClothingItem = M1956WebbingBag,
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,
 		Capacity = 8,
@@ -129,7 +129,7 @@ module SMUIClothing
 		ClothingItemExtra = SMUIClothing.M1956WebbingBagTightened,
         ClothingItemExtraOption = Fasten,
         ClothingExtraSubmenu = Unfasten,
-		Icon = MilitaryWebbingBag, 
+		Icon = M1956WebbingBag, 
 		WorldStaticModel = M1956Webbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,	
 	}
@@ -148,7 +148,7 @@ module SMUIClothing
 		ClothingItemExtra = SMUIClothing.M1956WebbingBag,
         ClothingItemExtraOption = Unfasten,
 		ClothingExtraSubmenu = Fasten,
-		Icon = MilitaryWebbingBag,
+		Icon = M1956WebbingBag,
 		WorldStaticModel = M1956Webbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}

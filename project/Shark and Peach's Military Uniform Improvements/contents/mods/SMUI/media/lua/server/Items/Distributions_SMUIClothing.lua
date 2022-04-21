@@ -89,7 +89,7 @@ table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothi
 table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 7);
 
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_M17Doff");
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Hat_M17Doff");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
 
@@ -367,6 +367,24 @@ table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothi
 table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 3);
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Hat_PatrolCapOG107");
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 0.2);
+
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.M1956Webbing");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 4);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.M1956Webbing");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 0.2);
+
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.M1956WebbingBag");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 4);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.M1956WebbingBag");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 0.2);
+
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Jacket_M65FieldJacket");
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 3);
+table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothing.Jacket_M65FieldJacket");
+table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 3);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Jacket_M65FieldJacket");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
+
 
 
 

@@ -7,10 +7,14 @@ description= Consider supporting our modding efforts:
 description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
+description= [h1][b]Vanilla military gear has now been overwritten to support future updates[/b][/h1]
+description=
 description= [h1][b]NEW: OG-106 Caps[/b][/h1]
 description= [h1][b]NEW: 06-107 Patrol Caps[/b][/h1]
-description= [h1][b]NEW: M65 Jackets[/b][/h1]
-description= [h1][b]NEW: Patrol Caps can be tucked in as skull-caps[/b][/h1]
+description= [h1][b]NEW: M65 Field Jackets[/b][/h1]
+description= [h1][b]NEW: M-1956 Webbing[/b][/h1]
+description= [h1][b]NEW: Cloth Bandoliers/b][/h1]
+description= [h1][b]NEW: Winter Patrol Caps redone[/b][/h1]
 description= [h1][b]NEW: ERDL and Tiger Stripe Berets (found in Surplus)[/b][/h1]
 description=
 description= [h2][b]This mod entirely redoes military zombies and adds in military equipment both from the 1990's and later which is inline with the universe of Project Zomboid.[/b][/h2]
@@ -19,6 +23,8 @@ description= [h2][b]The time period for equipment in this mod is 1965 - 199X.[/b
 description=
 description= [h2]Features[/h2]
 description= [list]
+description= [*] Woodland, Desert and Urban BDU's can have their sleeves rolled up and have their trousers tucked in.
+description=
 description= [*] Woodland, Desert and Urban BDU's can have their sleeves rolled up and have their trousers tucked in.
 description=
 description= [*] Woodland, Desert, and Urban patrol caps will spawn on zombie soldiers.
@@ -30,50 +36,81 @@ description=
 description= [*] New equipment in-line with the 1990's US Military and earlier.
 description=
 description= [*] New wandering military zombies that cam be found rarely.
-description= [/list]
 description=
-description= [h2]List of current additions:[/h2]
-description= [list]
-description= [*] M1 Steel Helmets (Coverless, Woodland, Desert, and Mitchell + can be strapped/unstrapped + can have goggles attached)
-description= [*] ALICE Webbing + Buttpack Version (Has attachment points)
-description= [*] PASGT Vests (Woodland, Six-Color Desert, and Green)
-description= [*] CFP-90 Patrol Pack
-description= [*] Night Vision Goggles (Based on AN/PVS-7) * Currently non-functional *
-description= [*] Shemaghs (Can be pulled down)
-description= [*] Watch Caps
-description= [*] Garrison Caps
-description= [*] Boogie Goggles
-description= [*] Dust Goggles
-description= [*] GI Glasses (aka Birth Control Glasses)
-description= [*] DH-132 Crewman Helmet
-description= [*] Ranger Body Armor (Woodland + Desert)
-description= [*] Military Helmet w/ Riot Visor
-description= [*] M17 Gas Mask + Doff Hood
-description= [*] M40 Gas Mask + Doff Hood
-description= [*] Woodland, ERDL, Desert, and Urban Patrol Caps (Can also be tucked) = Winter Versions
-description= [*] Desert Combat Uniforms
-description= [*] ERDL Uniforms (Found in army surplus + hunting areas)
-description= [*] Tiger Stripe Uniforms (Found in army surplus + hunting areas)
-description= [*] ERDL and Tiger Stripe Berets
-description= [*] M69 Flak Vest
-description= [*] T-Pattern Urban Uniform (From Operation: Urban Warrior)
-description= [*] Olive Drab Military Fatigues
-description= [*] Tiger Stripe Military Fatigues
-description= [*] Jungle Combat Boots
-description= [*] Military Crewman Vest
-description= [*] Military Tactical Helmet (Modified Protec Full-Cut Helmet w/ Comms Set)
-description= [*] Military Tactical Vest
-description= [*] Military Police Brassard
-description= [*] Military Gas Mask Bag
-description= [*] OD Green MOPP Suit (Top + Pants including bundled packaging)
-description= [*] Hazmat Gloves and Hazmat Boots
-description= [*] GI Socks
-description= [*] M67 Fragmentation Grenade (Pulled until vanilla explosives rework)
 description= [/list]
+description=[h2]Helmets[/h2]
+description [list]
+description=[*] PASGT Helmets (Woodland, Desert Battle, and Desert Combat + can be strapped/unstrapped + Riot Version + Night Vision with AN/PVS-7)
+description=[*] PASGT Helmets (Woodland, Desert Battle, and Desert Combat + Night Vision with PVS-7)
+description=[*] M1 Steel Helmets (Coverless, Woodland, Desert, and Mitchell + can be strapped/unstrapped + can have goggles attached)
+description=[*] DH-132 Crewman Helmet
+description=[*] Military Tactical Helmet (Modified Protec Full-Cut Helmet w/ Comms Set)
+description=[/list]
 description=
-description= [h2]Special mentions: 
-description= [list]
-description= [h2]The code that makes night vision possible is originally by Eris from her [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1793461606]Night Vision Goggles[/url] mod.[/h2]
-description= [h2]Certain functions that allow more complex clothing to function is from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2688737276]Dislaik's Clothing Pack.[/url]
+description=[h2]Body Armor[/h2]
+description [list]
+description=[*]PASGT Vests (Woodland, Desert Battle, and Green)
+description=[*]Ranger Body Armor (Woodland + Desert)
+description=[*]DH-132 Crewman Helmet
+description=[*]Combat Vehicle Crewman Vest
+description=[*]Military Tactical Vest
+description=[/list]
+description=
+description=[h2]Uniforms[/h2]
+description [list]
+description=[*]Woodland
+description=[*]Desert Battle Uniform (Six-Color)
+description=[*]Desert Combat Uniform (Three-Color)
+description=[*]ERDL 
+description=[*]Olive Green 107
+description=[*]Tiger Stripe
+description=[*]Urban 
+description=[*]T-Pattern Urban (from Operation: Urban Warrior)
+description=[/list]
+description=
+description=[h2]Webbing & Bags[/h2]
+description [list]
+description=[*]ALICE Webbing
+description=[*]M-1956 Webbing
+description=[*]Cloth Bandoliers 
+description=[*]CFP-90 Patrol Pack
+description=[*]Military Gas Mask Bag
+description=[/list]
+description
+description=[h2]Headwear[/h2]
+description [list]
+description=[*]Woodland, ERDL, Desert, and Urban Patrol Caps (Can also be tucked) = Winter Versions
+description=[*]Watch Caps
+description=[*]Garrison Caps
+description=[*]Cavalry Hat
+description=[/list]
+description=
+description=[h2]Eyewear[/h2]
+description [list]
+description=[*]GI Glasses (aka Birth Control Glasses)
+description=[*]Dust Goggles
+description=[*]Boogie Goggles
+description=[/list]
+description=
+description=[h2]NBC Gear[/h2]
+description [list]
+description=[*]M17 Gas Mask + Doff Hood
+description=[*]M40 Gas Mask + Doff Hood
+description=[*]OD Green MOPP Suit (Top + Pants including bundled packaging)
+description=[*]NBC Gloves and NBC Boots
+description=[/list]
+description=
+description=[h2]Miscellaneous[/h2]
+description=[list]
+description=[*]Shemaghs (Can be pulled up or down)
+description=[*]M65 Field Jacket
+description=[*]Military Police Brassard
+description=[*]GI Socks
+description=[/list]
+description=
+description=[h2]Special mentions: 
+description=[list]
+description=[h2]The code that makes night vision possible is originally by Eris from her [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1793461606]Night Vision Goggles[/url] mod.[/h2]
+description=[h2]Certain functions that allow more complex clothing to function is from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2688737276]Dislaik's Clothing Pack.[/url]
 tags=Build 41;Clothing/Armor;Military;Models;Realistic;Weapons
 visibility=public

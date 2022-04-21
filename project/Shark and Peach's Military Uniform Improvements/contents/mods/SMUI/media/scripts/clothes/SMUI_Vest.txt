@@ -77,7 +77,7 @@ module SMUIClothing
 	{
 		DisplayCategory = Clothing,
 		Type = Clothing,
-		DisplayName = Military Crewman Vest,
+		DisplayName = Combat Vehicle Crewman Vest,
 		ClothingItem = Vest_MilitaryTankerVest,
 		BodyLocation = TorsoExtra,
 		BloodLocation = ShirtNoSleeves,

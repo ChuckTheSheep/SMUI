@@ -228,6 +228,7 @@ module SMUIClothing
         WindResistance = 0.20,
         Insulation = 0.10,
         Weight = 0.5,
+        WorldStaticModel = CavalryHat_WorldItem,
     }
 
         item Hat_BeretSpecial
@@ -498,7 +499,7 @@ module SMUIClothing
         Type = Clothing,
         DisplayName = M65 Field Jacket,
         BodyLocation = Jacket,
-        Icon = ShirtCamoGreen,
+        Icon = M65,
         BloodLocation = Jacket,
         RunSpeedModifier = 0.94,
         CombatSpeedModifier = 0.97,
@@ -510,7 +511,7 @@ module SMUIClothing
         WaterResistance = 0.6,
         Weight = 1,
         FabricType = Cotton,
-        WorldStaticModel = JacketCoat_Ground,
+        WorldStaticModel = M65Jacket_WorldItem,
         
     }
 

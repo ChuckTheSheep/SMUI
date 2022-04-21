@@ -504,4 +504,18 @@ module Base
 		texture = WorldItems/HBTBeret,
 		scale = 0.5,
 	}
+
+		model M65Jacket_WorldItem
+	{
+		mesh = WorldItems/M65Jacket_WorldItem,
+		texture = WorldItems/M65Jacket,
+		scale = 0.5,
+	}
+
+		model CavalryHat_WorldItem
+	{
+		mesh = WorldItems/CavalryHat_WorldItem,
+		texture = WorldItems/CavalryHat,
+		scale = 0.5,
+	}
 }
