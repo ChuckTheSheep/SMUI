@@ -378,11 +378,18 @@ table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 4);
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.M1956WebbingBag");
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 0.2);
 
-table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Jacket_M65FieldJacket");
-table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 3);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Jacket_M65FieldJacket");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
 table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothing.Jacket_M65FieldJacket");
 table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 3);
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Jacket_M65FieldJacket");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
+
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Shirt_OG107UtilityShirt");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
+table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothing.Shirt_OG107UtilityShirt");
+table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 3);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Shirt_OG107UtilityShirt");
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
 
 
