@@ -7,15 +7,17 @@ description= Consider supporting our modding efforts:
 description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
-description= [h1][b]Vanilla military gear has now been overwritten to support future updates[/b][/h1]
+description= [h1][b]Vanilla military gear has now been completely overwritten to support future updates[/b][/h1]
 description=
 description= [h1][b]NEW: OG-106 Caps[/b][/h1]
-description= [h1][b]NEW: 06-107 Patrol Caps[/b][/h1]
+description= [h1][b]NEW: O6-107 Patrol Caps[/b][/h1]
+description= [h1][b]NEW: OG-107 Utility Shirt + Pants[/b][/h1]
 description= [h1][b]NEW: M65 Field Jackets[/b][/h1]
 description= [h1][b]NEW: M-1956 Webbing[/b][/h1]
 description= [h1][b]NEW: Cloth Bandoliers/b][/h1]
+description= [h1][b]NEW: New models for all Military Boots[/b][/h1]
 description= [h1][b]NEW: Winter Patrol Caps redone[/b][/h1]
-description= [h1][b]NEW: ERDL and Tiger Stripe Berets (found in Surplus)[/b][/h1]
+description= [h1][b]NEW: HBL Beret (found in Surplus)[/b][/h1]
 description=
 description= [h2][b]This mod entirely redoes military zombies and adds in military equipment both from the 1990's and later which is inline with the universe of Project Zomboid.[/b][/h2]
 description=
@@ -25,7 +27,7 @@ description= [h2]Features[/h2]
 description= [list]
 description= [*] Woodland, Desert and Urban BDU's can have their sleeves rolled up and have their trousers tucked in.
 description=
-description= [*] Woodland, Desert and Urban BDU's can have their sleeves rolled up and have their trousers tucked in.
+description= [*] Helmets can have goggles mounted onto them
 description=
 description= [*] Woodland, Desert, and Urban patrol caps will spawn on zombie soldiers.
 description=
@@ -36,12 +38,11 @@ description=
 description= [*] New equipment in-line with the 1990's US Military and earlier.
 description=
 description= [*] New wandering military zombies that cam be found rarely.
-description=
 description= [/list]
+description=
 description=[h2]Helmets[/h2]
 description [list]
 description=[*] PASGT Helmets (Woodland, Desert Battle, and Desert Combat + can be strapped/unstrapped + Riot Version + Night Vision with AN/PVS-7)
-description=[*] PASGT Helmets (Woodland, Desert Battle, and Desert Combat + Night Vision with PVS-7)
 description=[*] M1 Steel Helmets (Coverless, Woodland, Desert, and Mitchell + can be strapped/unstrapped + can have goggles attached)
 description=[*] DH-132 Crewman Helmet
 description=[*] Military Tactical Helmet (Modified Protec Full-Cut Helmet w/ Comms Set)
@@ -51,7 +52,6 @@ description=[h2]Body Armor[/h2]
 description [list]
 description=[*]PASGT Vests (Woodland, Desert Battle, and Green)
 description=[*]Ranger Body Armor (Woodland + Desert)
-description=[*]DH-132 Crewman Helmet
 description=[*]Combat Vehicle Crewman Vest
 description=[*]Military Tactical Vest
 description=[/list]
@@ -62,7 +62,7 @@ description=[*]Woodland
 description=[*]Desert Battle Uniform (Six-Color)
 description=[*]Desert Combat Uniform (Three-Color)
 description=[*]ERDL 
-description=[*]Olive Green 107
+description=[*]Olive Green
 description=[*]Tiger Stripe
 description=[*]Urban 
 description=[*]T-Pattern Urban (from Operation: Urban Warrior)
@@ -111,6 +111,6 @@ description=
 description=[h2]Special mentions: 
 description=[list]
 description=[h2]The code that makes night vision possible is originally by Eris from her [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1793461606]Night Vision Goggles[/url] mod.[/h2]
-description=[h2]Certain functions that allow more complex clothing to function is from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2688737276]Dislaik's Clothing Pack.[/url]
+description=[h2]Certain functions that allow more certain clothing to transition seamlessly is from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2688737276]Dislaik's Clothing Pack.[/url]
 tags=Build 41;Clothing/Armor;Military;Models;Realistic;Weapons
 visibility=public
