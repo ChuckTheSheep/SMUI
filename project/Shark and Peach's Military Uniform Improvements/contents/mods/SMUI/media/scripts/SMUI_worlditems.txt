@@ -1,6 +1,14 @@
 module Base
 {
 
+
+	    model PatrolCapOG107_WorldItem
+	{
+		mesh = WorldItems/PatrolCap_WorldItem,
+		texture = WorldItems/PatrolCapOG107,
+		scale = 0.5,
+	}
+
 	    model PatrolCapWoodland_WorldItem
 	{
 		mesh = WorldItems/PatrolCap_WorldItem,
@@ -159,6 +167,13 @@ module Base
 	{
 		mesh = WorldItems/CombatBoots_WorldItem,
 		texture = WorldItems/JungleCombatBoots,
+		scale = 0.5,
+	}
+
+	    model HazmatBoots_WorldItem
+	{
+		mesh = WorldItems/CombatBoots_WorldItem,
+		texture = WorldItems/HazmatBoots,
 		scale = 0.5,
 	}
 
