@@ -518,4 +518,11 @@ module Base
 		texture = WorldItems/CavalryHat,
 		scale = 0.5,
 	}
+
+		model OG106Cap_WorldItem
+	{
+		mesh = WorldItems/OG106Cap_WorldItem,
+		texture = WorldItems/OG106Cap,
+		scale = 0.5,
+	}
 }
