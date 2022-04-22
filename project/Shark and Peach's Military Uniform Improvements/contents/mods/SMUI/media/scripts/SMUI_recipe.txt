@@ -7,6 +7,38 @@ module SMUIClothing{
 
 recipe Roll patrol cap
   	{
+   	   Hat_PatrolCapOG107,
+
+   	   Result:Hat_PatrolCapOG107Rolled,
+	   Time:60,
+  	}
+
+recipe Roll patrol cap
+  	{
+   	   Hat_PatrolCapOG107Reversed,
+
+   	   Result:Hat_PatrolCapOG107Rolled,
+	   Time:60,
+  	}
+
+recipe Unroll patrol cap
+  	{
+   	   Hat_PatrolCapOG107Rolled,
+
+   	   Result:Hat_PatrolCapOG107,
+	   Time:60,
+  	}
+
+recipe Unroll patrol cap
+  	{
+   	   Hat_PatrolCapOG107RolledReversed,
+
+   	   Result:Hat_PatrolCapOG107,
+	   Time:60,
+  	}
+
+recipe Roll patrol cap
+  	{
    	   Hat_PatrolCap,
 
    	   Result:Hat_PatrolCapRolled,
