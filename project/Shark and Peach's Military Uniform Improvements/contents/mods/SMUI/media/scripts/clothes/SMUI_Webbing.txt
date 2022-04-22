@@ -2,6 +2,7 @@ module SMUIClothing
 {
 
 	item MilitaryWebbing
+	
 	{
 		DisplayCategory = Webbing,
 		Type = Container,
@@ -9,7 +10,7 @@ module SMUIClothing
 		ClothingItem = MilitaryWebbing,
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,
-		Capacity = 5,
+		Capacity = 4,
 		WeightReduction	=	40,
 		RunSpeedModifier = 1,
 		ClothingItemExtra = SMUIClothing.MilitaryWebbingTightened,
@@ -28,7 +29,7 @@ module SMUIClothing
 		ClothingItem = MilitaryWebbingTightened,
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,
-		Capacity = 5,
+		Capacity = 4,
 		WeightReduction	=	40,
 		RunSpeedModifier = 1,
 		ClothingItemExtra = SMUIClothing.MilitaryWebbing,
@@ -81,11 +82,11 @@ module SMUIClothing
 	{
 		DisplayCategory = Webbing,
 		Type = Container,
-		DisplayName = M1956 Webbing,
+		DisplayName = M-1956 Webbing,
 		ClothingItem = M1956Webbing,
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,
-		Capacity = 5,
+		Capacity = 4,
 		WeightReduction	=	40,
 		RunSpeedModifier = 1,
 		ClothingItemExtra = SMUIClothing.M1956WebbingTightened,
@@ -100,11 +101,11 @@ module SMUIClothing
 	{
 		DisplayCategory = Webbing,
 		Type = Container,
-		DisplayName = M1956 Webbing (Tightened),
+		DisplayName = M-1956 Webbing (Tightened),
 		ClothingItem = M1956WebbingTightened,
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,
-		Capacity = 5,
+		Capacity = 4,
 		WeightReduction	=	40,
 		RunSpeedModifier = 1,
 		ClothingItemExtra = SMUIClothing.M1956Webbing,
@@ -119,7 +120,7 @@ module SMUIClothing
 	{
 		DisplayCategory = Webbing,
 		Type = Container,
-		DisplayName = M1956 Webbing /w Pack,
+		DisplayName = M-1956 Webbing /w Pack,
 		ClothingItem = M1956WebbingBag,
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,
@@ -138,7 +139,7 @@ module SMUIClothing
 	{
 		DisplayCategory = Webbing,
 		Type = Container,
-		DisplayName = M1956 Webbing /w Pack (Tightened),
+		DisplayName = M-1956 Webbing /w Pack (Tightened),
 		ClothingItem = M1956WebbingBagTightened,
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,
