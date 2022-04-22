@@ -9,6 +9,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Shirt_OG107UtilityShirt.xml</path>
+	<guid>3d511719-615d-4245-8bbb-872fc658d67e</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_OG106Cap.xml</path>
 	<guid>d5bbff14-3bc1-46b0-b4b2-cb02c91e1819</guid>
 	</files>

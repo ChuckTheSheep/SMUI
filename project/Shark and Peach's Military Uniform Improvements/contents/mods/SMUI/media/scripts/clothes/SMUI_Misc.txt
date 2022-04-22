@@ -512,7 +512,27 @@ module SMUIClothing
         Weight = 1,
         FabricType = Cotton,
         WorldStaticModel = M65Jacket_WorldItem,
-        
+    }
+
+        item OG107UtilityShirt
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = OG-107 Utility Shirt,
+        BodyLocation = Jacket,
+        Icon = M65,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = Shirt_OG107UtilityShirt,
+        BiteDefense = 20,
+        ScratchDefense = 30,
+        Insulation = 0.3,
+        WindResistance = 0.4,
+        WaterResistance = 0.5,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = Shirt_Ground,
     }
 
     
