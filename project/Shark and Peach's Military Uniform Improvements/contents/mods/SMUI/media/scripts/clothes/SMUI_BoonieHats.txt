@@ -41,7 +41,7 @@ module SMUIClothing
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Six Color Desert Boonie Hat,
+        DisplayName = Desert Battle Boonie Hat,
         ClothingItem = Hat_BoonieHatSixColorDesert,
         BodyLocation = Hat,
         Icon = BoonieHatSixColor,
@@ -59,7 +59,7 @@ module SMUIClothing
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Six Color Desert Boonie Hat (Folded),
+        DisplayName = Desert Battle Boonie Hat (Folded),
         ClothingItem = Hat_BoonieHatSixColorDesertFolded,
         BodyLocation = Hat,
         Icon = BoonieHatSixColor,
@@ -77,7 +77,7 @@ module SMUIClothing
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Three Color Desert Boonie Hat,
+        DisplayName = Desert Combat Boonie Hat,
         ClothingItem = Hat_BoonieHatThreeColorDesert,
         BodyLocation = Hat,
         Icon = BoonieHatThreeColor,
@@ -95,7 +95,7 @@ module SMUIClothing
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Three Color Desert Boonie Hat (Folded),
+        DisplayName =  Desert Combat Boonie Hat (Folded),
         ClothingItem = Hat_BoonieHatThreeColorDesertFolded,
         BodyLocation = Hat,
         Icon = BoonieHatThreeColor,
