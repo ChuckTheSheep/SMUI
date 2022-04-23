@@ -403,7 +403,7 @@ module SMUIClothing
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName =  Urban Camo Patrol Cap,
+        DisplayName =  Urban Patrol Cap,
         ClothingItem = Hat_PatrolCapUrban,
         BodyLocation = Hat,
         Icon = PatrolCapUrban,
