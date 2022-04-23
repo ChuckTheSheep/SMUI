@@ -521,13 +521,13 @@ module SMUIClothing
         WorldStaticModel = M65Jacket_WorldItem,
     }
 
-        item OG107UtilityShirt
+        item Shirt_OG107UtilityShirt
     {
         DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = OG-107 Utility Shirt,
 		BodyLocation = ShortSleeveShirt,
-        Icon = M65,
+        Icon = OG107Utility,
 		BloodLocation = Shirt,
         RunSpeedModifier = 0.94,
         CombatSpeedModifier = 0.97,
