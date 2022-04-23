@@ -131,7 +131,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Combat Pattern Pants,
+        DisplayName = Desert Battle Pattern Pants,
         BodyLocation = Pants,
         Icon = TrousersCamoSand,
         BloodLocation = Trousers,
@@ -152,7 +152,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Combat Pattern Pants (Tucked),
+        DisplayName = Desert Battle Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoSand,
         BloodLocation = Trousers,
