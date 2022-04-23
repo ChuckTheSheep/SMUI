@@ -17,7 +17,7 @@ ItemName_EN = {
     ItemName_Base.Shirt_CamoUrban = "Urban Pattern Jacket",
 
     ItemName_Base.Jacket_ArmyCamoDesert = "Desert Combat Pattern Jacket",
-    ItemName_Base.Jacket_ArmyCamoGreen = "Desert Combat Pattern Jacket",
+    ItemName_Base.Jacket_ArmyCamoGreen = "Woodland Pattern Jacket",
 
     ItemName_Base.Trousers_CamoDesert = "Desert Combat Pattern Pants",
     ItemName_Base.Trousers_CamoGreen = "Woodland Pattern Pants",
