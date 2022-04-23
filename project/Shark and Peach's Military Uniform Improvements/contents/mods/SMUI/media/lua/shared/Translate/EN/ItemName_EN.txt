@@ -18,10 +18,15 @@ ItemName_EN = {
 
     ItemName_Base.Jacket_ArmyCamoDesert = "Desert Combat Pattern Jacket",
     ItemName_Base.Jacket_ArmyCamoGreen = "Woodland Pattern Jacket",
+    ItemName_Base.Jacket_CoatArmy = "Army Service Jacket",
 
     ItemName_Base.Trousers_CamoDesert = "Desert Combat Pattern Pants",
     ItemName_Base.Trousers_CamoGreen = "Woodland Pattern Pants",
     ItemName_Base.Trousers_CamoUrban = "Urban Pattern Pants",
+    ItemName_Base.Trousers_ArmyService = "Army Service Pants",
+    
+    ItemName_Base.Shorts_CamoUrbanLong = "Urban Pattern Shorts",
+    ItemName_Base.Shorts_CamoGreenLong = "Woodland Pattern Shorts",
     
     ItemName_Base.Bag_ALICEpack = "ALICE Pack",
     ItemName_Base.Bag_ALICEpack_Army = "Woodland ALICE Pack",
