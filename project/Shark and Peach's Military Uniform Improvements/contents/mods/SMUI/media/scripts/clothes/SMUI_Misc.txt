@@ -551,7 +551,7 @@ module SMUIClothing
         ClothingItem = Mask_ECW,
         BodyLocation = MaskEyes,
         BloodLocation = Head,
-        Icon = M17,
+        Icon = ExtremeColdWeather,
         CanHaveHoles = false,
         BiteDefense = 19,
         ScratchDefense = 30,
