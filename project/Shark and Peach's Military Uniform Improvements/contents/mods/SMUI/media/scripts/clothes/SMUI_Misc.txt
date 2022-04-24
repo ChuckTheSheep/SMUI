@@ -227,7 +227,7 @@ module SMUIClothing
         ChanceToFall = 80,
         WindResistance = 0.20,
         Insulation = 0.10,
-        Weight = 0.5,
+        Weight = 0.1,
         WorldStaticModel = CavalryHat_WorldItem,
     }
 
@@ -541,8 +541,7 @@ module SMUIClothing
         FabricType = Cotton,
         WorldStaticModel = Shirt_Ground,
     }
-
-        
+    
         item Mask_ExtremeColdWeather
     {
         DisplayCategory = GasMask,
@@ -555,7 +554,7 @@ module SMUIClothing
         CanHaveHoles = false,
         BiteDefense = 19,
         ScratchDefense = 30,
-        Weight = 0.1,
+        Weight = 0.3,
         Insulation = 0.99,
         WindResistance = 0.99,
         WorldStaticModel = M17_WorldItem,	
