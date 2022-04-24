@@ -33,7 +33,6 @@ description= [*] New wandering military zombies that cam be found rarely.
 description= [/list]
 description=
 description=[h2]Helmets[/h2]
-description [list]
 description=[*] PASGT Helmets (Woodland, Desert Battle, and Desert Combat + can be strapped/unstrapped + Riot Version + Night Vision with AN/PVS-7)
 description=[*] M1 Steel Helmets (Coverless, Woodland, Desert, and Mitchell + can be strapped/unstrapped + can have goggles attached)
 description=[*] DH-132 Crewman Helmet
@@ -41,7 +40,6 @@ description=[*] Military Tactical Helmet (Modified Protec Full-Cut Helmet w/ Com
 description=[/list]
 description=
 description=[h2]Body Armor[/h2]
-description [list]
 description=[*]PASGT Vests (Woodland, Desert Battle, and Green)
 description=[*]Ranger Body Armor (Woodland + Desert)
 description=[*]Combat Vehicle Crewman Vest
@@ -49,43 +47,37 @@ description=[*]Military Tactical Vest
 description=[/list]
 description=
 description=[h2]Uniforms[/h2]
-description [list]
 description=[*]Woodland
 description=[*]Desert Battle Uniform (Six-Color)
 description=[*]Desert Combat Uniform (Three-Color)
-description=[*]ERDL 
+description=[*]ERDL
 description=[*]Olive Green
 description=[*]Tiger Stripe
-description=[*]Urban 
+description=[*]Urban
 description=[*]T-Pattern Urban (from Operation: Urban Warrior)
 description=[/list]
 description=
 description=[h2]Webbing & Bags[/h2]
-description [list]
 description=[*]ALICE Webbing
 description=[*]M-1956 Webbing
 description=[*]CFP-90 Patrol Pack
 description=[*]Medic Backpack
 description=[*]Military Gas Mask Bag
 description=[/list]
-description
 description=[h2]Headwear[/h2]
-description [list]
-description=[*]Woodland, ERDL, Desert, and Urban Patrol Caps (Can also be tucked) = Winter Versions
+description=[*]Woodland, ERDL, Desert, Urban, and Olive Green Patrol Caps (Can also be rolled) = Winter Versions
 description=[*]Watch Caps
 description=[*]Garrison Caps
 description=[*]Cavalry Hat
 description=[/list]
 description=
 description=[h2]Eyewear[/h2]
-description [list]
 description=[*]GI Glasses (aka Birth Control Glasses)
 description=[*]Dust Goggles
 description=[*]Boogie Goggles
 description=[/list]
 description=
 description=[h2]NBC Gear[/h2]
-description [list]
 description=[*]M17 Gas Mask + Doff Hood
 description=[*]M40 Gas Mask + Doff Hood
 description=[*]OD Green MOPP Suit (Top + Pants including bundled packaging)
@@ -100,7 +92,7 @@ description=[*]Military Police Brassard
 description=[*]GI Socks
 description=[/list]
 description=
-description=[h2]Special mentions: 
+description=[h2]Special mentions:
 description=[list]
 description=[h2]The code that makes night vision possible is originally by Eris from her [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1793461606]Night Vision Goggles[/url] mod.[/h2]
 description=[h2]Certain functions that allow more certain clothing to transition seamlessly is from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2688737276]Dislaik's Clothing Pack.[/url]
