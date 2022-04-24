@@ -155,7 +155,7 @@ module SMUIClothing
         Icon = BoonieHatTigerStripe,
         ClothingItemExtra = SMUIClothing.Hat_BoonieHatTigerStripeFolded,
         ClothingItemExtraOption = Fold,
-        ClothingExtraSubmenu = Unold,
+        ClothingExtraSubmenu = Unfold,
         CanHaveHoles = false,
         ChanceToFall = 80,
         Insulation = 0.10,
