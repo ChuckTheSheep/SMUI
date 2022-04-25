@@ -547,7 +547,7 @@ module SMUIClothing
         DisplayCategory = Accessory,
         Type = Clothing,
         DisplayName = Extreme Cold Weather Mask,
-        ClothingItem = Mask_ECW,
+        ClothingItem = Mask_ExtremeColdWeather,
         BodyLocation = MaskEyes,
         BloodLocation = Head,
         Icon = ExtremeColdWeatherMask,
