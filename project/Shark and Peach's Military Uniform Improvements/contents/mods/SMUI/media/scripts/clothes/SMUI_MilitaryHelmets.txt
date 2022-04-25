@@ -663,7 +663,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName =  Three Color Desert M1 Steel Helmet,
+        DisplayName =  Desert Combat M1 Steel Helmet,
         ClothingItem = Hat_M1HelmetThreeColor,
         BodyLocation = Hat,
         Icon = M1HelmetThreeColor,
@@ -685,7 +685,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Strapless Three Color Desert M1 Steel Helmet,
+        DisplayName = Strapless Desert Battle M1 Steel Helmet,
         ClothingItem = Hat_M1HelmetThreeColorStrapless,
         BodyLocation = Hat,
         Icon = M1HelmetThreeColorStrapless,
@@ -708,7 +708,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName =  Three Color Desert M1 Helmet w/ Goggles,
+        DisplayName =  Desert Combat M1 Helmet w/ Goggles,
         ClothingItem = Hat_M1HelmetThreeColorGoggles,
         BodyLocation = Hat,
         Icon = M1HelmetThreeColorGoggles,
@@ -730,7 +730,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Strapless Three Color M1 Steel Helmet w/ Goggles,
+        DisplayName = Strapless Desert Combat M1 Steel Helmet w/ Goggles,
         ClothingItem = Hat_M1HelmetThreeColorGogglesStrapless,
         BodyLocation = Hat,
         Icon = M1HelmetThreeColorGogglesStrapless,
@@ -753,7 +753,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Military Tactical Helmet,
+        DisplayName = Bump Helmet,
         ClothingItem = Hat_MilitaryTacticalHelmet,
         BodyLocation = Hat,
         Icon = MilitaryTacticalHelmet,
@@ -771,7 +771,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Military Tactical Helmet w/ Goggles,
+        DisplayName = Bump Helmet w/ Goggles,
         ClothingItem = Hat_MilitaryTacticalHelmetGoggles,
         BodyLocation = Hat,
         Icon = MilitaryTacticalHelmetGoggles,
