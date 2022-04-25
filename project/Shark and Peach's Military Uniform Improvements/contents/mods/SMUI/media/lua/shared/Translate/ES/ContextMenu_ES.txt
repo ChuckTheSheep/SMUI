@@ -14,5 +14,9 @@ ContextMenu_ES = {
     ContextMenu_VisorDown = "Visor abajo",
 	ContextMenu_PullUp = "Levantar",
     ContextMenu_PullDown = "Bajar",
+	ContextMenu_LeftArm = "Brazo izquierdo",
+    ContextMenu_RightArm = "Brazo derecho",
+    ContextMenu_Fold = "Doblar",
+    ContextMenu_Unfold = "Desdoblar",
 	
 } 

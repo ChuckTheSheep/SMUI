@@ -1,7 +1,7 @@
 IGUI_ES = {
 
-	IGUI_HotbarAttachment_SMUIWebbingLeft = "Arnés - Espacio izquierdo",
-	IGUI_HotbarAttachment_SMUIWebbingRight = "Arnés - Espacio derecho",
+	IGUI_HotbarAttachment_SMUIWebbingLeft = "Arnés - Ranura izquierda",
+	IGUI_HotbarAttachment_SMUIWebbingRight = "Arnés - Ranura derecha",
 
     IGUI_ItemCat_Helmet = "Casco",
 	IGUI_ItemCat_Webbing = "Arnés",
