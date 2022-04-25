@@ -540,4 +540,11 @@ module Base
 		texture = WorldItems/OG106Cap,
 		scale = 0.5,
 	}
+
+		model ExtremeColdWeatherMask_WorldItem
+	{
+		mesh = WorldItems/ExtremeColdWeatherMask_WorldItem,
+		texture = WorldItems/ExtremeColdWWeatherMask,
+		scale = 0.5,
+	}
 }
