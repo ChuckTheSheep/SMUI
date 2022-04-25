@@ -544,7 +544,7 @@ module Base
 		model ExtremeColdWeatherMask_WorldItem
 	{
 		mesh = WorldItems/ExtremeColdWeatherMask_WorldItem,
-		texture = WorldItems/ExtremeColdWWeatherMask,
+		texture = WorldItems/ExtremeColdWeatherMask,
 		scale = 0.5,
 	}
 }
