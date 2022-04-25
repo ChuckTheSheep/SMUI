@@ -544,20 +544,20 @@ module SMUIClothing
     
         item Mask_ExtremeColdWeather
     {
-        DisplayCategory = GasMask,
+        DisplayCategory = Accessory,
         Type = Clothing,
         DisplayName = Extreme Cold Weather Mask,
         ClothingItem = Mask_ECW,
         BodyLocation = MaskEyes,
         BloodLocation = Head,
-        Icon = ExtremeColdWeather,
+        Icon = ExtremeColdWeatherMask,
         CanHaveHoles = false,
         BiteDefense = 19,
         ScratchDefense = 30,
         Weight = 0.3,
         Insulation = 0.99,
         WindResistance = 0.99,
-        WorldStaticModel = M17_WorldItem,	
+        WorldStaticModel = ExtremeColdWeatherMask_WorldItem,	
     }
     
 }
