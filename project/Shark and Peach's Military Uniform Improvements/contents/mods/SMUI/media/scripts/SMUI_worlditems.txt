@@ -198,10 +198,10 @@ module Base
 		scale = 0.5,
 	}
 
-		model MilitaryHelmetDesert_WorldItem
+		model MilitaryHelmetDesertCombat_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmet_WorldItem,
-		texture = WorldItems/MilitaryHelmetDesert,
+		texture = WorldItems/MilitaryHelmetDesertCombat,
 		scale = 0.5,
 	}
 
