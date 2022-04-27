@@ -385,12 +385,31 @@ table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 3);
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Jacket_M65FieldJacket");
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
 
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Jacket_M65FieldJacketWoodland");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Jacket_M65FieldJacketWoodland");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
+table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothing.Jacket_M65FieldJacketWoodland");
+table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 3);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Jacket_M65FieldJacketWoodland");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
+
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Shirt_OG107UtilityShirt");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
 table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothing.Shirt_OG107UtilityShirt");
 table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 3);
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Shirt_OG107UtilityShirt");
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Mask_ExtremeColdWeather");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.2);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Mask_ExtremeColdWeather");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
+table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothing.Mask_ExtremeColdWeather");
+table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 3);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Mask_ExtremeColdWeather");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
+
 
 
 
