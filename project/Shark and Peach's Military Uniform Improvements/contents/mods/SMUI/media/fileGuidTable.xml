@@ -14,6 +14,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Jacket_M65FieldJacketWoodland.xml</path>
+	<guid>51a6cc8c-64a4-44b0-9ceb-27585af4f025</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Shirt_OG107UtilityShirt.xml</path>
 	<guid>3d511719-615d-4245-8bbb-872fc658d67e</guid>
 	</files>
@@ -283,6 +288,25 @@
 	<guid>11b7a3c1-2103-44df-a4a1-2c5fd75b01f3</guid>
 	</files>
 
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetMilitaryPolice.xml</path>
+	<guid>ad39bf8e-aec5-4ae1-9178-c1f925b06c79</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetMilitaryPoliceStrapless.xml</path>
+	<guid>59dda96b-1b31-4671-94c8-475be82aa139</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetMilitaryPoliceGoggles.xml</path>
+	<guid>b6588f20-845e-439d-a6fa-dc2724f3f7db</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetMilitaryPoliceGogglesStrapless.xml</path>
+	<guid>11b7a3c1-2103-44df-a4a1-2c5fd75b01f3</guid>
+	</files>
 	<files>
 	<path>media/clothing/clothingItems/Hat_DH132.xml</path>
 	<guid>d303ddaa-ed62-442a-8706-f7b8a577b748</guid>
@@ -746,6 +770,16 @@
 	<files>
 	<path>media/clothing/clothingItems/M1956WebbingBagTightened.xml</path>
 	<guid>4ce06162-b640-412d-8b93-70ffd74e8e37</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/LBV88Webbing.xml</path>
+	<guid>c005b7b2-e6dd-43d2-bd15-565fe69c4c8b</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/LBV88WebbingTightened.xml</path>
+	<guid>e9492aac-a3f1-4bfd-8342-fd25a96ce1c5</guid>
 	</files>
 
 	<files>

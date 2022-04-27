@@ -154,6 +154,44 @@ module SMUIClothing
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
 
+		item LBV88Webbing
+	{
+		DisplayCategory = Webbing,
+		Type = Container,
+		DisplayName = LBV-88 Webbing,
+		ClothingItem = LBV88Webbing,
+		BodyLocation = SMUIWebbingPlus,
+		CanBeEquipped = SMUIWebbingPlus,
+		Capacity = 10,
+		WeightReduction	=	80,
+		RunSpeedModifier = 1.2,
+		ClothingItemExtra = SMUIClothing.LBV88Tightened,
+        ClothingItemExtraOption = Unfasten,
+		ClothingExtraSubmenu = Fasten,
+		Icon = M1956WebbingBag,
+		WorldStaticModel = M1956Webbing_WorldItem,
+		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
+	}
+
+		item LBV88WebbingTightened
+	{
+		DisplayCategory = Webbing,
+		Type = Container,
+		DisplayName = LBV-88 Webbing (Tightened),
+		ClothingItem = LBV88Tightened,
+		BodyLocation = SMUIWebbingPlus,
+		CanBeEquipped = SMUIWebbingPlus,
+		Capacity = 8,
+		WeightReduction	=	80,
+		RunSpeedModifier = 1.2,
+		ClothingItemExtra = SMUIClothing.LBV88Bag,
+        ClothingItemExtraOption = Unfasten,
+		ClothingExtraSubmenu = Fasten,
+		Icon = M1956WebbingBag,
+		WorldStaticModel = M1956Webbing_WorldItem,
+		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
+	}
+
 		item PistolBeltPouches
 	{
 		DisplayCategory = Webbing,

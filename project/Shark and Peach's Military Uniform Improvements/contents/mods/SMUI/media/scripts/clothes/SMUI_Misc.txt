@@ -521,6 +521,28 @@ module SMUIClothing
         WorldStaticModel = M65Jacket_WorldItem,
     }
 
+
+        item Jacket_M65FieldJacketWoodland
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Woodland M65 Field Jacket,
+        BodyLocation = Jacket,
+        Icon = M65Woodland,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = Jacket_M65FieldJacketWoodland,
+        BiteDefense = 40,
+        ScratchDefense = 60,
+        Insulation = 0.7,
+        WindResistance = 0.8,
+        WaterResistance = 0.6,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = M65JacketWoodland_WorldItem,
+    }
+    
         item Shirt_OG107UtilityShirt
     {
         DisplayCategory = Clothing,
