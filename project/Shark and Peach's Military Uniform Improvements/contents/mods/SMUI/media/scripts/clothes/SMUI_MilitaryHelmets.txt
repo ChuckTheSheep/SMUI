@@ -1,28 +1,6 @@
 module SMUIClothing 
 {
 
-        item Hat_Army
-	{
-		Type = Clothing,
-		ClothingItem = Hat_MilitaryHelmet,
-		BodyLocation = Hat,
-		Icon = MilitaryHelmet,
-		BloodLocation = Head,
-        Obsolete = TRUE,
-		WorldStaticModel = MilitaryHelmet_WorldItem,
-	}
-
-        item Hat_ArmyHelmetStrapless
-	{
-		Type = Clothing,
-		ClothingItem = Hat_MilitaryHelmetStrapless,
-		BodyLocation = Hat,
-		Icon = MilitaryHelmet,
-		BloodLocation = Head,
-        Obsolete = TRUE,
-		WorldStaticModel = MilitaryHelmet_WorldItem,
-	}
-
         item Hat_MilitaryHelmet
     {
         DisplayCategory = Helmet,
@@ -740,6 +718,96 @@ module SMUIClothing
         BulletDefense = 20,
         CanHaveHoles = false,
         ClothingItemExtra = SMUIClothing.Hat_M1HelmetThreeColorGoggles,
+        ClothingItemExtraOption = Strap,
+        ClothingExtraSubmenu = Unstrap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetThreeColorGoggles_WorldItem,
+    }
+
+        item Hat_M1HelmetMilitaryPolice
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName =  Military Police M1 Steel Helmet,
+        ClothingItem = Hat_M1HelmetMilitaryPolice,
+        BodyLocation = Hat,
+        Icon = M1HelmetThreeColor,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetMilitaryPoliceStrapless,
+        ClothingItemExtraOption = Unstrap,
+        ClothingExtraSubmenu = Strap,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetThreeColor_WorldItem,
+    }
+
+        item Hat_M1HelmetMilitaryPoliceStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless Military Police M1 Steel Helmet,
+        ClothingItem = Hat_M1HelmetMilitaryPoliceStrapless,
+        BodyLocation = Hat,
+        Icon = M1HelmetThreeColorStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetMilitaryPolice,
+        ClothingItemExtraOption = Strap,
+        ClothingExtraSubmenu = Unstrap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetThreeColor_WorldItem,
+    }
+
+        item Hat_M1HelmetMilitaryPoliceGoggles
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName =  Military Police M1 Steel Helmet w/ Goggles,
+        ClothingItem = Hat_M1HelmetMilitaryPoliceGoggles,
+        BodyLocation = Hat,
+        Icon = M1HelmetThreeColorGoggles,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetMilitaryPoliceGogglesStrapless,
+        ClothingItemExtraOption = Unstrap,
+        ClothingExtraSubmenu = Strap,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetThreeColorGoggles_WorldItem,
+    }
+
+        item Hat_M1HelmetMilitaryPoliceGogglesStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless Military Police M1 Steel Helmet w/ Goggles,
+        ClothingItem = Hat_M1HelmetMilitaryPoliceGogglesStrapless,
+        BodyLocation = Hat,
+        Icon = M1HelmetThreeColorGogglesStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetMilitaryPoliceGoggles,
         ClothingItemExtraOption = Strap,
         ClothingExtraSubmenu = Unstrap,
         ChanceToFall = 80,
