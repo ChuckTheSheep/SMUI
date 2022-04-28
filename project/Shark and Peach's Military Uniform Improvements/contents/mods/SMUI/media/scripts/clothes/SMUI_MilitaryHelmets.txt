@@ -727,6 +727,96 @@ module SMUIClothing
 		WorldStaticModel = M1HelmetThreeColorGoggles_WorldItem,
     }
 
+        item Hat_M1HelmetERDL
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = ERDL M1 Steel Helmet,
+        ClothingItem = Hat_M1HelmetERDL,
+        BodyLocation = Hat,
+        Icon = M1Helmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetERDLStrapless,
+        ClothingItemExtraOption = Unstrap,
+        ClothingExtraSubmenu = Strap,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetERDL_WorldItem,
+    }
+
+        item Hat_M1HelmetERDLStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless ERDL M1 Steel Helmet,
+        ClothingItem = Hat_M1HelmetERDLStrapless,
+        BodyLocation = Hat,
+        Icon = M1HelmetStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetERDL,
+        ClothingItemExtraOption = Strap,
+        ClothingExtraSubmenu = Unstrap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetERDL_WorldItem,
+    }
+
+        item Hat_M1HelmetERDLGoggles
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = ERDL M1 Steel Helmet w/ Goggles,
+        ClothingItem = Hat_M1HelmetERDLGoggles,
+        BodyLocation = Hat,
+        Icon = M1HelmetGoggles,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetERDLGogglesStrapless,
+        ClothingItemExtraOption = Unstrap,
+        ClothingExtraSubmenu = Strap,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetERDLGoggles_WorldItem,
+    }
+
+        item Hat_M1HelmetERDLGogglesStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless ERDL M1 Steel Helmet w/ Goggles,
+        ClothingItem = Hat_M1HelmetERDLGogglesStrapless,
+        BodyLocation = Hat,
+        Icon = M1HelmetGogglesStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetERDLGoggles,
+        ClothingItemExtraOption = Strap,
+        ClothingExtraSubmenu = Unstrap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetERDLGoggles_WorldItem,
+    }
+
         item Hat_M1HelmetMilitaryPolice
     {
         DisplayCategory = Helmet,

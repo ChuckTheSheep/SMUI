@@ -289,6 +289,26 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetERDL.xml</path>
+	<guid>c9c25ecb-8e55-4d00-be8f-3a0e831a8663</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetERDLStrapless.xml</path>
+	<guid>7b3a483c-acbe-4a74-a8cc-8057612db901</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetERDLGoggles.xml</path>
+	<guid>ba3257bc-2b48-448b-ba88-224118d5a9db</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetERDLGogglesStrapless.xml</path>
+	<guid>1b4c858e-a81f-431a-bb10-f260b9b9ede4</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_M1HelmetMilitaryPolice.xml</path>
 	<guid>ad39bf8e-aec5-4ae1-9178-c1f925b06c79</guid>
 	</files>
