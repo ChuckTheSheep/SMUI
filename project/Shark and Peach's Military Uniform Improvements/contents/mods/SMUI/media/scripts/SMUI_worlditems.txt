@@ -422,6 +422,20 @@ module Base
 		scale = 0.5,
 	}
 
+		model M1HelmetMP_WorldItem
+	{
+		mesh = WorldItems/M1Helmet_WorldItem,
+		texture = WorldItems/M1HelmetMP,
+		scale = 0.5,
+	}
+
+		model M1HelmetMPGoggles_WorldItem
+	{
+		mesh = WorldItems/M1Helmet_WorldItem,
+		texture = WorldItems/M1HelmetMPGoggles,
+		scale = 0.5,
+	}
+
 		model BoogieGoggles_WorldItem
 	{
 		mesh = WorldItems/BoogieGoggles_WorldItem,
