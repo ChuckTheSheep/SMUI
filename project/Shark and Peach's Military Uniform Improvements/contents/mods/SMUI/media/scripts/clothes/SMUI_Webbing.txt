@@ -18,7 +18,6 @@ module SMUIClothing
 		ClothingExtraSubmenu = Unfasten,
 		Icon = MilitaryWebbing,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
-		Tags = ReloadFastBullets,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
 
@@ -38,7 +37,6 @@ module SMUIClothing
 		ClothingExtraSubmenu = Fasten,
 		Icon = MilitaryWebbing,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
-		Tags = ReloadFastBullets,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
 
@@ -58,7 +56,6 @@ module SMUIClothing
         ClothingExtraSubmenu = Unfasten,
 		Icon = MilitaryWebbingBag, 
 		WorldStaticModel = MilitaryWebbing_WorldItem,
-		Tags = ReloadFastBullets,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,	
 	}
 
@@ -78,7 +75,6 @@ module SMUIClothing
 		ClothingExtraSubmenu = Fasten,
 		Icon = MilitaryWebbingBag,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
-		Tags = ReloadFastBullets,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
 
@@ -98,7 +94,6 @@ module SMUIClothing
 		ClothingExtraSubmenu = Unfasten,
 		Icon = M1956Webbing,
 		WorldStaticModel = M1956Webbing_WorldItem,
-		Tags = ReloadFastBullets,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
 
@@ -118,7 +113,6 @@ module SMUIClothing
 		ClothingExtraSubmenu = Fasten,
 		Icon = M1956Webbing,
 		WorldStaticModel = M1956Webbing_WorldItem,
-		Tags = ReloadFastBullets,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
 
@@ -138,7 +132,6 @@ module SMUIClothing
         ClothingExtraSubmenu = Unfasten,
 		Icon = M1956WebbingBag, 
 		WorldStaticModel = M1956Webbing_WorldItem,
-		Tags = ReloadFastBullets,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,	
 	}
 
@@ -158,7 +151,6 @@ module SMUIClothing
 		ClothingExtraSubmenu = Fasten,
 		Icon = M1956WebbingBag,
 		WorldStaticModel = M1956Webbing_WorldItem,
-		Tags = ReloadFastBullets,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
 
@@ -197,7 +189,6 @@ module SMUIClothing
 		ClothingExtraSubmenu = Fasten,
 		Icon = M1956WebbingBag,
 		WorldStaticModel = M1956Webbing_WorldItem,
-		Tags = ReloadFastBullets,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
 

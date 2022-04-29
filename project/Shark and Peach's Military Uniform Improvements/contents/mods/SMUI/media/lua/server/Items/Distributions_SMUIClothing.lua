@@ -274,6 +274,11 @@ table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 5);
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Hat_M1HelmetThreeColor");
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
 
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_M1HelmetERDL");
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 5);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Hat_M1HelmetERDL");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
+
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Gloves_FlightGloves");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmyHangarOutfit.items, "SMUIClothing.Gloves_FlightGloves");
@@ -351,6 +356,11 @@ table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 0.2);
 
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_ERDLBeret");
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 3);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Hat_ERDLBeret");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 0.2);
+
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_TigerStripeBeret");
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 3);
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Hat_TigerStripeBeret");
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 0.2);
 
@@ -385,8 +395,6 @@ table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 3);
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Jacket_M65FieldJacket");
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
 
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Jacket_M65FieldJacketWoodland");
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Jacket_M65FieldJacketWoodland");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
 table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothing.Jacket_M65FieldJacketWoodland");

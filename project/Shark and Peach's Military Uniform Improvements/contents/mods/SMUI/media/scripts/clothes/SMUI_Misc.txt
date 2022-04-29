@@ -421,7 +421,7 @@ module SMUIClothing
         Insulation = 0.9,
         WindResistance = 0.65,
         WaterResistance = 0.80,
-        WorldStaticModel = JungleCombatBoots_WorldItem,
+        WorldStaticModel = Boots_Ground,
 	}
 
     	item Socks_GeneralIssue

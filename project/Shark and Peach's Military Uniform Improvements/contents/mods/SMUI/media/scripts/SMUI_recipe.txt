@@ -405,6 +405,42 @@ recipe Attach goggles to helmet
 	   Time:20,
   	}
 
+ recipe Attach goggles to helmet
+  	{
+   	   Hat_M1HelmetMilitaryPolice,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_M1HelmetMilitaryPoliceGoggles,
+	   Time:20,
+  	}
+
+recipe Attach goggles to helmet
+  	{
+   	   Hat_M1HelmetMilitaryPoliceStrapless,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_M1Helmet:Hat_M1HelmetERDLGogglesStrapless,
+	   Time:20,
+  	}
+
+ recipe Attach goggles to helmet
+  	{
+   	   Hat_M1HelmetERDL,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_M1HelmetMilitaryPoliceGoggles,
+	   Time:20,
+  	}
+
+recipe Attach goggles to helmet
+  	{
+   	   Hat_M1HelmetERDLStrapless,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_M1Helmet:Hat_M1HelmetERDLGogglesStrapless,
+	   Time:20,
+  	}
+
 recipe Attach doff hood
   	{
    	   Hat_M40,
@@ -582,6 +618,38 @@ recipe Remove goggles
    	   Hat_M1HelmetThreeColorGogglesStrapless,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1HelmetThreeColorStrapless,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_M1HelmetMilitaryPoliceGoggles,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_M1HelmetMilitaryPolice,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_M1HelmetMilitaryPoliceGogglesStrapless,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_M1HelmetMilitaryPoliceStrapless,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_M1HelmetERDLGoggles,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_M1HelmetERDL,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_M1HelmetERDLGogglesStrapless,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_M1HelmetERDLStrapless,
 	   Time:60,
   	}
 
