@@ -15,6 +15,17 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.1);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Hat_MilitaryTacticalHelmet");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.1);
 
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.LBV88Webbing");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.LBV88Webbing");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.LBV88WebbingBag");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.LBV88WebbingBag");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
+
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.MilitaryWebbingBag");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.MilitaryWebbingBag");
