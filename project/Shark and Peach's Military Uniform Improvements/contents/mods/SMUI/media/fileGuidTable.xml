@@ -803,6 +803,16 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/LBV88WebbingBag.xml</path>
+	<guid>694ca4d4-13eb-45f9-b2e6-be9c64220fd1</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/LBV88WebbingBagTightened.xml</path>
+	<guid>298c001c-e991-48b6-b4b6-4cc69d87408f</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_M17.xml</path>
 	<guid>2d32997a-b8e5-463d-b718-06fcf2a73437</guid>
 	</files>

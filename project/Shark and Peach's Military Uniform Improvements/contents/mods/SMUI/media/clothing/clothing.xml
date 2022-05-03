@@ -231,11 +231,11 @@
 		<probability>0.2</probability>
 			<itemGUID>85217973-ff88-4680-8a5d-1c6c97692767</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Webbing-->
-			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
+		<m_items> <!-- LBV-88 Webbing-->
+			<itemGUID>d3546a87-b4f5-4b23-be53-25c0ec7ca00b</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Webbing w/ Pack-->
-			<probability>0.5</probability>
+			<probability>0.1</probability>
 			<itemGUID>696a65be-2608-448c-afe3-aa1289638598</itemGUID>
 		</m_items>
 		<m_items> <!-- GI Socks -->
@@ -361,8 +361,8 @@
 		<probability>0.1</probability>
 			<itemGUID>14b93a03-3b91-463a-b59d-4c83bf3c0574</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Webbing-->
-			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
+		<m_items> <!-- LBV-88 Webbing-->
+			<itemGUID>d3546a87-b4f5-4b23-be53-25c0ec7ca00b</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Webbing w/ Pack-->
 			<probability>0.5</probability>
@@ -567,8 +567,8 @@
 		<m_items> <!-- Gas Mask Bag -->
 			<itemGUID>25a8cb1d-0a71-425b-b2ab-25953532e366</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Webbing-->
-			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
+		<m_items> <!-- LBV-88 Webbing-->
+			<itemGUID>d3546a87-b4f5-4b23-be53-25c0ec7ca00b</itemGUID>
 		</m_items>
 		<m_items> <!-- NBC Gloves -->
 			<itemGUID>27bbfaa3-bfec-4fdf-a7e0-8d1de17f1fa4</itemGUID>
@@ -967,12 +967,8 @@
 		<m_items> <!-- Military Tactical Vest -->
 			<itemGUID>ea2e6901-f5e7-4021-87b4-c2c49f024b98</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Webbing -->
-			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Webbing w/ Pack-->
-			<probability>0.5</probability>
-			<itemGUID>696a65be-2608-448c-afe3-aa1289638598</itemGUID>
+		<m_items> <!-- LBV-88 Webbing-->
+			<itemGUID>d3546a87-b4f5-4b23-be53-25c0ec7ca00b</itemGUID>
 		</m_items>
 		<m_items> <!-- CFP-90 Assault Pack -->
 		<probability>0.7</probability>
@@ -1114,9 +1110,8 @@
 		<m_items> <!-- Military Webbing -->
 			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Webbing w/ Pack-->
-			<probability>0.5</probability>
-			<itemGUID>696a65be-2608-448c-afe3-aa1289638598</itemGUID>
+		<m_items> <!-- LBV-88 Webbing-->
+			<itemGUID>d3546a87-b4f5-4b23-be53-25c0ec7ca00b</itemGUID>
 		</m_items>
 		<m_items> <!-- CFP-90 Assault Pack -->
 		<probability>0.7</probability>
