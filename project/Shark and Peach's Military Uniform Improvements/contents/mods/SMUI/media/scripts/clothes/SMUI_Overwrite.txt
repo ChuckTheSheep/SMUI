@@ -356,5 +356,70 @@ module Base
         WorldStaticModel = Trousers_Ground,
     }
 
-
+        item Bag_SurvivorBag
+    {
+        DisplayCategory = Bag,
+        Type = Container,
+        DisplayName = Medium ALICE Pack,
+        ClothingItem = Bag_SurvivorBag,
+        CanBeEquipped = Back,
+        WeightReduction	=	70,
+        Weight	=	2,
+        Capacity	=	25,
+        Icon	=	AliceBag,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        BloodLocation = Bag,
+        RunSpeedModifier = 0.94,
+        CanHaveHoles = false,
+        AttachmentReplacement = Bag,
+        ReplaceInSecondHand = Bag_ALICEpack_LHand holdingbagleft,
+        ReplaceInPrimaryHand = Bag_ALICEpack_RHand holdingbagright,
+        WorldStaticModel = ALICE_Pack_Ground,
+    }
+        item Bag_ALICEpack
+    {
+        DisplayCategory = Bag,
+        Type = Container,
+        DisplayName = Medium ALICE Pack,
+        ClothingItem = Bag_ALICEpack,
+        CanBeEquipped = Back,
+        WeightReduction	=	70,
+        Weight	=	2,
+        Capacity	=	25,
+        Icon	=	AliceBag,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        BloodLocation = Bag,
+        RunSpeedModifier = 1,
+        CanHaveHoles = false,
+        AttachmentReplacement = Bag,
+        ReplaceInSecondHand = Bag_ALICEpack_LHand holdingbagleft,
+        ReplaceInPrimaryHand = Bag_ALICEpack_RHand holdingbagright,
+        WorldStaticModel = ALICE_Pack_Ground,
+    }
+        item Bag_ALICEpack_Army
+    {
+        DisplayCategory = Bag,
+        Type = Container,
+        DisplayName = Medium Woodland ALICE Pack,
+        ClothingItem = Bag_ALICEpack_Army,
+        CanBeEquipped = Back,
+        WeightReduction	=	70,
+        Weight	=	2,
+        Capacity	=	25,
+        Icon	=	AliceBag_Camo,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        BloodLocation = Bag,
+        RunSpeedModifier = 1,
+        CanHaveHoles = false,
+        AttachmentReplacement = Bag,
+        ReplaceInSecondHand = Bag_ALICEpack_Army_LHand holdingbagleft,
+        ReplaceInPrimaryHand = Bag_ALICEpack_Army_RHand holdingbagright,
+        WorldStaticModel = ALICE_Pack_Ground,
+    }
 }

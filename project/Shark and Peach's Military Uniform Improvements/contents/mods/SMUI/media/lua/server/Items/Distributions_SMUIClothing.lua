@@ -15,7 +15,6 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.1);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Hat_MilitaryTacticalHelmet");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.1);
 
-
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.LBV88Webbing");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.LBV88Webbing");

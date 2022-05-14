@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <clothingItem>
-	<m_MaleModel>skinned\clothes\M_CFP90PatrolPack</m_MaleModel>
-	<m_FemaleModel>skinned\clothes\F_CFP90PatrolPack</m_FemaleModel>
-	<m_GUID>80c41e56-7aeb-48ee-a1a7-c75be8cd80cc</m_GUID>
+	<m_MaleModel>skinned\clothes\M_MediumALICE</m_MaleModel>
+	<m_FemaleModel>skinned\backpacks\f_alice_pack</m_FemaleModel>
+	<m_GUID>c2d9211a-a0c5-475d-8fa6-681a8b809f26</m_GUID>
 	<m_Static>false</m_Static>
 	<m_AllowRandomHue>false</m_AllowRandomHue>
 	<m_AllowRandomTint>false</m_AllowRandomTint>

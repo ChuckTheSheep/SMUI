@@ -207,6 +207,16 @@
 	<path>media/clothing/clothingItems/Bag_MilitaryMedicalBag_Lhand.xml</path>
 	<guid>1c73cff5-eec9-4ee4-9603-2504bc56db7d</guid>
 	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Bag_LargeALICEPack.xml</path>
+	<guid>3130f55c-892d-4729-9597-bd081acbef6e</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Bag_LargeALICEPackWoodland.xml</path>
+	<guid>617e0407-c44b-49ac-b215-5674bb6705de</guid>
+	</files>
 	
 	<files>
 	<path>media/clothing/clothingItems/Hat_M1Helmet.xml</path>
