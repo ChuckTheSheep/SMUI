@@ -10,6 +10,16 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_CFP90PatrolPack");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.5);
 
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Bag_LargeALICEPack");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_LargeALICEPack");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Bag_LargeALICEPackWoodland");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_LargeALICEPackWoodland");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3)
+
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_MilitaryTacticalHelmet");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.1);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Hat_MilitaryTacticalHelmet");
@@ -418,6 +428,13 @@ table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothi
 table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 3);
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Shirt_OG107UtilityShirt");
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
+
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.TShirt_NoveltyGulfWar");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 1);
+table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothing.TShirt_NoveltyGulfWar");
+table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 1);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.TShirt_NoveltyGulfWar");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 3);
 
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Mask_ExtremeColdWeather");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.2);

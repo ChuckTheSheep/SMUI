@@ -357,6 +357,7 @@ module Base
     }
 
         item Bag_SurvivorBag
+        
     {
         DisplayCategory = Bag,
         Type = Container,
@@ -378,7 +379,9 @@ module Base
         ReplaceInPrimaryHand = Bag_ALICEpack_RHand holdingbagright,
         WorldStaticModel = ALICE_Pack_Ground,
     }
+
         item Bag_ALICEpack
+
     {
         DisplayCategory = Bag,
         Type = Container,
@@ -388,7 +391,7 @@ module Base
         WeightReduction	=	70,
         Weight	=	2,
         Capacity	=	25,
-        Icon	=	AliceBag,
+        Icon	=	GreenALICEPack,
         OpenSound   =   OpenBag,
         CloseSound   =   CloseBag,
         PutInSound   =   PutItemInBag,
@@ -398,9 +401,11 @@ module Base
         AttachmentReplacement = Bag,
         ReplaceInSecondHand = Bag_ALICEpack_LHand holdingbagleft,
         ReplaceInPrimaryHand = Bag_ALICEpack_RHand holdingbagright,
-        WorldStaticModel = ALICE_Pack_Ground,
+        WorldStaticModel = MediumALICEGreen_WorldItem,
     }
+
         item Bag_ALICEpack_Army
+
     {
         DisplayCategory = Bag,
         Type = Container,
@@ -410,7 +415,7 @@ module Base
         WeightReduction	=	70,
         Weight	=	2,
         Capacity	=	25,
-        Icon	=	AliceBag_Camo,
+        Icon	=	WoodlandALICEPack,
         OpenSound   =   OpenBag,
         CloseSound   =   CloseBag,
         PutInSound   =   PutItemInBag,
@@ -420,6 +425,6 @@ module Base
         AttachmentReplacement = Bag,
         ReplaceInSecondHand = Bag_ALICEpack_Army_LHand holdingbagleft,
         ReplaceInPrimaryHand = Bag_ALICEpack_Army_RHand holdingbagright,
-        WorldStaticModel = ALICE_Pack_Ground,
+        WorldStaticModel = MediumALICEWoodland_WorldItem,
     }
 }

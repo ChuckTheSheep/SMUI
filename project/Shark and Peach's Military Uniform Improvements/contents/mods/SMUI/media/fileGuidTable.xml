@@ -3,6 +3,12 @@
 
 	<!-- Shark's Military Uniform Improvements -->
 
+
+	<files>
+	<path>media/clothing/clothingItems/TShirt_NoveltyGulfWar.xml</path>
+	<guid>3fb729e9-4ec9-4a7c-bb77-d5abdbff7699</guid>
+	</files>
+
 	<files>
 	<path>media/clothing/clothingItems/Mask_ExtremeColdWeather.xml</path>
 	<guid>e7d3cb25-9a5a-448d-8bdd-033934698142</guid>

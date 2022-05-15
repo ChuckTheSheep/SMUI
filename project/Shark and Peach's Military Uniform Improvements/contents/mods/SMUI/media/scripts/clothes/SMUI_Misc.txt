@@ -563,6 +563,25 @@ module SMUIClothing
         FabricType = Cotton,
         WorldStaticModel = Shirt_Ground,
     }
+
+        item TShirt_NoveltyGulfWar
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Novelty Gulf War T-Shirt,
+		BodyLocation = ShortSleeveShirt,
+        Icon = OG107Utility,
+		BloodLocation = Shirt,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = TShirt_NoveltyGulfWar,
+        Insulation = 0.3,
+        WindResistance = 0.4,
+        WaterResistance = 0.5,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = TShirt_Ground,
+    }
     
         item Mask_ExtremeColdWeather
     {
@@ -592,7 +611,7 @@ module SMUIClothing
         WeightReduction	=	70,
         Weight	=	3.5,
         Capacity	=	35,
-        Icon	=	AliceBag,
+        Icon	=	GreenALICEPack,
         OpenSound   =   OpenBag,
         CloseSound   =   CloseBag,
         PutInSound   =   PutItemInBag,
@@ -602,7 +621,7 @@ module SMUIClothing
         AttachmentReplacement = Bag,
         ReplaceInSecondHand = Bag_ALICEpack_LHand holdingbagleft,
         ReplaceInPrimaryHand = Bag_ALICEpack_RHand holdingbagright,
-        WorldStaticModel = ALICE_Pack_Ground,
+        WorldStaticModel = LargeALICEGreen_WorldItem,
     }
 
         item Bag_LargeALICEPackWoodland
@@ -615,7 +634,7 @@ module SMUIClothing
         WeightReduction	=	70,
         Weight	=	3.5,
         Capacity	=	35,
-        Icon	=	AliceBag,
+        Icon	=	WoodlandALICEPack,
         OpenSound   =   OpenBag,
         CloseSound   =   CloseBag,
         PutInSound   =   PutItemInBag,
@@ -625,7 +644,7 @@ module SMUIClothing
         AttachmentReplacement = Bag,
         ReplaceInSecondHand = Bag_ALICEpack_LHand holdingbagleft,
         ReplaceInPrimaryHand = Bag_ALICEpack_RHand holdingbagright,
-        WorldStaticModel = ALICE_Pack_Ground,
+        WorldStaticModel = LargeALICEWoodland_WorldItem,
     }
     
     

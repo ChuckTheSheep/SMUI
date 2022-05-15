@@ -575,4 +575,32 @@ module Base
 		texture = WorldItems/ExtremeColdWeatherMask,
 		scale = 0.5,
 	}
+
+		model MediumALICEGreen_WorldItem
+	{
+		mesh = WorldItems/MediumALICE_WorldItem,
+		texture = WorldItems/GreenALICE,
+		scale = 0.5,
+	}
+
+		model MediumALICEWoodland_WorldItem
+	{
+		mesh = WorldItems/MediumALICE_WorldItem,
+		texture = WorldItems/WoodlandALICE,
+		scale = 0.5,
+	}
+
+		model LargeALICEGreen_WorldItem
+	{
+		mesh = WorldItems/LargeALICE_WorldItem,
+		texture = WorldItems/GreenALICE,
+		scale = 0.5,
+	}
+
+		model LargeALICEWoodland_WorldItem
+	{
+		mesh = WorldItems/LargeALICE_WorldItem,
+		texture = WorldItems/WoodlandALICE,
+		scale = 0.5,
+	}
 }
