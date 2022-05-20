@@ -60,6 +60,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_BoonieHatWoodland.xml</path>
+	<guid>3d0db843-3331-4dbd-a29a-4d87fe1f31d8</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_BoonieHatWoodlandFolded.xml</path>
 	<guid>b9561dec-4fd3-453a-8b9f-3bb7eaaa8c5f</guid>
 	</files>
