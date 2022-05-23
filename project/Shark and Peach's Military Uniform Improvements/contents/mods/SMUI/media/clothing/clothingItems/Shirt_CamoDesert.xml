@@ -8,5 +8,5 @@
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
 	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
-	<m_BaseTextures>clothes\jacket\Jacket_CamoDesert</m_BaseTextures>
+	<m_BaseTextures>clothes\jacket\DBUbottom</m_BaseTextures>
 </clothingItem>

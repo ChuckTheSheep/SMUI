@@ -47,7 +47,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = ERDL Pattern Pants,
+        DisplayName = Lowland ERDL Pattern Pants,
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -68,7 +68,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = ERDL Pattern Pants (Tucked),
+        DisplayName = Lowland ERDL Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -84,6 +84,49 @@ module SMUIClothing
         FabricType = Cotton,
         WorldStaticModel = Trousers_Ground,
     }
+
+        item Trousers_ERDLBrown
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Highland ERDL Pattern Pants,
+        BodyLocation = Pants,
+        Icon = TrousersCamoGreen,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,   
+        ClothingItem = Trousers_ERDLBrown,
+        ClothingItemExtra = SMUIClothing.Trousers_ERDLBrownTucked,
+        ClothingItemExtraOption = TuckIn,
+        ClothingExtraSubmenu = TuckOut,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+        item Trousers_ERDLBrownTucked
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Highland ERDL Pattern Pants (Tucked),
+        BodyLocation = Pants,
+        Icon = TrousersCamoGreen,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,     
+        ClothingItem = Trousers_ERDLBrownTucked,
+        ClothingItemExtra = SMUIClothing.Trousers_ERDLBrown,
+        ClothingItemExtraOption = TuckOut,
+        ClothingExtraSubmenu = TuckIn,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
 
         item Trousers_TigerStripe
     {
@@ -119,6 +162,133 @@ module SMUIClothing
         Insulation = 0.4,     
         ClothingItem = Trousers_TigerStripeTucked,
         ClothingItemExtra = SMUIClothing.Trousers_TigerStripe,
+        ClothingItemExtraOption = TuckOut,
+        ClothingExtraSubmenu = TuckIn,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+        item Trousers_DuckHunter
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Duck Hunter Pattern Pants,
+        BodyLocation = Pants,
+        Icon = TrousersCamoGreen,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,   
+        ClothingItem = Trousers_DuckHunter,
+        ClothingItemExtra = SMUIClothing.Trousers_DuckHunterTucked,
+        ClothingItemExtraOption = TuckIn,
+        ClothingExtraSubmenu = TuckOut,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+        item Trousers_DuckHunterTucked
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Duck Hunter Pattern Pants (Tucked),
+        BodyLocation = Pants,
+        Icon = TrousersCamoGreen,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,     
+        ClothingItem = Trousers_DuckHunterTucked,
+        ClothingItemExtra = SMUIClothing.Trousers_DuckHunter,
+        ClothingItemExtraOption = TuckOut,
+        ClothingExtraSubmenu = TuckIn,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+        item Trousers_FrogSkin
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Frog Skin Pattern Pants,
+        BodyLocation = Pants,
+        Icon = TrousersCamoGreen,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,   
+        ClothingItem = Trousers_FrogSKin,
+        ClothingItemExtra = SMUIClothing.Trousers_FrogSkinTucked,
+        ClothingItemExtraOption = TuckIn,
+        ClothingExtraSubmenu = TuckOut,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+        item Trousers_FrogSkinTucked
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Frog Skin Pattern Pants (Tucked),
+        BodyLocation = Pants,
+        Icon = TrousersCamoGreen,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,     
+        ClothingItem = Trousers_FrogSkinTucked,
+        ClothingItemExtra = SMUIClothing.Trousers_FrogSkin,
+        ClothingItemExtraOption = TuckOut,
+        ClothingExtraSubmenu = TuckIn,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+    
+        item Trousers_Mitchell
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Mitchell Pattern Pants,
+        BodyLocation = Pants,
+        Icon = TrousersCamoGreen,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,   
+        ClothingItem = Trousers_Mitchell,
+        ClothingItemExtra = SMUIClothing.Trousers_MitchellTucked,
+        ClothingItemExtraOption = TuckIn,
+        ClothingExtraSubmenu = TuckOut,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+        item Trousers_MitchellTucked
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Mitchell Pattern Pants (Tucked),
+        BodyLocation = Pants,
+        Icon = TrousersCamoGreen,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,     
+        ClothingItem = Trousers_MitchellTucked,
+        ClothingItemExtra = SMUIClothing.Trousers_Mitchell,
         ClothingItemExtraOption = TuckOut,
         ClothingExtraSubmenu = TuckIn,
         WindResistance = 0.3,

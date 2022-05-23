@@ -6,5 +6,5 @@
 	<m_Static>false</m_Static>
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
-	<m_BaseTextures>clothes\jacket\Jacket_CamoDesert</m_BaseTextures>
+	<m_BaseTextures>clothes\jacket\DCUtop</m_BaseTextures>
 </clothingItem>

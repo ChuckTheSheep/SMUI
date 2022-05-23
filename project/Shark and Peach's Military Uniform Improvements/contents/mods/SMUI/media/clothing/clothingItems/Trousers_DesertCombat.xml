@@ -9,5 +9,5 @@
 	<m_AttachBone></m_AttachBone>
 	<m_Masks>14</m_Masks>
 	<m_Masks>15</m_Masks>
-	<textureChoices>clothes\trousers_mesh\TrousersMesh_DesertCombat</textureChoices>
+	<textureChoices>clothes\trousers_mesh\DCUbottom</textureChoices>
 </clothingItem>

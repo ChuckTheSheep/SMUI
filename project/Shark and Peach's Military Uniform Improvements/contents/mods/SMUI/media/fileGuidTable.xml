@@ -744,6 +744,16 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Trousers_ERDBrown.xml</path>
+	<guid>09abc338-fdca-4a6a-8204-c98eb039bcc3</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_ERDLBrown.xml</path>
+	<guid>218a977e-5bae-4730-96ac-734b75275f1b</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Jacket_TigerStripe.xml</path>
 	<guid>6e6ecffc-2d23-4f46-9732-6b49587168c1</guid>
 	</files>
@@ -763,6 +773,35 @@
 	<guid>85e403e5-62c1-4249-b950-1ea7816498d3</guid>
 	</files>
 
+	<files>
+	<path>media/clothing/clothingItems/Trousers_DuckHunter.xml</path>
+	<guid>426bd1a9-ff7b-42c2-a96b-67ff4c001b92</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_DuckHunterTucked.xml</path>
+	<guid>db1aac9a-fc35-483d-b704-b9a2e13bde2e</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_FrogSkin.xml</path>
+	<guid>7ede982e-8982-4ffb-8433-9710f156eab3</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_FrogSkinTucked.xml</path>
+	<guid>e7dcc4d2-e1e3-4f70-952f-763c710a6808</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_Mitchell.xml</path>
+	<guid>9a82cf90-376f-4875-bacc-878a7be9ec1f</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_MitchellTucked.xml</path>
+	<guid>dcdb8f77-2355-46bb-b738-5482ec17b892</guid>
+	</files>
 	<files>
 	<path>media/clothing/clothingItems/MilitaryWebbing.xml</path>
 	<guid>01ee11ca-3de7-4495-85d6-078d33fcab12</guid>
