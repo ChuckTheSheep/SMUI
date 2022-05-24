@@ -25,6 +25,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Jacket_M65FieldJacketMitchell.xml</path>
+	<guid>1fd8b936-ab26-412a-905d-1e65ac11fee9</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Shirt_OG107UtilityShirt.xml</path>
 	<guid>3d511719-615d-4245-8bbb-872fc658d67e</guid>
 	</files>
@@ -289,6 +294,26 @@
 	<guid>744c5643-b296-45aa-8426-dc7cdc842b3a</guid>
 	</files>
 	
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetAutumnMitchell.xml</path>
+	<guid>8643a68f-703c-4b3e-bc60-61433e16c37f</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetAutumnMitchellStrapless.xml</path>
+	<guid>e1e439f1-e200-4bb9-abfb-5f5bc89fb002</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetAutumnMitchellGoggles.xml</path>
+	<guid>2f3018b9-dab0-4a0e-b61e-d9b5ade89c06</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetAutumnMitchellGogglesStrapless.xml</path>
+	<guid>c8407e3b-8386-43e9-8932-2c266af4b21f</guid>
+	</files>
+
 	<files>
 	<path>media/clothing/clothingItems/Hat_M1HelmetThreeColor.xml</path>
 	<guid>2011dd63-2c12-4840-b2ee-1afeb066205f</guid>
@@ -731,6 +756,16 @@
 	<files>
 	<path>media/clothing/clothingItems/Jacket_ERDLRolled.xml</path>
 	<guid>c97f9872-86d8-4c4d-ba6b-3d8f745505c9</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Jacket_ERDLBrown.xml</path>
+	<guid>1a3effb9-0471-483b-bb79-ed211e86a53b</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Jacket_ERDLBrownRolled.xml</path>
+	<guid>18d75584-8d1a-4c6a-a294-dbc6051f9faf</guid>
 	</files>
 
 	<files>

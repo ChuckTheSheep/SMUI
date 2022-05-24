@@ -104,6 +104,57 @@ module SMUIClothing
 
     }
 
+        item Jacket_ERDLBrown   
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Highland ERDL Pattern Jacket,
+        BodyLocation = Jacket,
+        Icon = ShirtCamoGreen,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = Jacket_ERDLBrown,
+        ClothingItemExtra =  SMUIClothing.Jacket_ERDLBrownRolled,
+        ClothingItemExtraOption = RollUp,
+        ClothingExtraSubmenu = RollDown,
+        BiteDefense = 20,
+        ScratchDefense = 30,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+        
+    }
+
+        item Jacket_ERDLBrownRolled
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Highland ERDL Pattern Jacket (Rolled),
+        ClothingItem = Jacket_ERDLRolled,
+        BodyLocation = Jacket,
+        Icon = TShirtCamoGreen,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = Jacket_ERDLBrownRolled,
+        ClothingItemExtra = SMUIClothing.Jacket_ERDLBrown,
+        ClothingItemExtraOption = RollDown,
+        ClothingExtraSubmenu = RollUp,
+        BiteDefense = 15,
+        ScratchDefense = 20,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+
+    }
+
         item Jacket_TigerStripe   
     {
         DisplayCategory = Clothing,

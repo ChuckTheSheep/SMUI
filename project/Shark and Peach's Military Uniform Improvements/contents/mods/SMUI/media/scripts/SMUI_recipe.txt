@@ -383,10 +383,28 @@ recipe Attach goggles to helmet
    	   Hat_M1HelmetMitchellStrapless,
 	   Glasses_MilitaryGoggles,
 
-   	   Result:Hat_M1HelmetMitchellStrapless,
+   	   Result:Hat_M1HelmetMitchellGogglesStrapless,
 	   Time:20,
   	}
 
+recipe Attach goggles to helmet
+  	{
+   	   Hat_M1HelmetAutumnMitchell,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_M1HelmetAutumnMitchellGoggles,
+	   Time:20,
+  	}
+
+recipe Attach goggles to helmet
+  	{
+   	   Hat_M1HelmetAutumnMitchellStrapless,
+	   Glasses_MilitaryGoggles,
+
+   	   Result:Hat_M1HelmetAutumnMitchellGogglesStrapless,
+	   Time:20,
+  	}
+	  
 recipe Attach goggles to helmet
   	{
    	   Hat_M1HelmetThreeColor,
@@ -602,6 +620,22 @@ recipe Remove goggles
    	   Hat_M1HelmetMitchellGogglesStrapless,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1HelmetMitchellStrapless,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_M1HelmetAutumnMitchellGoggles,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_M1HelmetAutumnMitchell,
+	   Time:60,
+  	}
+
+recipe Remove goggles
+  	{
+   	   Hat_M1HelmetAutumnMitchellGogglesStrapless,
+	   OnCreate: SMUI_Recipe.GOGGLES,
+   	   Result:Hat_M1HelmetAutumnMitchellStrapless,
 	   Time:60,
   	}
 

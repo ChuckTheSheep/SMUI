@@ -526,7 +526,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Woodland M65 Field Jacket,
+        DisplayName = Woodland Pattern M65 Field Jacket,
         BodyLocation = Jacket,
         Icon = M65Woodland,
         BloodLocation = Jacket,
@@ -542,6 +542,28 @@ module SMUIClothing
         FabricType = Cotton,
         WorldStaticModel = M65JacketWoodland_WorldItem,
     }
+
+        item Jacket_M65FieldJacketMitchell
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Mitchell Pattern M65 Field Jacket,
+        BodyLocation = Jacket,
+        Icon = M65Woodland,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = Jacket_M65FieldJacketMitchell,
+        BiteDefense = 40,
+        ScratchDefense = 60,
+        Insulation = 0.7,
+        WindResistance = 0.8,
+        WaterResistance = 0.6,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = M65JacketMitchell_WorldItem,
+    }
+    
     
         item Shirt_OG107UtilityShirt
     {
