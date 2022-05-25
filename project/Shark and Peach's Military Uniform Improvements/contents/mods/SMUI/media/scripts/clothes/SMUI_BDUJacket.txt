@@ -461,4 +461,105 @@ module SMUIClothing
 
     }
 
+        item Jacket_DuckHunter
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Duck Hunter Pattern Jacket,
+        BodyLocation = Jacket,
+        Icon = ShirtCamoGreen,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = Jacket_DuckHunter,
+        ClothingItemExtra =  SMUIClothing.Jacket_DuckHunterRolled,
+        ClothingItemExtraOption = RollUp,
+        ClothingExtraSubmenu = RollDown,
+        BiteDefense = 20,
+        ScratchDefense = 30,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+        
+    }
+
+        item Jacket_DuckHunterRolled
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Duck Hunter Pattern Jacket (Rolled),
+        ClothingItem = Jacket_DuckHunterRolled,
+        BodyLocation = Jacket,
+        Icon = TShirtCamoGreen,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = Jacket_DuckHunterRolled,
+        ClothingItemExtra = SMUIClothing.Jacket_DuckHunter,
+        ClothingItemExtraOption = RollDown,
+        ClothingExtraSubmenu = RollUp,
+        BiteDefense = 15,
+        ScratchDefense = 20,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+    }
+
+        item Jacket_FrogSkin
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Frog Skin Pattern Jacket,
+        BodyLocation = Jacket,
+        Icon = ShirtCamoGreen,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = Jacket_FrogSkin,
+        ClothingItemExtra =  SMUIClothing.Jacket_FrogSkinRolled,
+        ClothingItemExtraOption = RollUp,
+        ClothingExtraSubmenu = RollDown,
+        BiteDefense = 20,
+        ScratchDefense = 30,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+        
+    }
+
+        item Jacket_FrogSkinRolled
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Frog Skin Pattern Jacket (Rolled),
+        ClothingItem = Jacket_FrogSkinRolled,
+        BodyLocation = Jacket,
+        Icon = TShirtCamoGreen,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = Jacket_FrogSkinRolled,
+        ClothingItemExtra = SMUIClothing.Jacket_FrogSkin,
+        ClothingItemExtraOption = RollDown,
+        ClothingExtraSubmenu = RollUp,
+        BiteDefense = 15,
+        ScratchDefense = 20,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        Weight = 1,
+        FabricType = Cotton,
+        WorldStaticModel = JacketCoat_Ground,
+
+    }
+
   }

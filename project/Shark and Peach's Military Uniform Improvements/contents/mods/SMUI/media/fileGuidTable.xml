@@ -769,6 +769,26 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Jacket_DuckHunter.xml</path>
+	<guid>b637652c-0e59-4aad-b40e-03c160cf2e15</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Jacket_DuckHunterTucked.xml</path>
+	<guid>b17d580a-6255-4c0c-8408-087b34ba40b2</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Jacket_FrogSkin.xml</path>
+	<guid>bd04935d-05cb-4b68-a2fc-f4b8dfb2f0c3</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Jacket_FrogSkinTucked.xml</path>
+	<guid>2dfb9f33-6fc8-4be0-a5d5-a79fbaf80f95</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Trousers_ERDL.xml</path>
 	<guid>ed0ce565-5b94-4026-a68c-7118a5bb8805</guid>
 	</files>
