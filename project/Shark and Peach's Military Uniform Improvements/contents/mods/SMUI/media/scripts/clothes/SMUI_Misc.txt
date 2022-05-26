@@ -459,7 +459,7 @@ module SMUIClothing
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = ERDL Beret,
+		DisplayName = Lowland ERDL Pattern Beret,
 		ClothingItem = Hat_ERDLBeret,
 		BodyLocation = Hat,
         BloodLocation = Head,
@@ -474,7 +474,7 @@ module SMUIClothing
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = HBT Beret,
+		DisplayName = Duck Hunter Pattern Beret,
 		ClothingItem = Hat_HBTBeret,
 		BodyLocation = Hat,
         BloodLocation = Head,
@@ -489,7 +489,7 @@ module SMUIClothing
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Tiger Stripe Beret,
+		DisplayName = Tiger Stripe Pattern Beret,
 		ClothingItem = Hat_TigerStripeBeret,
 		BodyLocation = Hat,
         BloodLocation = Head,
