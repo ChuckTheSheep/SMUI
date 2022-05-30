@@ -57,7 +57,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = ERDL Pattern Jacket,
+        DisplayName = Lowland ERDL Pattern Jacket,
         BodyLocation = Jacket,
         Icon = ShirtCamoGreen,
         BloodLocation = Jacket,
@@ -82,7 +82,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = ERDL Pattern Jacket (Rolled),
+        DisplayName = Lowland ERDL Pattern Jacket (Rolled),
         ClothingItem = Jacket_ERDLRolled,
         BodyLocation = Jacket,
         Icon = TShirtCamoGreen,
@@ -260,7 +260,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Combat Pattern Jacket,
+        DisplayName = Desert Combat Jacket,
         BodyLocation = Jacket,
         BloodLocation = Jacket,
         Icon = ShirtCamoSand,
@@ -285,7 +285,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Combat Pattern Jacket (Rolled),
+        DisplayName = Desert Combat Jacket (Rolled),
         BodyLocation = Jacket,
         BloodLocation = Jacket,
         Icon = TShirtCamoSand,

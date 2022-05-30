@@ -821,7 +821,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName =  ERDL M1 Steel Helmet,
+        DisplayName =  Lowland ERDL M1 Steel Helmet,
         ClothingItem = Hat_M1HelmetERDL,
         BodyLocation = Hat,
         Icon = M1ERDLHelmet,
@@ -843,7 +843,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Strapless ERDL M1 Steel Helmet,
+        DisplayName = Strapless Lowland ERDL M1 Steel Helmet,
         ClothingItem = Hat_M1HelmetERDLStrapless,
         BodyLocation = Hat,
         Icon = M1HelmetERDLStrapless,
@@ -866,7 +866,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = ERDL M1 Steel Helmet w/ Goggles,
+        DisplayName = Lowland ERDL M1 Steel Helmet w/ Goggles,
         ClothingItem = Hat_M1HelmetERDLGoggles,
         BodyLocation = Hat,
         Icon = M1HelmetERDLGoggles,
@@ -888,7 +888,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Strapless ERDL M1 Steel Helmet w/ Goggles,
+        DisplayName = Strapless Lowland ERDL M1 Steel Helmet w/ Goggles,
         ClothingItem = Hat_M1HelmetERDLGogglesStrapless,
         BodyLocation = Hat,
         Icon = M1HelmetERDLGogglesStrapless,

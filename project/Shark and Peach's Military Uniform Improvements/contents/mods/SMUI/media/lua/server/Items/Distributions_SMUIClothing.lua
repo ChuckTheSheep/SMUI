@@ -1,5 +1,34 @@
 require 'Items/ProceduralDistributions'
 
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Jacket_ArmyCamoGreen");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Jacket_ArmyCamoGreen");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 1);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Jacket_ArmyCamoGreen");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Jacket_ArmyCamoDesert");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Jacket_ArmyCamoDesert");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 1);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Jacket_ArmyCamoDesert");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Trousers_ArmyCamoGreen");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Trousers_ArmyCamoDesert");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 1);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Trousers_ArmyCamoDesert");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Trousers_ArmyCamoDesert");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Trousers_ArmyCamoDesert");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 1);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Trousers_ArmyCamoDesert");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
+
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.MilitaryWebbing");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.MilitaryWebbing");

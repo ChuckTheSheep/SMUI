@@ -5,7 +5,6 @@ module Base
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Woodland PASGT Helmet,
 		ClothingItem = Hat_Army,
 		BodyLocation = Hat,
         Icon = MilitaryHelmet,
@@ -224,7 +223,6 @@ module Base
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Battle Pattern Jacket,
         BodyLocation = Jacket,
         Icon = ShirtCamoSand,
         ClothingItem = Jacket_ArmyCamoDesert,
@@ -285,7 +283,6 @@ module Base
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Woodland Pattern Pants,
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -306,7 +303,6 @@ module Base
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Combat Pattern Pants,
         BodyLocation = Pants,
         Icon = TrousersCamoSand,
         BloodLocation = Trousers,
@@ -328,7 +324,6 @@ module Base
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Urban Pattern Pants,
         BodyLocation = Pants,
         Icon = TrousersCamoGrey,
         BloodLocation = Trousers,

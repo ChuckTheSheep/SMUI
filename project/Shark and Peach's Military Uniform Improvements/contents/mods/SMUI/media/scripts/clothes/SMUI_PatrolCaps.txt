@@ -167,7 +167,6 @@ module SMUIClothing
         item Hat_PatrolCapRolledReversed
     {
         DisplayCategory = Clothing,
-
         Type = Clothing,
         DisplayName =  Rolled Woodland Patrol Cap (Reversed),
         ClothingItem = Hat_PatrolCapRolledReversed,
@@ -187,7 +186,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName =  ERDL Patrol Cap,
+        DisplayName =  Lowland ERDL Patrol Cap,
         ClothingItem = Hat_PatrolCapERDL,
         BodyLocation = Hat,
         Icon = PatrolCapERDL,
@@ -205,7 +204,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName =  ERDL Patrol Cap (Reversed),
+        DisplayName =  Lowland ERDL Patrol Cap (Reversed),
         ClothingItem = Hat_PatrolCapERDLReversed,
         BodyLocation = Hat,
         Icon = PatrolCapERDL,
@@ -223,7 +222,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName =  Rolled ERDL Patrol Cap,
+        DisplayName =  Rolled Lowland ERDL Patrol Cap,
         ClothingItem = Hat_PatrolCapERDLRolled,
         BodyLocation = Hat,
         Icon = PatrolCapERDL,
@@ -241,7 +240,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName =  Rolled ERDL Patrol Cap (Reversed),
+        DisplayName =  Rolled Lowland ERDL Patrol Cap (Reversed),
         ClothingItem = Hat_PatrolCapERDLRolledReversed,
         BodyLocation = Hat,
         Icon = PatrolCapERDL,

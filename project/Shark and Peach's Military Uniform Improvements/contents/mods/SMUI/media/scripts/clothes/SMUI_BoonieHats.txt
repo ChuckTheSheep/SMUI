@@ -113,7 +113,7 @@ module SMUIClothing
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = ERDL Pattern Boonie Hat,
+        DisplayName = Lowland ERDL Pattern Boonie Hat,
         ClothingItem = Hat_BoonieHatERDL,
         BodyLocation = Hat,
         Icon = BoonieHatERDL,
@@ -131,7 +131,7 @@ module SMUIClothing
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = ERDL Pattern Boonie Hat (Folded),
+        DisplayName = Lowland ERDL Pattern Boonie Hat (Folded),
         ClothingItem = Hat_BoonieHatERDLFolded,
         BodyLocation = Hat,
         Icon = BoonieHatERDL,
