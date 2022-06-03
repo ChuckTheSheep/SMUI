@@ -592,7 +592,7 @@ module SMUIClothing
         Type = Clothing,
         DisplayName = Novelty Gulf War T-Shirt,
 		BodyLocation = ShortSleeveShirt,
-        Icon = OG107Utility,
+        Icon = GulfWarNovelty,
 		BloodLocation = Shirt,
         RunSpeedModifier = 0.94,
         CombatSpeedModifier = 0.97,
