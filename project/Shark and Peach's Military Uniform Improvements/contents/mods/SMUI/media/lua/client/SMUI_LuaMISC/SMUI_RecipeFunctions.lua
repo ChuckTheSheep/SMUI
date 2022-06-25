@@ -24,7 +24,7 @@ function SMUI_Recipe.HARNESS(recipe, result, player)
 end
 
 function SMUI_Recipe.MOPPTOP(recipe, result, player)
-	player:getInventory():AddItems("SMUIClothing.Suit_NBCSuit", 1)
+	player:getInventory():AddItems("SMUIClothing.NBCSuit", 1)
 	player:getInventory():AddItems("SMUIClothing.Gloves_HazmatGloves", 1)
 end
 
