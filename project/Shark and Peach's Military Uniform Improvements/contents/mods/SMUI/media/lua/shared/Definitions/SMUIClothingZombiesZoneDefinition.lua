@@ -37,17 +37,17 @@ SMUIZombiesZoneDefinition.Army = {
 	},
 	SharkArmyCamoDesertMale = {
 		name="SharkArmyCamoDesertMale",
-		chance=5,
+		chance=1,
 		gender="male",
 	},
 	SharkArmyCamoDesertMaleDCU = {
 		name="SharkArmyCamoDesertMaleDCU",
-		chance=15,
+		chance=3,
 		gender="male",
 	},
 	SharkArmyCamoDesertFemale = {
 		name="SharkArmyCamoDesertFemale",
-		chance=15,
+		chance=1,
 		gender="male",
 	},	
 	ArmyCamoGreen = {
@@ -64,31 +64,31 @@ SMUIZombiesZoneDefinition.Army = {
 	},
 	SharkArmyCamoGreenNVGMale = {
 		name="SharkArmyCamoGreenNVGMale",
-		chance=5,
+		chance=1,
 	},
 	SharkArmyCamoGreenNVGFemale = {
 		name="SharkArmyCamoGreenNVGFemale",
-		chance=5,
+		chance=1,
 	},
 	SharkTankCrewman = {
 		name="SharkTankCrewman",
-		chance=15,
+		chance=5,
 	},
 	SharkMOPPSuitOD = {
 		name="SharkMOPPSuitOD",
-		chance=10,
+		chance=2,
 	},
 	SharkArmyCamoUrbanGearedMale = {
 		name="SharkArmyCamoUrbanGearedMale",
-		chance=5,
+		chance=1,
 	},
 	SharkArmyCamoUrbanMale = {
 		name="SharkArmyCamoUrbanMale",
-		chance=5,
+		chance=1,
 	},
 	SharkArmyCamoUrbanFemale = {
 		name="SharkArmyCamoUrbanFemale",
-		chance=5,
+		chance=1,
 	},
 	SharkMilitaryPolice = {
 		name="SharkArmyCamoUrbanFemale",
