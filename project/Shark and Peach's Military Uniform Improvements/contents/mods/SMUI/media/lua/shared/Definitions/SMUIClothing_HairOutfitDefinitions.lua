@@ -14,7 +14,7 @@ cat.haircut = "Short:34;Bald:33;CrewCut:33;";
 cat.beard = "None:100";
 table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
 
---Shark's Soldier Uniform Improvements Additions--
+--Shark's Military Uniform Improvements --
 
 local cat = {};
 cat.outfit = "SharkArmyCamoGreenMale";

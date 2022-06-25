@@ -5,7 +5,7 @@ require "Definitions/AttachedWeaponDefinitions"
 -- assault rifle on back
 AttachedWeaponDefinitions.assaultRifleM16OnBack = {
 	id = "assaultRifleM16OnBack",
-	chance = 15,
+	chance = 5,
 	outfit = {"SharkArmyCamoGreenMale", "SharkArmyCamoGreenFemale","SharkArmyCamoDesertFemale", "SharkArmyCamoDesertMale", "SharkArmyCamoUrbanMale",
 "SharkArmyCamoUrbanFemale", "SharkArmyCamoUrbanGearedMale", "SharkArmyCamoGreenMaleGasMask", "SharkArmyCamoGreenFemaleGasMask", "SharkMOPPSuitOD",	
 "SharkArmyInstructor","SharkArmyCavalry"},
@@ -20,7 +20,7 @@ AttachedWeaponDefinitions.assaultRifleM16OnBack = {
 
 AttachedWeaponDefinitions.handgunM9 = {
 	id = "handgunM9",
-	chance = 15,
+	chance = 5,
 	outfit = {"SharkArmyCamoGreenMale", "SharkArmyCamoGreenFemale","SharkArmyCamoDesertFemale", "SharkArmyCamoDesertMale", "SharkArmyCamoUrbanMale",
 "SharkArmyCamoUrbanFemale", "SharkArmyCamoUrbanGearedMale", "SharkArmyCamoGreenMaleGasMask", "SharkArmyCamoGreenFemaleGasMask", "SharkMOPPSuitOD",	
 "SharkArmyInstructor","SharkArmyCavalry"},
@@ -52,7 +52,7 @@ AttachedWeaponDefinitions.FragGrenade = {
 -- Define some custom weapons attached on some specific outfit, so for example police have way more chance to have guns in holster and not simply a spear in stomach or something
 
 AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoGreenMale = {
-	chance = 15;
+	chance = 5;
 	maxitem = 3;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
@@ -60,7 +60,7 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoGreenMale = {
 	},
 }
 AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoGreenFemale = {
-	chance = 15;
+	chance = 5;
 	maxitem = 3;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
@@ -68,7 +68,7 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoGreenFemale = 
 	},
 }
 AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoDesertFemale = {
-	chance = 15;
+	chance = 5;
 	maxitem = 3;	
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
@@ -76,7 +76,7 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoDesertFemale =
 	},
 }
 AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoDesertMale = {
-	chance = 15;
+	chance = 5;
 	maxitem = 3;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
@@ -84,21 +84,21 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoDesertMale = {
 	},
 } 
 AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoUrbanMale = {
-	chance = 15;
+	chance = 5;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
 		AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 }
 AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoUrbanFemale = {
-	chance = 15;
+	chance = 5;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
 		AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 }
 AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoUrbanGearedMale = {
-	chance = 15;
+	chance = 5;
 	maxitem = 3;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
@@ -106,14 +106,14 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoUrbanGearedMal
 	},
 }
 AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoGreenMaleGasMask = {
-	chance = 15;
+	chance = 5;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
 		AttachedWeaponDefinitions.assaultRifleM16OnBack,	
 	},
 }
 AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoGreenFemaleGasMask = {
-	chance = 15;
+	chance = 5;
 	maxitem = 2;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
@@ -122,14 +122,14 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCamoGreenFemaleGas
 }
 
 AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyInstructor = {
-	chance = 15;
+	chance = 5;
 	maxitem = 2;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
 	},
 }
 AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCavalry = {
-	chance = 15;
+	chance = 5;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
 		AttachedWeaponDefinitions.assaultRifleM16OnBack,	
@@ -137,7 +137,7 @@ AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkArmyCavalry = {
 }
 
 AttachedWeaponDefinitions.attachedWeaponCustomOutfit.SharkMOPPSuitOD = {
-	chance = 15;
+	chance = 5;
 	weapons = {
 		AttachedWeaponDefinitions.handgunM9,
 		AttachedWeaponDefinitions.assaultRifleM16OnBack,	
