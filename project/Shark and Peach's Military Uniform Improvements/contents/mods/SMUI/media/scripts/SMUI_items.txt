@@ -6,10 +6,10 @@ module SMUIClothing
 		DisplayCategory = Accessory,
 		Weight = 0.3,
 		Type = Normal,
-		WorldStaticModel = NVG_WorldItem,
-		DisplayName = Night Vision Goggles,
+		DisplayName = AN/PVS,
 		Tooltip = Tooltip_NightVisionGoggles,
 		Icon = NightVisionGoggles,
+		WorldStaticModel = NVG_WorldItem,
 	}
 
 		item NightVisionMount
@@ -17,10 +17,10 @@ module SMUIClothing
 		DisplayCategory = Accessory,
 		Weight = 0.1,
 		Type = Normal,
-		WorldStaticModel = NVGStrap_WorldItem,
 		DisplayName = Night Vision Mount,
 		Tooltip = Tooltip_NVGMount,
 		Icon = NVGMount,
+		WorldStaticModel = NVGStrap_WorldItem,
 	}
 
 		item MilitaryWebbingSuspenders
@@ -28,10 +28,10 @@ module SMUIClothing
 		DisplayCategory = Accessory,
 		Weight = 0.1,
 		Type = Normal,
-		WorldStaticModel = WebbingSuspenders_WorldItem,
 		DisplayName = Military Webbing Suspenders,
 		Tooltip = Tooltip_WebbingSuspenders,
 		Icon = WebbingHarness,
+		WorldStaticModel = WebbingSuspenders_WorldItem,
 	}
 
 		item M17Hood
@@ -39,10 +39,10 @@ module SMUIClothing
 		DisplayCategory = Accessory,
 		Weight = 0.1,
 		Type = Normal,
-		WorldStaticModel = M17Hood_WorldItem,
 		DisplayName = Doff Hood (M17),
 		Tooltip = Tooltip_DoffHoodM17,
 		Icon = DoffHoodM17,
+		WorldStaticModel = M17Hood_WorldItem,
 	}
 
 		item M40Hood
@@ -50,10 +50,10 @@ module SMUIClothing
 		DisplayCategory = Accessory,
 		Weight = 0.1,
 		Type = Normal,
-		WorldStaticModel = M40Hood_WorldItem,
 		DisplayName = Doff Hood (M40),
 		Tooltip = Tooltip_DoffHoodM40,
 		Icon = DoffHoodM40,
+		WorldStaticModel = M40Hood_WorldItem,
 	}
 
 		item MOPPPackageTop
@@ -61,10 +61,9 @@ module SMUIClothing
 		DisplayCategory = Accessory,
 		Weight = 0.5,
 		Type = Normal,
-		WorldStaticModel = MOPPPackageTop_WorldItem,
 		DisplayName = MOPP Top Package,
-		Tooltip = Tooltip_PackageTop,
 		Icon = MOPPPackage,
+		WorldStaticModel = MOPPPackageTop_WorldItem,
 	}
 
 		item MOPPPackageBottom
@@ -72,10 +71,9 @@ module SMUIClothing
 		DisplayCategory = Accessory,
 		Weight = 0.5,
 		Type = Normal,
-		WorldStaticModel = MOPPPackageBottom_WorldItem,
 		DisplayName = MOPP Bottom Package,
-		Tooltip = Tooltip_PackageBottom,
 		Icon = MOPPPackage,
+		WorldStaticModel = MOPPPackageBottom_WorldItem,
 	}
 
 		item MOPPPackageWrapper
@@ -83,8 +81,8 @@ module SMUIClothing
 		DisplayCategory = Accessory,
 		Weight = 0.1,
 		Type = Normal,
-		WorldStaticModel = MOPPPackageWrapper_WorldItem,
 		DisplayName = MOPP Package Wrapper,
 		Icon = MOPPPackage,
+		WorldStaticModel = MOPPPackageBottom_WorldItem,
 	}
 }
