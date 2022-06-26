@@ -6,7 +6,7 @@ module SMUIClothing
 		DisplayCategory = Accessory,
 		Weight = 0.3,
 		Type = Normal,
-		DisplayName = AN/PVS,
+		DisplayName = AN/PVS-7,
 		Tooltip = Tooltip_NightVisionGoggles,
 		Icon = NightVisionGoggles,
 		WorldStaticModel = NVG_WorldItem,
