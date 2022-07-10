@@ -10,7 +10,4 @@
 	<m_HatCategory>Group02</m_HatCategory>
 	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
 	<textureChoices>clothes/hat/Hat_M1HelmetHawaiian</textureChoices>
-	<textureChoices>clothes/hat/Hat_M1HelmetHawaiian2</textureChoices>
-	<textureChoices>clothes/hat/Hat_M1HelmetHawaiian3</textureChoices>
-	<textureChoices>clothes/hat/Hat_M1HelmetHawaiian4</textureChoices>
 </clothingItem>
