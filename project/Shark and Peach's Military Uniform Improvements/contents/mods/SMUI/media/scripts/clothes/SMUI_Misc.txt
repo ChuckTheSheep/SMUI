@@ -124,7 +124,7 @@ module SMUIClothing
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Dust Goggles,
+		DisplayName = SWDG Goggles,
 		ClothingItem = Glasses_MilitaryGoggles,
 		BodyLocation = Eyes,
         BloodLocation = Head,
