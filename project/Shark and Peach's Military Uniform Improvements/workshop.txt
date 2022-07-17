@@ -7,7 +7,7 @@ description= Consider supporting our modding efforts:
 description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
-description= [h1][b]Vanilla military gear has now been completely overwritten to support future updates[/b][/h1]
+description= [h1][b]SMUI has undergone its largest update to date, stay tuned for further follow-up updates./b][/h1]
 description=
 description= [h1][b]NEW: OG-106 Caps[/b][/h1]
 description= [h1][b]NEW: O6-107 Patrol Caps[/b][/h1]
