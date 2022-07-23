@@ -1057,6 +1057,11 @@
 	<guid>c520511a-dca8-4e8e-a24d-d5a41c1e05e1</guid>
 	</files>
 
+	<files>
+	<path>media/clothing/clothingItems/Bag_ALICEGear.xml</path>
+	<guid>15dac9c1-10b2-4fa2-a4c0-e5b567d2e4fc</guid>
+	</files>
+
 	<!-- Vanilla Clothing -->
 	
 	<files>

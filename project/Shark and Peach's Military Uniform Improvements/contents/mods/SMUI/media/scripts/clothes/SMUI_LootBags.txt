@@ -1,0 +1,28 @@
+module SMUIClothing
+{
+
+        item Bag_ALICEGear
+
+    {
+        DisplayCategory = Bag,
+        Type = Container,
+        DisplayName = Medium ALICE Pack,
+        ClothingItem = Bag_ALICEpack,
+        CanBeEquipped = Back,
+        WeightReduction	=	70,
+        Weight	=	2,
+        Capacity	=	25,
+        Icon	=	GreenALICEPack,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        BloodLocation = Bag,
+        RunSpeedModifier = 1,
+        CanHaveHoles = false,
+        AttachmentReplacement = Bag,
+        ReplaceInSecondHand = Bag_ALICEpack_LHand holdingbagleft,
+        ReplaceInPrimaryHand = Bag_ALICEpack_RHand holdingbagright,
+        WorldStaticModel = MediumALICEGreen_WorldItem,
+    }
+
+}
