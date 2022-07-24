@@ -1,0 +1,24 @@
+module SMUIClothing
+{
+
+        item SMUI_MaleHeadStubble
+
+    {
+        DisplayCategory = Bag,
+        Type = Clothing,
+        DisplayName = Male Head Stubble,
+        ClothingItem = MaleHeadStubble_SMUI,
+        CanBeEquipped = Back,
+        WeightReduction	=	70,
+        Weight	=	2,
+        Capacity	=	25,
+        Icon	=	GreenALICEPack,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        BloodLocation = Bag,
+        RunSpeedModifier = 1,
+        CanHaveHoles = false,
+    }
+
+}

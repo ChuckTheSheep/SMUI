@@ -1057,6 +1057,11 @@
 	<guid>c520511a-dca8-4e8e-a24d-d5a41c1e05e1</guid>
 	</files>
 
+	<files>
+	<path>media/clothing/clothingItems/MaleHeadStubble_SMUI.xml</path>
+	<guid>68c936f2-2a30-49be-bbf2-81e5389850c4</guid>
+	</files>
+
 	<!-- Vanilla Clothing -->
 	
 	<files>
