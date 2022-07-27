@@ -254,6 +254,78 @@ module SMUIClothing
         WorldStaticModel = PatrolCapERDL_WorldItem,
     }
 
+        item Hat_PatrolCapERDLBrown
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Highland ERDL Patrol Cap,
+        ClothingItem = Hat_PatrolCapERDLBrown,
+        BodyLocation = Hat,
+        Icon = PatrolCapERDL,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_PatrolCapERDLBrownReversed,
+        ClothingItemExtraOption = ReverseCap,
+        ClothingExtraSubmenu = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        WorldStaticModel = PatrolCapWoodland_WorldItem,
+    }
+
+        item Hat_PatrolCapERDLBrownReversed
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Highland ERDL Patrol Cap (Reversed),
+        ClothingItem = Hat_PatrolCapERDLBrownReversed,
+        BodyLocation = Hat,
+        Icon = PatrolCapERDL,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_PatrolCapERDLBrown,
+        ClothingItemExtraOption = ForwardCap,
+        ClothingExtraSubmenu = ReverseCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        WorldStaticModel = PatrolCapERDLBrown_WorldItem,
+    }
+
+        item Hat_PatrolCapERDLBrownRolled
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Rolled Highland ERDL Patrol Cap,
+        ClothingItem = Hat_PatrolCapERDLBrownRolled,
+        BodyLocation = Hat,
+        Icon = PatrolCapERDL,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_PatrolCapRolledERDLBrownReversed,
+        ClothingItemExtraOption = ReverseCap,
+        ClothingExtraSubmenu = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        WorldStaticModel = PatrolCapERDLBrown_WorldItem,
+    }
+
+        item Hat_PatrolCapRolledERDLBrownReversed
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Rolled Highland ERDL Patrol Cap (Reversed),
+        ClothingItem = Hat_PatrolCapERDLBrownRolledReversed,
+        BodyLocation = Hat,
+        Icon = PatrolCapERDL,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_PatrolCapERDLBrownRolled,
+        ClothingItemExtraOption = ForwardCap,
+        ClothingExtraSubmenu = ReverseCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        WorldStaticModel = PatrolCapERDLBrown_WorldItem,
+    }
+
         item Hat_PatrolCapDesert
     {
         DisplayCategory = Clothing,

@@ -549,6 +549,26 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapERDLBrown.xml</path>
+	<guid>0f6e1fb2-862e-468a-b8bf-8d0790cfe11c</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapERDLBrownReversed.xml</path>
+	<guid>d535858d-465f-4864-8cfb-f44b9ea55647</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapERDLBrownRolled.xml</path>
+	<guid>70244fc8-5777-4f76-a1b1-8d11dc8a24ab</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PatrolCapERDLBrownRolledReversed.xml</path>
+	<guid>45fb6b5e-0ffc-4110-9a13-e241fa4f2fb6</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_PatrolCapDesert.xml</path>
 	<guid>72e14fde-e6f5-4927-bf1e-58f8ec19f85f7</guid>
 	</files>
