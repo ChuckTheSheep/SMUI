@@ -103,6 +103,39 @@ recipe Unroll patrol cap
 
 recipe Roll patrol cap
   	{
+   	   Hat_PatrolCapERDLBrown,
+
+   	   Result:Hat_PatrolCapERDLBrownRolled,
+	   Time:60,
+  	}
+
+recipe Roll patrol cap
+  	{
+   	   Hat_PatrolCapERDLBrownReversed,
+
+   	   Result:Hat_PatrolCapERDLBrownRolled,
+	   Time:60,
+  	}
+
+recipe Unroll patrol cap
+  	{
+   	   Hat_PatrolCapERDLBrownRolled,
+
+   	   Result:Hat_PatrolCapERDLBrown,
+	   Time:60,
+  	}
+
+recipe Unroll patrol cap
+  	{
+   	   Hat_PatrolCapRolledERDLBrownReversed,
+
+   	   Result:Hat_PatrolCapERDLBrown,
+	   Time:60,
+  	}
+
+
+recipe Roll patrol cap
+  	{
    	   Hat_PatrolCapDesert,
 
    	   Result:Hat_PatrolCapDesertRolled,
