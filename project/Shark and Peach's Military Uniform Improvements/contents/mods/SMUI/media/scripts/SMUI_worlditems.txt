@@ -603,4 +603,11 @@ module Base
 		texture = WorldItems/WoodlandALICE,
 		scale = 0.5,
 	}
+
+		model LBV88_WorldItem
+	{
+		mesh = WorldItems/LBV88_WorldItem,
+		texture = WorldItems/LBV88,
+		scale = 0.5,
+	}
 }
