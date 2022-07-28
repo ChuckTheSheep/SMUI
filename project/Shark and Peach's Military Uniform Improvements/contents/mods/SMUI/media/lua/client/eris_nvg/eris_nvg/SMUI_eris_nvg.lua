@@ -9,6 +9,41 @@
 
 local versionNumber = 1.5;
 
+
+----eris_inventoryTooltip.doOverride = function()
+
+local callback_ISToolTipInv_render = ISToolTipInv.render;
+
+ISToolTipInv.render = function(self)
+	callback_ISToolTipInv_render(self);
+	if not ISContextMenu.instance or not ISContextMenu.instance.visibleCheck then
+		local itemObj = self.item;
+		if itemObj then
+			local drawItem = eris_inventoryTooltip.drawForItems[itemObj:getFullType()];
+			if drawItem then
+				local font = getCore():getOptionTooltipFont();
+				local drawFont = fontsLookup[font] or UIFont.Medium;
+				local toolwidth = self.tooltip:getWidth() + 11;
+				local lineHeight = getTextManager():getFontFromEnum(drawFont):getLineHeight();
+				local toolheight = self.tooltip:getHeight();
+				self:setX(self.tooltip:getX() - 11);
+				if self.x > 1 and self.y > 1 then
+					local yoff = toolheight + 2;
+					local value = itemObj:getModData()[drawItem.modData] or 0;
+					local percent = value / 1;
+					local fgBar = {r=1 - percent, g=percent, b=0, a=1};
+					local fgText = {r=1, g=1, b=0.8, a=1};
+					self:drawRect(0, toolheight, toolwidth, lineHeight + 8, self.backgroundColor.a, self.backgroundColor.r, self.backgroundColor.g, self.backgroundColor.b);
+					self:drawRectBorder(0, toolheight, toolwidth, lineHeight + 8, self.borderColor.a, self.borderColor.r, self.borderColor.g, self.borderColor.b);
+					drawDetailsTooltip(self, drawItem.label, percent / 1.0, 5, yoff, toolwidth - 10, fgText, fgBar, drawFont);
+					yoff = yoff + 12;
+				end;
+			end;
+		end;
+	end;
+end;
+
+end
 ----------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------versionCheck
 
