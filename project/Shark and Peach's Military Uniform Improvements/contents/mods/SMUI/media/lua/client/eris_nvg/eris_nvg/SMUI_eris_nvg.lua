@@ -1,3 +1,5 @@
+require "TimedActions/ISUnequipAction"
+
 ----------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------
 -- eris_nvg - night vision goggles
@@ -42,6 +44,12 @@ end
 ----------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------
 
+local appliedTypes = {
+	["SMUIClothing.Hat_MilitaryHelmetNVGDOWN"] = true,
+	["SMUIClothing.Hat_MilitaryHelmetDesertNVGDOWN"] = true,
+	["SMUIClothing.Hat_MilitaryHelmetDesertCombatNVGDOWN"] = true,
+};
+
 eris_nvg.doMenu = function(_plID, _context, _items)
 	local isWearing;
 	local itemObj, itemID;
@@ -49,7 +57,7 @@ eris_nvg.doMenu = function(_plID, _context, _items)
 	for i, items in ipairs(_items) do
 		if not instanceof(items, "InventoryItem") then itemObj = items.items[1]; else itemObj = items; end;
 		if itemObj then
-			if eris_nvg.isInPlayerInventory(nil, plObj, itemObj) and itemObj:getFullType() == "SMUIClothing.Hat_MilitaryHelmetNVGDOWN" or eris_nvg.isInPlayerInventory(nil, plObj, itemObj) and itemObj:getFullType() == "SMUIClothing.Hat_MilitaryHelmetDesertNVGDOWN" or eris_nvg.isInPlayerInventory(nil, plObj, itemObj) and itemObj:getFullType() == "SMUIClothing.Hat_MilitaryHelmetDesertCombatNVGDOWN" then
+			if eris_nvg.isInPlayerInventory(nil, plObj, itemObj) and appliedTypes[itemObj:getFullType()] then
 				itemID = eris_nvg.getItemID(itemObj);
 				if not eris_nvg.batteryManagers[itemID] then eris_nvg.initialiseNVG(itemID, plObj, itemObj); end;
 				isWearing = eris_nvg.isWearing(nil, plObj, itemObj);
@@ -125,6 +133,22 @@ eris_nvg.onDeactivate = function(_, _plObj, _itemObj, _manager)
 	Events.OnPreUIDraw.Remove(eris_nvg.doBrightnessOverlay);
 end
 
+local ISUnequipAction_perform = ISUnequipAction.perform
+function ISUnequipAction:perform()
+	--self.item:
+	if self.item and appliedTypes[self.item:getFullType()] and eris_nvg.isActive(nil, self.character) then
+		eris_nvg.onDeactivate(nil, self.character)
+	end
+	ISUnequipAction_perform(self)
+end
+
+local ISClothingExtraAction_perform = ISClothingExtraAction.perform
+function ISClothingExtraAction:perform()
+	ISClothingExtraAction_perform(self)
+	if self.item and appliedTypes[self.item:getFullType()] and eris_nvg.isActive(nil, self.character) then
+		eris_nvg.onDeactivate(nil, self.character)
+	end
+end
 
 ----------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------
