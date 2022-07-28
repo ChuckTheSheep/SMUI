@@ -9,8 +9,8 @@
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
-		<m_items> <!-- Military Helmet-->
-			<itemGUID>dde2a198-d11d-4a19-9826-a58a8f92627e</itemGUID>
+		<m_items> <!-- Woodland PASGT Helmet -->
+			<itemGUID>e3b68146-8b14-4c4c-a59e-d0fb94901858</itemGUID>
 		</m_items>
 		<m_items> <!-- GI Glasses-->
 		<probability>0.2</probability>
@@ -941,6 +941,94 @@
 			<probability>0.3</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
+	</m_MaleOutfits>
+
+		<m_MaleOutfits>
+		<m_Name>SharkArmyRanger</m_Name>
+		<m_Guid>613295c7-7743-4b51-82be-56393848491b</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_items> <!-- Military Tactical Helmet -->
+			<itemGUID>0f8e3cda-6558-4c51-9e43-c4a92882764e</itemGUID>
+		</m_items>
+		<m_items> <!-- Boogie Goggles -->
+		<probability>0.7</probability>
+			<itemGUID>e8441963-a45b-4454-81d3-8fd69c0ec453</itemGUID>
+		</m_items>
+		<m_items> <!-- GI Socks -->
+			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
+		</m_items>	
+		<m_items> <!-- Army Boots -->
+			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
+		</m_items>
+		<m_items> <!-- Army T-Shirt -->
+			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Ranger Body Armor -->
+			<itemGUID>5015651a-e3b2-4ef6-b41a-bf2aca34063b</itemGUID>
+		</m_items>
+		<m_items> <!-- LBV-88 Webbing-->
+			<itemGUID>1d9a3259-050c-4393-aad7-af424f76858b</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Camo Pants (Tucked) -->
+			<itemGUID>eb8d1f35-8d0b-4c9c-a308-aba2aa085r34</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Camo Jacket -->
+			<itemGUID>b0d642f6-eb11-456c-aeb0-1b190b29a364</itemGUID>			
+		</m_items>
+			<m_items> <!-- Dog-Tags -->
+			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
+		</m_items>
+		<m_items> <!-- Military Watch (Right) -->
+			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
+		</m_items>
+		<m_items> <!-- Flight Gloves -->
+			<itemGUID>376cd290-8fdb-4b2a-ab52-7a85b2412bd7</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+
+		<m_MaleOutfits>
+		<m_Name>SharkSpecialForces</m_Name>
+		<m_Guid>aeabd0c5-5bbc-4165-a5d7-5cbdef0e3b4e</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_items> <!-- Military Tactical Helmet -->
+			<itemGUID>0f8e3cda-6558-4c51-9e43-c4a92882764e</itemGUID>
+		</m_items>
+		<m_items> <!-- Boogie Goggles -->
+		<probability>0.7</probability>
+			<itemGUID>e8441963-a45b-4454-81d3-8fd69c0ec453</itemGUID>
+		</m_items>
+		<m_items> <!-- GI Socks -->
+			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
+		</m_items>	
+		<m_items> <!-- Army Boots -->
+			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
+		</m_items>
+		<m_items> <!-- Army T-Shirt -->
+			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
+		</m_items>
+		<m_items> <!-- Military Tactical Vest -->
+			<itemGUID>ea2e6901-f5e7-4021-87b4-c2c49f024b98</itemGUID>
+		</m_items>
+		<m_items> <!-- LBV-88 Webbing-->
+			<itemGUID>1d9a3259-050c-4393-aad7-af424f76858b</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Camo Pants (Tucked) -->
+			<itemGUID>eb8d1f35-8d0b-4c9c-a308-aba2aa085r34</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Camo Jacket -->
+			<itemGUID>b0d642f6-eb11-456c-aeb0-1b190b29a364</itemGUID>			
+		</m_items>
+			<m_items> <!-- Dog-Tags -->
+			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
+		</m_items>
+		<m_items> <!-- Military Watch (Right) -->
+			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
+		</m_items>
+		<m_items> <!-- Flight Gloves -->
+			<itemGUID>376cd290-8fdb-4b2a-ab52-7a85b2412bd7</itemGUID>
+		</m_items>
 	</m_MaleOutfits>
 
 	<m_MaleOutfits>
