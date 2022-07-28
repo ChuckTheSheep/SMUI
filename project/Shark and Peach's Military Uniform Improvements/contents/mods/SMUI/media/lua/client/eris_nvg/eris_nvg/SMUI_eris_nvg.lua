@@ -44,20 +44,32 @@ end
 ----------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------
 
-local appliedTypes = {
-	["SMUIClothing.Hat_MilitaryHelmetNVGDOWN"] = true,
-	["SMUIClothing.Hat_MilitaryHelmetDesertNVGDOWN"] = true,
-	["SMUIClothing.Hat_MilitaryHelmetDesertCombatNVGDOWN"] = true,
-};
+---Chuckleberry Finn
+local appliedNVGTypes = {}
+local function getNVGTypes()
+	local SM = getScriptManager()
+	local allItems = SM:getAllItems()
+
+	for i=0, allItems:size()-1 do
+		---@type Item
+		local itemScript = allItems:get(i)
+		if itemScript and itemScript:getTags() and itemScript:getTags():contains("erisNVG") then
+			appliedNVGTypes[itemScript:getFullName()] = true
+		end
+	end
+end
+getNVGTypes()
 
 eris_nvg.doMenu = function(_plID, _context, _items)
 	local isWearing;
-	local itemObj, itemID;
+	---@type InventoryItem
+	local itemObj
+	local itemID
 	local plObj = getPlayer(_plID);
 	for i, items in ipairs(_items) do
 		if not instanceof(items, "InventoryItem") then itemObj = items.items[1]; else itemObj = items; end;
 		if itemObj then
-			if eris_nvg.isInPlayerInventory(nil, plObj, itemObj) and appliedTypes[itemObj:getFullType()] then
+			if eris_nvg.isInPlayerInventory(nil, plObj, itemObj) and appliedNVGTypes[itemObj:getFullType()] then
 				itemID = eris_nvg.getItemID(itemObj);
 				if not eris_nvg.batteryManagers[itemID] then eris_nvg.initialiseNVG(itemID, plObj, itemObj); end;
 				isWearing = eris_nvg.isWearing(nil, plObj, itemObj);
@@ -136,7 +148,7 @@ end
 local ISUnequipAction_perform = ISUnequipAction.perform
 function ISUnequipAction:perform()
 	--self.item:
-	if self.item and appliedTypes[self.item:getFullType()] and eris_nvg.isActive(nil, self.character) then
+	if self.item and appliedNVGTypes[self.item:getFullType()] and eris_nvg.isActive(nil, self.character) then
 		eris_nvg.onDeactivate(nil, self.character)
 	end
 	ISUnequipAction_perform(self)
@@ -145,7 +157,7 @@ end
 local ISClothingExtraAction_perform = ISClothingExtraAction.perform
 function ISClothingExtraAction:perform()
 	ISClothingExtraAction_perform(self)
-	if self.item and appliedTypes[self.item:getFullType()] and eris_nvg.isActive(nil, self.character) then
+	if self.item and appliedNVGTypes[self.item:getFullType()] and eris_nvg.isActive(nil, self.character) then
 		eris_nvg.onDeactivate(nil, self.character)
 	end
 end
@@ -184,8 +196,7 @@ end
 	-- eris_nvg.initInvInfo();
 eris_nvg.initInvInfo = function()
 	local nvBar;
-	local forItems = {"SMUIClothing.Hat_MilitaryHelmetNVGDOWN", "SMUIClothing.Hat_MilitaryHelmetDesertNVGDOWN", "SMUIClothing.Hat_MilitaryHelmetDesertCombatNVGDOWN"};
-	for i, item in ipairs(forItems) do
+	for i, item in ipairs(appliedNVGTypes) do
 		nvBar = {
 			id = item,
 			label = getTextOrNull("IGUI_invpanel_Remaining") or "Remaining: ",
@@ -204,12 +215,11 @@ eris_nvg.init = function()
 	eris_nvg.updateScreenBounds();
 	Events.OnClothingUpdated.Add(eris_nvg.doCheck);
 	Events.OnFillInventoryObjectContextMenu.Add(eris_nvg.doMenu);
-	eris_inventoryBar.registerItem("SMUIClothing.Hat_MilitaryHelmetNVGDOWN", "uiBattery_batteryLevel", getTextOrNull("IGUI_invpanel_Remaining") or "Remaining: ");
-	eris_inventoryBar.registerItem("SMUIClothing.Hat_MilitaryHelmetDesertNVGDOWN", "uiBattery_batteryLevel", getTextOrNull("IGUI_invpanel_Remaining") or "Remaining: ");
-	eris_inventoryBar.registerItem("SMUIClothing.Hat_MilitaryHelmetDesertCombatNVGDOWN", "uiBattery_batteryLevel", getTextOrNull("IGUI_invpanel_Remaining") or "Remaining: ");
-	eris_inventoryTooltip.registerItem("SMUIClothing.Hat_MilitaryHelmetNVGDOWN", "uiBattery_batteryLevel", getTextOrNull("IGUI_invpanel_Remaining") or "Remaining: ");
-	eris_inventoryTooltip.registerItem("SMUIClothing.Hat_MilitaryHelmetDesertNVGDOWN", "uiBattery_batteryLevel", getTextOrNull("IGUI_invpanel_Remaining") or "Remaining: ");
-	eris_inventoryTooltip.registerItem("SMUIClothing.Hat_MilitaryHelmetDesertCombatNVGDOWN", "uiBattery_batteryLevel", getTextOrNull("IGUI_invpanel_Remaining") or "Remaining: ");
+
+	for type,_ in pairs(appliedNVGTypes) do
+		eris_inventoryBar.registerItem(type, "uiBattery_batteryLevel", getTextOrNull("IGUI_invpanel_Remaining") or "Remaining: ");
+		eris_inventoryTooltip.registerItem(type, "uiBattery_batteryLevel", getTextOrNull("IGUI_invpanel_Remaining") or "Remaining: ");
+	end
 
 	eris_nvg.initInvInfo();
 end

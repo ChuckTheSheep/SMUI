@@ -46,6 +46,7 @@ module SMUIClothing
 		ChanceToFall = 0,
         Weight = 1.7,
 		WorldStaticModel = MilitaryHelmetNVGUP_WorldItem,
+		Tags = erisNVG,
     }
 	
 		item Hat_MilitaryHelmetDesertNVGUP
@@ -93,6 +94,7 @@ module SMUIClothing
 		ChanceToFall = 0,
         Weight = 1.7,
 		WorldStaticModel = MilitaryHelmetDesertNVGUP_WorldItem,
+		Tags = erisNVG,
     }
 
 		item Hat_MilitaryHelmetDesertCombatNVGUP
@@ -140,5 +142,6 @@ module SMUIClothing
 		ChanceToFall = 0,
         Weight = 1.7,
 		WorldStaticModel = MilitaryHelmetDesertNVGUP_WorldItem,
+		Tags = erisNVG,
     }
 }
