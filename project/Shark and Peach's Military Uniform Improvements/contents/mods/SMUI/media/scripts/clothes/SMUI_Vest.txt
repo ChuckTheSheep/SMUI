@@ -59,7 +59,7 @@ module SMUIClothing
 	{
 		DisplayCategory = Clothing,
 		Type = Clothing,
-		DisplayName = Military Tactical Vest,
+		DisplayName = T.G. Faust Vest,
 		ClothingItem = Vest_MilitaryTacticalVest,
 		BodyLocation = TorsoExtra,
 		BloodLocation = ShirtNoSleeves,
