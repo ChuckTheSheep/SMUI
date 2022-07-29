@@ -2,3 +2,4 @@ name=Shark (and Peach's) Military Uniform Improvements
 poster=poster.png
 id=SMUI
 description= Complete military overhaul for Project Zomboid.
+require=NightVisionChucked
